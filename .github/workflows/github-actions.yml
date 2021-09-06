@@ -17,4 +17,4 @@ jobs:
           git config --global user.email github-actions@github.com
           git add data/data.json
           git commit -m "update data.json"
-          git push origin master
+          git push origin main
