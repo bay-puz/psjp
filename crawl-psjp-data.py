@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- #
 import argparse
 import json
 import re
@@ -114,7 +114,7 @@ def problem_dict(problem_soup):
 
     if puzzle_name is None or author_name is None or date_str is None:
         print("warning: id={}, puzzle_name={}, author_name={}, created_at={}"\
-            .format(problem_id, puzzle_name, author_namem, date_str), file=stderr)
+            .format(problem_id, puzzle_name, author_name, date_str), file=stderr)
 
     data = {
             "id": problem_id, \
@@ -140,7 +140,7 @@ def loop():
 
         for p in problem_list:
             data = problem_dict(p)
-            print(json.dumps(data))
+            print(json.dumps(data, ensure_ascii=False))
 
             if data['id'] == OLDEST_PROBLEM_ID:
                 return True
