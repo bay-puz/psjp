@@ -10,8 +10,12 @@ jobs:
       - run: git checkout HEAD^
       - run: pip install beautifulsoup4
       - run: sudo apt-get install -y jq
-      - run: python crawl-psjp-data.py | jq -s . > data.json
-      - uses: actions/upload-artifact@v2
-        with:
-          name: psjp-data
-          path: data/data.json
+      - run: python crawl-psjp-data.py | jq -s . > data/data.json
+      - name: git
+        run: |
+          git status
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add data/data.json
+          git commit -m "update data.json"
+          git log
