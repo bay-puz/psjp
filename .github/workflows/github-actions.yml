@@ -9,7 +9,7 @@ jobs:
           fetch-depth: 2
       - run: git checkout HEAD^
       - run: pip install beautifulsoup4
-      - run: apt-get install jq
+      - run: sudo apt-get install -y jq
       - run: python crawl-psjp-data.py | jq -s . > data.json
       - uses: actions/upload-artifact@v2
         with:
