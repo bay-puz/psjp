@@ -1,22 +1,20 @@
 name: Crawl PSJP everyday
-on: push
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 2
-      - run: git checkout HEAD^
-      - run: pip install beautifulsoup4
-      - run: sudo apt-get install -y jq
+      - name: install package
+        run: |
+          pip install beautifulsoup4
+          sudo apt-get install -y jq
       - name: crawl-psjp-data
         run: python crawl-psjp-data.py | jq -s . > data/data.json
-      - name: git
+      - name: git push
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
           git add data/data.json
           git commit -m "update data.json"
-          git push
-          git log
+          git push origin master
