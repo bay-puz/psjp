@@ -1,0 +1,11 @@
+name: Crawl PSJP everyday
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: python ./crawl-psjp-data.py | jq -s . > data.json
+      - uses: actions/upload-artifact@v2
+        with:
+          name: psjp-data
+          path: data/data.json

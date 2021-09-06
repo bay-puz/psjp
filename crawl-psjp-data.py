@@ -11,7 +11,7 @@ from time import sleep
 PSJP_URL = 'https://puzsq.jp/main/index.php'
 OLDEST_PROBLEM_ID = 2
 MIN_PAGE_ID = 1
-MAX_PAGE_ID = 10000
+MAX_PAGE_ID = 1
 
 
 def get_psjp(page_id: int = 0):
