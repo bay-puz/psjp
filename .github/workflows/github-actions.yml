@@ -10,7 +10,7 @@ jobs:
       - run: git checkout HEAD^
       - run: pip install beautifulsoup4
       - run: sudo apt-get install -y jq
-      -name: crawl-psjp-data
+      - name: crawl-psjp-data
         run: python crawl-psjp-data.py | jq -s . > data/data.json
       - name: git
         run: |
