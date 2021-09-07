@@ -1,5 +1,9 @@
-name: Crawl PSJP everyday
-on: workflow_dispatch
+name: Crawl PSJP
+on:
+  workflow_dispatch:
+  schedule:
+    # 毎週水曜の朝５時
+    - cron: '0 20 * * TUE'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,12 +13,14 @@ jobs:
         run: |
           pip install beautifulsoup4
           sudo apt-get install -y jq
+      - name: record update time
+        run: TZ="JST-9" date +"%Y年%-m月%-d日%-H時" > data/update.txt
       - name: crawl-psjp-data
         run: python crawl-psjp-data.py | jq -s "unique_by(.id)" > data/data.json
       - name: git push
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
-          git add data/data.json
-          git commit -m "update data.json"
+          git add .
+          git commit -m "update psjp data"
           git push origin main
