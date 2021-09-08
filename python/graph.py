@@ -19,8 +19,8 @@ def load(file: str):
 
 
 def main():
-    data_author = load("../data/authors.json")
-    data_puzzle = load("../data/puzzles.json")
+    data_author = load("data/authors.json")
+    data_puzzle = load("data/puzzles.json")
 
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
     fig = pyplot.figure()
@@ -33,12 +33,12 @@ def main():
     x, y = problem_liked_by(data_author)
     pyplot.title("作者別問題数/いいね数")
     pyplot.scatter(x, y, s=5, c='g')
-    fig.savefig("../graph/problem-liked_by_author.png")
+    fig.savefig("graph/problem-liked_by_author.png")
 
     x, y = problem_liked_by(data_puzzle)
     pyplot.title("パズル別問題数/いいね数")
     pyplot.scatter(x, y, s=5, c='g')
-    fig.savefig("../graph/problem-liked_by_puzzle.png")
+    fig.savefig("graph/problem-liked_by_puzzle.png")
 
     return
 
