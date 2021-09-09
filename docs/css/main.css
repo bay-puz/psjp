@@ -1,0 +1,29 @@
+header {
+    background-color: aquamarine;
+    padding: 0.2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 00.2em;
+    text-align: right;
+}
+
+.contents {
+    text-align: center;
+    padding: 1em;
+}
+
+button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: unset;
+    background-color: lightskyblue;
+    border-radius: 0.5em;
+    padding: 0.4em;
+    color: black;
+    text-decoration-line: unset;
+}
