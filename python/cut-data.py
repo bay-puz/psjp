@@ -40,8 +40,8 @@ def write(data: dict, file: str):
 def main():
     parser = argparse.ArgumentParser(description='PSJPの問題毎のデータを作者毎・パズル毎に変換する')
     parser.add_argument("--input", type=str, default="data/data.json", help="問題別データの書かれたファイル")
-    parser.add_argument("--authors", type=str, default="data/authors.json", help="作者別データの出力先")
-    parser.add_argument("--puzzles", type=str, default="data/puzzles.json", help="パズル別データの出力先")
+    parser.add_argument("--author", type=str, default="data/author.json", help="作者別データの出力先")
+    parser.add_argument("--puzzle", type=str, default="data/puzzle.json", help="パズル別データの出力先")
     args = parser.parse_args()
 
     data = load(args.input)

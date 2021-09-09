@@ -1,36 +1,25 @@
-document.getElementById("goPuzzle").addEventListener("click", goPuzzlePage);
-document.getElementById("goAuthor").addEventListener("click", goAuthorPage);
-document.getElementById("goRanking").addEventListener("click", goRankingPage);
-document.getElementById("goGraph").addEventListener("click", goGraphPage);
+document.getElementById("goPuzzle").addEventListener("click", function(){goPage("puzzle");});
+document.getElementById("goAuthor").addEventListener("click", function(){goPage("author");});
+document.getElementById("goRanking").addEventListener("click", goRanking);
+document.getElementById("goGraph").addEventListener("click", goGraph);
 
-function goPuzzlePage() {
-    const puzzleName = document.getElementById("inputPuzzleName").innerText;
-    const puzzleId = getPuzzleId(puzzleName);
-    var url = new URL("puzzle.html", location.href);
-    url.search = "?puzzle=" + puzzleId;
+function goPage(type) {
+    const elementId = type === "author" ? "inputAuthorName": "inputPuzzleName";
+    const name = document.getElementById(elementId).value;
+    const queryId = getId(name, type);
+    var url = new URL("statics.html", location.href);
+    url.search = "?" + type + "=" + queryId;
     location.href = url;
 };
 
-function getPuzzleId(name) {
-    return 1
+function getId(name, type) {
+    return name
 };
 
-function goAuthorPage() {
-    const authorName = document.getElementById("inputAuthorName").innerText;
-    const authorId = getAuthorId(authorName);
-    var url = new URL("author.html", location.href);
-    url.search = "?author=" + authorId;
-    location.href = url;
-};
-
-function getAuthorId(name) {
-    return 1
-};
-
-function goRankingPage() {
+function goRanking() {
     location.href = "./ranking.html";
 };
 
-function goGraphPage() {
+function goGraph() {
     location.href = "./graph.html";
 };
