@@ -27,3 +27,7 @@ button {
     color: black;
     text-decoration-line: unset;
 }
+
+table {
+    margin: auto;
+}

@@ -3,17 +3,13 @@ document.getElementById("goAuthor").addEventListener("click", function(){goPage(
 document.getElementById("goRanking").addEventListener("click", goRanking);
 document.getElementById("goGraph").addEventListener("click", goGraph);
 
-function goPage(type) {
+async function goPage(type) {
     const elementId = type === "author" ? "inputAuthorName": "inputPuzzleName";
     const name = document.getElementById(elementId).value;
-    const queryId = getId(name, type);
+    const queryId = await getId(name, type);
     var url = new URL("docs/statics.html", location.href);
     url.search = "?" + type + "=" + queryId;
     location.href = url;
-};
-
-function getId(name, type) {
-    return name
 };
 
 function goRanking() {
