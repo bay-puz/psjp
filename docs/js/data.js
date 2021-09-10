@@ -19,5 +19,8 @@ async function getData(id, type) {
 
 async function getId(name, type) {
     var data = await loadData(type)
-    return data[name].id
+    if ( name in data ) {
+        return data[name].id
+    }
+    return null
 }

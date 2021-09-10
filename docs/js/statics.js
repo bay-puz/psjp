@@ -9,7 +9,14 @@ async function setPage() {
             anotherType = type
         }
     }
+    if (! queryType || ! anotherType ) {
+        location.href = "../"
+    }
     const data = await getData(queryId, queryType)
+    if (! data) {
+        location.href = "../"
+    }
+
     data["count"] = data[anotherType].length
     data["display"] = displayName[anotherType]
     for (const key of ["name", "problem", "liked", "count", "display"]) {
