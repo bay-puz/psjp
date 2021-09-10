@@ -7,21 +7,37 @@ def cut_data(data: list):
     author_dict = {}
     puzzle_dict = {}
     for d in data:
-        if d["author_name"] not in author_dict:
-            author = {"id": d["author_id"], "liked": 0, "problem": 0, "puzzle": []}
-            author_dict[d["author_name"]] = author
-        author_dict[d["author_name"]]["liked"] += d["liked"]
-        author_dict[d["author_name"]]["problem"] += 1
-        if d["puzzle_name"] not in author_dict[d["author_name"]]["puzzle"]:
-            author_dict[d["author_name"]]["puzzle"].append(d["puzzle_name"])
+        author_name = d["author_name"]
+        puzzle_name = d["puzzle_name"]
 
-        if d["puzzle_name"] not in puzzle_dict:
-            puzzle = {"id": d["puzzle_id"], "liked": 0, "problem": 0, "author": []}
-            puzzle_dict[d["puzzle_name"]] = puzzle
-        puzzle_dict[d["puzzle_name"]]["liked"] += d["liked"]
-        puzzle_dict[d["puzzle_name"]]["problem"] += 1
-        if d["author_name"] not in puzzle_dict[d["puzzle_name"]]["author"]:
-            puzzle_dict[d["puzzle_name"]]["author"].append(d["author_name"])
+        if author_name not in author_dict:
+            author = {"name": author_name, "id": d["author_id"], "liked": 0, "problem": 0, "puzzle": {}}
+            author_dict[author_name] = author
+        author_dict[author_name]["liked"] += d["liked"]
+        author_dict[author_name]["problem"] += 1
+
+        if puzzle_name not in author_dict[author_name]["puzzle"]:
+            puzzle = {"name": puzzle_name, "liked": 0, "problem": 0}
+            author_dict[author_name]["puzzle"][puzzle_name] = puzzle
+        author_dict[author_name]["puzzle"][puzzle_name]["liked"] += d["liked"]
+        author_dict[author_name]["puzzle"][puzzle_name]["problem"] += 1
+
+        if puzzle_name not in puzzle_dict:
+            puzzle = {"name": puzzle_name, "id": d["puzzle_id"], "liked": 0, "problem": 0, "author": {}}
+            puzzle_dict[puzzle_name] = puzzle
+        puzzle_dict[puzzle_name]["liked"] += d["liked"]
+        puzzle_dict[puzzle_name]["problem"] += 1
+
+        if author_name not in puzzle_dict[puzzle_name]["author"]:
+            author = {"name": author_name, "liked": 0, "problem": 0}
+            puzzle_dict[puzzle_name]["author"][author_name] = author
+        puzzle_dict[puzzle_name]["author"][author_name]["liked"] += d["liked"]
+        puzzle_dict[puzzle_name]["author"][author_name]["problem"] += 1
+
+    for key in author_dict.keys():
+        author_dict[key]["count"] = len(author_dict[key]["puzzle"])
+    for key in puzzle_dict.keys():
+        puzzle_dict[key]["count"] = len(puzzle_dict[key]["author"])
 
     return author_dict, puzzle_dict
 
@@ -40,15 +56,15 @@ def write(data: dict, file: str):
 def main():
     parser = argparse.ArgumentParser(description='PSJPの問題毎のデータを作者毎・パズル毎に変換する')
     parser.add_argument("--input", type=str, default="data/data.json", help="問題別データの書かれたファイル")
-    parser.add_argument("--authors", type=str, default="data/authors.json", help="作者別データの出力先")
-    parser.add_argument("--puzzles", type=str, default="data/puzzles.json", help="パズル別データの出力先")
+    parser.add_argument("--author", type=str, default="data/author.json", help="作者別データの出力先")
+    parser.add_argument("--puzzle", type=str, default="data/puzzle.json", help="パズル別データの出力先")
     args = parser.parse_args()
 
     data = load(args.input)
     authors, puzzles = cut_data(data)
 
-    write(authors, args.authors)
-    write(puzzles, args.puzzles)
+    write(authors, args.author)
+    write(puzzles, args.puzzle)
 
     return
 
