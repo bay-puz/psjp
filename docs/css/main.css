@@ -13,6 +13,7 @@ footer {
 
 .contents {
     text-align: center;
+    line-height: 1.5em;
     padding: 1em;
 }
 
@@ -30,4 +31,16 @@ button {
 
 table {
     margin: auto;
+}
+
+thead {
+    font-weight: bold;
+}
+
+th {
+    font-weight: unset;
+    text-align: left;
+}
+td {
+    text-align: center;
 }

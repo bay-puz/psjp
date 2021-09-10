@@ -9,9 +9,7 @@ async function getData(id, type) {
     var data = await loadData(type)
     for (const key in data) {
         if (data[key].id === id) {
-            var ret = data[key];
-            ret.name = key
-            return ret
+            return data[key];
         }
     }
     return null

@@ -1,3 +1,6 @@
+const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数"}
+const displayCountStr = {"puzzle": "投稿したパズルの種類", "author": "投稿した作者の人数"}
+
 async function setPage() {
     var urlParams = new URLSearchParams(location.search)
     var queryId = null; var queryType = null; anotherType = null;
@@ -17,16 +20,22 @@ async function setPage() {
         location.href = "../"
     }
 
-    data["count"] = data[anotherType].length
-    data["display"] = displayName[anotherType]
-    for (const key of ["name", "problem", "liked", "count", "display"]) {
+    setInfo("display", displayStr[anotherType])
+    setInfo("displayCount", displayCountStr[anotherType])
+    for (const key of ["name", "problem", "liked", "count"]) {
         setInfo(key, data[key])
     }
-    makeTable(data[anotherType])
+    var anotherTypeList = Object.values(data[anotherType]);
+    anotherTypeList.sort((a,b) => {
+        if (a["problem"] === b["problem"]) {
+            return (b["liked"] - a["liked"]);
+        }
+        return (b["problem"] - a["problem"]);
+    })
+    makeTable(anotherTypeList, anotherType)
 }
 setPage();
 
-const displayName = {"puzzle": "パズル", "author": "作者"}
 
 function setInfo(key, value) {
     var elements = document.getElementsByClassName(key)
@@ -35,11 +44,36 @@ function setInfo(key, value) {
     }
 }
 
-function makeTable(list) {
+function makeTable(dict, type) {
     var tableElement = document.createElement("table")
-    for (const contents of list) {
-        var rowElement = tableElement.insertRow(-1);
-        rowElement.innerText = contents
+
+    var headerElement = document.createElement("thead")
+    var trElement = document.createElement("tr")
+    var thElement = document.createElement("th")
+    thElement.innerText = displayStr[type]
+    trElement.appendChild(thElement)
+    for (const key of ["problem", "liked"]) {
+        var cellElement = document.createElement("td")
+        cellElement.innerText = displayStr[key]
+        trElement.appendChild(cellElement)
     }
+    headerElement.append(trElement)
+    tableElement.append(headerElement)
+
+    var bodyElement = document.createElement("tbody")
+    for (const data in dict) {
+        var rowElement = document.createElement("tr")
+        var thElement = document.createElement("th")
+        thElement.innerText = dict[data]["name"]
+        rowElement.appendChild(thElement)
+
+        for (const key of ["problem", "liked"]) {
+            var tdElement = document.createElement("td")
+            tdElement.innerText = dict[data][key]
+            rowElement.appendChild(tdElement)
+        }
+        bodyElement.appendChild(rowElement)
+    }
+    tableElement.appendChild(bodyElement)
     document.getElementById("table").append(tableElement)
 }
