@@ -1,4 +1,3 @@
-
 async function setUpdatedTime() {
     var elements = document.getElementsByClassName("updatedTime")
     var date = await loadUpdatedTime();
@@ -8,14 +7,14 @@ async function setUpdatedTime() {
 } setUpdatedTime();
 
 function loadUpdatedTime() {
-    const file = "../data/update.txt"
+    const file = getPath() + "data/update.txt"
     return new Promise(function (resolve) {
         fetch(file).then(response=>response.text()).then(data=>resolve(data))
     });
 }
 
 function loadData(type) {
-    const file = "../data/" + type + ".json"
+    const file = getPath() + "data/" + type + ".json"
     return new Promise(function (resolve) {
         fetch(file).then(response=>response.json()).then(data=>resolve(data))
     });
@@ -37,4 +36,11 @@ async function getId(name, type) {
         return data[name].id
     }
     return null
+}
+
+function getPath() {
+    if (location.pathname === "/psjp/" || location.pathname === "/psjp/index.html") {
+        return "./"
+    }
+    return "../"
 }
