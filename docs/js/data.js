@@ -1,3 +1,19 @@
+
+async function setUpdatedTime() {
+    var elements = document.getElementsByClassName("updatedTime")
+    var date = await loadUpdatedTime();
+    for (var element of elements) {
+        element.innerText = date
+    }
+} setUpdatedTime();
+
+function loadUpdatedTime() {
+    const file = "../data/update.txt"
+    return new Promise(function (resolve) {
+        fetch(file).then(response=>response.text()).then(data=>resolve(data))
+    });
+}
+
 function loadData(type) {
     const file = "../data/" + type + ".json"
     return new Promise(function (resolve) {
