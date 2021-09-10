@@ -1,6 +1,3 @@
-const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数"}
-const displayCountStr = {"puzzle": "投稿したパズルの種類", "author": "投稿した作者の人数"}
-
 async function setPage() {
     var urlParams = new URLSearchParams(location.search)
     var queryId = null; var queryType = null; anotherType = null;
