@@ -7,7 +7,7 @@ function goPage(type) {
     const elementId = type === "author" ? "inputAuthorName": "inputPuzzleName";
     const name = document.getElementById(elementId).value;
     const queryId = getId(name, type);
-    var url = new URL("statics.html", location.href);
+    var url = new URL("docs/statics.html", location.href);
     url.search = "?" + type + "=" + queryId;
     location.href = url;
 };
@@ -17,9 +17,9 @@ function getId(name, type) {
 };
 
 function goRanking() {
-    location.href = "./ranking.html";
+    location.href = "./docs/ranking.html";
 };
 
 function goGraph() {
-    location.href = "./graph.html";
+    location.href = "./docs/graph.html";
 };
