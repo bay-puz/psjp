@@ -14,17 +14,17 @@ async function goPage(type) {
         showAlert(name, type);
         return
     }
-    var url = new URL("docs/statics.html", location.href);
+    var url = new URL("view/statics.html", location.href);
     url.search = "?" + type + "=" + queryId;
     location.href = url;
 };
 
 function goRanking() {
-    location.href = "./docs/ranking.html";
+    location.href = "./view/ranking.html";
 };
 
 function goGraph() {
-    location.href = "./docs/graph.html";
+    location.href = "./view/graph.html";
 };
 
 function showAlert(name, type) {
