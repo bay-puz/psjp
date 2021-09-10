@@ -1,14 +1,28 @@
 header {
-    background-color: aquamarine;
-    padding: 0.2em;
     text-align: center;
     font-weight: bold;
+    color:mediumblue;
+    border-bottom: solid;
+    border-color:darkblue;
+    background-color: aquamarine;
+    padding: 0.2em;
+}
+
+header span {
+    font-size: small;
+    color: gray;
+    padding-left: 0.5em;
 }
 
 footer {
     background-color: aquamarine;
-    padding: 00.2em;
+    padding: 0.2em;
     text-align: right;
+}
+
+footer a {
+    color: darkblue;
+    text-decoration: none;
 }
 
 .contents {
