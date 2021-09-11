@@ -1,7 +1,7 @@
 # psjp
 [Puzzle Square JP](https://puzsq.jp/main/index.php)のデータを取得・公開する。
 
-## [Puzzle Sqaure Static](https://bay-puz.github.io/psjp/)
+## [Puzzle Sqaure Stat](https://bay-puz.github.io/psjp/)
 GitHub Pagesを使ってページを公開している。
 作者別・パズル別の問題数といいね数や、グラフ、ランキングが見られる。
 ## python/crawl-psjp-data.py
