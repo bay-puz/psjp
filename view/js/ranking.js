@@ -12,6 +12,7 @@ function show() {
     var number = params.has("number")? params.get("number"): -1
     var sort_sub = params.has("subsort")? params.get("subsort"): category
     makeRanking(category, sort, sort_sub, order, number)
+    setInput(category, sort, order, number)
 }
 show()
 
@@ -21,6 +22,10 @@ async function makeRanking(category, sort, sort_sub, order, number) {
     var countKey = category + "_c"
     var rateKey = category + "_r"
     sort = (sort === "count")? countKey: sort
+    sort = (sort === "count_r")? rateKey: sort
+    sort_sub = (sort_sub === "count")? countKey: sort_sub
+    sort_sub = (sort_sub === "count_r")? rateKey: sort_sub
+
     for (const key in data) {
         var d = data[key]
         var contents = {"problem": d.problem, "liked": d.liked, "rank": 1}
@@ -91,4 +96,11 @@ function makeRankingTable(list, headers) {
     }
     tableElement.appendChild(bodyElement)
     document.getElementById("ranking").append(tableElement)
+}
+
+function setInput(category, sort, order, number){
+    document.getElementById("category").value = category;
+    document.getElementById("sort").value = sort;
+    document.getElementById("order").value = order;
+    document.getElementById("number").value = number;
 }

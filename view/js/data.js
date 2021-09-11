@@ -45,5 +45,5 @@ function getPath() {
     return "../data/"
 }
 
-const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "puzzle_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "puzzle_r": "作者平均", "author_r": "種類平均"}
+const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "puzzle_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "puzzle_r": "人数平均", "author_r": "種類数平均"}
 const displayCountStr = {"puzzle": "投稿したパズルの種類", "author": "投稿した作者の人数"}
