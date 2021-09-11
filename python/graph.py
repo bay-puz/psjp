@@ -35,7 +35,7 @@ def plot_problem_liked_by(author_dict, puzzle_dict):
     x, y = problem_liked_by(puzzle_dict)
     pyplot.title("パズル別問題数/いいね数")
     pyplot.scatter(x, y, s=5, c='g')
-    fig.savefig("graph/problem-liked-b-puzzle.png")
+    fig.savefig("graph/problem-liked-by-puzzle.png")
     return
 
 
@@ -79,7 +79,7 @@ def plot_top_in_problem(author_dict, puzzle_dict):
         ax.set_axisbelow(True)
         ax.tick_params(width=0, which="both")
         pyplot.grid(axis="x", which="both", c="grey", alpha=0.5)
-        pyplot.subplots_adjust(left=0.3, wspace=2, hspace=10)
+        pyplot.subplots_adjust(left=0.25, right=0.95, bottom=0.05, top=0.95)
         pyplot.subplot().margins(0.02, 0.01)
 
     fig = pyplot.figure(figsize=[10, 12])
