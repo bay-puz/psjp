@@ -14,7 +14,7 @@ async function goPage(type) {
         showAlert(name, type);
         return
     }
-    var url = new URL("view/statics.html", location.href);
+    var url = new URL("view/stat.html", location.href);
     url.search = "?" + type + "=" + queryId;
     location.href = url;
 };
