@@ -12,13 +12,59 @@
         </header>
         <div class="contents">
             <h2><span class="name"></span></h2>
-            <p>問題数<br><span class="problem data"></span></p>
-            <p>いいね数<br><span class="liked data"></span></p>
-            <p><span class="displayCount"></span><br><span class="count data"></span></p>
-            <details open>
-                <summary >投稿した<span class="display"></span>の詳細</summary>
-                <span id="table"></span>
-            </details>
+            <h3>問題数</h3>
+            <span class="problem data"></span></p>
+            <h3>いいね数/平均いいね数</h3>
+            <span class="liked data"></span> / <span class="liked_r data"></span>
+            <h3><span class="displayCount"></span>/<span class="displayCountR"></span></h3>
+            <span class="count data"></span> / <span class="count_r data"></span>
+            <h3>変種数/変種率</h3>
+            <span class="variant data"></span> / <span class="variant_r data"></span>
+            <h3>難易度別問題数/割合</h3>
+            <table>
+                <tr>
+                    <th>らくらく</th>
+                    <td><span class="difficulty1 data"></span></td>
+                    <td><span class="difficulty1_r data"></span></td>
+                </tr>
+                <tr>
+                    <th>おてごろ</th>
+                    <td><span class="difficulty2 data"></span></td>
+                    <td><span class="difficulty2_r data"></span></td>
+                </tr>
+                <tr>
+                    <th>たいへん</th>
+                    <td><span class="difficulty3 data"></span></td>
+                    <td><span class="difficulty3_r data"></span></td>
+                </tr>
+                <tr>
+                    <th>アゼン</th>
+                    <td><span class="difficulty4 data"></span></td>
+                    <td><span class="difficulty4_r data"></span></td>
+                </tr>
+                <tr>
+                    <th>ハバネロ</th>
+                    <td><span class="difficulty5 data"></span></td>
+                    <td><span class="difficulty5_r data"></span></td>
+                </tr>
+            </table>
+            <h3>投稿した<span class="display"></span>の詳細</h3>
+            <select id="sort" name="sort">
+                <option value="problem">問題数</option>
+                <option value="liked">いいね数</option>
+                <option value="liked_r">平均いいね数</option>
+                <option value="variant">変種</option>
+                <option value="variant_r">変種率</option>
+            </select>
+            が
+            <select id="order" name="order">
+                <option value="down">多い順</option>
+                <option value="up">少ない順</option>
+            </select>
+            に
+            <button id="changeSort">並べる</button>
+            <br>
+            <span id="table"></span>
         </div>
         <script type="text/javascript" src="./js/data.js"></script>
         <script type="text/javascript" src="./js/stat.js"></script>
