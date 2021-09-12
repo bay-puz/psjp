@@ -28,6 +28,10 @@ async function setPage(sort, order, sort_sub) {
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
     data["variant_r"] = (data.variant / data.problem).toFixed(2)
+    data["difficulty_r"] = [null, 0, 0, 0, 0, 0]
+    for (let index = 1; index <= 5; index++) {
+        data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
+    }
     for (const key in data[anotherType]) {
         var d = data[anotherType][key]
         d["liked_r"] = (d.liked / d.problem).toFixed(2)
@@ -38,16 +42,21 @@ async function setPage(sort, order, sort_sub) {
     setInfo("display", displayStr[anotherType])
     setInfo("displayCount", displayCountStr[anotherType])
     setInfo("displayCountR", displayCountStr[anotherType + "_r"])
-    for (const key of ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]) {
+    keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
+    for (const key of keys) {
         setInfo(key, data[key])
     }
-    var anotherTypeList = Object.values(data[anotherType]);
+    for (let index = 1; index <= 5; index++) {
+        setInfo("difficulty" + index.toString(), data.difficulty[index])
+        setInfo("difficulty" + index.toString() + "_r", data.difficulty_r[index])
+    }
 
     const sorts = ["problem", "liked", "liked_r", "variant", "variant_r"]
     sort = sorts.includes(sort)? sort: "problem"
     sort_sub = sorts.includes(sort_sub)? sort_sub: "liked"
     const orderSign = (order == "up")? 1: -1
 
+    var anotherTypeList = Object.values(data[anotherType]);
     anotherTypeList.sort((a,b) => {
         if (a[sort] === b[sort]) {
             return orderSign * (a[sort_sub] - b[sort_sub]);
