@@ -1,4 +1,13 @@
-async function setPage() {
+document.getElementById("changeSort").addEventListener("click", changeSort)
+
+function changeSort() {
+    const sort = document.getElementById("sort").value
+    const order = document.getElementById("order").value
+    const sort_sub = (sort === "problem")? "liked": "problem"
+    setPage(sort, order, sort_sub)
+}
+
+async function setPage(sort, order, sort_sub) {
     var urlParams = new URLSearchParams(location.search)
     var queryId = null; var queryType = null; anotherType = null;
     for (const type of ["puzzle", "author"]) {
@@ -33,16 +42,21 @@ async function setPage() {
         setInfo(key, data[key])
     }
     var anotherTypeList = Object.values(data[anotherType]);
+
+    const sorts = ["problem", "liked", "liked_r", "variant", "variant_r"]
+    sort = sorts.includes(sort)? sort: "problem"
+    sort_sub = sorts.includes(sort_sub)? sort_sub: "liked"
+    const orderSign = (order == "up")? 1: -1
+
     anotherTypeList.sort((a,b) => {
-        if (a["problem"] === b["problem"]) {
-            return (b["liked"] - a["liked"]);
+        if (a[sort] === b[sort]) {
+            return orderSign * (a[sort_sub] - b[sort_sub]);
         }
-        return (b["problem"] - a["problem"]);
+        return orderSign * (a[sort] - b[sort]);
     })
     makeTable(anotherTypeList, anotherType)
 }
 setPage();
-
 
 function setInfo(key, value) {
     var elements = document.getElementsByClassName(key)
@@ -83,5 +97,5 @@ function makeTable(dict, type) {
         bodyElement.appendChild(rowElement)
     }
     tableElement.appendChild(bodyElement)
-    document.getElementById("table").append(tableElement)
+    document.getElementById("table").innerHTML = tableElement.outerHTML
 }

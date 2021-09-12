@@ -27,6 +27,21 @@
             </p>
             <details open>
                 <summary >投稿した<span class="display"></span>の詳細</summary>
+                <select id="sort" name="sort">
+                    <option value="problem">問題数</option>
+                    <option value="liked">いいね数</option>
+                    <option value="liked_r">平均いいね数</option>
+                    <option value="variant">変種</option>
+                    <option value="variant_r">変種率</option>
+                </select>
+                が
+                <select id="order" name="order">
+                    <option value="down">多い順</option>
+                    <option value="up">少ない順</option>
+                </select>
+                に
+                <button id="changeSort">並べる</button>
+                <br>
                 <span id="table"></span>
             </details>
         </div>

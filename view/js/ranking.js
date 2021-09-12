@@ -35,7 +35,7 @@ async function makeRanking(category, sort, sort_sub, order, number) {
         contents["liked_r"] = d.liked / d.problem
         list.push(contents)
     }
-    const orderSign = order == "up"? 1: -1
+    const orderSign = (order == "up")? 1: -1
     list.sort(function (a,b) {
         if (a[sort] === b[sort]) {
             if (sort_sub === category) {
