@@ -16,10 +16,20 @@ async function setPage() {
     if (! data) {
         location.href = "../"
     }
+    data["liked_r"] = (data.liked / data.problem).toFixed(2)
+    data["count_r"] = (data.problem / data.count).toFixed(2)
+    data["variant_r"] = (data.variant / data.problem).toFixed(2)
+    for (const key in data[anotherType]) {
+        var d = data[anotherType][key]
+        d["liked_r"] = (d.liked / d.problem).toFixed(2)
+        d["problem_r"] = (d.problem / data.problem).toFixed(2)
+        d["variant_r"] = (d.variant / d.problem).toFixed(2)
+    }
 
     setInfo("display", displayStr[anotherType])
     setInfo("displayCount", displayCountStr[anotherType])
-    for (const key of ["name", "problem", "liked", "count"]) {
+    setInfo("displayCountR", displayCountStr[anotherType + "_r"])
+    for (const key of ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]) {
         setInfo(key, data[key])
     }
     var anotherTypeList = Object.values(data[anotherType]);
@@ -42,6 +52,7 @@ function setInfo(key, value) {
 }
 
 function makeTable(dict, type) {
+    keys = ["problem", "problem_r", "liked", "liked_r", "variant", "variant_r"]
     var tableElement = document.createElement("table")
 
     var headerElement = document.createElement("thead")
@@ -49,7 +60,7 @@ function makeTable(dict, type) {
     var thElement = document.createElement("th")
     thElement.innerText = displayStr[type]
     trElement.appendChild(thElement)
-    for (const key of ["problem", "liked"]) {
+    for (const key of keys) {
         var cellElement = document.createElement("td")
         cellElement.innerText = displayStr[key]
         trElement.appendChild(cellElement)
@@ -64,7 +75,7 @@ function makeTable(dict, type) {
         thElement.innerText = dict[data]["name"]
         rowElement.appendChild(thElement)
 
-        for (const key of ["problem", "liked"]) {
+        for (const key of keys) {
             var tdElement = document.createElement("td")
             tdElement.innerText = dict[data][key]
             rowElement.appendChild(tdElement)
