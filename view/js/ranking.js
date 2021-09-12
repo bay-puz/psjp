@@ -12,7 +12,7 @@ function show() {
     var number = params.has("number")? params.get("number"): -1
     var sort_sub = params.has("subsort")? params.get("subsort"): category
     makeRanking(category, sort, sort_sub, order, number)
-    setInput(category, sort, order, number)
+    setInput(category, sort, order, number, sort_sub)
 }
 show()
 
@@ -103,9 +103,10 @@ function makeRankingTable(list, headers) {
     document.getElementById("ranking").append(tableElement)
 }
 
-function setInput(category, sort, order, number){
+function setInput(category, sort, order, number, sort_sub){
     document.getElementById("category").value = category;
     document.getElementById("sort").value = sort;
+    document.getElementById("subsort").value = sort_sub;
     document.getElementById("order").value = order;
     document.getElementById("number").value = number;
 }
