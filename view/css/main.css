@@ -1,3 +1,7 @@
+.hidden {
+    display: none;
+}
+
 header {
     text-align: center;
     font-weight: bold;

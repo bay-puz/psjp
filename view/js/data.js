@@ -38,11 +38,25 @@ async function getId(name, type) {
     return null
 }
 
+async function getName(id, type) {
+    var data = await loadData(type)
+    for (const key in data) {
+        if (data[key].id === id) {
+            return key;
+        }
+    }
+    return null
+}
+
 function getPath() {
     if (location.pathname === "/psjp/" || location.pathname === "/psjp/index.html") {
         return "./data/"
     }
     return "../data/"
+}
+
+function initData() {
+    return {"name": "", "problem": 0, "liked":0, "variant":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [0,0, 0, 0, 0, 0]}
 }
 
 const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "problem_r": "占有率", "puzzle_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "puzzle_r": "人数平均", "author_r": "種類数平均", "variant": "変種", "variant_r": "変種率"}

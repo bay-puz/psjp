@@ -9,22 +9,38 @@ function changeSort() {
 
 async function setPage(sort, order, sort_sub) {
     var urlParams = new URLSearchParams(location.search)
-    var queryId = null; var queryType = null; anotherType = null;
-    for (const type of ["puzzle", "author"]) {
-        if (urlParams.has(type)) {
-            queryId = Number(urlParams.get(type))
-            queryType = type
-        } else {
-            anotherType = type
+    if (! urlParams.has("author") && ! urlParams.has("puzzle")) {
+        location.href = "../"
+        return
+    }
+    var data = {}
+    var is_both = false
+    var queryType = null; var anotherType = null;
+    if (urlParams.has("author") && urlParams.has("puzzle")) {
+        is_both = true
+        const dataAuthor = await getData(Number(urlParams.get("author")), "author")
+        const puzzleName = await getName(Number(urlParams.get("puzzle")), "puzzle")
+        data = dataAuthor.puzzle[puzzleName]
+        if (! data){
+            data = initData()
         }
+        data.name = dataAuthor.name + " - " + puzzleName
+    } else {
+        if (urlParams.has("author")) {
+            queryType = "author"
+            anotherType = "puzzle"
+        } else {
+            queryType = "puzzle"
+            anotherType = "author"
+        }
+        const queryId = Number(urlParams.get(queryType))
+        data = await getData(queryId, queryType)
     }
-    if (! queryType || ! anotherType ) {
+    if (!data) {
         location.href = "../"
+        return
     }
-    const data = await getData(queryId, queryType)
-    if (! data) {
-        location.href = "../"
-    }
+
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
     data["variant_r"] = (data.variant / data.problem).toFixed(2)
@@ -32,16 +48,7 @@ async function setPage(sort, order, sort_sub) {
     for (let index = 1; index <= 5; index++) {
         data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
     }
-    for (const key in data[anotherType]) {
-        var d = data[anotherType][key]
-        d["liked_r"] = (d.liked / d.problem).toFixed(2)
-        d["problem_r"] = (d.problem / data.problem).toFixed(2)
-        d["variant_r"] = (d.variant / d.problem).toFixed(2)
-    }
 
-    setInfo("display", displayStr[anotherType])
-    setInfo("displayCount", displayCountStr[anotherType])
-    setInfo("displayCountR", displayCountStr[anotherType + "_r"])
     keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
@@ -51,19 +58,34 @@ async function setPage(sort, order, sort_sub) {
         setInfo("difficulty" + index.toString() + "_r", data.difficulty_r[index])
     }
 
-    const sorts = ["problem", "liked", "liked_r", "variant", "variant_r"]
-    sort = sorts.includes(sort)? sort: "problem"
-    sort_sub = sorts.includes(sort_sub)? sort_sub: "liked"
-    const orderSign = (order == "up")? 1: -1
+    if (is_both) {
+        hiddenElements("notBoth")
+    } else {
+        setInfo("display", displayStr[anotherType])
+        setInfo("displayCount", displayCountStr[anotherType])
+        setInfo("displayCountR", displayCountStr[anotherType + "_r"])
 
-    var anotherTypeList = Object.values(data[anotherType]);
-    anotherTypeList.sort((a,b) => {
-        if (a[sort] === b[sort]) {
-            return orderSign * (a[sort_sub] - b[sort_sub]);
+        for (const key in data[anotherType]) {
+            var d = data[anotherType][key]
+            d["liked_r"] = (d.liked / d.problem).toFixed(2)
+            d["problem_r"] = (d.problem / data.problem).toFixed(2)
+            d["variant_r"] = (d.variant / d.problem).toFixed(2)
         }
-        return orderSign * (a[sort] - b[sort]);
-    })
-    makeTable(anotherTypeList, anotherType)
+
+        const sorts = ["problem", "liked", "liked_r", "variant", "variant_r"]
+        sort = sorts.includes(sort)? sort: "problem"
+        sort_sub = sorts.includes(sort_sub)? sort_sub: "liked"
+        const orderSign = (order == "up")? 1: -1
+
+        var anotherTypeList = Object.values(data[anotherType]);
+        anotherTypeList.sort((a,b) => {
+            if (a[sort] === b[sort]) {
+                return orderSign * (a[sort_sub] - b[sort_sub]);
+            }
+            return orderSign * (a[sort] - b[sort]);
+        })
+        makeTable(anotherTypeList, anotherType)
+    }
 }
 setPage();
 
@@ -71,6 +93,13 @@ function setInfo(key, value) {
     var elements = document.getElementsByClassName(key)
     for(var element of elements) {
         element.innerText = value;
+    }
+}
+
+function hiddenElements(className) {
+    const elements = document.getElementsByClassName(className)
+    for(var element of elements) {
+        element.classList.add("hidden");
     }
 }
 
