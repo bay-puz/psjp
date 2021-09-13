@@ -1,23 +1,42 @@
-document.getElementById("goPuzzle").addEventListener("click", function(){goPage("puzzle");});
 document.getElementById("goAuthor").addEventListener("click", function(){goPage("author");});
+document.getElementById("goPuzzle").addEventListener("click", function(){goPage("puzzle");});
+document.getElementById("goAuthorPuzzle").addEventListener("click", function(){goPage("both");});
 document.getElementById("goRanking").addEventListener("click", goRanking);
 document.getElementById("goGraph").addEventListener("click", goGraph);
 
 async function goPage(type) {
-    const elementId = type === "author" ? "inputAuthorName": "inputPuzzleName";
-    const name = document.getElementById(elementId).value;
-    if (! name) {
-        return
-    }
-    const queryId = await getId(name, type);
-    if (queryId === null) {
-        showAlert(name, type);
-        return
-    }
     var url = new URL("view/stat.html", location.href);
-    url.search = "?" + type + "=" + queryId;
+    var urlSearchParams = url.searchParams;
+
+    var elementIds = {}
+    if (type === "both") {
+        elementIds["author"] = "inputAuthorNameWithPuzzle"
+        elementIds["puzzle"] = "inputPuzzleNameWithAuthor"
+    } else {
+        elementIds[type] = (type === "author")? "inputAuthorName": "inputPuzzleName"
+    }
+    for (const key in elementIds) {
+        const queryId = await getQueryId(elementIds[key], key)
+        if (queryId === null) {
+            return
+        }
+        urlSearchParams.set(key, queryId)
+    }
     location.href = url;
 };
+
+async function getQueryId(elementId, type) {
+    const name = document.getElementById(elementId).value;
+    if (name.length === 0) {
+        return null
+    }
+    const dataId = await getId(name, type);
+    if (dataId === null) {
+        showAlert(name, type);
+        return null
+    }
+    return  dataId
+}
 
 function goRanking() {
     location.href = "./view/ranking.html";

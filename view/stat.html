@@ -13,11 +13,13 @@
         <div class="contents">
             <h2><span class="name"></span></h2>
             <h3>問題数</h3>
-            <span class="problem data"></span></p>
+            <span class="problem data"></span>
             <h3>いいね数/平均いいね数</h3>
             <span class="liked data"></span> / <span class="liked_r data"></span>
-            <h3><span class="displayCount"></span>/<span class="displayCountR"></span></h3>
-            <span class="count data"></span> / <span class="count_r data"></span>
+            <div class="notBoth">
+                <h3><span class="displayCount"></span>/<span class="displayCountR"></span></h3>
+                <span class="count data"></span> / <span class="count_r data"></span>
+            </div>
             <h3>変種数/変種率</h3>
             <span class="variant data"></span> / <span class="variant_r data"></span>
             <h3>難易度別問題数/割合</h3>
@@ -48,23 +50,25 @@
                     <td><span class="difficulty5_r data"></span></td>
                 </tr>
             </table>
-            <h3>投稿した<span class="display"></span>の詳細</h3>
-            <select id="sort" name="sort">
-                <option value="problem">問題数</option>
-                <option value="liked">いいね数</option>
-                <option value="liked_r">平均いいね数</option>
-                <option value="variant">変種</option>
-                <option value="variant_r">変種率</option>
-            </select>
-            が
-            <select id="order" name="order">
-                <option value="down">多い順</option>
-                <option value="up">少ない順</option>
-            </select>
-            に
-            <button id="changeSort">並べる</button>
-            <br>
-            <span id="table"></span>
+            <div class="notBoth">
+                <h3>投稿した<span class="display"></span>の詳細</h3>
+                <select id="sort" name="sort">
+                    <option value="problem">問題数</option>
+                    <option value="liked">いいね数</option>
+                    <option value="liked_r">平均いいね数</option>
+                    <option value="variant">変種</option>
+                    <option value="variant_r">変種率</option>
+                </select>
+                が
+                <select id="order" name="order">
+                    <option value="down">多い順</option>
+                    <option value="up">少ない順</option>
+                </select>
+                に
+                <button id="changeSort">並べる</button>
+                <br>
+                <span id="table"></span>
+            </div>
         </div>
         <script type="text/javascript" src="./js/data.js"></script>
         <script type="text/javascript" src="./js/stat.js"></script>
