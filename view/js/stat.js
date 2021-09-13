@@ -49,6 +49,7 @@ async function setPage(sort, order, sort_sub) {
         data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
     }
 
+    setTitle(data.name)
     keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
@@ -93,6 +94,13 @@ function setInfo(key, value) {
     var elements = document.getElementsByClassName(key)
     for(var element of elements) {
         element.innerText = value;
+    }
+}
+
+function setTitle(name) {
+    var elements = document.getElementsByTagName("title")
+    for(var element of elements) {
+        element.innerText = element.innerText.replace("Details", name);
     }
 }
 
