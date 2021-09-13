@@ -40,7 +40,10 @@ async function setPage(sort, order, sort_sub) {
         location.href = "../"
         return
     }
-    setLink(urlParams)
+
+    setTitle(data.name)
+    setPsjpLink(urlParams)
+    setTweetUrl()
 
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
@@ -50,7 +53,6 @@ async function setPage(sort, order, sort_sub) {
         data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
     }
 
-    setTitle(data.name)
     keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
@@ -105,7 +107,7 @@ function setTitle(name) {
     }
 }
 
-function setLink(params) {
+function setPsjpLink(params) {
     var elements = document.getElementsByClassName("psjpLink")
     for(var element of elements) {
         var url = new URL("https://puzsq.jp/main/index.php")

@@ -24,13 +24,18 @@ footer {
     text-align: right;
 }
 
-a {
+footer a {
     color: darkblue;
     text-decoration: none;
 }
 
-.psjpLink {
-    font-size: small;
+.psjpLink, .tweetLink {
+    color: black;
+    text-decoration: none;
+    font-size: x-small;
+    background-color: lightskyblue;
+    padding: 0.3em;
+    border-radius: 1em;
 }
 
 .contents {
