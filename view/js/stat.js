@@ -40,6 +40,7 @@ async function setPage(sort, order, sort_sub) {
         location.href = "../"
         return
     }
+    setLink(urlParams)
 
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
@@ -101,6 +102,15 @@ function setTitle(name) {
     var elements = document.getElementsByTagName("title")
     for(var element of elements) {
         element.innerText = element.innerText.replace("Details", name);
+    }
+}
+
+function setLink(params) {
+    var elements = document.getElementsByClassName("psjpLink")
+    for(var element of elements) {
+        var url = new URL("https://puzsq.jp/main/index.php")
+        url.search = params.toString()
+        element.href = url.href
     }
 }
 
