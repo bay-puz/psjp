@@ -29,6 +29,15 @@ footer a {
     text-decoration: none;
 }
 
+.psjpLink, .tweetLink {
+    color: black;
+    text-decoration: none;
+    font-size: x-small;
+    background-color: lightskyblue;
+    padding: 0.3em;
+    border-radius: 1em;
+}
+
 .contents {
     text-align: center;
     line-height: 1.5em;

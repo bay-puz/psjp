@@ -17,10 +17,17 @@ async function setPage(sort, order, sort_sub) {
     var is_both = false
     var queryType = null; var anotherType = null;
     if (urlParams.has("author") && urlParams.has("puzzle")) {
-        is_both = true
+        const puzzleId = Number(urlParams.get("puzzle"))
+        const puzzleName = await getName(puzzleId, "puzzle")
         const dataAuthor = await getData(Number(urlParams.get("author")), "author")
-        const puzzleName = await getName(Number(urlParams.get("puzzle")), "puzzle")
-        data = dataAuthor.puzzle[puzzleName]
+        if (puzzleId === 0) {
+            data = dataAuthor
+            queryType = "author"
+            anotherType = "puzzle"
+        } else {
+            is_both = true
+            data = dataAuthor.puzzle[puzzleName]
+        }
         if (! data){
             data = initData()
         }
@@ -41,6 +48,10 @@ async function setPage(sort, order, sort_sub) {
         return
     }
 
+    setTitle(data.name)
+    setPsjpLink(urlParams)
+    setTweetUrl()
+
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
     data["variant_r"] = (data.variant / data.problem).toFixed(2)
@@ -49,7 +60,6 @@ async function setPage(sort, order, sort_sub) {
         data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
     }
 
-    setTitle(data.name)
     keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
@@ -101,6 +111,15 @@ function setTitle(name) {
     var elements = document.getElementsByTagName("title")
     for(var element of elements) {
         element.innerText = element.innerText.replace("Details", name);
+    }
+}
+
+function setPsjpLink(params) {
+    var elements = document.getElementsByClassName("psjpLink")
+    for(var element of elements) {
+        var url = new URL("https://puzsq.jp/main/index.php")
+        url.search = params.toString()
+        element.href = url.href
     }
 }
 
