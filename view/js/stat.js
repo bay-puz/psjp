@@ -17,10 +17,17 @@ async function setPage(sort, order, sort_sub) {
     var is_both = false
     var queryType = null; var anotherType = null;
     if (urlParams.has("author") && urlParams.has("puzzle")) {
-        is_both = true
+        const puzzleId = Number(urlParams.get("puzzle"))
+        const puzzleName = await getName(puzzleId, "puzzle")
         const dataAuthor = await getData(Number(urlParams.get("author")), "author")
-        const puzzleName = await getName(Number(urlParams.get("puzzle")), "puzzle")
-        data = dataAuthor.puzzle[puzzleName]
+        if (puzzleId === 0) {
+            data = dataAuthor
+            queryType = "author"
+            anotherType = "puzzle"
+        } else {
+            is_both = true
+            data = dataAuthor.puzzle[puzzleName]
+        }
         if (! data){
             data = initData()
         }
