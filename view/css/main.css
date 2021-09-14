@@ -44,7 +44,7 @@ footer a {
     padding: 1em;
 }
 
-button, select, input#number {
+button, select, input.button {
     outline: none;
     border: none;
     cursor: pointer;
@@ -56,8 +56,8 @@ button, select, input#number {
     text-decoration-line: unset;
 }
 
-input#number {
-    width: 3em;
+input.button {
+    width: 4em;
 }
 
 table {

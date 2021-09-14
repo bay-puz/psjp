@@ -1,71 +1,78 @@
 function show() {
     var params = new URLSearchParams(location.search)
-    if ( ! params.has("category") || ! params.has("sort")) {
-        return
+    var rankParams = {"category": "puzzle", "sort": "problem", "subsort": "liked", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
+
+    for (const key in rankParams) {
+        if (params.has(key)) {
+            if (key === "number" || key === "criteria") {
+                rankParams[key] = Number(params.get(key))
+            } else {
+                rankParams[key] = params.get(key)
+            }
+        }
     }
-    const category = params.get("category")
-    const sort = params.get("sort")
-    if ( ! category in ["author", "puzzle"] || ! sort in Object.keys(displayStr)) {
-        return
-    }
-    var order = params.has("order")? params.get("order"): "down"
-    var number = params.has("number")? params.get("number"): -1
-    var sort_sub = params.has("subsort")? params.get("subsort"): category
-    makeRanking(category, sort, sort_sub, order, number)
-    setInput(category, sort, order, number, sort_sub)
+    makeRanking(rankParams)
+    setInput(rankParams)
 }
 show()
 
-async function makeRanking(category, sort, sort_sub, order, number) {
+async function makeRanking(p) {
     var list = []
-    var countKey = category + "_c"
-    var rateKey = category + "_r"
-    sort = (sort === "count")? countKey: sort
-    sort = (sort === "count_r")? rateKey: sort
-    sort_sub = (sort_sub === "count")? countKey: sort_sub
-    sort_sub = (sort_sub === "count_r")? rateKey: sort_sub
-
-    var data = await loadData(category)
-    all_name = (category === "author")? "全作者": "全パズル"
+    var data = await loadData(p.category)
+    all_name = (p.category === "author")? "全作者": "全パズル"
     delete data[all_name]
 
     for (const key in data) {
         var d = data[key]
         var contents = {"problem": d.problem, "liked": d.liked, "variant": d.variant, "rank": 1}
-        contents[category] = key
-        contents[countKey] = d.count
-        contents[rateKey] = d.problem / d.count
+        contents[p.category] = key
+        contents["count"] = d.count
+        contents["count_r"] = d.problem / d.count
         contents["liked_r"] = d.liked / d.problem
         contents["variant_r"] = d.variant / d.problem
+
+        if (p.condition && p.than) {
+            if (p.than === "large" && !(p.criteria < contents[p.condition])) {
+                continue
+            }
+            if (p.than === "small" &&  !(p.criteria > contents[p.condition])) {
+                continue
+            }
+        }
         list.push(contents)
     }
-    const orderSign = (order == "up")? 1: -1
+
+    const orderSign = (p.order == "up")? 1: -1
     list.sort(function (a,b) {
-        if (a[sort] === b[sort]) {
-            if (sort_sub === category) {
-                return (a[sort_sub] > b[sort_sub])
+        if (a[p.sort] === b[p.sort]) {
+            if (p.subsort === "name") {
+                return (a[p.category] > b[p.category])
             }
-            return orderSign * (a[sort_sub] - b[sort_sub])
+            return orderSign * (a[p.subsort] - b[p.subsort])
         }
-        return orderSign * (a[sort] - b[sort])
+        return orderSign * (a[p.sort] - b[p.sort])
     })
     var rank = 1
+
     for (let index = 1; index < list.length; index++) {
-        if (list[index][sort] !== list[index-1][sort]) {
+        if (list[index][p.sort] !== list[index-1][p.sort]) {
             rank = index + 1
-            if (rank > number && number > 0) {
+            if (rank > p.number && p.number > 0) {
                 list.splice(index)
                 break;
             }
         }
         list[index]["rank"] = rank
     }
+    const countKey = p.category + "_c"
+    const rateKey = p.category + "_r"
     list.forEach(function(d) {
         d.liked_r = d.liked_r.toFixed(2)
         d.variant_r = d.variant_r.toFixed(2)
-        d[rateKey] = d[rateKey].toFixed(2)
+        d[countKey] = d.count
+        d[rateKey] = d.count_r.toFixed(2)
     })
-    var headers = [category, "problem", "liked", "liked_r", countKey, rateKey, "variant", "variant_r"]
+    var headers = [p.category, "problem", "liked", "liked_r", countKey, rateKey, "variant", "variant_r"]
     makeRankingTable(list, headers)
 }
 
@@ -103,10 +110,8 @@ function makeRankingTable(list, headers) {
     document.getElementById("ranking").append(tableElement)
 }
 
-function setInput(category, sort, order, number, sort_sub){
-    document.getElementById("category").value = category;
-    document.getElementById("sort").value = sort;
-    document.getElementById("subsort").value = sort_sub;
-    document.getElementById("order").value = order;
-    document.getElementById("number").value = number;
+function setInput(rankParams){
+    for (const key in rankParams) {
+        document.getElementById(key).value = rankParams[key];
+    }
 }
