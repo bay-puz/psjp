@@ -1,6 +1,6 @@
 function show() {
     var params = new URLSearchParams(location.search)
-    var rankParams = {"category": "puzzle", "sort": "problem", "subsort": "liked", "order": "down", "number": -1, "condition": null, "criteria": null, "than": "null"}
+    var rankParams = {"category": "puzzle", "sort": "problem", "subsort": "liked", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
 
     for (const key in rankParams) {
         if (params.has(key)) {
