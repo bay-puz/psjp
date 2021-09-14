@@ -13,39 +13,63 @@
         <div class="contents">
             <h2>ランキング</h2>
             <form action="./ranking.html" method="GET">
-                <select id="category" name="category">
-                    <option value="puzzle" selected>パズル</option>
-                    <option value="author">作者</option>
-                </select>
-                の
-                <select id="sort" name="sort">
-                    <option value="problem" selected>問題数</option>
-                    <option value="liked">いいね数</option>
-                    <option value="liked_r">平均いいね数</option>
-                    <option value="count">人数/種類</option>
-                    <option value="count_r">人数/種類数平均</option>
-                    <option value="variant">変種</option>
-                    <option value="variant_r">変種率</option>
-                </select>
-                （同じなら
-                <select id="subsort" name="subsort">
-                    <option value="problem">問題数</option>
-                    <option value="liked" selected>いいね数</option>
-                    <option value="liked_r">平均いいね数</option>
-                    <option value="count">人数/種類</option>
-                    <option value="count_r">人数/種類数平均</option>
-                    <option value="variant">変種</option>
-                    <option value="variant_r">変種率</option>
-                </select>
-                ）が
-                <select id="order" name="order">
-                    <option value="down" selected>多い順</option>
-                    <option value="up">少ない順</option>
-                </select>
-                に
-                <input type="number" id="number" name="number" value="20" min="0">
-                位まで
-                <button id="submit">見る</button>
+                <p>
+                    <select id="category" name="category">
+                        <option value="puzzle" selected>パズル</option>
+                        <option value="author">作者</option>
+                    </select>
+                    の
+                    <select id="sort" name="sort">
+                        <option value="problem" selected>問題数</option>
+                        <option value="liked">いいね数</option>
+                        <option value="liked_r">平均いいね数</option>
+                        <option value="count">人数/種類</option>
+                        <option value="count_r">人数/種類数平均</option>
+                        <option value="variant">変種</option>
+                        <option value="variant_r">変種率</option>
+                    </select>
+                    （同じなら
+                    <select id="subsort" name="subsort">
+                        <option value="problem">問題数</option>
+                        <option value="liked" selected>いいね数</option>
+                        <option value="liked_r">平均いいね数</option>
+                        <option value="count">人数/種類</option>
+                        <option value="count_r">人数/種類数平均</option>
+                        <option value="variant">変種</option>
+                        <option value="variant_r">変種率</option>
+                    </select>
+                    ）が
+                    <select id="order" name="order">
+                        <option value="down" selected>多い順</option>
+                        <option value="up">少ない順</option>
+                    </select>
+                    に
+                    <input type="number" id="number" name="number" class="button" value="20" min="0">
+                    位まで
+                </p>
+                    <p>
+                    （ただし
+                    <select id="condition" name="condition">
+                        <option value="" selected> </option>
+                        <option value="problem">問題数</option>
+                        <option value="liked">いいね数</option>
+                        <option value="liked_r">平均いいね数</option>
+                        <option value="count">人数/種類</option>
+                        <option value="count_r">人数/種類数平均</option>
+                        <option value="variant">変種</option>
+                        <option value="variant_r">変種率</option>
+                    </select>
+                    が
+                    <input type="number" id="criteria" name="criteria" class="button" min="0" step="0.01">
+                    より
+                    <select id="than" name="than">
+                        <option value="" selected> </option>
+                        <option value="large">大きい</option>
+                        <option value="small">小さい</option>
+                    </select>
+                    ものを）
+                    <button id="submit">見る</button>
+                </p>
             </form>
             <br>
             <span id="ranking"></span>
