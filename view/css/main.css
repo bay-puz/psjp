@@ -69,10 +69,12 @@ thead {
 }
 
 th {
-    font-weight: unset;
     text-align: left;
+    padding-left: 1em;
+    font-weight: unset;
 }
 td {
-    text-align: center;
+    text-align: right;
     padding-left: 2em;
+    font-family: monospace;
 }
