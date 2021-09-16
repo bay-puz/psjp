@@ -27,36 +27,10 @@
             </div>
             <h3>変種数/変種率</h3>
             <span class="variant data"></span> / <span class="variant_r data"></span>
-            <h3>難易度別問題数/割合</h3>
-            <table>
-                <tr>
-                    <th>らくらく</th>
-                    <td><span class="difficulty1 data"></span></td>
-                    <td><span class="difficulty1_r data"></span></td>
-                </tr>
-                <tr>
-                    <th>おてごろ</th>
-                    <td><span class="difficulty2 data"></span></td>
-                    <td><span class="difficulty2_r data"></span></td>
-                </tr>
-                <tr>
-                    <th>たいへん</th>
-                    <td><span class="difficulty3 data"></span></td>
-                    <td><span class="difficulty3_r data"></span></td>
-                </tr>
-                <tr>
-                    <th>アゼン</th>
-                    <td><span class="difficulty4 data"></span></td>
-                    <td><span class="difficulty4_r data"></span></td>
-                </tr>
-                <tr>
-                    <th>ハバネロ</th>
-                    <td><span class="difficulty5 data"></span></td>
-                    <td><span class="difficulty5_r data"></span></td>
-                </tr>
-            </table>
+            <h3>難易度別</h3>
+            <span id="difficultyTable"></span>
             <div class="notBoth">
-                <h3>投稿した<span class="display"></span>の詳細</h3>
+                <h3><span class="display"></span>別</h3>
                 <select id="sort" name="sort">
                     <option value="problem">問題数</option>
                     <option value="liked">いいね数</option>
@@ -72,7 +46,7 @@
                 に
                 <button id="changeSort">並べる</button>
                 <br>
-                <span id="table"></span>
+                <span id="anotherTable"></span>
             </div>
         </div>
         <script type="text/javascript" src="./js/common.js"></script>

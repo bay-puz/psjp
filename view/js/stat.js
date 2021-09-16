@@ -55,19 +55,22 @@ async function setPage(sort, order, sort_sub) {
     data["liked_r"] = (data.liked / data.problem).toFixed(2)
     data["count_r"] = (data.problem / data.count).toFixed(2)
     data["variant_r"] = (data.variant / data.problem).toFixed(2)
-    data["difficulty_r"] = [null, 0, 0, 0, 0, 0]
     for (let index = 1; index <= 5; index++) {
-        data.difficulty_r[index] = (data.difficulty[index] / data.problem).toFixed(2)
+        data.difficulty[index]["problem_r"] = (data.difficulty[index]["problem"] / data.problem).toFixed(2)
+        data.difficulty[index]["liked_r"] = (data.difficulty[index]["liked"] / data.difficulty[index].problem).toFixed(2)
+        data.difficulty[index]["variant_r"] = (data.difficulty[index]["variant"] / data.difficulty[index].problem).toFixed(2)
     }
 
     keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
     }
-    for (let index = 1; index <= 5; index++) {
-        setInfo("difficulty" + index.toString(), data.difficulty[index])
-        setInfo("difficulty" + index.toString() + "_r", data.difficulty_r[index])
+
+    var difficultyList = Object.values(data.difficulty).slice(1);
+    for (let index = 0; index < 5; index++) {
+        difficultyList[index]["difficulty"] = displayDifficultyStr[index+1]
     }
+    makeTable("difficultyTable", "difficulty", difficultyList)
 
     if (is_both) {
         hiddenElements("notBoth")
@@ -78,6 +81,7 @@ async function setPage(sort, order, sort_sub) {
 
         for (const key in data[anotherType]) {
             var d = data[anotherType][key]
+            d[anotherType] = d.name
             d["liked_r"] = (d.liked / d.problem).toFixed(2)
             d["problem_r"] = (d.problem / data.problem).toFixed(2)
             d["variant_r"] = (d.variant / d.problem).toFixed(2)
@@ -95,7 +99,7 @@ async function setPage(sort, order, sort_sub) {
             }
             return orderSign * (a[sort] - b[sort]);
         })
-        makeTable(anotherTypeList, anotherType)
+        makeTable("anotherTable", anotherType, anotherTypeList)
     }
 }
 setPage();
@@ -130,37 +134,36 @@ function hiddenElements(className) {
     }
 }
 
-function makeTable(dict, type) {
+function makeTable(elementId, header, dataList) {
     keys = ["problem", "problem_r", "liked", "liked_r", "variant", "variant_r"]
     var tableElement = document.createElement("table")
 
-    var headerElement = document.createElement("thead")
+    var theadElement = document.createElement("thead")
     var trElement = document.createElement("tr")
     var thElement = document.createElement("th")
-    thElement.innerText = displayStr[type]
+    thElement.innerText = displayStr[header]
     trElement.appendChild(thElement)
     for (const key of keys) {
         var cellElement = document.createElement("td")
         cellElement.innerText = displayStr[key]
         trElement.appendChild(cellElement)
     }
-    headerElement.append(trElement)
-    tableElement.append(headerElement)
+    theadElement.append(trElement)
+    tableElement.append(theadElement)
 
     var bodyElement = document.createElement("tbody")
-    for (const data in dict) {
+    dataList.forEach(data => {
         var rowElement = document.createElement("tr")
         var thElement = document.createElement("th")
-        thElement.innerText = dict[data]["name"]
+        thElement.innerText = data[header]
         rowElement.appendChild(thElement)
-
         for (const key of keys) {
             var tdElement = document.createElement("td")
-            tdElement.innerText = dict[data][key]
+            tdElement.innerText = data[key]
             rowElement.appendChild(tdElement)
         }
         bodyElement.appendChild(rowElement)
-    }
+    });
     tableElement.appendChild(bodyElement)
-    document.getElementById("table").innerHTML = tableElement.outerHTML
+    document.getElementById(elementId).innerHTML = tableElement.outerHTML
 }

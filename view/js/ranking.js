@@ -72,11 +72,11 @@ async function makeRanking(p) {
         d[countKey] = d.count
         d[rateKey] = d.count_r.toFixed(2)
     })
-    var headers = [p.category, "problem", "liked", "liked_r", countKey, rateKey, "variant", "variant_r"]
-    makeRankingTable(list, headers)
+    var headers = ["problem", "liked", "liked_r", countKey, rateKey, "variant", "variant_r"]
+    makeRankingTable(p.category, headers, list)
 }
 
-function makeRankingTable(list, headers) {
+function makeRankingTable(header, keys, dataList) {
     var tableElement = document.createElement("table")
 
     var headerElement = document.createElement("thead")
@@ -84,7 +84,10 @@ function makeRankingTable(list, headers) {
     var thElement = document.createElement("th")
     thElement.innerText = "順位"
     trElement.appendChild(thElement)
-    for (const key of headers) {
+    var thElement = document.createElement("th")
+    thElement.innerText = displayStr[header]
+    trElement.appendChild(thElement)
+    for (const key of keys) {
         var cellElement = document.createElement("td")
         cellElement.innerText = displayStr[key]
         trElement.appendChild(cellElement)
@@ -93,19 +96,21 @@ function makeRankingTable(list, headers) {
     tableElement.append(headerElement)
 
     var bodyElement = document.createElement("tbody")
-    for (const data of list) {
+    dataList.forEach(data => {
         var rowElement = document.createElement("tr")
         var thElement = document.createElement("th")
         thElement.innerText = data.rank
         rowElement.appendChild(thElement)
-
-        for (const key of headers) {
+        var thElement = document.createElement("th")
+        thElement.innerText = data[header]
+        rowElement.appendChild(thElement)
+        for (const key of keys) {
             var tdElement = document.createElement("td")
             tdElement.innerText = data[key]
             rowElement.appendChild(tdElement)
         }
         bodyElement.appendChild(rowElement)
-    }
+    });
     tableElement.appendChild(bodyElement)
     document.getElementById("ranking").append(tableElement)
 }
