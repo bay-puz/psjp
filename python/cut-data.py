@@ -12,9 +12,10 @@ def cut_data(data: list, is_author: bool):
 
     category_id = category + "_id"
     category_name = category + "_name"
+    another_id = another + "_id"
     another_name = another + "_name"
 
-    all = {"name": all_name, "id": 0, "liked": 0, "problem": 0, "difficulty": [0 for _ in range(6)], "variant": 0, another: {}}
+    all = {"name": all_name, "id": 0, "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0, another: {}}
     cut_dict[all_name] = all
 
     for d in data:
@@ -22,24 +23,28 @@ def cut_data(data: list, is_author: bool):
         d_another_name = d[another_name]
 
         if d_name not in cut_dict:
-            data_format = {"name": d_name, "id": d[category_id], "liked": 0, "problem": 0, "difficulty": [0 for _ in range(6)], "variant": 0, another: {}}
+            data_format = {"name": d_name, "id": d[category_id], "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0, another: {}}
             cut_dict[d_name] = data_format
         for name in [d_name, all_name]:
             cut_dict[name]["liked"] += d["liked"]
             cut_dict[name]["problem"] += 1
-            cut_dict[name]["difficulty"][d["difficulty"]] += 1
+            cut_dict[name]["difficulty"][d["difficulty"]]["problem"] += 1
+            cut_dict[name]["difficulty"][d["difficulty"]]["liked"] += d["liked"]
             if d["variant"] == 1:
                 cut_dict[name]["variant"] += 1
+                cut_dict[name]["difficulty"][d["difficulty"]]["variant"] += 1
 
         for name in [d_name, all_name]:
             if d_another_name not in cut_dict[name][another]:
-                another_format = {"name": d_another_name, "liked": 0, "problem": 0, "difficulty": [0 for _ in range(6)], "variant": 0}
+                another_format = {"name": d_another_name, "id": d[another_id], "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0}
                 cut_dict[name][another][d_another_name] = another_format
             cut_dict[name][another][d_another_name]["liked"] += d["liked"]
             cut_dict[name][another][d_another_name]["problem"] += 1
-            cut_dict[name][another][d_another_name]["difficulty"][d["difficulty"]] += 1
+            cut_dict[name][another][d_another_name]["difficulty"][d["difficulty"]]["problem"] += 1
+            cut_dict[name][another][d_another_name]["difficulty"][d["difficulty"]]["liked"] += d["liked"]
             if d["variant"] == 1:
                 cut_dict[name][another][d_another_name]["variant"] += 1
+                cut_dict[name][another][d_another_name]["difficulty"][d["difficulty"]]["variant"] += 1
 
     for key in cut_dict.keys():
         cut_dict[key]["count"] = len(cut_dict[key][another])
