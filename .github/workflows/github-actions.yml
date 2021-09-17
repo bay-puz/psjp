@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # 毎週水曜の朝５時
-    - cron: '0 20 * * TUE'
+    - cron: '0 20 * * SUN,TUE,THU'
 jobs:
   build:
     runs-on: ubuntu-latest
