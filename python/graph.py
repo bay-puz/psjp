@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- #
 import json
-from matplotlib import colors, pyplot
+from matplotlib import pyplot
 
 
 def load(file: str):
