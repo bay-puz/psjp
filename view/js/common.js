@@ -11,3 +11,21 @@ function setTweetUrl() {
     }
 }
 setTweetUrl()
+
+function getStatLink(author_id, puzzle_id, text) {
+    var urlStr = "./stat.html?"
+    var params = new URLSearchParams()
+    if (author_id) {
+        params.set("author", author_id)
+    }
+    if (puzzle_id) {
+        params.set("puzzle", puzzle_id)
+    }
+    urlStr += params.toString()
+
+    var aElement = document.createElement("a")
+    aElement.href = urlStr
+    aElement.innerText = text + "🔗"
+    aElement.target = "_blank"
+    return aElement
+}
