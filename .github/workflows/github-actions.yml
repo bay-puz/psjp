@@ -20,7 +20,9 @@ jobs:
       - name: cut psjp data
         run: python python/cut-data.py
       - name: make graph
-        run: python python/graph.py
+        run: |
+          python python/graph.py
+          python python/graph-date.py
       - name: git push
         run: |
           git config --global user.name github-actions

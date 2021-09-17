@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- #
 import json
-from matplotlib import colors, pyplot
+from matplotlib import pyplot
 
 
 def load(file: str):
@@ -106,6 +106,9 @@ def plot_top_in_problem(author_dict, puzzle_dict):
 def main():
     data_author = load("data/author.json")
     data_puzzle = load("data/puzzle.json")
+
+    del data_author["全作者"]
+    del data_puzzle["全パズル"]
 
     plot_problem_liked_by(data_author, data_puzzle)
     plot_top_in_problem(data_author, data_puzzle)
