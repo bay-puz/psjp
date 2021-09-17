@@ -38,6 +38,15 @@ footer a {
     border-radius: 1em;
 }
 
+.statLink {
+    color: black;
+    text-decoration: none;
+}
+.statLink:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
 .contents {
     text-align: center;
     line-height: 1.5em;

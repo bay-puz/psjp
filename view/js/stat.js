@@ -73,7 +73,7 @@ async function setPage(sort, order, sort_sub) {
     makeTable("difficultyTable", "difficulty", difficultyList)
 
     if (is_both) {
-        hiddenElements("notBoth")
+        hideElements("notBoth")
     } else {
         setInfo("display", displayStr[anotherType])
         setInfo("displayCount", displayCountStr[anotherType])
@@ -81,7 +81,9 @@ async function setPage(sort, order, sort_sub) {
 
         for (const key in data[anotherType]) {
             var d = data[anotherType][key]
-            d[anotherType] = d.name
+            const author_id = (queryType === "author")? data.id: d.id
+            const puzzle_id = (queryType === "puzzle")? data.id: d.id
+            d[anotherType] = getStatLink(author_id, puzzle_id, d.name).outerHTML
             d["liked_r"] = (d.liked / d.problem).toFixed(2)
             d["problem_r"] = (d.problem / data.problem).toFixed(2)
             d["variant_r"] = (d.variant / d.problem).toFixed(2)
@@ -127,7 +129,7 @@ function setPsjpLink(params) {
     }
 }
 
-function hiddenElements(className) {
+function hideElements(className) {
     const elements = document.getElementsByClassName(className)
     for(var element of elements) {
         element.classList.add("hidden");
@@ -155,7 +157,7 @@ function makeTable(elementId, header, dataList) {
     dataList.forEach(data => {
         var rowElement = document.createElement("tr")
         var thElement = document.createElement("th")
-        thElement.innerText = data[header]
+        thElement.innerHTML = data[header]
         rowElement.appendChild(thElement)
         for (const key of keys) {
             var tdElement = document.createElement("td")
