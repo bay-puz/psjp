@@ -24,8 +24,10 @@ async function makeRanking(p) {
 
     for (const key in data) {
         var d = data[key]
-        var contents = {"problem": d.problem, "liked": d.liked, "variant": d.variant, "rank": 1}
-        contents[p.category] = key
+        var contents = {"name": key, "problem": d.problem, "liked": d.liked, "variant": d.variant, "rank": 1}
+        const author_id = (p.category === "author")? d.id: 0
+        const puzzle_id = (p.category === "puzzle")? d.id: 0
+        contents[p.category] = getStatLink(author_id, puzzle_id, d.name).outerHTML
         contents["count"] = d.count
         contents["count_r"] = d.problem / d.count
         contents["liked_r"] = d.liked / d.problem
@@ -46,7 +48,7 @@ async function makeRanking(p) {
     list.sort(function (a,b) {
         if (a[p.sort] === b[p.sort]) {
             if (p.subsort === "name") {
-                return (a[p.category] > b[p.category])
+                return (a[p.subsort] > b[p.subsort])
             }
             return orderSign * (a[p.subsort] - b[p.subsort])
         }
@@ -102,7 +104,7 @@ function makeRankingTable(header, keys, dataList) {
         thElement.innerText = data.rank
         rowElement.appendChild(thElement)
         var thElement = document.createElement("th")
-        thElement.innerText = data[header]
+        thElement.innerHTML = data[header]
         rowElement.appendChild(thElement)
         for (const key of keys) {
             var tdElement = document.createElement("td")
