@@ -25,7 +25,8 @@ function getStatLink(author_id, puzzle_id, text) {
 
     var aElement = document.createElement("a")
     aElement.href = urlStr
-    aElement.innerText = text + "🔗"
+    aElement.innerText = text
     aElement.target = "_blank"
+    aElement.classList.add("statLink")
     return aElement
 }
