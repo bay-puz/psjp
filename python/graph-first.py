@@ -100,7 +100,7 @@ def plot_first_month(data: dict, is_author: bool):
     pyplot.xticks(rotation=50)
 
     pyplot.title("初投稿の" + type_display + "の数")
-    pyplot.xlabel("年/月")
+    pyplot.xlabel("")
     pyplot.ylabel(type_display + "数")
 
     x, y = get_first_month(data, is_author)
