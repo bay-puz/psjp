@@ -23,6 +23,7 @@ jobs:
         run: |
           python python/graph.py
           python python/graph-date.py
+          python python/graph-first.py
       - name: git push
         run: |
           git config --global user.name github-actions
