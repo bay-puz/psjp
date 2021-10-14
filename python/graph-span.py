@@ -52,7 +52,7 @@ def plot_span_categories(data: dict, is_author: bool):
     ax.tick_params(width=0, which="both")
     pyplot.subplot().margins(0.05, 0.005)
     pyplot.grid(axis="x", which="both", c="grey")
-    pyplot.subplots_adjust(left=0.25, right=0.99, top=0.97, bottom=0.03)
+    pyplot.subplots_adjust(left=0.25, right=0.97, top=0.97, bottom=0.03)
     pyplot.xlim(datetime.fromisoformat("2019-05-01 00:00:00"), datetime.today())
 
     pyplot.title(name_display + "別投稿期間（最古の問題～最新の問題／投稿数" + str(limit) + "以上）")
