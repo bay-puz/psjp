@@ -65,6 +65,10 @@ button, select, input.button {
     text-decoration-line: unset;
 }
 
+summary {
+    cursor: pointer;
+}
+
 input.button {
     width: 4em;
 }

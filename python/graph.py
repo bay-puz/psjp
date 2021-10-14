@@ -79,10 +79,10 @@ def plot_top_in_problem(author_dict, puzzle_dict):
         ax.set_axisbelow(True)
         ax.tick_params(width=0, which="both")
         pyplot.grid(axis="x", which="both", c="grey", alpha=0.5)
-        pyplot.subplots_adjust(left=0.25, right=0.95, bottom=0.05, top=0.95)
+        pyplot.subplots_adjust(left=0.28, right=0.95, bottom=0.05, top=0.95)
         pyplot.subplot().margins(0.02, 0.01)
 
-    fig = pyplot.figure(figsize=[10, 12])
+    fig = pyplot.figure(figsize=[8, 12])
     set_plot()
     l, t, o = top_in_problem(puzzle_dict, "author", size)
     pyplot.title("パズル別総問題数/最多投稿者の問題数（問題数上位" + str(size) + "）")
@@ -91,7 +91,7 @@ def plot_top_in_problem(author_dict, puzzle_dict):
     pyplot.legend()
     fig.savefig("graph/problem-by-puzzle.png")
 
-    fig = pyplot.figure(figsize=[10, 12])
+    fig = pyplot.figure(figsize=[8, 12])
     set_plot()
     l, t, o = top_in_problem(author_dict, "puzzle", size)
     pyplot.title("作者別総投稿数/最多投稿パズルの投稿数（投稿数上位" + str(size) + "）")
