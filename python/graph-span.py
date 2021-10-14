@@ -60,7 +60,7 @@ def plot_span_categories(data: dict, is_author: bool):
     pyplot.xlabel("")
 
     x, y1, y2 = get_span_categories(data, is_author, limit)
-    pyplot.barh(x, y2, color="blue", height=0.4)
+    pyplot.barh(x, y2, color="green", height=0.4)
     pyplot.barh(x, y1, color="white", height=0.4)
     fig.savefig("graph/" + image_name)
 
