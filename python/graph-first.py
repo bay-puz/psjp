@@ -45,13 +45,13 @@ def plot_first_categories(data: dict, is_author: bool):
     image_name = "first-puzzles-by-author.png" if is_author else "first-authors-by-puzzle.png"
 
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
-    fig = pyplot.figure(figsize=[10, 20])
+    fig = pyplot.figure(figsize=[8, 20])
     ax = pyplot.axes()
     ax.set_axisbelow(True)
     ax.tick_params(width=0, which="both")
     pyplot.subplot().margins(0.05, 0.005)
     pyplot.grid(axis="x", which="both", c="grey")
-    pyplot.subplots_adjust(left=0.25, right=0.99, top=0.97, bottom=0.03)
+    pyplot.subplots_adjust(left=0.28, right=0.99, top=0.97, bottom=0.03)
 
     pyplot.title("初投稿した" + other_type_display + "の数")
     pyplot.ylabel("")
