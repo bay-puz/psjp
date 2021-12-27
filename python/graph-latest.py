@@ -30,7 +30,7 @@ def plot_latest_count(data: dict, last_year: bool):
     days_back = 365 if last_year else 0
 
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
-    fig = pyplot.figure(figsize=[12, 8])
+    fig = pyplot.figure(figsize=[8, 6])
     ax = pyplot.axes()
     ax.set_axisbelow(True)
     ax.tick_params(width=0, which="both")
