@@ -130,8 +130,8 @@ def problem_dict(problem_soup):
     return data
 
 
-def loop():
-    page_id = MIN_PAGE_ID
+def loop(min_page: int, max_page: int):
+    page_id = min_page
     while True:
         psjp_page = get_psjp(page_id)
 
@@ -146,16 +146,21 @@ def loop():
                 return True
 
         page_id += 1
-        if page_id > MAX_PAGE_ID:
+        if page_id > max_page:
             break
         sleep(5)
 
 
 def main():
     parser = argparse.ArgumentParser(description='Puzzle Square JPからいいね数などを得る')
+    parser.add_argument("--max", type=int, help="取得する最大ページ")
+    parser.add_argument("--min", type=int, help="取得する最小ページ")
     args = parser.parse_args()
 
-    loop()
+    max_page = MAX_PAGE_ID if not args.max else args.max
+    min_page = MIN_PAGE_ID if not args.min else args.min
+
+    loop(min_page, max_page)
 
 
 if __name__ == '__main__':
