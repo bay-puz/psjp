@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*- #
+from itertools import count
 import json
 from datetime import datetime
 from matplotlib import pyplot
@@ -17,7 +18,7 @@ def get_span_categories(data: dict, is_author: bool, limit: int):
         time = datetime.fromisoformat(d["created_at"])
         name = d[category_name]
         if name not in problem_dict:
-            problem_dict[name] = {"first": time, "last": time, "count": 1}
+            problem_dict[name] = {"first": time, "last": time, "count": 1, "name": name}
         else:
             if problem_dict[name]["first"] > time:
                 problem_dict[name]["first"] = time
@@ -25,23 +26,18 @@ def get_span_categories(data: dict, is_author: bool, limit: int):
                 problem_dict[name]["last"] = time
             problem_dict[name]["count"] += 1
 
-    del_list = []
-    for name, p in problem_dict.items():
-        if p["count"] < limit:
-            del_list.append(name)
-    for name in del_list:
-        del problem_dict[name]
-    sorted_dict = sorted(problem_dict.items(), key=lambda x: x[1]["count"])
+    sorted_list = sorted(problem_dict.values(), key=lambda x:x["count"])
+    limited_list = sorted_list[-1*limit:]
 
-    names = [name for name, _ in sorted_dict]
-    firsts = [p["first"] for _, p in sorted_dict]
-    lasts = [p["last"] for _, p in sorted_dict]
+    names = [p["name"] for p in limited_list]
+    firsts = [p["first"] for p in limited_list]
+    lasts = [p["last"] for p in limited_list]
 
     return names, firsts, lasts
 
 
 def plot_span_categories(data: dict, is_author: bool):
-    limit = 20
+    limit = 50
     name_display = "作者" if is_author else "パズル"
     image_name = "span-by-author.png" if is_author else "span-by-puzzle.png"
 
@@ -55,7 +51,7 @@ def plot_span_categories(data: dict, is_author: bool):
     pyplot.subplots_adjust(left=0.25, right=0.97, top=0.97, bottom=0.03)
     pyplot.xlim(datetime.fromisoformat("2019-05-01 00:00:00"), datetime.today())
 
-    pyplot.title(name_display + "別投稿期間（最古の問題～最新の問題／投稿数" + str(limit) + "以上）")
+    pyplot.title(name_display + "別投稿期間（最古の問題～最新の問題／投稿数上位" + str(limit) + "）")
     pyplot.ylabel("")
     pyplot.xlabel("")
 
