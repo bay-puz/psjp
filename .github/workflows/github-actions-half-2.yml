@@ -1,4 +1,4 @@
-name: Crawl PSJP (left half)
+name: Crawl PSJP (left half-2)
 on:
   workflow_dispatch:
 
@@ -9,11 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install packages
-        run: |
-          pip install beautifulsoup4 matplotlib
-          sudo apt-get install -y jq fonts-motoya-l-maruberi
-      - name: record update time
-        run: TZ="JST-9" date +"%Y年%-m月%-d日%-H時" > data/update.txt
+        run: pip install beautifulsoup4
       - name: crawl psjp data
         run: python python/crawl-psjp-data.py --min 800 --max 1500 | jq -s "unique_by(.id)" > data/data-2.json
       - name: git push
