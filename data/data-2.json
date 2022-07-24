@@ -1552,7 +1552,7 @@
   },
   {
     "id": 328,
-    "liked": 16,
+    "liked": 17,
     "author_id": 80,
     "author_name": "ふぃぐ(旧)",
     "puzzle_name": "ヤジリン",
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 631,
-    "liked": 28,
+    "liked": 29,
     "author_id": 38,
     "author_name": "(空欄)",
     "puzzle_name": "フィルオミノ",
@@ -6733,7 +6733,7 @@
   },
   {
     "id": 846,
-    "liked": 13,
+    "liked": 14,
     "author_id": 43,
     "author_name": "USBe",
     "puzzle_name": "さしがね",
@@ -13663,7 +13663,7 @@
   },
   {
     "id": 1509,
-    "liked": 26,
+    "liked": 27,
     "author_id": 29,
     "author_name": "udop",
     "puzzle_name": "フィルオミノ",
@@ -17150,7 +17150,7 @@
   },
   {
     "id": 1840,
-    "liked": 30,
+    "liked": 31,
     "author_id": 149,
     "author_name": "我ヒトにあらず",
     "puzzle_name": "フィルオミノ",
@@ -24740,7 +24740,7 @@
   },
   {
     "id": 2555,
-    "liked": 16,
+    "liked": 17,
     "author_id": 164,
     "author_name": "ten986",
     "puzzle_name": "ヤジリン",
@@ -36356,7 +36356,7 @@
   },
   {
     "id": 3779,
-    "liked": 16,
+    "liked": 17,
     "author_id": 145,
     "author_name": "ゲッソー",
     "puzzle_name": "へやわけ",
@@ -45376,7 +45376,7 @@
   },
   {
     "id": 4694,
-    "liked": 12,
+    "liked": 13,
     "author_id": 74,
     "author_name": "K.N.Y.",
     "puzzle_name": "フィルオミノ",
@@ -52845,7 +52845,7 @@
   },
   {
     "id": 5483,
-    "liked": 14,
+    "liked": 15,
     "author_id": 74,
     "author_name": "K.N.Y.",
     "puzzle_name": "シャカシャカ",
@@ -72447,7 +72447,7 @@
   },
   {
     "id": 7497,
-    "liked": 29,
+    "liked": 30,
     "author_id": 213,
     "author_name": "索子",
     "puzzle_name": "フィルオミノ",
@@ -76099,7 +76099,7 @@
   },
   {
     "id": 7890,
-    "liked": 7,
+    "liked": 8,
     "author_id": 493,
     "author_name": "a",
     "puzzle_name": "ヤジリン",
@@ -92126,7 +92126,7 @@
   },
   {
     "id": 9629,
-    "liked": 9,
+    "liked": 10,
     "author_id": 574,
     "author_name": "manzoku",
     "puzzle_name": "修学旅行の夜",
@@ -94667,7 +94667,7 @@
   },
   {
     "id": 9889,
-    "liked": 27,
+    "liked": 28,
     "author_id": 149,
     "author_name": "我ヒトにあらず",
     "puzzle_name": "フィルオミノ",
@@ -100494,5 +100494,82 @@
     "variant": 0,
     "created_at": "2020-08-19 16:00:00",
     "difficulty": 1
+  },
+  {
+    "id": 10470,
+    "liked": 13,
+    "author_id": 582,
+    "author_name": "パイン",
+    "puzzle_name": "やじさんかずさん",
+    "puzzle_id": 35,
+    "variant": 0,
+    "created_at": "2020-08-19 16:15:00",
+    "difficulty": 2
+  },
+  {
+    "id": 10471,
+    "liked": 51,
+    "author_id": 389,
+    "author_name": "lilva",
+    "puzzle_name": "ぬりみさき",
+    "puzzle_id": 47,
+    "variant": 0,
+    "created_at": "2020-08-19 16:22:23",
+    "difficulty": 2
+  },
+  {
+    "id": 10472,
+    "liked": 11,
+    "author_id": 582,
+    "author_name": "パイン",
+    "puzzle_name": "やじさんかずさん",
+    "puzzle_id": 35,
+    "variant": 0,
+    "created_at": "2020-08-19 16:30:00",
+    "difficulty": 2
+  },
+  {
+    "id": 10474,
+    "liked": 15,
+    "author_id": 582,
+    "author_name": "パイン",
+    "puzzle_name": "やじさんかずさん",
+    "puzzle_id": 35,
+    "variant": 0,
+    "created_at": "2020-08-19 16:45:00",
+    "difficulty": 4
+  },
+  {
+    "id": 10475,
+    "liked": 5,
+    "author_id": 58,
+    "author_name": "Apppp!!",
+    "puzzle_name": "Snake Egg",
+    "puzzle_id": 133,
+    "variant": 0,
+    "created_at": "2020-08-19 19:38:28",
+    "difficulty": 1
+  },
+  {
+    "id": 10476,
+    "liked": 5,
+    "author_id": 544,
+    "author_name": "semiexp",
+    "puzzle_name": "ビルディングパズル",
+    "puzzle_id": 59,
+    "variant": 1,
+    "created_at": "2020-08-19 20:29:40",
+    "difficulty": 3
+  },
+  {
+    "id": 10477,
+    "liked": 3,
+    "author_id": 544,
+    "author_name": "semiexp",
+    "puzzle_name": "ひとりにしてくれ",
+    "puzzle_id": 8,
+    "variant": 1,
+    "created_at": "2020-08-19 21:25:55",
+    "difficulty": 3
   }
 ]
