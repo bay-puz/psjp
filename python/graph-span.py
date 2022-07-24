@@ -37,7 +37,7 @@ def get_span_categories(data: dict, is_author: bool, limit: int):
 
 
 def plot_span_categories(data: dict, is_author: bool):
-    limit = 50
+    limit = 100
     name_display = "作者" if is_author else "パズル"
     image_name = "span-by-author.png" if is_author else "span-by-puzzle.png"
 
