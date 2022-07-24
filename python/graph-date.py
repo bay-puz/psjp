@@ -47,6 +47,7 @@ def plot_month(data: list):
     ax.tick_params(width=0, which="both")
     pyplot.subplot().margins(0.01, 0.05)
     pyplot.grid(axis="y", which="both", c="grey")
+    pyplot.xticks(rotation=50)
 
     pyplot.title("毎月の投稿数（全期間）")
     pyplot.xlabel("年/月")
