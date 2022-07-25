@@ -2,8 +2,8 @@
   "全作者": {
     "name": "全作者",
     "id": 0,
-    "liked": 228494,
-    "problem": 21114,
+    "liked": 228595,
+    "problem": 21125,
     "difficulty": [
       {
         "problem": 0,
@@ -11,38 +11,38 @@
         "variant": 0
       },
       {
-        "problem": 2687,
-        "liked": 33900,
+        "problem": 2688,
+        "liked": 33907,
         "variant": 96
       },
       {
-        "problem": 7220,
-        "liked": 87758,
+        "problem": 7222,
+        "liked": 87786,
         "variant": 365
       },
       {
-        "problem": 7496,
-        "liked": 78475,
+        "problem": 7498,
+        "liked": 78516,
         "variant": 507
       },
       {
-        "problem": 3197,
-        "liked": 25821,
-        "variant": 261
+        "problem": 3203,
+        "liked": 25844,
+        "variant": 263
       },
       {
         "problem": 514,
-        "liked": 2540,
+        "liked": 2542,
         "variant": 65
       }
     ],
-    "variant": 1294,
+    "variant": 1296,
     "puzzle": {
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 42230,
-        "problem": 3346,
+        "liked": 42258,
+        "problem": 3350,
         "difficulty": [
           {
             "problem": 0,
@@ -51,27 +51,27 @@
           },
           {
             "problem": 339,
-            "liked": 5002,
+            "liked": 5004,
             "variant": 6
           },
           {
-            "problem": 1076,
-            "liked": 14572,
+            "problem": 1077,
+            "liked": 14577,
             "variant": 39
           },
           {
-            "problem": 1267,
-            "liked": 15684,
+            "problem": 1268,
+            "liked": 15694,
             "variant": 72
           },
           {
-            "problem": 580,
-            "liked": 6230,
+            "problem": 582,
+            "liked": 6239,
             "variant": 34
           },
           {
             "problem": 84,
-            "liked": 742,
+            "liked": 744,
             "variant": 4
           }
         ],
@@ -80,7 +80,7 @@
       "天体ショー": {
         "name": "天体ショー",
         "id": 17,
-        "liked": 1623,
+        "liked": 1624,
         "problem": 153,
         "difficulty": [
           {
@@ -100,7 +100,7 @@
           },
           {
             "problem": 58,
-            "liked": 466,
+            "liked": 467,
             "variant": 1
           },
           {
@@ -158,7 +158,7 @@
       "さしがね": {
         "name": "さしがね",
         "id": 40,
-        "liked": 4049,
+        "liked": 4050,
         "problem": 411,
         "difficulty": [
           {
@@ -183,7 +183,7 @@
           },
           {
             "problem": 59,
-            "liked": 449,
+            "liked": 450,
             "variant": 1
           },
           {
@@ -197,8 +197,8 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 11693,
-        "problem": 1273,
+        "liked": 11700,
+        "problem": 1274,
         "difficulty": [
           {
             "problem": 0,
@@ -212,12 +212,12 @@
           },
           {
             "problem": 405,
-            "liked": 3827,
+            "liked": 3829,
             "variant": 17
           },
           {
-            "problem": 636,
-            "liked": 5540,
+            "problem": 637,
+            "liked": 5545,
             "variant": 22
           },
           {
@@ -236,7 +236,7 @@
       "スリザーリンク": {
         "name": "スリザーリンク",
         "id": 1,
-        "liked": 5410,
+        "liked": 5412,
         "problem": 549,
         "difficulty": [
           {
@@ -256,7 +256,7 @@
           },
           {
             "problem": 203,
-            "liked": 1926,
+            "liked": 1928,
             "variant": 20
           },
           {
@@ -275,8 +275,8 @@
       "ぬりかべ": {
         "name": "ぬりかべ",
         "id": 6,
-        "liked": 5068,
-        "problem": 483,
+        "liked": 5070,
+        "problem": 484,
         "difficulty": [
           {
             "problem": 0,
@@ -284,7 +284,7 @@
             "variant": 0
           },
           {
-            "problem": 64,
+            "problem": 65,
             "liked": 851,
             "variant": 0
           },
@@ -295,12 +295,12 @@
           },
           {
             "problem": 182,
-            "liked": 1912,
+            "liked": 1913,
             "variant": 7
           },
           {
             "problem": 96,
-            "liked": 643,
+            "liked": 644,
             "variant": 4
           },
           {
@@ -314,8 +314,8 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 26138,
-        "problem": 2110,
+        "liked": 26149,
+        "problem": 2112,
         "difficulty": [
           {
             "problem": 0,
@@ -329,17 +329,17 @@
           },
           {
             "problem": 731,
-            "liked": 11476,
+            "liked": 11479,
             "variant": 15
           },
           {
             "problem": 742,
-            "liked": 9190,
+            "liked": 9192,
             "variant": 24
           },
           {
-            "problem": 404,
-            "liked": 2938,
+            "problem": 406,
+            "liked": 2944,
             "variant": 15
           },
           {
@@ -470,8 +470,8 @@
       "数独": {
         "name": "数独",
         "id": 19,
-        "liked": 930,
-        "problem": 193,
+        "liked": 932,
+        "problem": 194,
         "difficulty": [
           {
             "problem": 0,
@@ -494,9 +494,9 @@
             "variant": 24
           },
           {
-            "problem": 24,
-            "liked": 69,
-            "variant": 9
+            "problem": 25,
+            "liked": 71,
+            "variant": 10
           },
           {
             "problem": 12,
@@ -504,7 +504,7 @@
             "variant": 8
           }
         ],
-        "variant": 89
+        "variant": 90
       },
       "ナンロー": {
         "name": "ナンロー",
@@ -743,7 +743,7 @@
       "ましゅ": {
         "name": "ましゅ",
         "id": 2,
-        "liked": 11062,
+        "liked": 11073,
         "problem": 1077,
         "difficulty": [
           {
@@ -758,12 +758,12 @@
           },
           {
             "problem": 398,
-            "liked": 5113,
+            "liked": 5117,
             "variant": 27
           },
           {
             "problem": 328,
-            "liked": 3104,
+            "liked": 3111,
             "variant": 27
           },
           {
@@ -899,7 +899,7 @@
       "ダブルチョコ": {
         "name": "ダブルチョコ",
         "id": 66,
-        "liked": 6489,
+        "liked": 6492,
         "problem": 520,
         "difficulty": [
           {
@@ -914,12 +914,12 @@
           },
           {
             "problem": 179,
-            "liked": 2508,
+            "liked": 2509,
             "variant": 5
           },
           {
             "problem": 225,
-            "liked": 2644,
+            "liked": 2646,
             "variant": 11
           },
           {
@@ -977,7 +977,7 @@
       "シャカシャカ": {
         "name": "シャカシャカ",
         "id": 11,
-        "liked": 8116,
+        "liked": 8121,
         "problem": 706,
         "difficulty": [
           {
@@ -997,12 +997,12 @@
           },
           {
             "problem": 281,
-            "liked": 3127,
+            "liked": 3130,
             "variant": 14
           },
           {
             "problem": 140,
-            "liked": 1321,
+            "liked": 1323,
             "variant": 9
           },
           {
@@ -1094,7 +1094,7 @@
       "美術館": {
         "name": "美術館",
         "id": 18,
-        "liked": 12449,
+        "liked": 12451,
         "problem": 860,
         "difficulty": [
           {
@@ -1109,12 +1109,12 @@
           },
           {
             "problem": 311,
-            "liked": 4396,
+            "liked": 4397,
             "variant": 3
           },
           {
             "problem": 285,
-            "liked": 4283,
+            "liked": 4284,
             "variant": 6
           },
           {
@@ -1289,7 +1289,7 @@
       "ヘルゴルフ": {
         "name": "ヘルゴルフ",
         "id": 13,
-        "liked": 1207,
+        "liked": 1208,
         "problem": 131,
         "difficulty": [
           {
@@ -1304,7 +1304,7 @@
           },
           {
             "problem": 53,
-            "liked": 503,
+            "liked": 504,
             "variant": 3
           },
           {
@@ -1328,7 +1328,7 @@
       "スターバトル": {
         "name": "スターバトル",
         "id": 68,
-        "liked": 1271,
+        "liked": 1272,
         "problem": 101,
         "difficulty": [
           {
@@ -1348,7 +1348,7 @@
           },
           {
             "problem": 41,
-            "liked": 442,
+            "liked": 443,
             "variant": 4
           },
           {
@@ -1679,7 +1679,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 4995,
+        "liked": 5003,
         "problem": 351,
         "difficulty": [
           {
@@ -1689,22 +1689,22 @@
           },
           {
             "problem": 27,
-            "liked": 342,
+            "liked": 343,
             "variant": 0
           },
           {
             "problem": 122,
-            "liked": 1680,
+            "liked": 1682,
             "variant": 1
           },
           {
             "problem": 168,
-            "liked": 2601,
+            "liked": 2605,
             "variant": 4
           },
           {
             "problem": 33,
-            "liked": 362,
+            "liked": 363,
             "variant": 5
           },
           {
@@ -1718,7 +1718,7 @@
       "∀人∃ＨＥＹＡ": {
         "name": "∀人∃ＨＥＹＡ",
         "id": 72,
-        "liked": 4926,
+        "liked": 4927,
         "problem": 406,
         "difficulty": [
           {
@@ -1733,7 +1733,7 @@
           },
           {
             "problem": 133,
-            "liked": 1721,
+            "liked": 1722,
             "variant": 22
           },
           {
@@ -1796,7 +1796,7 @@
       "修学旅行の夜": {
         "name": "修学旅行の夜",
         "id": 58,
-        "liked": 512,
+        "liked": 513,
         "problem": 51,
         "difficulty": [
           {
@@ -1816,7 +1816,7 @@
           },
           {
             "problem": 20,
-            "liked": 177,
+            "liked": 178,
             "variant": 3
           },
           {
@@ -2342,7 +2342,7 @@
       "四角に切れ": {
         "name": "四角に切れ",
         "id": 16,
-        "liked": 1640,
+        "liked": 1641,
         "problem": 221,
         "difficulty": [
           {
@@ -2357,7 +2357,7 @@
           },
           {
             "problem": 83,
-            "liked": 667,
+            "liked": 668,
             "variant": 3
           },
           {
@@ -2381,7 +2381,7 @@
       "橋をかけろ": {
         "name": "橋をかけろ",
         "id": 15,
-        "liked": 835,
+        "liked": 836,
         "problem": 91,
         "difficulty": [
           {
@@ -2401,7 +2401,7 @@
           },
           {
             "problem": 26,
-            "liked": 239,
+            "liked": 240,
             "variant": 0
           },
           {
@@ -2420,7 +2420,7 @@
       "ホタルビーム": {
         "name": "ホタルビーム",
         "id": 82,
-        "liked": 2494,
+        "liked": 2495,
         "problem": 221,
         "difficulty": [
           {
@@ -2430,7 +2430,7 @@
           },
           {
             "problem": 24,
-            "liked": 420,
+            "liked": 421,
             "variant": 0
           },
           {
@@ -3044,7 +3044,7 @@
       "ドッスンフワリ": {
         "name": "ドッスンフワリ",
         "id": 45,
-        "liked": 606,
+        "liked": 607,
         "problem": 50,
         "difficulty": [
           {
@@ -3054,7 +3054,7 @@
           },
           {
             "problem": 7,
-            "liked": 81,
+            "liked": 82,
             "variant": 0
           },
           {
@@ -3980,7 +3980,7 @@
       "クロット": {
         "name": "クロット",
         "id": 31,
-        "liked": 517,
+        "liked": 518,
         "problem": 69,
         "difficulty": [
           {
@@ -3995,7 +3995,7 @@
           },
           {
             "problem": 28,
-            "liked": 244,
+            "liked": 245,
             "variant": 1
           },
           {
@@ -4409,7 +4409,7 @@
       "Castle Wall": {
         "name": "Castle Wall",
         "id": 121,
-        "liked": 2447,
+        "liked": 2449,
         "problem": 205,
         "difficulty": [
           {
@@ -4424,7 +4424,7 @@
           },
           {
             "problem": 59,
-            "liked": 804,
+            "liked": 806,
             "variant": 0
           },
           {
@@ -4565,7 +4565,7 @@
       "バーンズ": {
         "name": "バーンズ",
         "id": 124,
-        "liked": 568,
+        "liked": 569,
         "problem": 60,
         "difficulty": [
           {
@@ -4580,7 +4580,7 @@
           },
           {
             "problem": 25,
-            "liked": 280,
+            "liked": 281,
             "variant": 0
           },
           {
@@ -6398,8 +6398,8 @@
       "Doppelblock/ビトゥイーン・サム": {
         "name": "Doppelblock/ビトゥイーン・サム",
         "id": 170,
-        "liked": 134,
-        "problem": 25,
+        "liked": 136,
+        "problem": 26,
         "difficulty": [
           {
             "problem": 0,
@@ -6408,7 +6408,7 @@
           },
           {
             "problem": 3,
-            "liked": 27,
+            "liked": 28,
             "variant": 0
           },
           {
@@ -6422,9 +6422,9 @@
             "variant": 3
           },
           {
-            "problem": 3,
-            "liked": 12,
-            "variant": 0
+            "problem": 4,
+            "liked": 13,
+            "variant": 1
           },
           {
             "problem": 1,
@@ -6432,7 +6432,7 @@
             "variant": 0
           }
         ],
-        "variant": 3
+        "variant": 4
       },
       "Tents": {
         "name": "Tents",
@@ -9752,7 +9752,7 @@
       "ボサノワ": {
         "name": "ボサノワ",
         "id": 258,
-        "liked": 40,
+        "liked": 41,
         "problem": 10,
         "difficulty": [
           {
@@ -9762,7 +9762,7 @@
           },
           {
             "problem": 2,
-            "liked": 14,
+            "liked": 15,
             "variant": 0
           },
           {
@@ -10805,8 +10805,8 @@
       "ナンボミノ": {
         "name": "ナンボミノ",
         "id": 292,
-        "liked": 11,
-        "problem": 3,
+        "liked": 14,
+        "problem": 4,
         "difficulty": [
           {
             "problem": 0,
@@ -10819,8 +10819,8 @@
             "variant": 0
           },
           {
-            "problem": 1,
-            "liked": 1,
+            "problem": 2,
+            "liked": 4,
             "variant": 0
           },
           {
@@ -16199,7 +16199,7 @@
   "USBe": {
     "name": "USBe",
     "id": 43,
-    "liked": 5533,
+    "liked": 5534,
     "problem": 513,
     "difficulty": [
       {
@@ -16224,7 +16224,7 @@
       },
       {
         "problem": 74,
-        "liked": 624,
+        "liked": 625,
         "variant": 2
       },
       {
@@ -16238,7 +16238,7 @@
       "さしがね": {
         "name": "さしがね",
         "id": 40,
-        "liked": 3117,
+        "liked": 3118,
         "problem": 317,
         "difficulty": [
           {
@@ -16263,7 +16263,7 @@
           },
           {
             "problem": 50,
-            "liked": 387,
+            "liked": 388,
             "variant": 1
           },
           {
@@ -17489,7 +17489,7 @@
   "hotatenohontate": {
     "name": "hotatenohontate",
     "id": 32,
-    "liked": 2730,
+    "liked": 2731,
     "problem": 196,
     "difficulty": [
       {
@@ -17509,7 +17509,7 @@
       },
       {
         "problem": 91,
-        "liked": 1235,
+        "liked": 1236,
         "variant": 1
       },
       {
@@ -17528,7 +17528,7 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 2644,
+        "liked": 2645,
         "problem": 188,
         "difficulty": [
           {
@@ -17548,7 +17548,7 @@
           },
           {
             "problem": 86,
-            "liked": 1187,
+            "liked": 1188,
             "variant": 1
           },
           {
@@ -21089,7 +21089,7 @@
   "半袖": {
     "name": "半袖",
     "id": 46,
-    "liked": 1875,
+    "liked": 1876,
     "problem": 131,
     "difficulty": [
       {
@@ -21109,7 +21109,7 @@
       },
       {
         "problem": 30,
-        "liked": 522,
+        "liked": 523,
         "variant": 0
       },
       {
@@ -21713,7 +21713,7 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 36,
+        "liked": 37,
         "problem": 3,
         "difficulty": [
           {
@@ -21733,7 +21733,7 @@
           },
           {
             "problem": 2,
-            "liked": 21,
+            "liked": 22,
             "variant": 0
           },
           {
@@ -23432,7 +23432,7 @@
   "(空欄)": {
     "name": "(空欄)",
     "id": 38,
-    "liked": 1118,
+    "liked": 1119,
     "problem": 96,
     "difficulty": [
       {
@@ -23452,7 +23452,7 @@
       },
       {
         "problem": 42,
-        "liked": 489,
+        "liked": 490,
         "variant": 10
       },
       {
@@ -23627,7 +23627,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 45,
+        "liked": 46,
         "problem": 2,
         "difficulty": [
           {
@@ -23647,7 +23647,7 @@
           },
           {
             "problem": 1,
-            "liked": 28,
+            "liked": 29,
             "variant": 0
           },
           {
@@ -29060,7 +29060,7 @@
   "udop": {
     "name": "udop",
     "id": 29,
-    "liked": 3472,
+    "liked": 3473,
     "problem": 264,
     "difficulty": [
       {
@@ -29070,7 +29070,7 @@
       },
       {
         "problem": 57,
-        "liked": 989,
+        "liked": 990,
         "variant": 1
       },
       {
@@ -29567,7 +29567,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 164,
+        "liked": 165,
         "problem": 11,
         "difficulty": [
           {
@@ -29577,7 +29577,7 @@
           },
           {
             "problem": 2,
-            "liked": 36,
+            "liked": 37,
             "variant": 0
           },
           {
@@ -40133,8 +40133,8 @@
   "K.N.Y.": {
     "name": "K.N.Y.",
     "id": 74,
-    "liked": 14315,
-    "problem": 979,
+    "liked": 14320,
+    "problem": 980,
     "difficulty": [
       {
         "problem": 0,
@@ -40142,23 +40142,23 @@
         "variant": 0
       },
       {
-        "problem": 185,
+        "problem": 186,
         "liked": 2624,
         "variant": 0
       },
       {
         "problem": 428,
-        "liked": 6536,
+        "liked": 6539,
         "variant": 1
       },
       {
         "problem": 260,
-        "liked": 3856,
+        "liked": 3857,
         "variant": 1
       },
       {
         "problem": 106,
-        "liked": 1299,
+        "liked": 1300,
         "variant": 3
       },
       {
@@ -40211,7 +40211,7 @@
       "シャカシャカ": {
         "name": "シャカシャカ",
         "id": 11,
-        "liked": 2538,
+        "liked": 2539,
         "problem": 192,
         "difficulty": [
           {
@@ -40236,7 +40236,7 @@
           },
           {
             "problem": 59,
-            "liked": 645,
+            "liked": 646,
             "variant": 3
           },
           {
@@ -40407,7 +40407,7 @@
         "name": "ぬりかべ",
         "id": 6,
         "liked": 600,
-        "problem": 49,
+        "problem": 50,
         "difficulty": [
           {
             "problem": 0,
@@ -40415,7 +40415,7 @@
             "variant": 0
           },
           {
-            "problem": 14,
+            "problem": 15,
             "liked": 164,
             "variant": 0
           },
@@ -40484,7 +40484,7 @@
       "ダブルチョコ": {
         "name": "ダブルチョコ",
         "id": 66,
-        "liked": 298,
+        "liked": 299,
         "problem": 19,
         "difficulty": [
           {
@@ -40499,7 +40499,7 @@
           },
           {
             "problem": 9,
-            "liked": 175,
+            "liked": 176,
             "variant": 0
           },
           {
@@ -40640,7 +40640,7 @@
       "美術館": {
         "name": "美術館",
         "id": 18,
-        "liked": 1192,
+        "liked": 1193,
         "problem": 72,
         "difficulty": [
           {
@@ -40660,7 +40660,7 @@
           },
           {
             "problem": 20,
-            "liked": 351,
+            "liked": 352,
             "variant": 0
           },
           {
@@ -40835,7 +40835,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 1361,
+        "liked": 1363,
         "problem": 97,
         "difficulty": [
           {
@@ -40850,7 +40850,7 @@
           },
           {
             "problem": 52,
-            "liked": 685,
+            "liked": 687,
             "variant": 0
           },
           {
@@ -43766,7 +43766,7 @@
   "謎垢": {
     "name": "謎垢",
     "id": 78,
-    "liked": 1547,
+    "liked": 1548,
     "problem": 253,
     "difficulty": [
       {
@@ -43786,7 +43786,7 @@
       },
       {
         "problem": 99,
-        "liked": 660,
+        "liked": 661,
         "variant": 16
       },
       {
@@ -43805,7 +43805,7 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 478,
+        "liked": 479,
         "problem": 103,
         "difficulty": [
           {
@@ -43825,7 +43825,7 @@
           },
           {
             "problem": 30,
-            "liked": 206,
+            "liked": 207,
             "variant": 2
           },
           {
@@ -45563,7 +45563,7 @@
   "ふぃぐ(旧)": {
     "name": "ふぃぐ(旧)",
     "id": 80,
-    "liked": 895,
+    "liked": 896,
     "problem": 86,
     "difficulty": [
       {
@@ -45583,7 +45583,7 @@
       },
       {
         "problem": 46,
-        "liked": 493,
+        "liked": 494,
         "variant": 0
       },
       {
@@ -45602,7 +45602,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 425,
+        "liked": 426,
         "problem": 49,
         "difficulty": [
           {
@@ -45622,7 +45622,7 @@
           },
           {
             "problem": 24,
-            "liked": 234,
+            "liked": 235,
             "variant": 0
           },
           {
@@ -49823,8 +49823,8 @@
   "MF": {
     "name": "MF",
     "id": 91,
-    "liked": 1021,
-    "problem": 153,
+    "liked": 1023,
+    "problem": 154,
     "difficulty": [
       {
         "problem": 0,
@@ -49847,9 +49847,9 @@
         "variant": 15
       },
       {
-        "problem": 72,
-        "liked": 373,
-        "variant": 48
+        "problem": 73,
+        "liked": 375,
+        "variant": 49
       },
       {
         "problem": 26,
@@ -49857,7 +49857,7 @@
         "variant": 20
       }
     ],
-    "variant": 92,
+    "variant": 93,
     "puzzle": {
       "ビルディングパズル": {
         "name": "ビルディングパズル",
@@ -50486,8 +50486,8 @@
       "数独": {
         "name": "数独",
         "id": 19,
-        "liked": 4,
-        "problem": 3,
+        "liked": 6,
+        "problem": 4,
         "difficulty": [
           {
             "problem": 0,
@@ -50510,9 +50510,9 @@
             "variant": 0
           },
           {
-            "problem": 3,
-            "liked": 4,
-            "variant": 3
+            "problem": 4,
+            "liked": 6,
+            "variant": 4
           },
           {
             "problem": 0,
@@ -50520,7 +50520,7 @@
             "variant": 0
           }
         ],
-        "variant": 3
+        "variant": 4
       },
       "Snake Egg": {
         "name": "Snake Egg",
@@ -52055,7 +52055,7 @@
   "うりよしきば": {
     "name": "うりよしきば",
     "id": 109,
-    "liked": 2582,
+    "liked": 2583,
     "problem": 229,
     "difficulty": [
       {
@@ -52075,7 +52075,7 @@
       },
       {
         "problem": 73,
-        "liked": 837,
+        "liked": 838,
         "variant": 5
       },
       {
@@ -52133,7 +52133,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 262,
+        "liked": 263,
         "problem": 21,
         "difficulty": [
           {
@@ -52153,7 +52153,7 @@
           },
           {
             "problem": 5,
-            "liked": 87,
+            "liked": 88,
             "variant": 0
           },
           {
@@ -63410,7 +63410,7 @@
   "willow": {
     "name": "willow",
     "id": 93,
-    "liked": 4536,
+    "liked": 4545,
     "problem": 400,
     "difficulty": [
       {
@@ -63425,12 +63425,12 @@
       },
       {
         "problem": 130,
-        "liked": 1698,
+        "liked": 1701,
         "variant": 0
       },
       {
         "problem": 173,
-        "liked": 1793,
+        "liked": 1799,
         "variant": 0
       },
       {
@@ -63566,7 +63566,7 @@
       "ましゅ": {
         "name": "ましゅ",
         "id": 2,
-        "liked": 223,
+        "liked": 232,
         "problem": 20,
         "difficulty": [
           {
@@ -63581,12 +63581,12 @@
           },
           {
             "problem": 9,
-            "liked": 99,
+            "liked": 102,
             "variant": 0
           },
           {
             "problem": 9,
-            "liked": 91,
+            "liked": 97,
             "variant": 0
           },
           {
@@ -64556,7 +64556,7 @@
   "我ヒトにあらず": {
     "name": "我ヒトにあらず",
     "id": 149,
-    "liked": 1311,
+    "liked": 1314,
     "problem": 69,
     "difficulty": [
       {
@@ -64576,7 +64576,7 @@
       },
       {
         "problem": 51,
-        "liked": 933,
+        "liked": 936,
         "variant": 0
       },
       {
@@ -64595,7 +64595,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 693,
+        "liked": 696,
         "problem": 35,
         "difficulty": [
           {
@@ -64615,7 +64615,7 @@
           },
           {
             "problem": 32,
-            "liked": 645,
+            "liked": 648,
             "variant": 0
           },
           {
@@ -79169,7 +79169,7 @@
   "ゲッソー": {
     "name": "ゲッソー",
     "id": 145,
-    "liked": 4206,
+    "liked": 4207,
     "problem": 443,
     "difficulty": [
       {
@@ -79189,7 +79189,7 @@
       },
       {
         "problem": 207,
-        "liked": 2199,
+        "liked": 2200,
         "variant": 18
       },
       {
@@ -79208,7 +79208,7 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 2077,
+        "liked": 2078,
         "problem": 211,
         "difficulty": [
           {
@@ -79228,7 +79228,7 @@
           },
           {
             "problem": 102,
-            "liked": 1232,
+            "liked": 1233,
             "variant": 1
           },
           {
@@ -84887,7 +84887,7 @@
   "索子": {
     "name": "索子",
     "id": 213,
-    "liked": 883,
+    "liked": 884,
     "problem": 60,
     "difficulty": [
       {
@@ -84912,7 +84912,7 @@
       },
       {
         "problem": 17,
-        "liked": 220,
+        "liked": 221,
         "variant": 0
       },
       {
@@ -85082,7 +85082,7 @@
       "フィルオミノ": {
         "name": "フィルオミノ",
         "id": 21,
-        "liked": 414,
+        "liked": 415,
         "problem": 27,
         "difficulty": [
           {
@@ -85107,7 +85107,7 @@
           },
           {
             "problem": 9,
-            "liked": 142,
+            "liked": 143,
             "variant": 0
           },
           {
@@ -91121,7 +91121,7 @@
   "fff": {
     "name": "fff",
     "id": 126,
-    "liked": 114,
+    "liked": 115,
     "problem": 10,
     "difficulty": [
       {
@@ -91141,7 +91141,7 @@
       },
       {
         "problem": 5,
-        "liked": 67,
+        "liked": 68,
         "variant": 0
       },
       {
@@ -91394,7 +91394,7 @@
       "スリザーリンク": {
         "name": "スリザーリンク",
         "id": 1,
-        "liked": 41,
+        "liked": 42,
         "problem": 2,
         "difficulty": [
           {
@@ -91414,7 +91414,7 @@
           },
           {
             "problem": 1,
-            "liked": 32,
+            "liked": 33,
             "variant": 0
           },
           {
@@ -96023,7 +96023,7 @@
   "ten986": {
     "name": "ten986",
     "id": 164,
-    "liked": 884,
+    "liked": 885,
     "problem": 103,
     "difficulty": [
       {
@@ -96033,7 +96033,7 @@
       },
       {
         "problem": 11,
-        "liked": 166,
+        "liked": 167,
         "variant": 2
       },
       {
@@ -96062,7 +96062,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 307,
+        "liked": 308,
         "problem": 34,
         "difficulty": [
           {
@@ -96072,7 +96072,7 @@
           },
           {
             "problem": 3,
-            "liked": 43,
+            "liked": 44,
             "variant": 1
           },
           {
@@ -101375,8 +101375,8 @@
   "4G@きずふぃろ": {
     "name": "4G@きずふぃろ",
     "id": 322,
-    "liked": 12513,
-    "problem": 1269,
+    "liked": 12520,
+    "problem": 1270,
     "difficulty": [
       {
         "problem": 0,
@@ -101395,12 +101395,12 @@
       },
       {
         "problem": 429,
-        "liked": 3857,
+        "liked": 3859,
         "variant": 0
       },
       {
-        "problem": 198,
-        "liked": 1270,
+        "problem": 199,
+        "liked": 1275,
         "variant": 0
       },
       {
@@ -101804,8 +101804,8 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 2038,
-        "problem": 204,
+        "liked": 2043,
+        "problem": 205,
         "difficulty": [
           {
             "problem": 0,
@@ -101828,8 +101828,8 @@
             "variant": 0
           },
           {
-            "problem": 39,
-            "liked": 249,
+            "problem": 40,
+            "liked": 254,
             "variant": 0
           },
           {
@@ -102233,7 +102233,7 @@
       "スリザーリンク": {
         "name": "スリザーリンク",
         "id": 1,
-        "liked": 119,
+        "liked": 120,
         "problem": 15,
         "difficulty": [
           {
@@ -102253,7 +102253,7 @@
           },
           {
             "problem": 7,
-            "liked": 61,
+            "liked": 62,
             "variant": 0
           },
           {
@@ -103832,7 +103832,7 @@
       "スターバトル": {
         "name": "スターバトル",
         "id": 68,
-        "liked": 24,
+        "liked": 25,
         "problem": 2,
         "difficulty": [
           {
@@ -103852,7 +103852,7 @@
           },
           {
             "problem": 1,
-            "liked": 8,
+            "liked": 9,
             "variant": 0
           },
           {
@@ -108494,7 +108494,7 @@
   "_AtomicNeoN_": {
     "name": "_AtomicNeoN_",
     "id": 358,
-    "liked": 16078,
+    "liked": 16079,
     "problem": 1175,
     "difficulty": [
       {
@@ -108504,7 +108504,7 @@
       },
       {
         "problem": 197,
-        "liked": 2510,
+        "liked": 2511,
         "variant": 1
       },
       {
@@ -108533,7 +108533,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 11556,
+        "liked": 11557,
         "problem": 791,
         "difficulty": [
           {
@@ -108543,7 +108543,7 @@
           },
           {
             "problem": 85,
-            "liked": 1270,
+            "liked": 1271,
             "variant": 1
           },
           {
@@ -112757,7 +112757,7 @@
   "lilva": {
     "name": "lilva",
     "id": 389,
-    "liked": 3891,
+    "liked": 3892,
     "problem": 308,
     "difficulty": [
       {
@@ -112782,7 +112782,7 @@
       },
       {
         "problem": 91,
-        "liked": 901,
+        "liked": 902,
         "variant": 3
       },
       {
@@ -112835,7 +112835,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 629,
+        "liked": 630,
         "problem": 45,
         "difficulty": [
           {
@@ -112860,7 +112860,7 @@
           },
           {
             "problem": 24,
-            "liked": 354,
+            "liked": 355,
             "variant": 0
           },
           {
@@ -115187,7 +115187,7 @@
   "vanillaice": {
     "name": "vanillaice",
     "id": 397,
-    "liked": 2306,
+    "liked": 2307,
     "problem": 156,
     "difficulty": [
       {
@@ -115212,7 +115212,7 @@
       },
       {
         "problem": 49,
-        "liked": 659,
+        "liked": 660,
         "variant": 10
       },
       {
@@ -115382,7 +115382,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 410,
+        "liked": 411,
         "problem": 21,
         "difficulty": [
           {
@@ -115407,7 +115407,7 @@
           },
           {
             "problem": 11,
-            "liked": 162,
+            "liked": 163,
             "variant": 6
           },
           {
@@ -124835,7 +124835,7 @@
   "a": {
     "name": "a",
     "id": 493,
-    "liked": 816,
+    "liked": 817,
     "problem": 101,
     "difficulty": [
       {
@@ -124855,7 +124855,7 @@
       },
       {
         "problem": 38,
-        "liked": 297,
+        "liked": 298,
         "variant": 0
       },
       {
@@ -124874,7 +124874,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 816,
+        "liked": 817,
         "problem": 101,
         "difficulty": [
           {
@@ -124894,7 +124894,7 @@
           },
           {
             "problem": 38,
-            "liked": 297,
+            "liked": 298,
             "variant": 0
           },
           {
@@ -125234,7 +125234,7 @@
   "ふぃぐ": {
     "name": "ふぃぐ",
     "id": 504,
-    "liked": 2443,
+    "liked": 2444,
     "problem": 201,
     "difficulty": [
       {
@@ -125244,7 +125244,7 @@
       },
       {
         "problem": 37,
-        "liked": 441,
+        "liked": 442,
         "variant": 0
       },
       {
@@ -126638,7 +126638,7 @@
       "ボサノワ": {
         "name": "ボサノワ",
         "id": 258,
-        "liked": 19,
+        "liked": 20,
         "problem": 2,
         "difficulty": [
           {
@@ -126648,7 +126648,7 @@
           },
           {
             "problem": 1,
-            "liked": 12,
+            "liked": 13,
             "variant": 0
           },
           {
@@ -129998,7 +129998,7 @@
   "ぶすじま": {
     "name": "ぶすじま",
     "id": 511,
-    "liked": 8220,
+    "liked": 8226,
     "problem": 570,
     "difficulty": [
       {
@@ -130013,12 +130013,12 @@
       },
       {
         "problem": 362,
-        "liked": 5521,
+        "liked": 5526,
         "variant": 7
       },
       {
         "problem": 120,
-        "liked": 1759,
+        "liked": 1760,
         "variant": 3
       },
       {
@@ -130037,7 +130037,7 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 7006,
+        "liked": 7008,
         "problem": 483,
         "difficulty": [
           {
@@ -130052,7 +130052,7 @@
           },
           {
             "problem": 311,
-            "liked": 4810,
+            "liked": 4812,
             "variant": 4
           },
           {
@@ -130232,7 +130232,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 422,
+        "liked": 423,
         "problem": 26,
         "difficulty": [
           {
@@ -130247,7 +130247,7 @@
           },
           {
             "problem": 17,
-            "liked": 294,
+            "liked": 295,
             "variant": 1
           },
           {
@@ -130661,7 +130661,7 @@
       "Castle Wall": {
         "name": "Castle Wall",
         "id": 121,
-        "liked": 63,
+        "liked": 65,
         "problem": 6,
         "difficulty": [
           {
@@ -130676,7 +130676,7 @@
           },
           {
             "problem": 4,
-            "liked": 39,
+            "liked": 41,
             "variant": 0
           },
           {
@@ -130934,7 +130934,7 @@
       "ダブルチョコ": {
         "name": "ダブルチョコ",
         "id": 66,
-        "liked": 22,
+        "liked": 23,
         "problem": 1,
         "difficulty": [
           {
@@ -130954,7 +130954,7 @@
           },
           {
             "problem": 1,
-            "liked": 22,
+            "liked": 23,
             "variant": 0
           },
           {
@@ -141815,7 +141815,7 @@
   "manzoku": {
     "name": "manzoku",
     "id": 574,
-    "liked": 274,
+    "liked": 275,
     "problem": 19,
     "difficulty": [
       {
@@ -141835,7 +141835,7 @@
       },
       {
         "problem": 7,
-        "liked": 99,
+        "liked": 100,
         "variant": 0
       },
       {
@@ -142010,7 +142010,7 @@
       "修学旅行の夜": {
         "name": "修学旅行の夜",
         "id": 58,
-        "liked": 9,
+        "liked": 10,
         "problem": 1,
         "difficulty": [
           {
@@ -142030,7 +142030,7 @@
           },
           {
             "problem": 1,
-            "liked": 9,
+            "liked": 10,
             "variant": 0
           },
           {
@@ -142529,7 +142529,7 @@
   "気楽": {
     "name": "気楽",
     "id": 71,
-    "liked": 243,
+    "liked": 244,
     "problem": 29,
     "difficulty": [
       {
@@ -142544,7 +142544,7 @@
       },
       {
         "problem": 19,
-        "liked": 171,
+        "liked": 172,
         "variant": 1
       },
       {
@@ -142802,7 +142802,7 @@
       "四角に切れ": {
         "name": "四角に切れ",
         "id": 16,
-        "liked": 11,
+        "liked": 12,
         "problem": 2,
         "difficulty": [
           {
@@ -142817,7 +142817,7 @@
           },
           {
             "problem": 1,
-            "liked": 6,
+            "liked": 7,
             "variant": 0
           },
           {
@@ -148697,7 +148697,7 @@
   "x0_000": {
     "name": "x0_000",
     "id": 747,
-    "liked": 5161,
+    "liked": 5164,
     "problem": 530,
     "difficulty": [
       {
@@ -148712,12 +148712,12 @@
       },
       {
         "problem": 276,
-        "liked": 2829,
+        "liked": 2831,
         "variant": 0
       },
       {
         "problem": 198,
-        "liked": 1766,
+        "liked": 1767,
         "variant": 0
       },
       {
@@ -148736,7 +148736,7 @@
       "ましゅ": {
         "name": "ましゅ",
         "id": 2,
-        "liked": 362,
+        "liked": 363,
         "problem": 30,
         "difficulty": [
           {
@@ -148751,7 +148751,7 @@
           },
           {
             "problem": 17,
-            "liked": 216,
+            "liked": 217,
             "variant": 0
           },
           {
@@ -148892,7 +148892,7 @@
       "ぬりかべ": {
         "name": "ぬりかべ",
         "id": 6,
-        "liked": 266,
+        "liked": 267,
         "problem": 28,
         "difficulty": [
           {
@@ -148912,7 +148912,7 @@
           },
           {
             "problem": 18,
-            "liked": 166,
+            "liked": 167,
             "variant": 0
           },
           {
@@ -148931,7 +148931,7 @@
       "クロット": {
         "name": "クロット",
         "id": 31,
-        "liked": 242,
+        "liked": 243,
         "problem": 34,
         "difficulty": [
           {
@@ -148946,7 +148946,7 @@
           },
           {
             "problem": 18,
-            "liked": 149,
+            "liked": 150,
             "variant": 0
           },
           {
@@ -150740,7 +150740,7 @@
   "ぬーんの民": {
     "name": "ぬーんの民",
     "id": 761,
-    "liked": 2416,
+    "liked": 2418,
     "problem": 212,
     "difficulty": [
       {
@@ -150770,7 +150770,7 @@
       },
       {
         "problem": 6,
-        "liked": 46,
+        "liked": 48,
         "variant": 0
       }
     ],
@@ -150935,7 +150935,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 1073,
+        "liked": 1075,
         "problem": 75,
         "difficulty": [
           {
@@ -150965,7 +150965,7 @@
           },
           {
             "problem": 2,
-            "liked": 30,
+            "liked": 32,
             "variant": 0
           }
         ],
@@ -152975,8 +152975,8 @@
   "サンゴ三号さん": {
     "name": "サンゴ三号さん",
     "id": 580,
-    "liked": 1726,
-    "problem": 131,
+    "liked": 1727,
+    "problem": 132,
     "difficulty": [
       {
         "problem": 0,
@@ -152999,8 +152999,8 @@
         "variant": 1
       },
       {
-        "problem": 14,
-        "liked": 141,
+        "problem": 15,
+        "liked": 142,
         "variant": 0
       },
       {
@@ -153053,8 +153053,8 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 1312,
-        "problem": 95,
+        "liked": 1313,
+        "problem": 96,
         "difficulty": [
           {
             "problem": 0,
@@ -153077,8 +153077,8 @@
             "variant": 1
           },
           {
-            "problem": 8,
-            "liked": 76,
+            "problem": 9,
+            "liked": 77,
             "variant": 0
           },
           {
@@ -153728,7 +153728,7 @@
   "Lucky_Cracker": {
     "name": "Lucky_Cracker",
     "id": 805,
-    "liked": 1506,
+    "liked": 1507,
     "problem": 116,
     "difficulty": [
       {
@@ -153738,7 +153738,7 @@
       },
       {
         "problem": 78,
-        "liked": 1002,
+        "liked": 1003,
         "variant": 0
       },
       {
@@ -155405,7 +155405,7 @@
       "ドッスンフワリ": {
         "name": "ドッスンフワリ",
         "id": 45,
-        "liked": 24,
+        "liked": 25,
         "problem": 2,
         "difficulty": [
           {
@@ -155415,7 +155415,7 @@
           },
           {
             "problem": 2,
-            "liked": 24,
+            "liked": 25,
             "variant": 0
           },
           {
@@ -155525,7 +155525,7 @@
   "mudo": {
     "name": "mudo",
     "id": 692,
-    "liked": 979,
+    "liked": 980,
     "problem": 158,
     "difficulty": [
       {
@@ -155550,7 +155550,7 @@
       },
       {
         "problem": 36,
-        "liked": 192,
+        "liked": 193,
         "variant": 11
       },
       {
@@ -155876,7 +155876,7 @@
       "ぬりかべ": {
         "name": "ぬりかべ",
         "id": 6,
-        "liked": 84,
+        "liked": 85,
         "problem": 15,
         "difficulty": [
           {
@@ -155901,7 +155901,7 @@
           },
           {
             "problem": 7,
-            "liked": 30,
+            "liked": 31,
             "variant": 1
           },
           {
@@ -160370,7 +160370,7 @@
   "ミレイ": {
     "name": "ミレイ",
     "id": 889,
-    "liked": 1116,
+    "liked": 1117,
     "problem": 95,
     "difficulty": [
       {
@@ -160390,7 +160390,7 @@
       },
       {
         "problem": 34,
-        "liked": 402,
+        "liked": 403,
         "variant": 11
       },
       {
@@ -160409,7 +160409,7 @@
       "ましゅ": {
         "name": "ましゅ",
         "id": 2,
-        "liked": 604,
+        "liked": 605,
         "problem": 45,
         "difficulty": [
           {
@@ -160429,7 +160429,7 @@
           },
           {
             "problem": 17,
-            "liked": 230,
+            "liked": 231,
             "variant": 5
           },
           {
@@ -162182,8 +162182,8 @@
   "ko7ka": {
     "name": "ko7ka",
     "id": 512,
-    "liked": 499,
-    "problem": 66,
+    "liked": 501,
+    "problem": 67,
     "difficulty": [
       {
         "problem": 0,
@@ -162192,7 +162192,7 @@
       },
       {
         "problem": 2,
-        "liked": 14,
+        "liked": 15,
         "variant": 0
       },
       {
@@ -162206,9 +162206,9 @@
         "variant": 4
       },
       {
-        "problem": 3,
-        "liked": 8,
-        "variant": 0
+        "problem": 4,
+        "liked": 9,
+        "variant": 1
       },
       {
         "problem": 0,
@@ -162216,7 +162216,7 @@
         "variant": 0
       }
     ],
-    "variant": 6,
+    "variant": 7,
     "puzzle": {
       "プッテリア": {
         "name": "プッテリア",
@@ -162572,8 +162572,8 @@
       "Doppelblock/ビトゥイーン・サム": {
         "name": "Doppelblock/ビトゥイーン・サム",
         "id": 170,
-        "liked": 32,
-        "problem": 6,
+        "liked": 34,
+        "problem": 7,
         "difficulty": [
           {
             "problem": 0,
@@ -162582,7 +162582,7 @@
           },
           {
             "problem": 1,
-            "liked": 4,
+            "liked": 5,
             "variant": 0
           },
           {
@@ -162596,9 +162596,9 @@
             "variant": 1
           },
           {
-            "problem": 0,
-            "liked": 0,
-            "variant": 0
+            "problem": 1,
+            "liked": 1,
+            "variant": 1
           },
           {
             "problem": 0,
@@ -162606,7 +162606,7 @@
             "variant": 0
           }
         ],
-        "variant": 1
+        "variant": 2
       }
     },
     "count": 10
@@ -163256,7 +163256,7 @@
   "彪雅＆瀧雅": {
     "name": "彪雅＆瀧雅",
     "id": 947,
-    "liked": 265,
+    "liked": 266,
     "problem": 28,
     "difficulty": [
       {
@@ -163271,7 +163271,7 @@
       },
       {
         "problem": 4,
-        "liked": 27,
+        "liked": 28,
         "variant": 0
       },
       {
@@ -163373,7 +163373,7 @@
       "ヘルゴルフ": {
         "name": "ヘルゴルフ",
         "id": 13,
-        "liked": 43,
+        "liked": 44,
         "problem": 5,
         "difficulty": [
           {
@@ -163388,7 +163388,7 @@
           },
           {
             "problem": 1,
-            "liked": 5,
+            "liked": 6,
             "variant": 0
           },
           {
@@ -166457,7 +166457,7 @@
   "UNP": {
     "name": "UNP",
     "id": 1002,
-    "liked": 2960,
+    "liked": 2962,
     "problem": 260,
     "difficulty": [
       {
@@ -166477,7 +166477,7 @@
       },
       {
         "problem": 149,
-        "liked": 1809,
+        "liked": 1811,
         "variant": 12
       },
       {
@@ -166535,7 +166535,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 355,
+        "liked": 356,
         "problem": 26,
         "difficulty": [
           {
@@ -166555,7 +166555,7 @@
           },
           {
             "problem": 18,
-            "liked": 258,
+            "liked": 259,
             "variant": 6
           },
           {
@@ -166769,7 +166769,7 @@
       "ダブルチョコ": {
         "name": "ダブルチョコ",
         "id": 66,
-        "liked": 320,
+        "liked": 321,
         "problem": 23,
         "difficulty": [
           {
@@ -166789,7 +166789,7 @@
           },
           {
             "problem": 11,
-            "liked": 172,
+            "liked": 173,
             "variant": 2
           },
           {
@@ -170939,8 +170939,8 @@
   "鷹野リン": {
     "name": "鷹野リン",
     "id": 584,
-    "liked": 3587,
-    "problem": 513,
+    "liked": 3590,
+    "problem": 514,
     "difficulty": [
       {
         "problem": 0,
@@ -170954,12 +170954,12 @@
       },
       {
         "problem": 152,
-        "liked": 1263,
+        "liked": 1264,
         "variant": 11
       },
       {
-        "problem": 290,
-        "liked": 1853,
+        "problem": 291,
+        "liked": 1855,
         "variant": 11
       },
       {
@@ -170978,8 +170978,8 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 2471,
-        "problem": 385,
+        "liked": 2473,
+        "problem": 386,
         "difficulty": [
           {
             "problem": 0,
@@ -170997,8 +170997,8 @@
             "variant": 10
           },
           {
-            "problem": 245,
-            "liked": 1490,
+            "problem": 246,
+            "liked": 1492,
             "variant": 10
           },
           {
@@ -171095,7 +171095,7 @@
       "美術館": {
         "name": "美術館",
         "id": 18,
-        "liked": 256,
+        "liked": 257,
         "problem": 24,
         "difficulty": [
           {
@@ -171110,7 +171110,7 @@
           },
           {
             "problem": 6,
-            "liked": 88,
+            "liked": 89,
             "variant": 0
           },
           {
@@ -172508,7 +172508,7 @@
   "subetenokotae42": {
     "name": "subetenokotae42",
     "id": 1147,
-    "liked": 347,
+    "liked": 348,
     "problem": 56,
     "difficulty": [
       {
@@ -172528,7 +172528,7 @@
       },
       {
         "problem": 23,
-        "liked": 157,
+        "liked": 158,
         "variant": 0
       },
       {
@@ -172547,7 +172547,7 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 324,
+        "liked": 325,
         "problem": 54,
         "difficulty": [
           {
@@ -172567,7 +172567,7 @@
           },
           {
             "problem": 23,
-            "liked": 157,
+            "liked": 158,
             "variant": 0
           },
           {
@@ -172628,7 +172628,7 @@
   "ナポリタン": {
     "name": "ナポリタン",
     "id": 1150,
-    "liked": 634,
+    "liked": 636,
     "problem": 93,
     "difficulty": [
       {
@@ -172643,7 +172643,7 @@
       },
       {
         "problem": 53,
-        "liked": 374,
+        "liked": 376,
         "variant": 0
       },
       {
@@ -172667,7 +172667,7 @@
       "LITS": {
         "name": "LITS",
         "id": 10,
-        "liked": 615,
+        "liked": 617,
         "problem": 90,
         "difficulty": [
           {
@@ -172682,7 +172682,7 @@
           },
           {
             "problem": 51,
-            "liked": 359,
+            "liked": 361,
             "variant": 0
           },
           {
@@ -176912,7 +176912,7 @@
   "みんにょこ": {
     "name": "みんにょこ",
     "id": 1247,
-    "liked": 4280,
+    "liked": 4283,
     "problem": 433,
     "difficulty": [
       {
@@ -176927,7 +176927,7 @@
       },
       {
         "problem": 169,
-        "liked": 1762,
+        "liked": 1763,
         "variant": 0
       },
       {
@@ -176937,7 +176937,7 @@
       },
       {
         "problem": 20,
-        "liked": 161,
+        "liked": 163,
         "variant": 0
       },
       {
@@ -176951,7 +176951,7 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 1978,
+        "liked": 1980,
         "problem": 198,
         "difficulty": [
           {
@@ -176976,7 +176976,7 @@
           },
           {
             "problem": 10,
-            "liked": 96,
+            "liked": 98,
             "variant": 0
           },
           {
@@ -176990,7 +176990,7 @@
       "へやわけ": {
         "name": "へやわけ",
         "id": 7,
-        "liked": 1293,
+        "liked": 1294,
         "problem": 119,
         "difficulty": [
           {
@@ -177005,7 +177005,7 @@
           },
           {
             "problem": 43,
-            "liked": 521,
+            "liked": 522,
             "variant": 0
           },
           {
@@ -181085,8 +181085,8 @@
   "カルコゲン": {
     "name": "カルコゲン",
     "id": 1334,
-    "liked": 2913,
-    "problem": 552,
+    "liked": 2917,
+    "problem": 553,
     "difficulty": [
       {
         "problem": 0,
@@ -181099,8 +181099,8 @@
         "variant": 22
       },
       {
-        "problem": 223,
-        "liked": 1265,
+        "problem": 224,
+        "liked": 1269,
         "variant": 33
       },
       {
@@ -185102,7 +185102,7 @@
       "バーンズ": {
         "name": "バーンズ",
         "id": 124,
-        "liked": 39,
+        "liked": 40,
         "problem": 7,
         "difficulty": [
           {
@@ -185117,7 +185117,7 @@
           },
           {
             "problem": 6,
-            "liked": 32,
+            "liked": 33,
             "variant": 0
           },
           {
@@ -187403,8 +187403,8 @@
       "ナンボミノ": {
         "name": "ナンボミノ",
         "id": 292,
-        "liked": 3,
-        "problem": 1,
+        "liked": 6,
+        "problem": 2,
         "difficulty": [
           {
             "problem": 0,
@@ -187417,8 +187417,8 @@
             "variant": 0
           },
           {
-            "problem": 0,
-            "liked": 0,
+            "problem": 1,
+            "liked": 3,
             "variant": 0
           },
           {
@@ -189089,7 +189089,7 @@
   "米払一次郎": {
     "name": "米払一次郎",
     "id": 1350,
-    "liked": 196,
+    "liked": 197,
     "problem": 24,
     "difficulty": [
       {
@@ -189109,7 +189109,7 @@
       },
       {
         "problem": 8,
-        "liked": 70,
+        "liked": 71,
         "variant": 0
       },
       {
@@ -189362,7 +189362,7 @@
       "橋をかけろ": {
         "name": "橋をかけろ",
         "id": 15,
-        "liked": 13,
+        "liked": 14,
         "problem": 1,
         "difficulty": [
           {
@@ -189382,7 +189382,7 @@
           },
           {
             "problem": 1,
-            "liked": 13,
+            "liked": 14,
             "variant": 0
           },
           {
@@ -189524,7 +189524,7 @@
   "信号無視": {
     "name": "信号無視",
     "id": 1351,
-    "liked": 1147,
+    "liked": 1148,
     "problem": 222,
     "difficulty": [
       {
@@ -189534,7 +189534,7 @@
       },
       {
         "problem": 55,
-        "liked": 320,
+        "liked": 321,
         "variant": 0
       },
       {
@@ -190031,7 +190031,7 @@
       "ホタルビーム": {
         "name": "ホタルビーム",
         "id": 82,
-        "liked": 14,
+        "liked": 15,
         "problem": 2,
         "difficulty": [
           {
@@ -190041,7 +190041,7 @@
           },
           {
             "problem": 2,
-            "liked": 14,
+            "liked": 15,
             "variant": 0
           },
           {
@@ -190625,8 +190625,8 @@
   "chip": {
     "name": "chip",
     "id": 1366,
-    "liked": 240,
-    "problem": 20,
+    "liked": 244,
+    "problem": 22,
     "difficulty": [
       {
         "problem": 0,
@@ -190649,8 +190649,8 @@
         "variant": 0
       },
       {
-        "problem": 4,
-        "liked": 22,
+        "problem": 6,
+        "liked": 26,
         "variant": 0
       },
       {
@@ -190664,8 +190664,8 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 219,
-        "problem": 17,
+        "liked": 223,
+        "problem": 19,
         "difficulty": [
           {
             "problem": 0,
@@ -190688,8 +190688,8 @@
             "variant": 0
           },
           {
-            "problem": 3,
-            "liked": 20,
+            "problem": 5,
+            "liked": 24,
             "variant": 0
           },
           {
@@ -192872,8 +192872,8 @@
   "izkdic": {
     "name": "izkdic",
     "id": 1427,
-    "liked": 1186,
-    "problem": 101,
+    "liked": 1192,
+    "problem": 102,
     "difficulty": [
       {
         "problem": 0,
@@ -192886,8 +192886,8 @@
         "variant": 0
       },
       {
-        "problem": 37,
-        "liked": 449,
+        "problem": 38,
+        "liked": 454,
         "variant": 1
       },
       {
@@ -192897,7 +192897,7 @@
       },
       {
         "problem": 17,
-        "liked": 182,
+        "liked": 183,
         "variant": 0
       },
       {
@@ -192911,8 +192911,8 @@
       "ヤジリン": {
         "name": "ヤジリン",
         "id": 3,
-        "liked": 1158,
-        "problem": 98,
+        "liked": 1163,
+        "problem": 99,
         "difficulty": [
           {
             "problem": 0,
@@ -192925,8 +192925,8 @@
             "variant": 0
           },
           {
-            "problem": 35,
-            "liked": 426,
+            "problem": 36,
+            "liked": 430,
             "variant": 1
           },
           {
@@ -192936,7 +192936,7 @@
           },
           {
             "problem": 17,
-            "liked": 182,
+            "liked": 183,
             "variant": 0
           },
           {
@@ -193028,7 +193028,7 @@
       "∀人∃ＨＥＹＡ": {
         "name": "∀人∃ＨＥＹＡ",
         "id": 72,
-        "liked": 9,
+        "liked": 10,
         "problem": 1,
         "difficulty": [
           {
@@ -193043,7 +193043,7 @@
           },
           {
             "problem": 1,
-            "liked": 9,
+            "liked": 10,
             "variant": 0
           },
           {
@@ -195758,7 +195758,7 @@
   "きなこ屋'": {
     "name": "きなこ屋'",
     "id": 1562,
-    "liked": 167,
+    "liked": 171,
     "problem": 37,
     "difficulty": [
       {
@@ -195778,12 +195778,12 @@
       },
       {
         "problem": 12,
-        "liked": 47,
+        "liked": 50,
         "variant": 2
       },
       {
         "problem": 15,
-        "liked": 52,
+        "liked": 53,
         "variant": 1
       },
       {
@@ -195797,7 +195797,7 @@
       "シャカシャカ": {
         "name": "シャカシャカ",
         "id": 11,
-        "liked": 167,
+        "liked": 171,
         "problem": 37,
         "difficulty": [
           {
@@ -195817,12 +195817,12 @@
           },
           {
             "problem": 12,
-            "liked": 47,
+            "liked": 50,
             "variant": 2
           },
           {
             "problem": 15,
-            "liked": 52,
+            "liked": 53,
             "variant": 1
           },
           {
@@ -195920,7 +195920,7 @@
   "cit": {
     "name": "cit",
     "id": 1558,
-    "liked": 1,
+    "liked": 2,
     "problem": 1,
     "difficulty": [
       {
@@ -195940,7 +195940,7 @@
       },
       {
         "problem": 1,
-        "liked": 1,
+        "liked": 2,
         "variant": 0
       },
       {
@@ -195959,7 +195959,7 @@
       "天体ショー": {
         "name": "天体ショー",
         "id": 17,
-        "liked": 1,
+        "liked": 2,
         "problem": 1,
         "difficulty": [
           {
@@ -195979,7 +195979,88 @@
           },
           {
             "problem": 1,
-            "liked": 1,
+            "liked": 2,
+            "variant": 0
+          },
+          {
+            "problem": 0,
+            "liked": 0,
+            "variant": 0
+          },
+          {
+            "problem": 0,
+            "liked": 0,
+            "variant": 0
+          }
+        ],
+        "variant": 0
+      }
+    },
+    "count": 1
+  },
+  "ペンギン信者": {
+    "name": "ペンギン信者",
+    "id": 1572,
+    "liked": 6,
+    "problem": 1,
+    "difficulty": [
+      {
+        "problem": 0,
+        "liked": 0,
+        "variant": 0
+      },
+      {
+        "problem": 0,
+        "liked": 0,
+        "variant": 0
+      },
+      {
+        "problem": 0,
+        "liked": 0,
+        "variant": 0
+      },
+      {
+        "problem": 1,
+        "liked": 6,
+        "variant": 0
+      },
+      {
+        "problem": 0,
+        "liked": 0,
+        "variant": 0
+      },
+      {
+        "problem": 0,
+        "liked": 0,
+        "variant": 0
+      }
+    ],
+    "variant": 0,
+    "puzzle": {
+      "ヤジリン": {
+        "name": "ヤジリン",
+        "id": 3,
+        "liked": 6,
+        "problem": 1,
+        "difficulty": [
+          {
+            "problem": 0,
+            "liked": 0,
+            "variant": 0
+          },
+          {
+            "problem": 0,
+            "liked": 0,
+            "variant": 0
+          },
+          {
+            "problem": 0,
+            "liked": 0,
+            "variant": 0
+          },
+          {
+            "problem": 1,
+            "liked": 6,
             "variant": 0
           },
           {
