@@ -18,7 +18,7 @@ async function setPage(sort, order, sort_sub) {
     var queryType = null; var anotherType = null;
     if (urlParams.has("author") && urlParams.has("puzzle")) {
         const puzzleId = Number(urlParams.get("puzzle"))
-        const puzzleName = await getName(puzzleId, "puzzle")
+        const puzzleName = await getNameById(puzzleId, "puzzle")
         const dataAuthor = await getData(Number(urlParams.get("author")), "author")
         if (puzzleId === 0) {
             data = dataAuthor
@@ -26,7 +26,7 @@ async function setPage(sort, order, sort_sub) {
             anotherType = "puzzle"
         } else {
             is_both = true
-            data = dataAuthor.puzzle[puzzleName]
+            data = dataAuthor.puzzle[puzzleId]
         }
         if (! data){
             data = initData()
@@ -47,7 +47,6 @@ async function setPage(sort, order, sort_sub) {
         location.href = "../"
         return
     }
-
     setTitle(data.name)
     setPsjpLink(urlParams)
     setTweetUrl()
@@ -123,7 +122,7 @@ function setTitle(name) {
 function setPsjpLink(params) {
     var elements = document.getElementsByClassName("psjpLink")
     for(var element of elements) {
-        var url = new URL("https://puzsq.jp/main/index.php")
+        var url = new URL("https://puzsq.logicpuzzle.app")
         url.search = params.toString()
         element.href = url.href
     }

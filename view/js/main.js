@@ -30,7 +30,7 @@ async function getQueryId(elementId, type) {
     if (name.length === 0) {
         return null
     }
-    const dataId = await getId(name, type);
+    const dataId = await getIdByName(name, type);
     if (dataId === null) {
         showAlert(name, type);
         return null
@@ -47,9 +47,6 @@ function goGraph() {
 };
 
 function showAlert(name, type) {
-    if (type === "author") {
-        alert("「" + name + "」という" + "作者は見つかりませんでした。" )
-    } else {
-        alert("「" + name + "」という" + "パズルは投稿されていません。" )
-    }
+    typeDisplay = (type == "author")? "作者": "パズル"
+    alert("「" + name + "」という" + typeDisplay + "は見つかりませんでした。" )
 }

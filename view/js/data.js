@@ -30,20 +30,22 @@ async function getData(id, type) {
     return null
 }
 
-async function getId(name, type) {
-    var data = await loadData(type)
-    if ( name in data ) {
-        return data[name].id
+async function getIdByName(name, type) {
+    dataType = (type == "puzzle")? "kind": "user"
+    var data = await loadData(dataType)
+    for (const key in data) {
+        if (data[key].name === name) {
+            return key;
+        }
     }
     return null
 }
 
-async function getName(id, type) {
+async function getNameById(id, type) {
+    dataType = (type == "puzzle")? "kind": "user"
     var data = await loadData(type)
-    for (const key in data) {
-        if (data[key].id === id) {
-            return key;
-        }
+    if ( id in data ) {
+        return data[id].name
     }
     return null
 }
