@@ -19,7 +19,12 @@ async function setPage(sort, order, sort_sub) {
     if (urlParams.has("author") && urlParams.has("puzzle")) {
         const puzzleId = Number(urlParams.get("puzzle"))
         const puzzleName = await getNameById(puzzleId, "puzzle")
-        const dataAuthor = await getData(Number(urlParams.get("author")), "author")
+        const author_id = Number(urlParams.get("author"))
+        var dataAuthor = await getData(author_id, "author")
+        if (! dataAuthor) {
+            dataAuthor = initData()
+            dataAuthor.name = await getNameById(author_id, "author")
+        }
         if (puzzleId === 0) {
             data = dataAuthor
             queryType = "author"
@@ -42,10 +47,10 @@ async function setPage(sort, order, sort_sub) {
         }
         const queryId = Number(urlParams.get(queryType))
         data = await getData(queryId, queryType)
-    }
-    if (!data) {
-        location.href = "../"
-        return
+        if (! data) {
+            data = initData()
+            data.name = await getNameById(queryId, queryType)
+        }
     }
     setTitle(data.name)
     setPsjpLink(urlParams)

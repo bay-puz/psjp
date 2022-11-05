@@ -43,7 +43,7 @@ async function getIdByName(name, type) {
 
 async function getNameById(id, type) {
     dataType = (type == "puzzle")? "kind": "user"
-    var data = await loadData(type)
+    var data = await loadData(dataType)
     if ( id in data ) {
         return data[id].name
     }
