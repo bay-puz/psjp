@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*- #
 import argparse
 import json
-from sys import stderr
 
-def load(file: str):
+def load(file: str) -> dict:
      with open(file, encoding='utf8') as f:
-        data_json = f.read()
-        return json.loads(data_json)
+        data = f.read()
+        return json.loads(data)
+
+def write(data: dict, file: str) -> None:
+     with open(file, 'w', encoding='utf8') as f:
+        json.dump(data, f)
 
 def main():
     parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
@@ -34,19 +37,19 @@ def main():
 
     for fav in favorites.values():
         p_id = str(fav['prob'])
+        # 問題が削除されていることがあるのでチェックする
         if p_id not in base:
-            print(f"no problem in favorites: {p_id}", file=stderr)
             continue
         base[p_id][fav_n] += 1
  
     for ans in answered.values():
         p_id = str(ans['prob'])
+        # 問題が削除されていることがあるのでチェックする
         if p_id not in base:
-            print(f"no problem in answered: {p_id}", file=stderr)
             continue
         base[p_id][ans_n] += 1
         
-    print(json.dumps(base))
+    write(base, args.b)
 
 
 if __name__ == '__main__':
