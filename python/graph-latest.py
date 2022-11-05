@@ -14,8 +14,8 @@ def count_latest_data(data: dict, days_back: int):
     day_list = [i for i in range(DAY_RANGE)]
     latest_count_list = [0 for _ in range(DAY_RANGE)]
 
-    for d in data:
-        created_date = datetime.fromisoformat(d["created_at"]).date()
+    for d in data.values():
+        created_date = datetime.fromisoformat(d["registered"]).date()
         days_delta = (date.today() - created_date).days - days_back
 
         if 0 <= days_delta and days_delta < DAY_RANGE:

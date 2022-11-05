@@ -18,8 +18,8 @@ def count_date(data: dict):
     hour_count_list = [0 for _ in range(24)]
     hour_name_list = [h for h in range(24)]
 
-    for d in data:
-        created_at = d["created_at"]
+    for d in data.values():
+        created_at = d["registered"]
         time = datetime.fromisoformat(created_at)
 
         day_week_count_list[time.weekday()] += 1

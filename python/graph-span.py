@@ -10,13 +10,13 @@ def load(file: str):
         return json.loads(data_json)
 
 
-def get_span_categories(data: dict, is_author: bool, limit: int):
-    category_name = "author_name" if is_author else "puzzle_name"
+def get_span_categories(data: dict, is_author: bool, limit: int, categories: dict):
+    category_id = "user" if is_author else "kind"
 
     problem_dict = {}
-    for d in data:
-        time = datetime.fromisoformat(d["created_at"])
-        name = d[category_name]
+    for d in data.values():
+        time = datetime.fromisoformat(d["registered"])
+        name = categories[str(d[category_id])]["name"]
         if name not in problem_dict:
             problem_dict[name] = {"first": time, "last": time, "count": 1, "name": name}
         else:
@@ -36,7 +36,7 @@ def get_span_categories(data: dict, is_author: bool, limit: int):
     return names, firsts, lasts
 
 
-def plot_span_categories(data: dict, is_author: bool):
+def plot_span_categories(data: dict, is_author: bool, categories: dict):
     limit = 100
     name_display = "作者" if is_author else "パズル"
     image_name = "span-by-author.png" if is_author else "span-by-puzzle.png"
@@ -55,7 +55,7 @@ def plot_span_categories(data: dict, is_author: bool):
     pyplot.ylabel("")
     pyplot.xlabel("")
 
-    x, y1, y2 = get_span_categories(data, is_author, limit)
+    x, y1, y2 = get_span_categories(data, is_author, limit, categories)
     pyplot.barh(x, y2, color="green", height=0.4)
     pyplot.barh(x, y1, color="white", height=0.4)
     fig.savefig("graph/" + image_name)
@@ -63,8 +63,10 @@ def plot_span_categories(data: dict, is_author: bool):
 
 def main():
     data = load("data/data.json")
-    plot_span_categories(data, True)
-    plot_span_categories(data, False)
+    user_data = load("data/user.json")
+    kind_data = load("data/kind.json")
+    plot_span_categories(data, True, user_data)
+    plot_span_categories(data, False, kind_data)
     return
 
 
