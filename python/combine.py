@@ -24,7 +24,7 @@ def main():
     favorites = load(args.f)
     answered = load(args.a)
     
-    fav_n = 'favorites_n'
+    fav_n = 'favorite_n'
     ans_n = 'answered_n'
     for p_id, problem in problems.items():
         if p_id in base:
