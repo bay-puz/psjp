@@ -13,13 +13,15 @@ KIND_API="/kind"
 DATA_FILE="data/data.json"
 USER_FILE="data/user.json"
 KIND_FILE="data/kind.json"
+UPDATE_FILE="data/update.txt"
 CONBINE_SCRIPT="python/combine.py"
 
 # PSJPに最初に投稿された日付
 OLDEST_DATE="2019-05-10"
 
 # 前日までの日付でデータを取得する
-TIMESTAMP_NOW="$(date +%s)
+#TIMESTAMP_NOW="$(date +%s)
+TIMESTAMP_NOW="$(date +%s -d"2019-05-12")" #テスト用に短くする
 
 # PSJPのAPIからデータを取得してファイルに保存する
 function api(){
@@ -31,7 +33,7 @@ function api(){
 
 function readable(){
     FILE="${1}"
-    jq . "${FILE}" > /tmp/jq.json
+    jq . -s "${FILE}" > /tmp/jq.json
     mv /tmp/jq.json "${FILE}"
 }
 
@@ -51,12 +53,15 @@ while true; do
     /usr/bin/python3 "${CONBINE_SCRIPT}" -b "${DATA_FILE}" -p /tmp/p.json -f /tmp/f.json -a /tmp/a.json
     rm -f /tmp/p.json /tmp/f.json /tmp/a.json
 
-    # 今日のデータは使わない
-    DATE="$(date +%Y-%m-%d -d "${DATE} next day")"
-    if [ "$(date +%s -d "${DATE}")" -gt "${TIMESTAMP_NOW}" ]; then
+    # 今日以降のデータは使わない
+    if [ "$(date +%s -d "${DATE} next day")" -gt "${TIMESTAMP_NOW}" ]; then
         break
     fi
+    DATE="$(date +%Y-%m-%d -d "${DATE} next day")"
 done
+
+# 取得した日付を記録
+date +"%Y年%-m月%-d日" -d "${DATE}" > "${UPDATE_FILE}"
 
 # userとkindのデータを最新に上書き
 api "${USER_API}" "${USER_FILE}"
