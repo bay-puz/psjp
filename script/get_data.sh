@@ -44,32 +44,33 @@ fi
 DATE="$(date +%Y-%m-%d -d "$(cat "${UPDATE_FILE}")")"
 TIMESTAMP_TODAY="$(date +%s -d"today 00:00:00 JST")"
 
-# 前回の更新の次の日付から始める
+# userとkindのデータを最新のものにする
+echo "get user and kind"
+api "${USER_API}" "${USER_FILE}"
+api "${KIND_API}" "${KIND_FILE}"
+
 while true; do
     # 今日以降のデータは使わない
     if [ "$(date +%s -d "${DATE} next day")" -ge "${TIMESTAMP_TODAY}" ]; then
         break
     fi
+    # 前回の更新の次の日付から始める
     DATE="$(date +%Y-%m-%d -d "${DATE} next day")"
-    echo "get data at ${DATE}"
 
     # DATEのデータを取得する
+    echo "get data at ${DATE}"
     api "${PROBLEM_API}/${DATE}" /tmp/p.json
     api "${FAVORITE_API}/${DATE}" /tmp/f.json
     api "${ANSWERED_API}/${DATE}" /tmp/a.json
 
     # 取得したデータを結合する
+    echo "combine data at ${DATE}"
     /usr/bin/python3 "${CONBINE_SCRIPT}" -b "${DATA_FILE}" -p /tmp/p.json -f /tmp/f.json -a /tmp/a.json
     rm -f /tmp/p.json /tmp/f.json /tmp/a.json
 done
 
 # 取得した日付を記録
 echo "${DATE}" > "${UPDATE_FILE}"
-
-# userとkindのデータを最新に上書き
-echo "get user and kind"
-api "${USER_API}" "${USER_FILE}"
-api "${KIND_API}" "${KIND_FILE}"
 
 # JSONを見やすくする
 readable "${DATA_FILE}"
