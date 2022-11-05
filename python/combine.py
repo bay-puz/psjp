@@ -33,6 +33,7 @@ def main():
         else:
             problem[fav_n] = 0
             problem[ans_n] = 0
+        problem["id"] = p_id
         base[p_id] = problem
 
     for fav in favorites.values():
@@ -48,7 +49,7 @@ def main():
         if p_id not in base:
             continue
         base[p_id][ans_n] += 1
-        
+
     write(base, args.b)
 
 

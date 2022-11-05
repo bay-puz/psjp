@@ -33,7 +33,7 @@ function api(){
 
 function readable(){
     FILE="${1}"
-    jq . -s "${FILE}" > /tmp/jq.json
+    jq . "${FILE}" > /tmp/jq.json
     mv /tmp/jq.json "${FILE}"
 }
 
