@@ -2,35 +2,33 @@ name: Crawl PSJP
 on:
   workflow_dispatch:
   schedule:
-    # 月水金の朝５時（日本時間）
-    - cron: '0 20 * * SUN,TUE,THU'
+    # 日本時間で日付が変わってすぐに実行する
+    - cron: '10 15 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 600
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v2
       - name: install packages
         run: |
           pip install beautifulsoup4 matplotlib
           sudo apt-get install -y jq fonts-motoya-l-maruberi
-      - name: record update time
-        run: TZ="JST-9" date +"%Y年%-m月%-d日%-H時" > data/update.txt
-      - name: crawl psjp data
-        run: python python/crawl-psjp-data.py | jq -s "unique_by(.id)" > data/data.json
+      - name: get psjp data
+        run: ./script/get-data.sh
       - name: cut psjp data
-        run: python python/cut-data.py
+        run: python script/cut-data.py
       - name: make graph
         run: |
-          python python/graph.py
-          python python/graph-date.py
-          python python/graph-first.py
-          python python/graph-span.py
-          python python/graph-latest.py
+          python script/graph/problem.py
+          python script/graph/date.py
+          python script/graph/first.py
+          python script/graph/span.py
+          python script/graph/latest.py
       - name: git push
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
-          git add .
+          git add data/* graph/*
           git commit -m "update psjp data"
           git push origin main

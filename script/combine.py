@@ -4,8 +4,7 @@ import json
 
 def load(file: str) -> dict:
      with open(file, encoding='utf8') as f:
-        data = f.read()
-        return json.loads(data)
+        return json.load(f)
 
 def write(data: dict, file: str) -> None:
      with open(file, 'w', encoding='utf8') as f:
@@ -13,10 +12,10 @@ def write(data: dict, file: str) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
-    parser.add_argument("-b", metavar="base", type=str, default="list/data.json", help="元データ")
-    parser.add_argument("-p", metavar="problems", type=str, default="problems.json", help="追加のproblems")
-    parser.add_argument("-f", metavar="favorites", type=str, default="favorites.json", help="追加のfavorites")
-    parser.add_argument("-a", metavar="answered", type=str, default="answered.json", help="追加のanswered")
+    parser.add_argument("-b", metavar="base", type=str, default="data/data.json", help="元データ")
+    parser.add_argument("-p", metavar="problems", type=str, help="追加のproblems")
+    parser.add_argument("-f", metavar="favorites", type=str, help="追加のfavorites")
+    parser.add_argument("-a", metavar="answered", type=str, help="追加のanswered")
     args = parser.parse_args()
 
     base = load(args.b)

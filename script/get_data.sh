@@ -14,14 +14,7 @@ DATA_FILE="data/data.json"
 USER_FILE="data/user.json"
 KIND_FILE="data/kind.json"
 UPDATE_FILE="data/update.txt"
-CONBINE_SCRIPT="python/combine.py"
-
-# PSJPに最初に投稿された日付
-OLDEST_DATE="2019-05-10"
-
-# 前日までの日付でデータを取得する
-#TIMESTAMP_NOW="$(date +%s)
-TIMESTAMP_NOW="$(date +%s -d"2019-05-12")" #テスト用に短くする
+CONBINE_SCRIPT="script/combine.py"
 
 # PSJPのAPIからデータを取得してファイルに保存する
 function api(){
@@ -31,17 +24,33 @@ function api(){
     curl -s "${API}" -o "${FILE}"
 }
 
+# JSONを整形する
 function readable(){
     FILE="${1}"
     jq . "${FILE}" > /tmp/jq.json
     mv /tmp/jq.json "${FILE}"
 }
 
-# データファイルを初期化
-echo "{}" > "${DATA_FILE}"
+# 元データファイルがなければ作る
+if [ ! -f "${DATA_FILE}" ]; then
+    echo "{}" > "${DATA_FILE}"
+fi
 
-DATE="${OLDEST_DATE}"
+# UPDATE_FILEに書かれた日付を読みこむ
+if [ ! -f "${UPDATE_FILE}" ]; then
+    echo "${UPDATE_FILE} doesn't exit" >&2
+    exit 2
+fi
+DATE="$(date +%Y-%m-%d -d "$(cat "${UPDATE_FILE}")")"
+TIMESTAMP_TODAY="$(date +%s -d"today 00:00:00 JST")"
+
+# 前回の更新の次の日付から始める
 while true; do
+    # 今日以降のデータは使わない
+    if [ "$(date +%s -d "${DATE} next day")" -ge "${TIMESTAMP_TODAY}" ]; then
+        break
+    fi
+    DATE="$(date +%Y-%m-%d -d "${DATE} next day")"
     echo "get data at ${DATE}"
 
     # DATEのデータを取得する
@@ -52,18 +61,13 @@ while true; do
     # 取得したデータを結合する
     /usr/bin/python3 "${CONBINE_SCRIPT}" -b "${DATA_FILE}" -p /tmp/p.json -f /tmp/f.json -a /tmp/a.json
     rm -f /tmp/p.json /tmp/f.json /tmp/a.json
-
-    # 今日以降のデータは使わない
-    if [ "$(date +%s -d "${DATE} next day")" -gt "${TIMESTAMP_NOW}" ]; then
-        break
-    fi
-    DATE="$(date +%Y-%m-%d -d "${DATE} next day")"
 done
 
 # 取得した日付を記録
-date +"%Y年%-m月%-d日" -d "${DATE}" > "${UPDATE_FILE}"
+echo "${DATE}" > "${UPDATE_FILE}"
 
 # userとkindのデータを最新に上書き
+echo "get user and kind"
 api "${USER_API}" "${USER_FILE}"
 api "${KIND_API}" "${KIND_FILE}"
 
