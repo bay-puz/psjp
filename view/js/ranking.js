@@ -19,8 +19,7 @@ show()
 async function makeRanking(p) {
     var list = []
     var data = await loadData(p.category)
-    all_name = (p.category === "author")? "全作者": "全パズル"
-    delete data[all_name]
+    delete data[0]
 
     for (const key in data) {
         var d = data[key]

@@ -1,0 +1,2442 @@
+{
+  "1": {
+    "name": "スリザーリンク / Fences",
+    "name_e": "Slitherlink / Fences",
+    "category": 2
+  },
+  "2": {
+    "name": "ましゅ",
+    "name_e": "Masyu",
+    "category": 2
+  },
+  "3": {
+    "name": "ヤジリン",
+    "name_e": "Yajilin",
+    "category": 2
+  },
+  "4": {
+    "name": "スラローム",
+    "name_e": "Slalom",
+    "category": 2
+  },
+  "5": {
+    "name": "ナンバーリンク",
+    "name_e": "Numberlink",
+    "category": 2
+  },
+  "6": {
+    "name": "ぬりかべ",
+    "name_e": "Nurikabe",
+    "category": 3
+  },
+  "7": {
+    "name": "へやわけ",
+    "name_e": "Heyawake",
+    "category": 3
+  },
+  "8": {
+    "name": "ひとりにしてくれ",
+    "name_e": "Hitori",
+    "category": 3
+  },
+  "9": {
+    "name": "黒どこ",
+    "name_e": "Kurodoko",
+    "category": 3
+  },
+  "10": {
+    "name": "LITS",
+    "name_e": "LITS",
+    "category": 3
+  },
+  "11": {
+    "name": "シャカシャカ",
+    "name_e": "Shakashaka",
+    "category": 4
+  },
+  "12": {
+    "name": "のりのり",
+    "name_e": "Norinori",
+    "category": 3
+  },
+  "13": {
+    "name": "ヘルゴルフ",
+    "name_e": "Herugolf",
+    "category": 2
+  },
+  "14": {
+    "name": "ぬりめいず",
+    "name_e": "Nuri-Maze",
+    "category": 3
+  },
+  "15": {
+    "name": "橋をかけろ",
+    "name_e": "Hashiwokakero / Bridges",
+    "category": 2
+  },
+  "16": {
+    "name": "四角に切れ",
+    "name_e": "Shikaku",
+    "category": 5
+  },
+  "17": {
+    "name": "天体ショー",
+    "name_e": "Tentaisho / Spiral Galaxies",
+    "category": 5
+  },
+  "18": {
+    "name": "美術館",
+    "name_e": "Akari",
+    "category": 4
+  },
+  "19": {
+    "name": "数独 / ナンプレ",
+    "name_e": "Sudoku",
+    "category": 1
+  },
+  "20": {
+    "name": "カックロ / サムクロス",
+    "name_e": "Kakuro",
+    "category": 1
+  },
+  "21": {
+    "name": "フィルオミノ",
+    "name_e": "Fillomino",
+    "category": 1
+  },
+  "22": {
+    "name": "波及効果",
+    "name_e": "Ripple Effect / Hakyuu",
+    "category": 1
+  },
+  "25": {
+    "name": "へびいちご",
+    "name_e": "Hebi-Ichigo",
+    "category": 4
+  },
+  "26": {
+    "name": "Tapa",
+    "name_e": "Tapa",
+    "category": 3
+  },
+  "27": {
+    "name": "タイルペイント",
+    "name_e": "Tilepaint",
+    "category": 3
+  },
+  "28": {
+    "name": "モチコロ",
+    "name_e": "Mochikoro",
+    "category": 3
+  },
+  "29": {
+    "name": "たすくえあ",
+    "name_e": "Tasquare",
+    "category": 3
+  },
+  "30": {
+    "name": "クリーク",
+    "name_e": "Creek",
+    "category": 3
+  },
+  "31": {
+    "name": "クロット",
+    "name_e": "Kurotto",
+    "category": 3
+  },
+  "32": {
+    "name": "島国",
+    "name_e": "Islands / Shimaguni",
+    "category": 3
+  },
+  "33": {
+    "name": "ストストーン",
+    "name_e": "Stostone",
+    "category": 3
+  },
+  "34": {
+    "name": "ウソワン",
+    "name_e": "Uso-one",
+    "category": 3
+  },
+  "35": {
+    "name": "やじさんかずさん",
+    "name_e": "Yajisan-Kazusan",
+    "category": 3
+  },
+  "36": {
+    "name": "よせなべ",
+    "name_e": "Yosenabe",
+    "category": 2
+  },
+  "37": {
+    "name": "因子の部屋",
+    "name_e": "Rooms of Factors",
+    "category": 1
+  },
+  "38": {
+    "name": "お家へ帰ろう",
+    "name_e": "Return Home / Kaero",
+    "category": 2
+  },
+  "39": {
+    "name": "キンコンカン",
+    "name_e": "Kin-Kon-Kan",
+    "category": 4
+  },
+  "40": {
+    "name": "さしがね",
+    "name_e": "Sashigane",
+    "category": 5
+  },
+  "41": {
+    "name": "さとがえり",
+    "name_e": "Satogaeri / Homecoming",
+    "category": 2
+  },
+  "42": {
+    "name": "縦横さん",
+    "name_e": "Juosan",
+    "category": 4
+  },
+  "43": {
+    "name": "数コロ",
+    "name_e": "Sukoro / Infection",
+    "category": 1
+  },
+  "44": {
+    "name": "月か太陽",
+    "name_e": "Moon or Sun",
+    "category": 2
+  },
+  "45": {
+    "name": "ドッスンフワリ",
+    "name_e": "Dosun-Fuwari",
+    "category": 4
+  },
+  "46": {
+    "name": "流れるループ",
+    "name_e": "Nagareru-Loop",
+    "category": 2
+  },
+  "47": {
+    "name": "ぬりみさき",
+    "name_e": "Nurimisaki",
+    "category": 3
+  },
+  "48": {
+    "name": "バッグ",
+    "name_e": "Cave",
+    "category": 2
+  },
+  "49": {
+    "name": "ペンシルズ",
+    "name_e": "Pencils",
+    "category": 4
+  },
+  "50": {
+    "name": "マカロ",
+    "name_e": "Makaro",
+    "category": 1
+  },
+  "51": {
+    "name": "ファイブセルズ",
+    "name_e": "FiveCells",
+    "category": 5
+  },
+  "52": {
+    "name": "カントリーロード",
+    "name_e": "Country Road",
+    "category": 2
+  },
+  "53": {
+    "name": "アイスバーン",
+    "name_e": "Icebarn",
+    "category": 2
+  },
+  "54": {
+    "name": "チョコナ",
+    "name_e": "Chocona",
+    "category": 3
+  },
+  "55": {
+    "name": "かずのりのへや",
+    "name_e": "Kazunori Room",
+    "category": 1
+  },
+  "56": {
+    "name": "デイリループ",
+    "name_e": "Daily Loop",
+    "category": 2
+  },
+  "57": {
+    "name": "スカイスクレイパー",
+    "name_e": "",
+    "category": 4
+  },
+  "58": {
+    "name": "修学旅行の夜",
+    "name_e": "School Trip / Shugaku",
+    "category": 4
+  },
+  "59": {
+    "name": "ビルディングパズル",
+    "name_e": "Skyscrapers",
+    "category": 1
+  },
+  "61": {
+    "name": "虫食い算",
+    "name_e": "Cryptarithm",
+    "category": 1
+  },
+  "62": {
+    "name": "スクリン",
+    "name_e": "Scrin",
+    "category": 2
+  },
+  "63": {
+    "name": "ナンロー",
+    "name_e": "Nanro",
+    "category": 1
+  },
+  "64": {
+    "name": "マイナリズム",
+    "name_e": "Minarism",
+    "category": 1
+  },
+  "65": {
+    "name": "ヘヤジリン",
+    "name_e": "Regional Yajilin",
+    "category": 2
+  },
+  "66": {
+    "name": "ダブルチョコ",
+    "name_e": "Double Choco",
+    "category": 5
+  },
+  "67": {
+    "name": "連番窓口",
+    "name_e": "Renban-Madoguchi",
+    "category": 1
+  },
+  "68": {
+    "name": "スターバトル",
+    "name_e": "Star Battle",
+    "category": 4
+  },
+  "69": {
+    "name": "アイスローム",
+    "name_e": "Icelom",
+    "category": 2
+  },
+  "70": {
+    "name": "あみぼー",
+    "name_e": "Amibo",
+    "category": 2
+  },
+  "71": {
+    "name": "Kropki",
+    "name_e": "Kropki",
+    "category": 1
+  },
+  "72": {
+    "name": "∀人∃ＨＥＹＡ",
+    "name_e": "ekawayeh (symmetry heyawake)",
+    "category": 3
+  },
+  "73": {
+    "name": "しろまるくろまる",
+    "name_e": "Yin-Yang",
+    "category": 4
+  },
+  "74": {
+    "name": "ウォールロジック",
+    "name_e": "Wall Logic (Four-Winds)",
+    "category": 2
+  },
+  "75": {
+    "name": "ノンダンゴ",
+    "name_e": "Nondango",
+    "category": 3
+  },
+  "76": {
+    "name": "ヤギとオオカミ",
+    "name_e": "Goats and Wolves / Yagit",
+    "category": 5
+  },
+  "77": {
+    "name": "タタミバリ",
+    "name_e": "Tatamibari",
+    "category": 5
+  },
+  "78": {
+    "name": "ぬりぼう",
+    "name_e": "Nuribou",
+    "category": 3
+  },
+  "79": {
+    "name": "るっくえあ",
+    "name_e": "Look-Air",
+    "category": 3
+  },
+  "80": {
+    "name": "交差は直角に限る",
+    "name_e": "Kouchoku",
+    "category": 2
+  },
+  "81": {
+    "name": "パイプリンク",
+    "name_e": "Pipelink",
+    "category": 2
+  },
+  "82": {
+    "name": "ホタルビーム",
+    "name_e": "Hotaru Beam / Firefly",
+    "category": 2
+  },
+  "83": {
+    "name": "推理パズル",
+    "name_e": "(Matrix) Logic Puzzle",
+    "category": 6
+  },
+  "84": {
+    "name": "のりのLITS",
+    "name_e": "Norino-LITS",
+    "category": 3
+  },
+  "85": {
+    "name": "ごきげんななめ・輪切",
+    "name_e": "Wagiri",
+    "category": 2
+  },
+  "86": {
+    "name": "たわむれんが",
+    "name_e": "Tawamurenga",
+    "category": 3
+  },
+  "87": {
+    "name": "推理クロス",
+    "name_e": "",
+    "category": 6
+  },
+  "88": {
+    "name": "ぼんさん",
+    "name_e": "Bonsan",
+    "category": 2
+  },
+  "89": {
+    "name": "イルミネーション",
+    "name_e": "Illumination",
+    "category": 4
+  },
+  "90": {
+    "name": "リフレクトリンク",
+    "name_e": "Reflect Link",
+    "category": 2
+  },
+  "91": {
+    "name": "ABCプレース",
+    "name_e": "Easy as ABC",
+    "category": 4
+  },
+  "92": {
+    "name": "環状線スペシャル",
+    "name_e": "Loop Special / Kanjo",
+    "category": 2
+  },
+  "94": {
+    "name": "なげなわ",
+    "name_e": "Nagenawa",
+    "category": 2
+  },
+  "95": {
+    "name": "鋭直鈍ループ",
+    "name_e": "Angle Loop",
+    "category": 2
+  },
+  "96": {
+    "name": "四角スライダー",
+    "name_e": "Rectangle-Slider",
+    "category": 2
+  },
+  "97": {
+    "name": "相ダ部屋",
+    "name_e": "Araf",
+    "category": 5
+  },
+  "98": {
+    "name": "フィルマット",
+    "name_e": "Fillmat",
+    "category": 5
+  },
+  "99": {
+    "name": "リングリング",
+    "name_e": "Ring-ring",
+    "category": 2
+  },
+  "100": {
+    "name": "ヴィウ",
+    "name_e": "View",
+    "category": 1
+  },
+  "101": {
+    "name": "ペイントエリア",
+    "name_e": "Paintarea",
+    "category": 3
+  },
+  "102": {
+    "name": "ろーま",
+    "name_e": "Roma",
+    "category": 4
+  },
+  "103": {
+    "name": "クサビリンク",
+    "name_e": "Kusabi",
+    "category": 2
+  },
+  "104": {
+    "name": "遠い誓い",
+    "name_e": "Toichika",
+    "category": 4
+  },
+  "105": {
+    "name": "何種類？",
+    "name_e": "How many kinds?",
+    "category": 1
+  },
+  "106": {
+    "name": "なわばり",
+    "name_e": "Territory",
+    "category": 5
+  },
+  "107": {
+    "name": "磁石イチマガ",
+    "name_e": "Magnetic Ichimaga",
+    "category": 2
+  },
+  "108": {
+    "name": "はこいり○△□",
+    "name_e": "Hakoiri-masashi",
+    "category": 4
+  },
+  "109": {
+    "name": "ボーダーブロック",
+    "name_e": "Border Block",
+    "category": 5
+  },
+  "110": {
+    "name": "よみどおり",
+    "name_e": "Yomidori",
+    "category": 6
+  },
+  "111": {
+    "name": "タタミ面積ブロック",
+    "name_e": "",
+    "category": 5
+  },
+  "112": {
+    "name": "四色タタミ",
+    "name_e": "",
+    "category": 5
+  },
+  "113": {
+    "name": "ボンバーパズル",
+    "name_e": "Minesweeper",
+    "category": 4
+  },
+  "114": {
+    "name": "アンドレ",
+    "name_e": "Andre",
+    "category": 6
+  },
+  "115": {
+    "name": "ごきげんななめ",
+    "name_e": "Slant",
+    "category": 2
+  },
+  "116": {
+    "name": "はなれ組",
+    "name_e": "Hanare-gumi",
+    "category": 1
+  },
+  "117": {
+    "name": "ブロックパズル",
+    "name_e": "Area Division / Block Puzzle",
+    "category": 5
+  },
+  "118": {
+    "name": "クロスワード",
+    "name_e": "Crosswords",
+    "category": 6
+  },
+  "119": {
+    "name": "セレクトワーズ",
+    "name_e": "Select Words",
+    "category": 6
+  },
+  "120": {
+    "name": "ハニーアイランド",
+    "name_e": "Honey Islands",
+    "category": 3
+  },
+  "121": {
+    "name": "Castle Wall",
+    "name_e": "Castle Wall",
+    "category": 2
+  },
+  "122": {
+    "name": "シークワーズ",
+    "name_e": "Word Search",
+    "category": 6
+  },
+  "123": {
+    "name": "Statue Park",
+    "name_e": "Statue Park",
+    "category": 3
+  },
+  "124": {
+    "name": "バーンズ",
+    "name_e": "Barns",
+    "category": 2
+  },
+  "125": {
+    "name": "Different Neighbours",
+    "name_e": "Different Neighbours",
+    "category": 1
+  },
+  "126": {
+    "name": "Pentominoes",
+    "name_e": "Pentominoes",
+    "category": 3
+  },
+  "127": {
+    "name": "ブロックメイズ",
+    "name_e": "Block Maze",
+    "category": 2
+  },
+  "128": {
+    "name": "サングラス",
+    "name_e": "Sunglasses",
+    "category": 3
+  },
+  "129": {
+    "name": "温泉めぐり",
+    "name_e": "Onsen-meguri",
+    "category": 2
+  },
+  "130": {
+    "name": "クロシュート",
+    "name_e": "Kurochute / Black shoot",
+    "category": 3
+  },
+  "131": {
+    "name": "ア・マルーネ",
+    "name_e": "",
+    "category": 1
+  },
+  "132": {
+    "name": "Geradeweg",
+    "name_e": "Geradeweg",
+    "category": 2
+  },
+  "133": {
+    "name": "Snake Egg",
+    "name_e": "Snake Egg",
+    "category": 3
+  },
+  "134": {
+    "name": "タめいロ",
+    "name_e": "",
+    "category": 6
+  },
+  "135": {
+    "name": "カーブデータ",
+    "name_e": "Curve Data",
+    "category": 2
+  },
+  "136": {
+    "name": "ワリタイ",
+    "name_e": "",
+    "category": 5
+  },
+  "137": {
+    "name": "NIKOJI",
+    "name_e": "NIKOJI",
+    "category": 5
+  },
+  "138": {
+    "name": "ループカウンター",
+    "name_e": "",
+    "category": 2
+  },
+  "139": {
+    "name": "アホになり切れ",
+    "name_e": "Aho-ni-Narikire",
+    "category": 5
+  },
+  "140": {
+    "name": "逆美術館",
+    "name_e": "Reverse-Akari",
+    "category": 4
+  },
+  "141": {
+    "name": "Aquarium/アクアプレース",
+    "name_e": "Aquarium",
+    "category": 3
+  },
+  "142": {
+    "name": "クロホリ",
+    "name_e": "Kurohori",
+    "category": 3
+  },
+  "143": {
+    "name": "イチマガ",
+    "name_e": "Ichimaga",
+    "category": 2
+  },
+  "144": {
+    "name": "Snake",
+    "name_e": "Snake",
+    "category": 3
+  },
+  "145": {
+    "name": "Gaps",
+    "name_e": "Gaps",
+    "category": 4
+  },
+  "146": {
+    "name": "Anglers/フィッシング",
+    "name_e": "Anglers",
+    "category": 2
+  },
+  "147": {
+    "name": "メジリンク",
+    "name_e": "Mejilink",
+    "category": 2
+  },
+  "148": {
+    "name": "Falling Letters",
+    "name_e": "Falling Letters",
+    "category": 1
+  },
+  "149": {
+    "name": "分数分割",
+    "name_e": "Fractional Division",
+    "category": 5
+  },
+  "150": {
+    "name": "クロスマッス",
+    "name_e": "Arithmetic Square / Cross Math",
+    "category": 1
+  },
+  "151": {
+    "name": "タテボーヨコボー",
+    "name_e": "Tatebo-Yokobo",
+    "category": 2
+  },
+  "152": {
+    "name": "Light and Shadow",
+    "name_e": "Light and Shadow",
+    "category": 3
+  },
+  "153": {
+    "name": "TomTom",
+    "name_e": "TomTom",
+    "category": 1
+  },
+  "154": {
+    "name": "Compass",
+    "name_e": "Compass",
+    "category": 5
+  },
+  "155": {
+    "name": "ONDO-K / Thermometers",
+    "name_e": "ONDO-K / Thermometers",
+    "category": 3
+  },
+  "157": {
+    "name": "シンプルガコ",
+    "name_e": "Simple Gako",
+    "category": 1
+  },
+  "158": {
+    "name": "Balance Loop",
+    "name_e": "Balance Loop",
+    "category": 2
+  },
+  "159": {
+    "name": "塗らナイト",
+    "name_e": "Nura-Knight",
+    "category": 3
+  },
+  "160": {
+    "name": "ウラオモテ+",
+    "name_e": "",
+    "category": 2
+  },
+  "161": {
+    "name": "ミックスパズル",
+    "name_e": "MixPuzzle",
+    "category": 3
+  },
+  "162": {
+    "name": "トライアングループ",
+    "name_e": "",
+    "category": 2
+  },
+  "163": {
+    "name": "フォーセルズ",
+    "name_e": "FourCells",
+    "category": 5
+  },
+  "164": {
+    "name": "トン鉄ブリ鉄",
+    "name_e": "",
+    "category": 2
+  },
+  "165": {
+    "name": "お絵かきロジック / ののぐらむ",
+    "name_e": "Nonogram",
+    "category": 3
+  },
+  "166": {
+    "name": "ぐんたいあり",
+    "name_e": "Army Ants",
+    "category": 2
+  },
+  "167": {
+    "name": "ハードル",
+    "name_e": "Hurdle",
+    "category": 2
+  },
+  "168": {
+    "name": "バトルシップ",
+    "name_e": "Battleships",
+    "category": 4
+  },
+  "169": {
+    "name": "加算面積タイル",
+    "name_e": "",
+    "category": 1
+  },
+  "170": {
+    "name": "ビトゥイーン・サム/Doppelblock",
+    "name_e": "Doppelblock",
+    "category": 1
+  },
+  "171": {
+    "name": "Tents",
+    "name_e": "Tents",
+    "category": 4
+  },
+  "172": {
+    "name": "モード/Modes",
+    "name_e": "Modes",
+    "category": 4
+  },
+  "173": {
+    "name": "ミッドループ",
+    "name_e": "Mid-loop",
+    "category": 2
+  },
+  "174": {
+    "name": "Hideout Fences",
+    "name_e": "Hideout Fences",
+    "category": 2
+  },
+  "175": {
+    "name": "マトリョーシカ",
+    "name_e": "Matryoshka",
+    "category": 2
+  },
+  "176": {
+    "name": "アイスウォーク",
+    "name_e": "Ice Walk",
+    "category": 2
+  },
+  "177": {
+    "name": "まがたま",
+    "name_e": "Magatama",
+    "category": 2
+  },
+  "178": {
+    "name": "アイスローム2",
+    "name_e": "Icelom 2",
+    "category": 2
+  },
+  "179": {
+    "name": "ノースリー",
+    "name_e": "No Three",
+    "category": 3
+  },
+  "180": {
+    "name": "へやジリみさき",
+    "name_e": "",
+    "category": 2
+  },
+  "181": {
+    "name": "Pointing at the Crowd",
+    "name_e": "Pointing at the Crowd",
+    "category": 3
+  },
+  "182": {
+    "name": "Polyominous",
+    "name_e": "Polyominous",
+    "category": 5
+  },
+  "183": {
+    "name": "マックロ",
+    "name_e": "",
+    "category": 1
+  },
+  "184": {
+    "name": "Double Back",
+    "name_e": "Double Back",
+    "category": 2
+  },
+  "185": {
+    "name": "シンプルループ",
+    "name_e": "Simple Loop",
+    "category": 2
+  },
+  "186": {
+    "name": "Snake Pit",
+    "name_e": "Snake Pit",
+    "category": 5
+  },
+  "187": {
+    "name": "ステンドグラス",
+    "name_e": "",
+    "category": 3
+  },
+  "188": {
+    "name": "ネットワーズ",
+    "name_e": "",
+    "category": 6
+  },
+  "189": {
+    "name": "ヌッテリア",
+    "name_e": "Nutteria",
+    "category": 3
+  },
+  "190": {
+    "name": "プッテリア",
+    "name_e": "Putteria",
+    "category": 1
+  },
+  "191": {
+    "name": "Maxi Loop",
+    "name_e": "Maxi Loop",
+    "category": 2
+  },
+  "192": {
+    "name": "Haisu",
+    "name_e": "Haisu",
+    "category": 2
+  },
+  "193": {
+    "name": "にょろにょろナンバー",
+    "name_e": "Meandering Numbers",
+    "category": 1
+  },
+  "194": {
+    "name": "???????",
+    "name_e": "",
+    "category": 2
+  },
+  "195": {
+    "name": "Tetris puzzle",
+    "name_e": "",
+    "category": 2
+  },
+  "196": {
+    "name": "Canal View",
+    "name_e": "Canal View",
+    "category": 3
+  },
+  "197": {
+    "name": "ホワイトリンク",
+    "name_e": "White Link",
+    "category": 2
+  },
+  "198": {
+    "name": "コローン",
+    "name_e": "",
+    "category": 5
+  },
+  "199": {
+    "name": "Inner Coral",
+    "name_e": "Inner Coral",
+    "category": 3
+  },
+  "200": {
+    "name": "12号ループ",
+    "name_e": "",
+    "category": 2
+  },
+  "201": {
+    "name": "スケルトンパズル",
+    "name_e": "Criss-Cross",
+    "category": 6
+  },
+  "202": {
+    "name": "ドッチループ",
+    "name_e": "Dotchi-Loop",
+    "category": 2
+  },
+  "203": {
+    "name": "ラインダース",
+    "name_e": "",
+    "category": 1
+  },
+  "204": {
+    "name": "点つなぎ",
+    "name_e": "",
+    "category": 2
+  },
+  "205": {
+    "name": "漢字部品マット",
+    "name_e": "",
+    "category": 6
+  },
+  "206": {
+    "name": "ナンクロ",
+    "name_e": "",
+    "category": 6
+  },
+  "207": {
+    "name": "同じの探し",
+    "name_e": "Find the Pair / Matching Pair",
+    "category": 3
+  },
+  "208": {
+    "name": "リンクワーズ",
+    "name_e": "",
+    "category": 6
+  },
+  "209": {
+    "name": "Pentopia",
+    "name_e": "Pentopia",
+    "category": 3
+  },
+  "210": {
+    "name": "カッケー",
+    "name_e": "",
+    "category": 3
+  },
+  "211": {
+    "name": "シロクロリンク",
+    "name_e": "Shirokuro-link",
+    "category": 2
+  },
+  "212": {
+    "name": "ヤジタタミ",
+    "name_e": "Yajitatami",
+    "category": 5
+  },
+  "213": {
+    "name": "ウソタタミ",
+    "name_e": "Uso-tatami",
+    "category": 5
+  },
+  "214": {
+    "name": "カナオレ",
+    "name_e": "",
+    "category": 6
+  },
+  "215": {
+    "name": "シンメトリーエリア",
+    "name_e": "Symmetry Area",
+    "category": 5
+  },
+  "216": {
+    "name": "気になるお隣さん",
+    "name_e": "",
+    "category": 5
+  },
+  "217": {
+    "name": "ピラミッド",
+    "name_e": "Pyramid",
+    "category": 1
+  },
+  "218": {
+    "name": "Magnets",
+    "name_e": "Magnets",
+    "category": 4
+  },
+  "219": {
+    "name": "ボックス",
+    "name_e": "Box / Kakurasu",
+    "category": 3
+  },
+  "220": {
+    "name": "はしごをかけろ",
+    "name_e": "",
+    "category": 4
+  },
+  "221": {
+    "name": "覆面算",
+    "name_e": "Verbal Arithmetic",
+    "category": 1
+  },
+  "222": {
+    "name": "Detour",
+    "name_e": "Detour",
+    "category": 2
+  },
+  "223": {
+    "name": "ダウンダウン",
+    "name_e": "",
+    "category": 1
+  },
+  "224": {
+    "name": "Aqre",
+    "name_e": "Aqre",
+    "category": 3
+  },
+  "225": {
+    "name": "International Borders",
+    "name_e": "International Borders",
+    "category": 3
+  },
+  "226": {
+    "name": "Tapa-Like Loop",
+    "name_e": "Tapa-Like Loop",
+    "category": 2
+  },
+  "227": {
+    "name": "クロスブリード",
+    "name_e": "Crossbreed",
+    "category": 2
+  },
+  "228": {
+    "name": "Transporter",
+    "name_e": "Transporter",
+    "category": 2
+  },
+  "229": {
+    "name": "Balancing Act",
+    "name_e": "Balancing Act",
+    "category": 1
+  },
+  "230": {
+    "name": "Mini Coral",
+    "name_e": "Mini Coral",
+    "category": 3
+  },
+  "231": {
+    "name": "Slovak Sums",
+    "name_e": "Slovak Sums",
+    "category": 1
+  },
+  "232": {
+    "name": "Regional Loop",
+    "name_e": "Regional Loop",
+    "category": 2
+  },
+  "233": {
+    "name": "コージュン",
+    "name_e": "Cojun",
+    "category": 1
+  },
+  "234": {
+    "name": "数学",
+    "name_e": "Mathematics",
+    "category": 1
+  },
+  "235": {
+    "name": "デスクプレース",
+    "name_e": "Wittgenstein Briquet / Desk Place",
+    "category": 4
+  },
+  "236": {
+    "name": "Scrabble",
+    "name_e": "Scrabble",
+    "category": 6
+  },
+  "237": {
+    "name": "HBクロス",
+    "name_e": "",
+    "category": 6
+  },
+  "238": {
+    "name": "シンメトリー迷路",
+    "name_e": "Symmetry Maze",
+    "category": 2
+  },
+  "239": {
+    "name": "直交リンク",
+    "name_e": "",
+    "category": 2
+  },
+  "240": {
+    "name": "ホシはお前だ",
+    "name_e": "",
+    "category": 4
+  },
+  "241": {
+    "name": "家族写真",
+    "name_e": "Family Photo",
+    "category": 5
+  },
+  "242": {
+    "name": "ドッチドッチループ",
+    "name_e": "Dotchi Dotchi Loop",
+    "category": 2
+  },
+  "243": {
+    "name": "帰ってきたパイプリンク",
+    "name_e": "Pipelink Returns",
+    "category": 2
+  },
+  "244": {
+    "name": "スキマあつめ",
+    "name_e": "",
+    "category": 5
+  },
+  "245": {
+    "name": "Tiger in the Woods",
+    "name_e": "Tiger in the Woods",
+    "category": 2
+  },
+  "247": {
+    "name": "Make a Maze",
+    "name_e": "Make a Maze",
+    "category": 2
+  },
+  "248": {
+    "name": "回遊迷路",
+    "name_e": "",
+    "category": 6
+  },
+  "249": {
+    "name": "言語学",
+    "name_e": "Linguistics",
+    "category": 6
+  },
+  "250": {
+    "name": "サーチライト",
+    "name_e": "",
+    "category": 3
+  },
+  "251": {
+    "name": "ヘテロミノ",
+    "name_e": "Heteromino",
+    "category": 5
+  },
+  "252": {
+    "name": "ミラーリングタイル",
+    "name_e": "",
+    "category": 3
+  },
+  "253": {
+    "name": "タージ・マハル",
+    "name_e": "Taj Mahal",
+    "category": 4
+  },
+  "254": {
+    "name": "宇宙遊泳",
+    "name_e": "",
+    "category": 2
+  },
+  "255": {
+    "name": "和同開珎",
+    "name_e": "",
+    "category": 6
+  },
+  "256": {
+    "name": "トリプレイス",
+    "name_e": "Tri-place",
+    "category": 5
+  },
+  "257": {
+    "name": "モチにょろ",
+    "name_e": "Mochinyoro",
+    "category": 3
+  },
+  "258": {
+    "name": "ボサノワ",
+    "name_e": "Bosanowa / Bossa Nova",
+    "category": 1
+  },
+  "259": {
+    "name": "トライアングル",
+    "name_e": "",
+    "category": 3
+  },
+  "260": {
+    "name": "ぬりけん",
+    "name_e": "",
+    "category": 3
+  },
+  "261": {
+    "name": "猪突猛進",
+    "name_e": "",
+    "category": 2
+  },
+  "262": {
+    "name": "双頭竜の視力回復",
+    "name_e": "",
+    "category": 4
+  },
+  "263": {
+    "name": "2人は幸せなキスをして終了",
+    "name_e": "",
+    "category": 2
+  },
+  "264": {
+    "name": "しめなわ",
+    "name_e": "Shimenawa",
+    "category": 2
+  },
+  "265": {
+    "name": "メトロ",
+    "name_e": "",
+    "category": 2
+  },
+  "266": {
+    "name": "落とし穴",
+    "name_e": "",
+    "category": 2
+  },
+  "267": {
+    "name": "カケエル",
+    "name_e": "",
+    "category": 2
+  },
+  "268": {
+    "name": "ティータイム",
+    "name_e": "",
+    "category": 2
+  },
+  "269": {
+    "name": "ナンスケ",
+    "name_e": "",
+    "category": 1
+  },
+  "270": {
+    "name": "碁石ひろい",
+    "name_e": "Goishi / Hiroimono",
+    "category": 1
+  },
+  "271": {
+    "name": "サムライン",
+    "name_e": "Sum Line",
+    "category": 1
+  },
+  "272": {
+    "name": "ジグソークロス",
+    "name_e": "",
+    "category": 6
+  },
+  "273": {
+    "name": "ペロペロキャンディ",
+    "name_e": "",
+    "category": 4
+  },
+  "274": {
+    "name": "光と影",
+    "name_e": "",
+    "category": 4
+  },
+  "275": {
+    "name": "さしがねⅡ",
+    "name_e": "Sashigane II",
+    "category": 5
+  },
+  "276": {
+    "name": "ドッキング漢字",
+    "name_e": "",
+    "category": 6
+  },
+  "277": {
+    "name": "ミルクティー",
+    "name_e": "Milk Tea",
+    "category": 2
+  },
+  "278": {
+    "name": "ニブンノゴ",
+    "name_e": "",
+    "category": 3
+  },
+  "279": {
+    "name": "百花繚乱",
+    "name_e": "",
+    "category": 4
+  },
+  "280": {
+    "name": "エルート",
+    "name_e": "L-route",
+    "category": 5
+  },
+  "281": {
+    "name": "ミッドミッドループ",
+    "name_e": "Mid Mid Loop",
+    "category": 2
+  },
+  "282": {
+    "name": "ちょうつがい",
+    "name_e": "Hinge",
+    "category": 3
+  },
+  "283": {
+    "name": "ワープコネクト",
+    "name_e": "Warp Connect",
+    "category": 2
+  },
+  "284": {
+    "name": "へやピン",
+    "name_e": "",
+    "category": 4
+  },
+  "285": {
+    "name": "時限爆弾",
+    "name_e": "",
+    "category": 1
+  },
+  "286": {
+    "name": "テトロカインズ",
+    "name_e": "",
+    "category": 2
+  },
+  "287": {
+    "name": "チョコバナナ",
+    "name_e": "Choco Banana",
+    "category": 3
+  },
+  "288": {
+    "name": "Square-block Loop",
+    "name_e": "Square-block Loop",
+    "category": 2
+  },
+  "289": {
+    "name": "カクテルランプ",
+    "name_e": "Cocktail lamp",
+    "category": 3
+  },
+  "290": {
+    "name": "重力のへや",
+    "name_e": "",
+    "category": 4
+  },
+  "291": {
+    "name": "へやわたし",
+    "name_e": "",
+    "category": 2
+  },
+  "292": {
+    "name": "ナンボミノ",
+    "name_e": "",
+    "category": 5
+  },
+  "293": {
+    "name": "カッポミノ",
+    "name_e": "",
+    "category": 1
+  },
+  "294": {
+    "name": "黒マスぬり",
+    "name_e": "",
+    "category": 3
+  },
+  "295": {
+    "name": "面積ブロック",
+    "name_e": "",
+    "category": 5
+  },
+  "296": {
+    "name": "囲いこみ",
+    "name_e": "",
+    "category": 5
+  },
+  "297": {
+    "name": "長さでドン",
+    "name_e": "",
+    "category": 2
+  },
+  "298": {
+    "name": "交点は楽し",
+    "name_e": "",
+    "category": 1
+  },
+  "299": {
+    "name": "畳を敷け",
+    "name_e": "",
+    "category": 5
+  },
+  "300": {
+    "name": "普通の畳を敷け",
+    "name_e": "",
+    "category": 5
+  },
+  "301": {
+    "name": "タタミワーズ",
+    "name_e": "",
+    "category": 6
+  },
+  "302": {
+    "name": "タタミに切れ",
+    "name_e": "",
+    "category": 5
+  },
+  "303": {
+    "name": "白かべ黒かべ",
+    "name_e": "",
+    "category": 3
+  },
+  "304": {
+    "name": "本家黒マスはどこだ",
+    "name_e": "",
+    "category": 3
+  },
+  "305": {
+    "name": "元祖黒マスはどこだ",
+    "name_e": "",
+    "category": 3
+  },
+  "306": {
+    "name": "面積ブロックⅡ",
+    "name_e": "",
+    "category": 5
+  },
+  "307": {
+    "name": "タイルは独身に限る",
+    "name_e": "",
+    "category": 1
+  },
+  "308": {
+    "name": "４色タイル",
+    "name_e": "",
+    "category": 1
+  },
+  "309": {
+    "name": "タタミプレース",
+    "name_e": "",
+    "category": 5
+  },
+  "310": {
+    "name": "シロハッポー",
+    "name_e": "",
+    "category": 3
+  },
+  "311": {
+    "name": "クロハッポー",
+    "name_e": "",
+    "category": 3
+  },
+  "312": {
+    "name": "数曲",
+    "name_e": "",
+    "category": 2
+  },
+  "313": {
+    "name": "数曲Jr.",
+    "name_e": "",
+    "category": 2
+  },
+  "314": {
+    "name": "センオレⅡ",
+    "name_e": "",
+    "category": 2
+  },
+  "315": {
+    "name": "ラインマーカー",
+    "name_e": "",
+    "category": 2
+  },
+  "316": {
+    "name": "ふたりにしてくれ",
+    "name_e": "",
+    "category": 1
+  },
+  "317": {
+    "name": "アルファベットリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "318": {
+    "name": "フローリング",
+    "name_e": "",
+    "category": 5
+  },
+  "319": {
+    "name": "ピクチャーペイント",
+    "name_e": "",
+    "category": 3
+  },
+  "320": {
+    "name": "黒マスはここだ",
+    "name_e": "",
+    "category": 3
+  },
+  "321": {
+    "name": "線を引く",
+    "name_e": "",
+    "category": 2
+  },
+  "322": {
+    "name": "とにかく線を引く",
+    "name_e": "",
+    "category": 2
+  },
+  "323": {
+    "name": "点と線",
+    "name_e": "",
+    "category": 2
+  },
+  "324": {
+    "name": "環を作れ",
+    "name_e": "",
+    "category": 2
+  },
+  "325": {
+    "name": "ナンピツ",
+    "name_e": "",
+    "category": 2
+  },
+  "326": {
+    "name": "結合手",
+    "name_e": "",
+    "category": 2
+  },
+  "327": {
+    "name": "四色にぬれ",
+    "name_e": "",
+    "category": 1
+  },
+  "328": {
+    "name": "四色にぬれ改",
+    "name_e": "",
+    "category": 1
+  },
+  "329": {
+    "name": "矢をつなげ",
+    "name_e": "",
+    "category": 4
+  },
+  "330": {
+    "name": "カックル",
+    "name_e": "Kakuru",
+    "category": 1
+  },
+  "331": {
+    "name": "スリザーボックス",
+    "name_e": "",
+    "category": 2
+  },
+  "332": {
+    "name": "タタミを塗れ",
+    "name_e": "",
+    "category": 3
+  },
+  "333": {
+    "name": "センオレ",
+    "name_e": "",
+    "category": 2
+  },
+  "334": {
+    "name": "カウントダウン",
+    "name_e": "",
+    "category": 1
+  },
+  "335": {
+    "name": "ナイトリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "336": {
+    "name": "ナイトリンクⅡ",
+    "name_e": "",
+    "category": 2
+  },
+  "337": {
+    "name": "立体交差",
+    "name_e": "",
+    "category": 2
+  },
+  "338": {
+    "name": "シロクロループ",
+    "name_e": "",
+    "category": 2
+  },
+  "339": {
+    "name": "トリプリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "340": {
+    "name": "フローリング２",
+    "name_e": "",
+    "category": 5
+  },
+  "341": {
+    "name": "難波環状線",
+    "name_e": "",
+    "category": 2
+  },
+  "342": {
+    "name": "黒マスはここだった",
+    "name_e": "",
+    "category": 3
+  },
+  "343": {
+    "name": "シロクロタタミ",
+    "name_e": "",
+    "category": 5
+  },
+  "344": {
+    "name": "橋コロ",
+    "name_e": "",
+    "category": 1
+  },
+  "345": {
+    "name": "キーウエスト",
+    "name_e": "",
+    "category": 1
+  },
+  "346": {
+    "name": "カウントダウンタイル",
+    "name_e": "",
+    "category": 1
+  },
+  "347": {
+    "name": "ナンパイ",
+    "name_e": "",
+    "category": 2
+  },
+  "348": {
+    "name": "星空めぐり",
+    "name_e": "",
+    "category": 2
+  },
+  "349": {
+    "name": "プッテリア２",
+    "name_e": "",
+    "category": 1
+  },
+  "350": {
+    "name": "うめたて",
+    "name_e": "",
+    "category": 3
+  },
+  "351": {
+    "name": "迷作",
+    "name_e": "",
+    "category": 2
+  },
+  "352": {
+    "name": "白マスはどこだ",
+    "name_e": "",
+    "category": 3
+  },
+  "353": {
+    "name": "壁作",
+    "name_e": "",
+    "category": 2
+  },
+  "354": {
+    "name": "カッテリア",
+    "name_e": "",
+    "category": 1
+  },
+  "355": {
+    "name": "シロクロパイ",
+    "name_e": "",
+    "category": 2
+  },
+  "356": {
+    "name": "ちょこまか",
+    "name_e": "",
+    "category": 2
+  },
+  "357": {
+    "name": "お国めぐり",
+    "name_e": "",
+    "category": 2
+  },
+  "358": {
+    "name": "八方リンク",
+    "name_e": "",
+    "category": 2
+  },
+  "359": {
+    "name": "面積リンク / Nurikabe-Like Loop",
+    "name_e": "Nurikabe-Like Loop",
+    "category": 2
+  },
+  "360": {
+    "name": "四角リンク",
+    "name_e": "",
+    "category": 2
+  },
+  "361": {
+    "name": "カズリン",
+    "name_e": "",
+    "category": 2
+  },
+  "362": {
+    "name": "プラスリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "363": {
+    "name": "へやリン",
+    "name_e": "",
+    "category": 2
+  },
+  "364": {
+    "name": "サンクチュアリ",
+    "name_e": "Sanctuary",
+    "category": 1
+  },
+  "365": {
+    "name": "八方環状線",
+    "name_e": "",
+    "category": 2
+  },
+  "366": {
+    "name": "お国めぐりＶ３",
+    "name_e": "",
+    "category": 2
+  },
+  "367": {
+    "name": "のれんわけ",
+    "name_e": "",
+    "category": 5
+  },
+  "368": {
+    "name": "IKOJI",
+    "name_e": "IKOJI",
+    "category": 5
+  },
+  "369": {
+    "name": "ハビッツ",
+    "name_e": "",
+    "category": 2
+  },
+  "370": {
+    "name": "すみわけ",
+    "name_e": "",
+    "category": 3
+  },
+  "371": {
+    "name": "海苔ぬり",
+    "name_e": "",
+    "category": 3
+  },
+  "372": {
+    "name": "ハーフピース",
+    "name_e": "Half Piece",
+    "category": 3
+  },
+  "373": {
+    "name": "フォアボール",
+    "name_e": "Four Ball",
+    "category": 2
+  },
+  "374": {
+    "name": "しめなわ２",
+    "name_e": "",
+    "category": 2
+  },
+  "375": {
+    "name": "ぬりさん",
+    "name_e": "",
+    "category": 3
+  },
+  "376": {
+    "name": "カウントリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "377": {
+    "name": "ハビリン",
+    "name_e": "",
+    "category": 2
+  },
+  "378": {
+    "name": "うめぼう",
+    "name_e": "",
+    "category": 3
+  },
+  "379": {
+    "name": "パールネックレス",
+    "name_e": "",
+    "category": 2
+  },
+  "380": {
+    "name": "ブロッカ",
+    "name_e": "",
+    "category": 5
+  },
+  "381": {
+    "name": "チェンブロ",
+    "name_e": "Chained Block",
+    "category": 3
+  },
+  "382": {
+    "name": "コーナーリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "383": {
+    "name": "ドミノフィールド",
+    "name_e": "",
+    "category": 3
+  },
+  "384": {
+    "name": "おれひとりシークワーズ",
+    "name_e": "",
+    "category": 6
+  },
+  "385": {
+    "name": "へやぼん",
+    "name_e": "Heya-Bon",
+    "category": 3
+  },
+  "386": {
+    "name": "ワンルームワンドア",
+    "name_e": "One Room One Door",
+    "category": 3
+  },
+  "387": {
+    "name": "Crossstitch",
+    "name_e": "Crossstitch",
+    "category": 2
+  },
+  "388": {
+    "name": "Lohkous",
+    "name_e": "Lohkous",
+    "category": 5
+  },
+  "389": {
+    "name": "ビルウォーク",
+    "name_e": "Building Walk",
+    "category": 2
+  },
+  "390": {
+    "name": "タイルシティー",
+    "name_e": "",
+    "category": 3
+  },
+  "391": {
+    "name": "ナンバーロープ",
+    "name_e": "Number Rope",
+    "category": 1
+  },
+  "392": {
+    "name": "Voxas",
+    "name_e": "Voxas",
+    "category": 5
+  },
+  "393": {
+    "name": "Ovotovata",
+    "name_e": "Ovotovata",
+    "category": 2
+  },
+  "394": {
+    "name": "遠い誓い２",
+    "name_e": "Toichika 2",
+    "category": 1
+  },
+  "395": {
+    "name": "パーキング",
+    "name_e": "Tren",
+    "category": 4
+  },
+  "396": {
+    "name": "Arboretum",
+    "name_e": "Arboretum",
+    "category": 2
+  },
+  "397": {
+    "name": "ナンバーシフト",
+    "name_e": "",
+    "category": 1
+  },
+  "398": {
+    "name": "漢字尻取り迷路",
+    "name_e": "",
+    "category": 6
+  },
+  "399": {
+    "name": "ぬりうず",
+    "name_e": "Nuri-uzu",
+    "category": 3
+  },
+  "400": {
+    "name": "アイスダンス・ペア",
+    "name_e": "Ice Dance Pair",
+    "category": 2
+  },
+  "401": {
+    "name": "ざっくばらん",
+    "name_e": "",
+    "category": 6
+  },
+  "402": {
+    "name": "スカイウォーク",
+    "name_e": "Skywalk",
+    "category": 2
+  },
+  "403": {
+    "name": "ハニーダース",
+    "name_e": "Honey Dars",
+    "category": 1
+  },
+  "404": {
+    "name": "区区",
+    "name_e": "Ququ",
+    "category": 3
+  },
+  "405": {
+    "name": "コーヒー牛乳",
+    "name_e": "Coffee Milk",
+    "category": 2
+  },
+  "406": {
+    "name": "電気ループ",
+    "name_e": "",
+    "category": 2
+  },
+  "407": {
+    "name": "パッチワーク",
+    "name_e": "",
+    "category": 5
+  },
+  "408": {
+    "name": "Disorderly Loop",
+    "name_e": "Disorderly Loop",
+    "category": 2
+  },
+  "409": {
+    "name": "凹凸口",
+    "name_e": "凹凸口",
+    "category": 5
+  },
+  "500": {
+    "name": "Square Jam",
+    "name_e": "Square Jam",
+    "category": 5
+  },
+  "501": {
+    "name": "しめなわ３",
+    "name_e": "",
+    "category": 2
+  },
+  "502": {
+    "name": "用水路",
+    "name_e": "",
+    "category": 2
+  },
+  "503": {
+    "name": "マティーニ",
+    "name_e": "Martini",
+    "category": 3
+  },
+  "504": {
+    "name": "Barcode",
+    "name_e": "Barcode",
+    "category": 2
+  },
+  "505": {
+    "name": "Context",
+    "name_e": "Context",
+    "category": 3
+  },
+  "506": {
+    "name": "ドミニオン",
+    "name_e": "Dominion",
+    "category": 5
+  },
+  "507": {
+    "name": "Litherslink",
+    "name_e": "Litherslink",
+    "category": 2
+  },
+  "508": {
+    "name": "ボンバーワーズ",
+    "name_e": "Bomber Words",
+    "category": 6
+  },
+  "509": {
+    "name": "Subwhirl",
+    "name_e": "Subwhirl",
+    "category": 2
+  },
+  "510": {
+    "name": "Fusion Black",
+    "name_e": "Fusion Black",
+    "category": 3
+  },
+  "511": {
+    "name": "ブロックロ",
+    "name_e": "",
+    "category": 6
+  },
+  "512": {
+    "name": "シロクロタタミ（２代目）",
+    "name_e": "",
+    "category": 5
+  },
+  "513": {
+    "name": "パイパー",
+    "name_e": "",
+    "category": 2
+  },
+  "514": {
+    "name": "そこで曲がれ",
+    "name_e": "",
+    "category": 2
+  },
+  "515": {
+    "name": "カナ留め",
+    "name_e": "",
+    "category": 6
+  },
+  "516": {
+    "name": "拡張四方リンク",
+    "name_e": "",
+    "category": 2
+  },
+  "517": {
+    "name": "ダブルパイプリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "518": {
+    "name": "ソリティス",
+    "name_e": "",
+    "category": 5
+  },
+  "519": {
+    "name": "ブロッカル",
+    "name_e": "",
+    "category": 5
+  },
+  "520": {
+    "name": "見つめあう矢印",
+    "name_e": "",
+    "category": 4
+  },
+  "521": {
+    "name": "姉妹都市",
+    "name_e": "",
+    "category": 2
+  },
+  "522": {
+    "name": "ロードマップ",
+    "name_e": "",
+    "category": 2
+  },
+  "523": {
+    "name": "ゴースト",
+    "name_e": "",
+    "category": 2
+  },
+  "524": {
+    "name": "電車道",
+    "name_e": "",
+    "category": 2
+  },
+  "525": {
+    "name": "黒コロ",
+    "name_e": "",
+    "category": 3
+  },
+  "526": {
+    "name": "すみわけ（２代目）",
+    "name_e": "",
+    "category": 4
+  },
+  "527": {
+    "name": "真珠の首飾り",
+    "name_e": "",
+    "category": 2
+  },
+  "528": {
+    "name": "タコ足",
+    "name_e": "",
+    "category": 2
+  },
+  "529": {
+    "name": "○×ブロック",
+    "name_e": "",
+    "category": 5
+  },
+  "530": {
+    "name": "ロンリーライン",
+    "name_e": "",
+    "category": 3
+  },
+  "531": {
+    "name": "ジャンケンタイル",
+    "name_e": "",
+    "category": 1
+  },
+  "532": {
+    "name": "マルかバツか",
+    "name_e": "",
+    "category": 4
+  },
+  "533": {
+    "name": "クロスバイ",
+    "name_e": "",
+    "category": 1
+  },
+  "534": {
+    "name": "新○×ブロック",
+    "name_e": "",
+    "category": 5
+  },
+  "535": {
+    "name": "へりわたり",
+    "name_e": "",
+    "category": 5
+  },
+  "536": {
+    "name": "ソートイチマガ",
+    "name_e": "",
+    "category": 2
+  },
+  "537": {
+    "name": "ワーズブロック",
+    "name_e": "",
+    "category": 6
+  },
+  "538": {
+    "name": "渡り廊下",
+    "name_e": "",
+    "category": 1
+  },
+  "539": {
+    "name": "ダイナリズム",
+    "name_e": "",
+    "category": 1
+  },
+  "540": {
+    "name": "各駅停車",
+    "name_e": "",
+    "category": 1
+  },
+  "541": {
+    "name": "ナイナリズム",
+    "name_e": "",
+    "category": 1
+  },
+  "542": {
+    "name": "黒帯",
+    "name_e": "",
+    "category": 3
+  },
+  "543": {
+    "name": "ハビッツ２",
+    "name_e": "",
+    "category": 2
+  },
+  "544": {
+    "name": "晴れたらいいね",
+    "name_e": "",
+    "category": 2
+  },
+  "545": {
+    "name": "しめなわ４",
+    "name_e": "",
+    "category": 2
+  },
+  "546": {
+    "name": "オビグル",
+    "name_e": "",
+    "category": 3
+  },
+  "547": {
+    "name": "新波及効果",
+    "name_e": "",
+    "category": 1
+  },
+  "548": {
+    "name": "ヤジウェー",
+    "name_e": "",
+    "category": 2
+  },
+  "549": {
+    "name": "イッツウ",
+    "name_e": "",
+    "category": 3
+  },
+  "550": {
+    "name": "フィルボード",
+    "name_e": "",
+    "category": 5
+  },
+  "551": {
+    "name": "ブラウニー",
+    "name_e": "",
+    "category": 4
+  },
+  "552": {
+    "name": "チューテンリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "553": {
+    "name": "クロチョッコリ",
+    "name_e": "",
+    "category": 2
+  },
+  "554": {
+    "name": "道路計画",
+    "name_e": "",
+    "category": 2
+  },
+  "555": {
+    "name": "ふらじゅく",
+    "name_e": "",
+    "category": 6
+  },
+  "556": {
+    "name": "アロード",
+    "name_e": "",
+    "category": 2
+  },
+  "557": {
+    "name": "いそかべ",
+    "name_e": "",
+    "category": 2
+  },
+  "558": {
+    "name": "マルコーリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "559": {
+    "name": "フュージョンリンク",
+    "name_e": "",
+    "category": 2
+  },
+  "560": {
+    "name": "タイコロ",
+    "name_e": "",
+    "category": 5
+  },
+  "561": {
+    "name": "シンクローン",
+    "name_e": "",
+    "category": 5
+  },
+  "562": {
+    "name": "ニカコク",
+    "name_e": "",
+    "category": 5
+  },
+  "563": {
+    "name": "ほたるのさと",
+    "name_e": "",
+    "category": 4
+  },
+  "564": {
+    "name": "ミーニーミニ",
+    "name_e": "",
+    "category": 1
+  },
+  "565": {
+    "name": "ハッチャク",
+    "name_e": "",
+    "category": 2
+  },
+  "566": {
+    "name": "フィルソー",
+    "name_e": "",
+    "category": 4
+  },
+  "567": {
+    "name": "ハリドメ",
+    "name_e": "",
+    "category": 2
+  },
+  "568": {
+    "name": "まるさんばつさん",
+    "name_e": "",
+    "category": 4
+  },
+  "569": {
+    "name": "バスストップ",
+    "name_e": "",
+    "category": 2
+  },
+  "570": {
+    "name": "宮城県仙台市",
+    "name_e": "",
+    "category": 5
+  },
+  "571": {
+    "name": "Round Trip",
+    "name_e": "Round Trip",
+    "category": 2
+  },
+  "572": {
+    "name": "Ant Mill",
+    "name_e": "Ant Mill",
+    "category": 3
+  },
+  "573": {
+    "name": "Cross The Streams",
+    "name_e": "Cross The Streams",
+    "category": 3
+  },
+  "574": {
+    "name": "ハニーサーキット",
+    "name_e": "Honey Circuit",
+    "category": 2
+  },
+  "575": {
+    "name": "かいだんしばり",
+    "name_e": "Stairwell",
+    "category": 2
+  },
+  "577": {
+    "name": "ナンバーブロック / Suguru",
+    "name_e": "Suguru",
+    "category": 1
+  },
+  "578": {
+    "name": "Rassi Silai",
+    "name_e": "Rassi Silai",
+    "category": 2
+  },
+  "579": {
+    "name": "La Paz",
+    "name_e": "La Paz",
+    "category": 5
+  },
+  "580": {
+    "name": "跳ばナイト",
+    "name_e": "",
+    "category": 2
+  },
+  "581": {
+    "name": "へやブロ",
+    "name_e": "",
+    "category": 3
+  },
+  "582": {
+    "name": "ミラーリングタイルα",
+    "name_e": "",
+    "category": 3
+  },
+  "583": {
+    "name": "コブリン",
+    "name_e": "Koburin",
+    "category": 2
+  },
+  "-2": {
+    "name": "Instructionless",
+    "name_e": "Instructionless",
+    "category": 0
+  },
+  "-1": {
+    "name": "その他",
+    "name_e": "Others",
+    "category": 0
+  }
+}

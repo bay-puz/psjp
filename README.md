@@ -1,23 +1,46 @@
-# psjp
-[Puzzle Square JP](https://puzsq.jp/main/index.php)のデータを取得・公開する。
+# PSJP
+
+[Puzzle Square JP](https://puzsq.logicpuzzle.app/)(PSJP)のデータを取得・公開する。
 
 ## [Puzzle Sqaure Stat](https://bay-puz.github.io/psjp/)
+
 GitHub Pagesを使ってページを公開している。
 作者別・パズル別の問題数といいね数や、グラフ、ランキングが見られる。
-## python/crawl-psjp-data.py
-パズル一覧のページから、問題のID、パズル名、いいね数などを取得し、JSON形式で出力する。
 
-Puzzle Square JPの一覧ページには、各問題のIDの他に、作者名、パズル名、いいね数、変種かどうか、作成日時などが載っているため、それらをパースして取得する。
+## data/*.json
 
-ページ毎にリクエストを投げるため、実行中に新しい問題が投稿されると、同じ問題が２回取得される。
-プログラムの中ではチェックをしないので、実行後にIDを見て重複を取り除く必要がある。
+取得したデータと加工したデータ。
+取得日は`data/update.txt`に書かれている。
+データはPuzzle Square Statで閲覧できる。
 
-## python/cut-data.py
-crawl-psjp-data.pyで取得したデータを、パズル別・作者別に集計するスクリプト。
-## python/graph.py
-グラフを作成するスクリプト。
-## data/, graph/
-Puzzle Square JP のデータとそのデータから描いたグラフ。
+## graph/
 
-GitHub Actionsで定期的に更新される。
-更新日時は data/update.txt に書かれる。
+作成したグラフを置くディレクトリ。
+グラフはPuzzle Square Statで閲覧できる。
+
+## script/get-data.sh
+
+PSJPのAPIを利用して、問題情報、いいね数、解答者数などを取得するスクリプト。
+前回の更新以降の差分を取得して`data/data.json`を更新する。
+
+## script/combine.py
+
+APIで取得した1日ごとのデータを`data/data.json`にまとめるスクリプト。
+`script/get-data.sh`の中で実行される。
+
+## script/cut-data.py
+
+取得したデータ(`data/data.json`)を、パズル別(`data/puzzle.json`)・作者別(`data/author.json`)に集計するスクリプト。
+
+## script/graph/
+
+グラフを作成するスクリプトを置くディレクトリ。
+
+## .github/workflows/github-action.yml
+
+データとグラフを更新するためのワークフローファイル。
+APIで1日ずつのデータを取れるため、1日に1回定期実行する。
+
+## view/*, index.html
+
+Puzzle Square Statの画面を表示するためのスクリプト。
