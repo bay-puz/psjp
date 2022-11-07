@@ -3,11 +3,11 @@ import argparse
 import json
 
 def load(file: str) -> dict:
-     with open(file, encoding='utf8') as f:
+    with open(file, encoding='utf8') as f:
         return json.load(f)
 
 def write(data: dict, file: str) -> None:
-     with open(file, 'w', encoding='utf8') as f:
+    with open(file, 'w', encoding='utf8') as f:
         json.dump(data, f)
 
 def main():
@@ -22,7 +22,7 @@ def main():
     problems = load(args.p)
     favorites = load(args.f)
     answered = load(args.a)
-    
+
     fav_n = 'favorite_n'
     ans_n = 'answered_n'
     for p_id, problem in problems.items():
@@ -41,7 +41,7 @@ def main():
         if p_id not in base:
             continue
         base[p_id][fav_n] += 1
- 
+
     for ans in answered.values():
         p_id = str(ans['prob'])
         # 問題が削除されていることがあるのでチェックする
