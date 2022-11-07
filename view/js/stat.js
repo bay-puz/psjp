@@ -9,47 +9,58 @@ function changeSort() {
 
 async function setPage(sort, order, sort_sub) {
     var urlParams = new URLSearchParams(location.search)
-    if (! urlParams.has("author") && ! urlParams.has("puzzle")) {
+
+    // 以前のURLも使えるようにする
+    if (urlParams.has("puzzle")) {
+        urlParams.set("kind", urlParams.get("puzzle"))
+        urlParams.delete("puzzle")
+        location.search = urlParams
+    }
+
+    if (! urlParams.has("author") && ! urlParams.has("kind")) {
         location.href = "../"
         return
     }
     var data = {}
     var is_both = false
-    var queryType = null; var anotherType = null;
-    if (urlParams.has("author") && urlParams.has("puzzle")) {
-        const puzzleId = Number(urlParams.get("puzzle"))
-        const puzzleName = await getNameById(puzzleId, "puzzle")
-        const author_id = Number(urlParams.get("author"))
-        var dataAuthor = await getData(author_id, "author")
+    var anotherType = null;
+    if (urlParams.has("author") && urlParams.has("kind")) {
+        const kindId = Number(urlParams.get("kind"))
+        const kindName = await getNameById(kindId, "kind")
+        const authorId = Number(urlParams.get("author"))
+        var dataAuthor = await getData(authorId, "author")
         if (! dataAuthor) {
             dataAuthor = initData()
-            dataAuthor.name = await getNameById(author_id, "author")
+            dataAuthor.name = await getNameById(authorId, "author")
         }
-        if (puzzleId === 0) {
+        if (kindId === 0) {
             data = dataAuthor
-            queryType = "author"
             anotherType = "puzzle"
         } else {
             is_both = true
-            data = dataAuthor.puzzle[puzzleId]
+            data = dataAuthor.puzzle[kindId]
         }
         if (! data){
             data = initData()
         }
-        data.name = dataAuthor.name + " - " + puzzleName
+        data.name = dataAuthor.name + " - " + kindName
     } else {
         if (urlParams.has("author")) {
-            queryType = "author"
             anotherType = "puzzle"
+            const authorId = Number(urlParams.get("author"))
+            data = await getData(authorId, "author")
+            if (! data) {
+                data = initData()
+                data.name = await getNameById(authorId, "user")
+            }
         } else {
-            queryType = "puzzle"
             anotherType = "author"
-        }
-        const queryId = Number(urlParams.get(queryType))
-        data = await getData(queryId, queryType)
-        if (! data) {
-            data = initData()
-            data.name = await getNameById(queryId, queryType)
+            const kindId = Number(urlParams.get("kind"))
+            data = await getData(kindId, "puzzle")
+            if (! data) {
+                data = initData()
+                data.name = await getNameById(kindId, "kind")
+            }
         }
     }
     setTitle(data.name)
@@ -85,9 +96,9 @@ async function setPage(sort, order, sort_sub) {
 
         for (const key in data[anotherType]) {
             var d = data[anotherType][key]
-            const author_id = (queryType === "author")? data.id: d.id
-            const puzzle_id = (queryType === "puzzle")? data.id: d.id
-            d[anotherType] = getStatLink(author_id, puzzle_id, d.name).outerHTML
+            const authorId = (anotherType === "puzzle")? data.id: d.id
+            const kindId = (anotherType === "author")? data.id: d.id
+            d[anotherType] = getStatLink(authorId, kindId, d.name).outerHTML
             d["liked_r"] = (d.liked / d.problem).toFixed(2)
             d["problem_r"] = (d.problem / data.problem).toFixed(2)
             d["variant_r"] = (d.variant / d.problem).toFixed(2)

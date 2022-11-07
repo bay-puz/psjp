@@ -13,15 +13,20 @@ function loadUpdatedTime() {
     });
 }
 
-function loadData(type) {
-    const file = getPath() + type + ".json"
+function loadData(file) {
+    file = getPath() + file
     return new Promise(function (resolve) {
         fetch(file).then(response=>response.json()).then(data=>resolve(data))
     });
 }
 
 async function getData(id, type) {
-    var data = await loadData(type)
+    if ( type === "kind"  || type === "puzzle" ){
+        file = "puzzle.json"
+    } else if ( type === "user" || type === "author" ){
+        file = "author.json"
+    }
+    var data = await loadData(file)
     for (const key in data) {
         if (data[key].id === id) {
             return data[key];
@@ -31,8 +36,12 @@ async function getData(id, type) {
 }
 
 async function getIdByName(name, type) {
-    dataType = (type == "puzzle")? "kind": "user"
-    var data = await loadData(dataType)
+    if ( type === "kind"  || type === "puzzle" ){
+        file = "kind.json"
+    } else if ( type === "user" || type === "author" ){
+        file = "user.json"
+    }
+    var data = await loadData(file)
     for (const key in data) {
         if (data[key].name === name) {
             return key;
@@ -42,8 +51,12 @@ async function getIdByName(name, type) {
 }
 
 async function getNameById(id, type) {
-    dataType = (type == "puzzle")? "kind": "user"
-    var data = await loadData(dataType)
+    if ( type === "kind"  || type === "puzzle" ){
+        file = "kind.json"
+    } else if ( type === "user" || type === "author" ){
+        file = "user.json"
+    }
+    var data = await loadData(file)
     if ( id in data ) {
         return data[id].name
     }
