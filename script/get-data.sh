@@ -31,17 +31,19 @@ function readable(){
     mv /tmp/jq.json "${FILE}"
 }
 
-# 元データファイルがなければ作る
+# 元データファイルがなければ作り、データは最古の日付から取る
 if [ ! -f "${DATA_FILE}" ]; then
     echo "{}" > "${DATA_FILE}"
+    DATE="2019-05-09"
+else
+    # UPDATE_FILEに書かれた日付を読みこむ
+    if [ ! -f "${UPDATE_FILE}" ]; then
+        echo "${UPDATE_FILE} doesn't exit" >&2
+        exit 2
+    fi
+    DATE="$(date +%Y-%m-%d -d "$(cat "${UPDATE_FILE}")")"
 fi
 
-# UPDATE_FILEに書かれた日付を読みこむ
-if [ ! -f "${UPDATE_FILE}" ]; then
-    echo "${UPDATE_FILE} doesn't exit" >&2
-    exit 2
-fi
-DATE="$(date +%Y-%m-%d -d "$(cat "${UPDATE_FILE}")")"
 TIMESTAMP_TODAY="$(date +%s -d"today 00:00:00 JST")"
 
 # userとkindのデータを最新のものにする
