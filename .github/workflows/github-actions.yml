@@ -1,6 +1,12 @@
 name: Update Puzzle Square Stat
 on:
   workflow_dispatch:
+    inputs:
+      delete:
+        description: "データを削除して取り直す"
+        required: true
+        default: false
+        type: boolean
   schedule:
     # 日本時間で日付が変わってすぐに実行する
     - cron: '10 15 * * *'
@@ -14,6 +20,9 @@ jobs:
         run: |
           pip install beautifulsoup4 matplotlib
           sudo apt-get install -y jq fonts-motoya-l-maruberi
+      - name: delete data (if you want)
+        if: ${{ inputs.delete }}
+        run: rm data/data.json
       - name: get psjp data
         run: ./script/get-data.sh
       - name: cut psjp data
