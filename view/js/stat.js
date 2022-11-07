@@ -35,10 +35,10 @@ async function setPage(sort, order, sort_sub) {
         }
         if (kindId === 0) {
             data = dataAuthor
-            anotherType = "puzzle"
+            anotherType = "kind"
         } else {
             is_both = true
-            data = dataAuthor.puzzle[kindId]
+            data = dataAuthor.kind[kindId]
         }
         if (! data){
             data = initData()
@@ -46,7 +46,7 @@ async function setPage(sort, order, sort_sub) {
         data.name = dataAuthor.name + " - " + kindName
     } else {
         if (urlParams.has("author")) {
-            anotherType = "puzzle"
+            anotherType = "kind"
             const authorId = Number(urlParams.get("author"))
             data = await getData(authorId, "author")
             if (! data) {
@@ -96,7 +96,7 @@ async function setPage(sort, order, sort_sub) {
 
         for (const key in data[anotherType]) {
             var d = data[anotherType][key]
-            const authorId = (anotherType === "puzzle")? data.id: d.id
+            const authorId = (anotherType === "kind")? data.id: d.id
             const kindId = (anotherType === "author")? data.id: d.id
             d[anotherType] = getStatLink(authorId, kindId, d.name).outerHTML
             d["liked_r"] = (d.liked / d.problem).toFixed(2)

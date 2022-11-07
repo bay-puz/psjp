@@ -20,6 +20,15 @@ function loadData(file) {
     });
 }
 
+async function getAllData(type) {
+    if ( type === "kind"  || type === "puzzle" ){
+        file = "puzzle.json"
+    } else if ( type === "user" || type === "author" ){
+        file = "author.json"
+    }
+    return await loadData(file)
+}
+
 async function getData(id, type) {
     if ( type === "kind"  || type === "puzzle" ){
         file = "puzzle.json"
@@ -75,6 +84,6 @@ function initData() {
     return {"name": "", "problem": 0, "liked":0, "variant":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [dif, dif, dif, dif, dif, dif]}
 }
 
-const displayStr = {"puzzle": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "problem_r": "占有率", "puzzle_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "puzzle_r": "人数平均", "author_r": "種類数平均", "variant": "変種", "variant_r": "変種率", "difficulty": "難易度"}
-const displayCountStr = {"puzzle": "投稿したパズルの種類", "author": "投稿した作者の人数", "puzzle_r": "１種類当たり問題数", "author_r": "１人当たり問題数"}
+const displayStr = {"kind": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "problem_r": "占有率", "kind_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "kind_r": "人数平均", "author_r": "種類数平均", "variant": "変種", "variant_r": "変種率", "difficulty": "難易度"}
+const displayCountStr = {"kind": "投稿したパズルの種類", "author": "投稿した作者の人数", "kind_r": "１種類当たり問題数", "author_r": "１人当たり問題数"}
 const displayDifficultyStr = {1: "らくらく", 2: "おてごろ", 3: "たいへん", 4: "アゼン", 5: "ハバネロ"}

@@ -1,7 +1,14 @@
 function show() {
     var params = new URLSearchParams(location.search)
-    var rankParams = {"category": "puzzle", "sort": "problem", "subsort": "liked", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
 
+    // 以前のURLも使えるようにする
+    if (params.get("category") === "puzzle") {
+        oldParam = true
+        params.set("category", "kind")
+        location.search = params
+    }
+
+    var rankParams = {"category": "kind", "sort": "problem", "subsort": "liked", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
     for (const key in rankParams) {
         if (params.has(key)) {
             if (key === "number" || key === "criteria") {
@@ -18,15 +25,15 @@ show()
 
 async function makeRanking(p) {
     var list = []
-    var data = await loadData(p.category)
+    var data = await getAllData(p.category)
     delete data[0]
 
     for (const key in data) {
         var d = data[key]
         var contents = {"name": key, "problem": d.problem, "liked": d.liked, "variant": d.variant, "rank": 1}
-        const author_id = (p.category === "author")? d.id: 0
-        const puzzle_id = (p.category === "puzzle")? d.id: 0
-        contents[p.category] = getStatLink(author_id, puzzle_id, d.name).outerHTML
+        const authorId = (p.category === "author")? d.id: 0
+        const kindId = (p.category === "kind")? d.id: 0
+        contents[p.category] = getStatLink(authorId, kindId, d.name).outerHTML
         contents["count"] = d.count
         contents["count_r"] = d.problem / d.count
         contents["liked_r"] = d.liked / d.problem

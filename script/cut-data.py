@@ -7,7 +7,7 @@ def cut_data(data: list, is_author: bool, category_data: dict, another_data: dic
     cut_dict = {}
 
     all_name = "全作者" if is_author else "全パズル"
-    another = "puzzle" if is_author else "author"
+    another = "kind" if is_author else "author"
 
     data_category_id = "user" if is_author else "kind"
     data_another_id = "kind" if is_author else "user"
