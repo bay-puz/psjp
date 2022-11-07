@@ -12,14 +12,14 @@ function setTweetUrl() {
 }
 setTweetUrl()
 
-function getStatLink(author_id, puzzle_id, text) {
+function getStatLink(author_id, kind_id, text) {
     var urlStr = "./stat.html?"
     var params = new URLSearchParams()
     if (author_id) {
         params.set("author", author_id)
     }
-    if (puzzle_id) {
-        params.set("puzzle", puzzle_id)
+    if (kind_id) {
+        params.set("kind", kind_id)
     }
     urlStr += params.toString()
 

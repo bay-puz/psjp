@@ -93,7 +93,7 @@ def plot_top_in_problem(author_dict, puzzle_dict):
 
     fig = pyplot.figure(figsize=[8, 12])
     set_plot()
-    l, t, o = top_in_problem(author_dict, "puzzle", size)
+    l, t, o = top_in_problem(author_dict, "kind", size)
     pyplot.title("作者別総投稿数/最多投稿パズルの投稿数（投稿数上位" + str(size) + "）")
     pyplot.barh(l, t, fc="orange", label="その作者の最多パズル")
     pyplot.barh(l, o, fc="green", label="それ以外のパズルの合計")

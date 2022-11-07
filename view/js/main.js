@@ -1,5 +1,5 @@
 document.getElementById("goAuthor").addEventListener("click", function(){goPage("author");});
-document.getElementById("goPuzzle").addEventListener("click", function(){goPage("puzzle");});
+document.getElementById("goPuzzle").addEventListener("click", function(){goPage("kind");});
 document.getElementById("goAuthorPuzzle").addEventListener("click", function(){goPage("both");});
 document.getElementById("goRanking").addEventListener("click", goRanking);
 document.getElementById("goGraph").addEventListener("click", goGraph);
@@ -11,7 +11,7 @@ async function goPage(type) {
     var elementIds = {}
     if (type === "both") {
         elementIds["author"] = "inputAuthorNameWithPuzzle"
-        elementIds["puzzle"] = "inputPuzzleNameWithAuthor"
+        elementIds["kind"] = "inputPuzzleNameWithAuthor"
     } else {
         elementIds[type] = (type === "author")? "inputAuthorName": "inputPuzzleName"
     }
