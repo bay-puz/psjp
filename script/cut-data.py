@@ -13,7 +13,7 @@ def cut_data(data: list, is_author: bool, category_data: dict, another_data: dic
     data_another_id = "kind" if is_author else "user"
 
     all_id = 0
-    cut_dict[all_id] = {"name": all_name, "id": all_id, "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0, another: {}}
+    cut_dict[all_id] = {"name": all_name, "id": all_id, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
 
     for d in data.values():
         d_id = d[data_category_id]
@@ -21,29 +21,31 @@ def cut_data(data: list, is_author: bool, category_data: dict, another_data: dic
 
         if d_id not in cut_dict:
             name = category_data[str(d_id)]["name"]
-            data_format = {"id": d_id, "name": name, "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0, another: {}}
+            data_format = {"id": d_id, "name": name, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n":0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
             cut_dict[d_id] = data_format
         for c_id in [d_id, all_id]:
-            cut_dict[c_id]["liked"] += d["favorite_n"]
-            cut_dict[c_id]["problem"] += 1
-            cut_dict[c_id]["difficulty"][d["difficulty"]]["problem"] += 1
-            cut_dict[c_id]["difficulty"][d["difficulty"]]["liked"] += d["favorite_n"]
+            for key in ["favorite_n", "answered_n"]:
+                cut_dict[c_id][key] += d[key]
+                cut_dict[c_id]["difficulty"][d["difficulty"]][key] += d[key]
+            cut_dict[c_id]["problem_n"] += 1
+            cut_dict[c_id]["difficulty"][d["difficulty"]]["problem_n"] += 1
             if d["variation"] == 1:
-                cut_dict[c_id]["variant"] += 1
-                cut_dict[c_id]["difficulty"][d["difficulty"]]["variant"] += 1
+                cut_dict[c_id]["variant_n"] += 1
+                cut_dict[c_id]["difficulty"][d["difficulty"]]["variant_n"] += 1
 
         for c_id in [d_id, all_id]:
             if d_another_id not in cut_dict[c_id][another]:
                 name = another_data[str(d_another_id)]["name"]
-                another_format = {"id": d_another_id, "name": name, "liked": 0, "problem": 0, "difficulty": [{"problem": 0, "liked": 0, "variant": 0} for _ in range(6)], "variant": 0}
+                another_format = {"id": d_another_id, "name": name, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n":0, "variant_n": 0} for _ in range(6)], "variant_n": 0}
                 cut_dict[c_id][another][d_another_id] = another_format
-            cut_dict[c_id][another][d_another_id]["liked"] += d["favorite_n"]
-            cut_dict[c_id][another][d_another_id]["problem"] += 1
-            cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]]["problem"] += 1
-            cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]]["liked"] += d["favorite_n"]
+            for key in ["favorite_n", "answered_n"]:
+                cut_dict[c_id][another][d_another_id][key] += d[key]
+                cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]][key] += d[key]
+            cut_dict[c_id][another][d_another_id]["problem_n"] += 1
+            cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]]["problem_n"] += 1
             if d["variation"] == 1:
-                cut_dict[c_id][another][d_another_id]["variant"] += 1
-                cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]]["variant"] += 1
+                cut_dict[c_id][another][d_another_id]["variant_n"] += 1
+                cut_dict[c_id][another][d_another_id]["difficulty"][d["difficulty"]]["variant_n"] += 1
 
     for key in cut_dict.keys():
         cut_dict[key]["count"] = len(cut_dict[key][another])

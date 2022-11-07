@@ -8,7 +8,7 @@ function show() {
         location.search = params
     }
 
-    var rankParams = {"category": "kind", "sort": "problem", "subsort": "liked", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
+    var rankParams = {"category": "kind", "sort": "problem_n", "subsort": "favorite_n", "order": "down", "number": 20, "condition": null, "criteria": null, "than": "null"}
     for (const key in rankParams) {
         if (params.has(key)) {
             if (key === "number" || key === "criteria") {
@@ -30,14 +30,15 @@ async function makeRanking(p) {
 
     for (const key in data) {
         var d = data[key]
-        var contents = {"name": key, "problem": d.problem, "liked": d.liked, "variant": d.variant, "rank": 1}
+        var contents = {"name": key, "problem_n": d.problem_n, "favorite_n": d.favorite_n, "answered_n": d.answered_n, "variant_n": d.variant_n, "rank": 1}
         const authorId = (p.category === "author")? d.id: 0
         const kindId = (p.category === "kind")? d.id: 0
         contents[p.category] = getStatLink(authorId, kindId, d.name).outerHTML
         contents["count"] = d.count
-        contents["count_r"] = d.problem / d.count
-        contents["liked_r"] = d.liked / d.problem
-        contents["variant_r"] = d.variant / d.problem
+        contents["count_r"] = d.problem_n / d.count
+        contents["favorite_r"] = d.favorite_n / d.problem_n
+        contents["answered_r"] = d.answered_n / d.problem_n
+        contents["variant_r"] = d.variant_n / d.problem_n
 
         if (p.condition && p.than) {
             if (p.than === "large" && !(p.criteria < contents[p.condition])) {
@@ -75,12 +76,13 @@ async function makeRanking(p) {
     const countKey = p.category + "_c"
     const rateKey = p.category + "_r"
     list.forEach(function(d) {
-        d.liked_r = d.liked_r.toFixed(2)
+        d.favorite_r = d.favorite_r.toFixed(2)
+        d.answered_r = d.answered_r.toFixed(2)
         d.variant_r = d.variant_r.toFixed(2)
         d[countKey] = d.count
         d[rateKey] = d.count_r.toFixed(2)
     })
-    var headers = ["problem", "liked", "liked_r", countKey, rateKey, "variant", "variant_r"]
+    var headers = ["problem_n", "favorite_n", "favorite_r", "answered_n", "answered_r", countKey, rateKey, "variant_n", "variant_r"]
     makeRankingTable(p.category, headers, list)
 }
 

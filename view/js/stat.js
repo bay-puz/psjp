@@ -3,11 +3,10 @@ document.getElementById("changeSort").addEventListener("click", changeSort)
 function changeSort() {
     const sort = document.getElementById("sort").value
     const order = document.getElementById("order").value
-    const sort_sub = (sort === "problem")? "liked": "problem"
-    setPage(sort, order, sort_sub)
+    setPage(sort, order)
 }
 
-async function setPage(sort, order, sort_sub) {
+async function setPage(sort, order) {
     var urlParams = new URLSearchParams(location.search)
 
     // 以前のURLも使えるようにする
@@ -67,16 +66,18 @@ async function setPage(sort, order, sort_sub) {
     setPsjpLink(urlParams)
     setTweetUrl()
 
-    data["liked_r"] = (data.liked / data.problem).toFixed(2)
-    data["count_r"] = (data.problem / data.count).toFixed(2)
-    data["variant_r"] = (data.variant / data.problem).toFixed(2)
+    data["favorite_r"] = (data.favorite_n / data.problem_n).toFixed(2)
+    data["answered_r"] = (data.answered_n / data.problem_n).toFixed(2)
+    data["count_r"] = (data.problem_n / data.count).toFixed(2)
+    data["variant_r"] = (data.variant_n / data.problem_n).toFixed(2)
     for (let index = 1; index <= 5; index++) {
-        data.difficulty[index]["problem_r"] = (data.difficulty[index]["problem"] / data.problem).toFixed(2)
-        data.difficulty[index]["liked_r"] = (data.difficulty[index]["liked"] / data.difficulty[index].problem).toFixed(2)
-        data.difficulty[index]["variant_r"] = (data.difficulty[index]["variant"] / data.difficulty[index].problem).toFixed(2)
+        data.difficulty[index]["problem_r"] = (data.difficulty[index].problem_n / data.problem_n).toFixed(2)
+        data.difficulty[index]["favorite_r"] = (data.difficulty[index].favorite_n / data.difficulty[index].problem_n).toFixed(2)
+        data.difficulty[index]["answered_r"] = (data.difficulty[index].answered_n / data.difficulty[index].problem_n).toFixed(2)
+        data.difficulty[index]["variant_r"] = (data.difficulty[index].variant_n / data.difficulty[index].problem_n).toFixed(2)
     }
 
-    keys = ["name", "problem", "liked", "liked_r", "count", "count_r", "variant", "variant_r"]
+    keys = ["name", "problem_n", "favorite_n", "favorite_r", "answered_n", "answered_r", "count", "count_r", "variant_n", "variant_r"]
     for (const key of keys) {
         setInfo(key, data[key])
     }
@@ -99,21 +100,18 @@ async function setPage(sort, order, sort_sub) {
             const authorId = (anotherType === "kind")? data.id: d.id
             const kindId = (anotherType === "author")? data.id: d.id
             d[anotherType] = getStatLink(authorId, kindId, d.name).outerHTML
-            d["liked_r"] = (d.liked / d.problem).toFixed(2)
-            d["problem_r"] = (d.problem / data.problem).toFixed(2)
-            d["variant_r"] = (d.variant / d.problem).toFixed(2)
+            d["favorite_r"] = (d.favorite_n / d.problem_n).toFixed(2)
+            d["answered_r"] = (d.answered_n / d.problem_n).toFixed(2)
+            d["problem_r"] = (d.problem_n / data.problem_n).toFixed(2)
+            d["variant_r"] = (d.variant_n / d.problem_n).toFixed(2)
         }
 
-        const sorts = ["problem", "liked", "liked_r", "variant", "variant_r"]
-        sort = sorts.includes(sort)? sort: "problem"
-        sort_sub = sorts.includes(sort_sub)? sort_sub: "liked"
+        const sorts = ["problem_n", "favorite_n", "favorite_r", "answered_n", "answered_r", "variant_n", "variant_r"]
+        sort = sorts.includes(sort)? sort: "problem_n"
         const orderSign = (order == "up")? 1: -1
 
         var anotherTypeList = Object.values(data[anotherType]);
         anotherTypeList.sort((a,b) => {
-            if (a[sort] === b[sort]) {
-                return orderSign * (a[sort_sub] - b[sort_sub]);
-            }
             return orderSign * (a[sort] - b[sort]);
         })
         makeTable("anotherTable", anotherType, anotherTypeList)
@@ -152,7 +150,7 @@ function hideElements(className) {
 }
 
 function makeTable(elementId, header, dataList) {
-    keys = ["problem", "problem_r", "liked", "liked_r", "variant", "variant_r"]
+    keys = ["problem_n", "problem_r", "favorite_n", "favorite_r", "answered_n", "answered_r", "variant_n", "variant_r"]
     var tableElement = document.createElement("table")
 
     var theadElement = document.createElement("thead")
