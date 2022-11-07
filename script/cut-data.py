@@ -13,7 +13,7 @@ def cut_data(data: list, is_author: bool, category_data: dict, another_data: dic
     data_another_id = "kind" if is_author else "user"
 
     all_id = 0
-    cut_dict[all_id] = {"name": all_name, "id": all_id, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
+    cut_dict[all_id] = {"id": all_id, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
 
     for d in data.values():
         d_id = d[data_category_id]
@@ -21,7 +21,7 @@ def cut_data(data: list, is_author: bool, category_data: dict, another_data: dic
 
         if d_id not in cut_dict:
             name = category_data[str(d_id)]["name"]
-            data_format = {"id": d_id, "name": name, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n":0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
+            data_format = {"id": d_id, "favorite_n": 0, "answered_n": 0, "problem_n": 0, "difficulty": [{"problem_n": 0, "favorite_n": 0, "answered_n":0, "variant_n": 0} for _ in range(6)], "variant_n": 0, another: {}}
             cut_dict[d_id] = data_format
         for c_id in [d_id, all_id]:
             for key in ["favorite_n", "answered_n"]:

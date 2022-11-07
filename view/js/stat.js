@@ -27,6 +27,7 @@ async function setPage(sort, order) {
         const kindId = Number(urlParams.get("kind"))
         const kindName = await getNameById(kindId, "kind")
         const authorId = Number(urlParams.get("author"))
+        const authorName = await getNameById(authorId, "author")
         var dataAuthor = await getData(authorId, "author")
         if (! dataAuthor) {
             dataAuthor = initData()
@@ -42,7 +43,7 @@ async function setPage(sort, order) {
         if (! data){
             data = initData()
         }
-        data.name = dataAuthor.name + " - " + kindName
+        data.name = authorName + " - " + kindName
     } else {
         if (urlParams.has("author")) {
             anotherType = "kind"
@@ -50,16 +51,16 @@ async function setPage(sort, order) {
             data = await getData(authorId, "author")
             if (! data) {
                 data = initData()
-                data.name = await getNameById(authorId, "user")
             }
+            data.name = await getNameById(authorId, "user")
         } else {
             anotherType = "author"
             const kindId = Number(urlParams.get("kind"))
             data = await getData(kindId, "puzzle")
             if (! data) {
                 data = initData()
-                data.name = await getNameById(kindId, "kind")
             }
+            data.name = await getNameById(kindId, "kind")
         }
     }
     setTitle(data.name)
