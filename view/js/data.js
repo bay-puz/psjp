@@ -80,10 +80,10 @@ function getPath() {
 }
 
 function initData() {
-    var dif = {"problem": 0, "liked": 0, "variant": 0}
-    return {"name": "", "problem": 0, "liked":0, "variant":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [dif, dif, dif, dif, dif, dif]}
+    var dif = {"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
+    return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [dif, dif, dif, dif, dif, dif]}
 }
 
-const displayStr = {"kind": "パズル", "author": "作者", "liked": "いいね数", "problem": "問題数", "problem_r": "占有率", "kind_c": "人数",  "author_c": "種類", "liked_r": "平均いいね数", "kind_r": "人数平均", "author_r": "種類数平均", "variant": "変種", "variant_r": "変種率", "difficulty": "難易度"}
+const displayStr = {"kind": "パズル", "author": "作者", "favorite_n": "いいね数", "answered_n": "解答者数", "problem_n": "問題数", "problem_r": "占有率", "kind_c": "人数",  "author_c": "種類", "favorite_r": "平均いいね数", "answered_r": "平均解答者数", "kind_r": "人数平均", "author_r": "種類数平均", "variant_n": "変種数", "variant_r": "変種率", "difficulty": "難易度"}
 const displayCountStr = {"kind": "投稿したパズルの種類", "author": "投稿した作者の人数", "kind_r": "１種類当たり問題数", "author_r": "１人当たり問題数"}
 const displayDifficultyStr = {1: "らくらく", 2: "おてごろ", 3: "たいへん", 4: "アゼン", 5: "ハバネロ"}

@@ -13,8 +13,8 @@ def write(data: dict, file: str) -> None:
 def main():
     parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
     parser.add_argument("-b", metavar="base", type=str, default="data/data.json", help="元データ")
-    parser.add_argument("-p", metavar="problems", type=str, help="追加のproblems")
-    parser.add_argument("-f", metavar="favorites", type=str, help="追加のfavorites")
+    parser.add_argument("-p", metavar="problem", type=str, help="追加のproblem")
+    parser.add_argument("-f", metavar="favorite", type=str, help="追加のfavorite")
     parser.add_argument("-a", metavar="answered", type=str, help="追加のanswered")
     args = parser.parse_args()
 

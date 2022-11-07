@@ -9,16 +9,16 @@ def load(file: str):
         return json.loads(data_json)
 
 
-def problem_liked_by(data_dict: dict):
+def problem_favorite(data_dict: dict):
     problem_list = []
-    liked_list = []
+    favorite_list = []
     for data in data_dict.values():
-        problem_list.append(data["problem"])
-        liked_list.append(data["liked"])
-    return problem_list, liked_list
+        problem_list.append(data["problem_n"])
+        favorite_list.append(data["favorite_n"])
+    return problem_list, favorite_list
 
 
-def plot_problem_liked_by(author_dict, puzzle_dict):
+def plot_problem_favorite(author_dict, puzzle_dict):
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
     fig = pyplot.figure()
 
@@ -27,15 +27,15 @@ def plot_problem_liked_by(author_dict, puzzle_dict):
     pyplot.xscale("log")
     pyplot.yscale("log")
 
-    x, y = problem_liked_by(author_dict)
+    x, y = problem_favorite(author_dict)
     pyplot.title("作者別問題数/いいね数")
     pyplot.scatter(x, y, s=5, c='g')
-    fig.savefig("graph/problem-liked-by-author.png")
+    fig.savefig("graph/problem-favorite-author.png")
 
-    x, y = problem_liked_by(puzzle_dict)
+    x, y = problem_favorite(puzzle_dict)
     pyplot.title("パズル別問題数/いいね数")
     pyplot.scatter(x, y, s=5, c='g')
-    fig.savefig("graph/problem-liked-by-puzzle.png")
+    fig.savefig("graph/problem-favorite-puzzle.png")
     return
 
 
@@ -45,7 +45,7 @@ def top_in_problem(data_dict: dict, type: str, limit: int):
     width_other = []
 
     def sort_problem(d):
-        return int(d["problem"])
+        return int(d["problem_n"])
 
     sorted_list = sorted(data_dict.values(), key=sort_problem)
     limit_list = sorted_list[-1*limit:]
@@ -55,10 +55,10 @@ def top_in_problem(data_dict: dict, type: str, limit: int):
 
         max_problem = 0
         for d in data[type].values():
-            p = int(d["problem"])
+            p = int(d["problem_n"])
             if p > max_problem:
                 max_problem = p
-        p = int(data["problem"])
+        p = int(data["problem_n"])
         width_top.append(p)
         width_other.append(p - max_problem)
 
@@ -110,7 +110,7 @@ def main():
     del data_author["0"]
     del data_puzzle["0"]
 
-    plot_problem_liked_by(data_author, data_puzzle)
+    plot_problem_favorite(data_author, data_puzzle)
     plot_top_in_problem(data_author, data_puzzle)
 
     return
