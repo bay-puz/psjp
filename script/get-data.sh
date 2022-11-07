@@ -31,6 +31,9 @@ function readable(){
     mv /tmp/jq.json "${FILE}"
 }
 
+# 日本時間で行う
+export TZ="Asia/Tokyo"
+
 # 元データファイルがなければ作り、データは最古の日付から取る
 if [ ! -f "${DATA_FILE}" ]; then
     echo "{}" > "${DATA_FILE}"
@@ -44,7 +47,7 @@ else
     DATE="$(date +%Y-%m-%d -d "$(cat "${UPDATE_FILE}")")"
 fi
 
-TIMESTAMP_TODAY="$(date +%s -d"today 00:00:00 JST")"
+TIMESTAMP_TODAY="$(date +%s -d"today 00:00:00")"
 
 # userとkindのデータを最新のものにする
 echo "get user and kind"
