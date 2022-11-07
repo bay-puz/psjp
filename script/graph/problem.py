@@ -39,7 +39,7 @@ def plot_problem_favorite(author_dict, puzzle_dict):
     return
 
 
-def top_in_problem(data_dict: dict, type: str, limit: int):
+def top_in_problem(data_dict: dict, name_dict: dict, type: str, limit: int):
     labels = []
     width_top = []
     width_other = []
@@ -51,7 +51,8 @@ def top_in_problem(data_dict: dict, type: str, limit: int):
     limit_list = sorted_list[-1*limit:]
 
     for data in limit_list:
-        labels.append(data["name"])
+        name = name_dict[str(data["id"])]["name"]
+        labels.append(name)
 
         max_problem = 0
         for d in data[type].values():
@@ -65,7 +66,7 @@ def top_in_problem(data_dict: dict, type: str, limit: int):
     return labels, width_top, width_other
 
 
-def plot_top_in_problem(author_dict, puzzle_dict):
+def plot_top_in_problem(author_dict, puzzle_dict, user_dict, kind_dict):
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
     size = 50
 
@@ -84,7 +85,7 @@ def plot_top_in_problem(author_dict, puzzle_dict):
 
     fig = pyplot.figure(figsize=[8, 12])
     set_plot()
-    l, t, o = top_in_problem(puzzle_dict, "author", size)
+    l, t, o = top_in_problem(puzzle_dict, kind_dict, "author", size)
     pyplot.title("パズル別総問題数/最多投稿者の問題数（問題数上位" + str(size) + "）")
     pyplot.barh(l, t, fc="orange", label="そのパズルの最多投稿者")
     pyplot.barh(l, o, fc="green", label="他の投稿者の合計")
@@ -93,7 +94,7 @@ def plot_top_in_problem(author_dict, puzzle_dict):
 
     fig = pyplot.figure(figsize=[8, 12])
     set_plot()
-    l, t, o = top_in_problem(author_dict, "kind", size)
+    l, t, o = top_in_problem(author_dict, user_dict, "kind", size)
     pyplot.title("作者別総投稿数/最多投稿パズルの投稿数（投稿数上位" + str(size) + "）")
     pyplot.barh(l, t, fc="orange", label="その作者の最多パズル")
     pyplot.barh(l, o, fc="green", label="それ以外のパズルの合計")
@@ -105,13 +106,15 @@ def plot_top_in_problem(author_dict, puzzle_dict):
 
 def main():
     data_author = load("data/author.json")
+    data_user = load("data/user.json")
     data_puzzle = load("data/puzzle.json")
+    data_kind = load("data/kind.json")
 
     del data_author["0"]
     del data_puzzle["0"]
 
     plot_problem_favorite(data_author, data_puzzle)
-    plot_top_in_problem(data_author, data_puzzle)
+    plot_top_in_problem(data_author, data_puzzle, data_user, data_kind)
 
     return
 

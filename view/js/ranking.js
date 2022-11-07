@@ -30,10 +30,11 @@ async function makeRanking(p) {
 
     for (const key in data) {
         var d = data[key]
-        var contents = {"name": key, "problem_n": d.problem_n, "favorite_n": d.favorite_n, "answered_n": d.answered_n, "variant_n": d.variant_n, "rank": 1}
         const authorId = (p.category === "author")? d.id: 0
         const kindId = (p.category === "kind")? d.id: 0
-        contents[p.category] = getStatLink(authorId, kindId, d.name).outerHTML
+        const name = await getNameById(d.id, p.category)
+        var contents = {"name": name, "problem_n": d.problem_n, "favorite_n": d.favorite_n, "answered_n": d.answered_n, "variant_n": d.variant_n, "rank": 1}
+        contents[p.category] = getStatLink(authorId, kindId, name).outerHTML
         contents["count"] = d.count
         contents["count_r"] = d.problem_n / d.count
         contents["favorite_r"] = d.favorite_n / d.problem_n
