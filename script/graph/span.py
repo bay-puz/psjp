@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 from matplotlib import pyplot
 
+
 def load(file: str):
     with open(file, encoding='utf8') as f:
         data_json = f.read()
@@ -26,8 +27,8 @@ def get_span_categories(data: dict, is_author: bool, limit: int, categories: dic
                 problem_dict[name]["last"] = time
             problem_dict[name]["count"] += 1
 
-    sorted_list = sorted(problem_dict.values(), key=lambda x:x["count"])
-    limited_list = sorted_list[-1*limit:]
+    sorted_list = sorted(problem_dict.values(), key=lambda x: x["count"])
+    limited_list = sorted_list[-1 * limit:]
 
     names = [p["name"] for p in limited_list]
     firsts = [p["first"] for p in limited_list]

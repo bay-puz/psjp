@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*- #
 import argparse
 import json
-from typing import Tuple
-import requests
 from datetime import datetime
+from typing import Tuple
 
+import requests
 
 PSJP_API_BASE = "https://puzsq.logicpuzzle.app/api"
 PSJP_API_REGISTERED_LIST = ["problem", "favorite", "answered"]
@@ -12,7 +12,7 @@ PSJP_API_INFOMATION_LIST = ["user", "kind"]
 
 
 class Puzsq:
-    def __init__(self, date: datetime, problems: str="") -> None:
+    def __init__(self, date: datetime, problems: str = "") -> None:
         self.date = date
         self.user_dict = get_api_info("user")
         self.kind_dict = get_api_info("kind")
@@ -29,7 +29,7 @@ class Puzsq:
         self.most_answered_problems = self._top(self.problems_ans)
         self.most_answered_authors = self._top(self.authors_ans)
 
-    def _count_register_dict(self, register_dict: dict) -> Tuple[dict, dict]:
+    def _count_register_dict(self, register_dict: dict) -> Tuple[dict, dict, dict]:
         problems = {}
         authors = {}
         solvers = {}
@@ -54,12 +54,12 @@ class Puzsq:
         return (problems, authors, solvers)
 
     def _top(self, count_dict: dict) -> list:
-        top_id = -1
+        top_id = [-1]
         for cid, count in count_dict.items():
-            if top_id == -1 or count_dict[str(top_id[0])] < count:
+            if top_id[0] == -1 or count_dict[str(top_id[0])] < count:
                 top_id = [cid]
             elif count_dict[str(top_id[0])] == count:
-               top_id.append(cid)
+                top_id.append(cid)
         return top_id
 
     def show(self) -> None:
@@ -148,6 +148,7 @@ def get_api_prob(pid: int) -> dict:
 def load_json(file: str) -> dict:
     with open(file) as f:
         return json.load(f)
+
 
 def get_problem_str(prob: dict) -> str:
     variant = "（変種）" if prob["variation"] else ""

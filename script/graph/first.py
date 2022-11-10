@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 from matplotlib import pyplot
 
+
 def load(file: str):
     with open(file, encoding='utf8') as f:
         data_json = f.read()
@@ -11,7 +12,7 @@ def load(file: str):
 
 def get_first_categories(data: dict, is_author: bool, name_dict: dict):
     search = "kind" if is_author else "user"
-    category = "user" if is_author else "kind" 
+    category = "user" if is_author else "kind"
 
     first_problem = {}
     for d in data.values():

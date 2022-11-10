@@ -2,7 +2,8 @@
 import json
 from datetime import date, datetime
 from matplotlib import pyplot
-DAY_RANGE=30
+DAY_RANGE = 30
+
 
 def load(file: str):
     with open(file, encoding='utf8') as f:

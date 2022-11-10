@@ -48,7 +48,7 @@ def top_in_problem(data_dict: dict, name_dict: dict, type: str, limit: int):
         return int(d["problem_n"])
 
     sorted_list = sorted(data_dict.values(), key=sort_problem)
-    limit_list = sorted_list[-1*limit:]
+    limit_list = sorted_list[-1 * limit:]
 
     for data in limit_list:
         name = name_dict[str(data["id"])]["name"]
@@ -116,7 +116,6 @@ def main():
     plot_problem_favorite(data_author, data_puzzle)
     plot_top_in_problem(data_author, data_puzzle, data_user, data_kind)
 
-    return
 
 if __name__ == '__main__':
     main()
