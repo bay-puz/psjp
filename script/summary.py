@@ -36,7 +36,7 @@ class Puzsq:
         for data in register_dict.values():
             pid = data["prob"]
             prob = self.get_problem_by_pid(pid)
-            if prob == {}:
+            if len(prob) == 0:
                 # 削除された問題は飛ばす
                 continue
             if str(pid) not in problems:
