@@ -29,7 +29,7 @@ footer a {
     text-decoration: none;
 }
 
-.psjpLink, .tweetLink {
+.psjpLink, .tweetLink, .tweetLinkYesterday {
     color: black;
     text-decoration: none;
     font-size: x-small;
@@ -90,4 +90,24 @@ td {
     text-align: right;
     padding-left: 2em;
     font-family: monospace;
+}
+
+.yesterday a {
+    text-decoration: none;
+    color: unset;
+}
+
+.yesterday a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.yesterday .display {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.yesterday h3 {
+    font-weight: unset;
+    color: mediumblue;
 }

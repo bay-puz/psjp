@@ -13,8 +13,10 @@ KIND_API="/kind"
 DATA_FILE="data/data.json"
 USER_FILE="data/user.json"
 KIND_FILE="data/kind.json"
+YESTERDAY_FILE="data/yesterday.json"
 UPDATE_FILE="data/update.txt"
 CONBINE_SCRIPT="script/combine.py"
+SUMMASY_SCRIPT="script/summary.py"
 
 # PSJPのAPIからデータを取得してファイルに保存する
 function api(){
@@ -74,6 +76,10 @@ while true; do
     rm -f /tmp/p.json /tmp/f.json /tmp/a.json
 done
 
+# 昨日のパズスクのデータを記録
+echo "get summary at ${DATE}"
+/usr/bin/python3 "${SUMMASY_SCRIPT}" "${DATE}" -p "${DATA_FILE}" --json >"${YESTERDAY_FILE}"
+
 # 取得した日付を記録
 echo "${DATE}" > "${UPDATE_FILE}"
 
@@ -81,3 +87,4 @@ echo "${DATE}" > "${UPDATE_FILE}"
 readable "${DATA_FILE}"
 readable "${USER_FILE}"
 readable "${KIND_FILE}"
+readable "${YESTERDAY_FILE}"

@@ -2,13 +2,16 @@
 import argparse
 import json
 
+
 def load(file: str) -> dict:
     with open(file, encoding='utf8') as f:
         return json.load(f)
 
+
 def write(data: dict, file: str) -> None:
     with open(file, 'w', encoding='utf8') as f:
         json.dump(data, f)
+
 
 def main():
     parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
