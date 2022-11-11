@@ -57,9 +57,9 @@ class Puzsq:
 
         problems_fav, authors_fav, _ = self._count_register_dict(self.favorite_dict)
         problems_ans, authors_ans, solvers_ans = self._count_register_dict(self.answered_dict)
-        summary["detail"] = {}
-        summary["detail"]["favorite"] = {"problem": len(problems_fav), "author": len(authors_fav)}
-        summary["detail"]["answered"] = {"problem": len(problems_ans), "author": len(authors_ans), "solver": len(solvers_ans)}
+        summary["count"] = {}
+        summary["count"]["favorite"] = {"problem": len(problems_fav), "author": len(authors_fav)}
+        summary["count"]["answered"] = {"problem": len(problems_ans), "author": len(authors_ans), "solver": len(solvers_ans)}
 
         def _top(count_dict: dict) -> Tuple[int, list]:
             top_id = [-1]
@@ -78,13 +78,13 @@ class Puzsq:
         most_answered_problems = [self.get_problem_info(p) for p in ids]
         summary["top"]["problem"]["answered"] = {"count": most_answered_problems_c, "names": most_answered_problems}
         most_favorited_authors_c, ids = _top(authors_fav)
-        most_favorited_authors = [self.get_user_name(p) for p in ids]
+        most_favorited_authors = [self.get_user_info(u) for u in ids]
         summary["top"]["author"]["favorite"] = {"count": most_favorited_authors_c, "names": most_favorited_authors}
         most_answered_authors_c, ids = _top(authors_ans)
-        most_answered_authors = [self.get_user_name(p) for p in ids]
+        most_answered_authors = [self.get_user_info(u) for u in ids]
         summary["top"]["author"]["answered"] = {"count": most_answered_authors_c, "names": most_answered_authors}
         most_answer_solvers_c, ids = _top(solvers_ans)
-        most_answer_solvers = [self.get_user_name(p) for p in ids]
+        most_answer_solvers = [self.get_user_info(u) for u in ids]
         summary["top"]["solver"]["answered"] = {"count": most_answer_solvers_c, "names": most_answer_solvers}
 
         return summary
@@ -104,7 +104,7 @@ class Puzsq:
     def get_kind_name(self, kid: int) -> str:
         return self.kind_dict[str(kid)]["name"]
 
-    def get_problem_info(self, pid: int) -> str:
+    def get_problem_info(self, pid: int) -> dict:
         url = f"https://puzsq.logicpuzzle.app/share/{pid}"
         prob = self.get_problem_by_pid(pid)
         if len(prob) == 0:
@@ -112,7 +112,11 @@ class Puzsq:
         author = self.get_user_name(prob["user"])
         puzzle = self.get_kind_name(prob["kind"])
         variation = "（変種）" if prob["variation"] else ""
-        return f'{puzzle}{variation} by {author} {url}'
+        return {"name": f"{puzzle}{variation} by {author}", "url": url}
+
+    def get_user_info(self, uid: int) -> dict:
+        url = f"https://puzsq.logicpuzzle.app/?author={uid}"
+        return {"name": self.get_user_name(uid), "url": url}
 
 
 def get_api(url: str) -> dict:
@@ -163,24 +167,24 @@ def show(data: Puzsq) -> None:
     print(f'❤ いいね数\t{summary["total"]["favorite"]} 回')
     print(f'📝解答登録数\t{summary["total"]["answered"]} 回')
     print('')
-    print(f'❤ いいねされた問題📖 {summary["detail"]["favorite"]["problem"]}問')
-    print(f'❤ いいねされた作者🧑‍🎨 {summary["detail"]["favorite"]["author"]}人')
-    print(f'📝解答登録された問題📖 {summary["detail"]["answered"]["problem"]}問')
-    print(f'📝解答登録された作者🧑‍🎨 {summary["detail"]["answered"]["author"]}人')
-    print(f'📝解答登録した解き手🙆 {summary["detail"]["answered"]["solver"]}人')
+    print(f'❤ いいねされた問題📖 {summary["count"]["favorite"]["problem"]}問')
+    print(f'❤ いいねされた作者🧑‍🎨 {summary["count"]["favorite"]["author"]}人')
+    print(f'📝解答登録された問題📖 {summary["count"]["answered"]["problem"]}問')
+    print(f'📝解答登録された作者🧑‍🎨 {summary["count"]["answered"]["author"]}人')
+    print(f'📝解答登録した解き手🙆 {summary["count"]["answered"]["solver"]}人')
     print('')
     print(f'❤ もっともいいねされた問題📖（{summary["top"]["problem"]["favorite"]["count"]}回）')
     for name in summary["top"]["problem"]["favorite"]["names"]:
-        print(f' {name}')
+        print(f' {name["name"]} {name["url"]}')
     print(f'📝もっとも解答登録された問題📖（{summary["top"]["problem"]["answered"]["count"]}回）')
     for name in summary["top"]["problem"]["answered"]["names"]:
-        print(f' {name}')
+        print(f' {name["name"]} {name["url"]}')
     print('')
-    users = [f"{n} さん" for n in summary["top"]["author"]["favorite"]["names"]]
+    users = [f'{n["name"]} さん' for n in summary["top"]["author"]["favorite"]["names"]]
     print(f'❤ もっともいいねされた作者🧑‍🎨（{summary["top"]["author"]["favorite"]["count"]}回） {"、".join(users)}')
-    users = [f"{n} さん" for n in summary["top"]["author"]["answered"]["names"]]
+    users = [f'{n["name"]} さん' for n in summary["top"]["author"]["answered"]["names"]]
     print(f'📝もっとも解答登録された作者🧑‍🎨（{summary["top"]["author"]["answered"]["count"]}回） {"、".join(users)}')
-    users = [f"{n} さん" for n in summary["top"]["solver"]["answered"]["names"]]
+    users = [f'{n["name"]} さん' for n in summary["top"]["solver"]["answered"]["names"]]
     print(f'📝もっとも解答登録した解き手🙆（{summary["top"]["solver"]["answered"]["count"]}回） {"、".join(users)}')
 
 

@@ -1,55 +1,70 @@
 {
-  "day": "2022年11月10日",
+  "day": "2022年11月11日",
   "total": {
-    "problem": 21,
-    "favorite": 309,
-    "answered": 3424
+    "problem": 27,
+    "favorite": 297,
+    "answered": 3614
   },
-  "detail": {
+  "count": {
     "favorite": {
-      "problem": 210,
-      "author": 74
+      "problem": 162,
+      "author": 60
     },
     "answered": {
-      "problem": 1948,
-      "author": 223,
-      "solver": 219
+      "problem": 1807,
+      "author": 211,
+      "solver": 212
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 10,
+        "count": 12,
         "names": [
-          "ましゅ by かぶ https://puzsq.logicpuzzle.app/share/102592"
+          {
+            "name": "ヤジリン by ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/share/102618"
+          }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 82,
         "names": [
-          "ましゅ by かぶ https://puzsq.logicpuzzle.app/share/102592"
+          {
+            "name": "ヤジリン by ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/share/102618"
+          }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 42,
         "names": [
-          "みんにょこ"
+          {
+            "name": "ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/?author=381"
+          }
         ]
       },
       "answered": {
-        "count": 361,
+        "count": 355,
         "names": [
-          "K.N.Y."
+          {
+            "name": "ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/?author=381"
+          }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 238,
+        "count": 136,
         "names": [
-          "えすきゅん☆(bbpz)"
+          {
+            "name": "えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/?author=2323"
+          }
         ]
       }
     }
