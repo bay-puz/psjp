@@ -1,19 +1,19 @@
 {
   "day": "2022年11月11日",
   "total": {
-    "problem": 27,
-    "favorite": 297,
-    "answered": 3614
+    "problem": 29,
+    "favorite": 325,
+    "answered": 3848
   },
   "count": {
     "favorite": {
-      "problem": 162,
-      "author": 60
+      "problem": 177,
+      "author": 68
     },
     "answered": {
-      "problem": 1807,
-      "author": 211,
-      "solver": 212
+      "problem": 1893,
+      "author": 213,
+      "solver": 213
     }
   },
   "top": {
@@ -28,7 +28,7 @@
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 83,
         "names": [
           {
             "name": "ヤジリン by ラグナ",
@@ -39,7 +39,7 @@
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 44,
         "names": [
           {
             "name": "ラグナ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 355,
+        "count": 362,
         "names": [
           {
             "name": "ラグナ",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 155,
         "names": [
           {
             "name": "えすきゅん☆(bbpz)",
