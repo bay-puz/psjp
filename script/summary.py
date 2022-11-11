@@ -187,12 +187,16 @@ def show(data: Puzsq) -> None:
 def main():
     parser = argparse.ArgumentParser(description='指定した日のPuzzle Square JPのまとめを表示する')
     parser.add_argument("day", type=str, help="日付。例：2022-11-08")
+    parser.add_argument('--json', action='store_true', help="JSON形式で表示")
     parser.add_argument("-p", metavar="problem_file", type=str, default="", help="問題データが載ったファイル（APIの代わりに使う）")
     args = parser.parse_args()
 
     date = datetime.strptime(args.day, "%Y-%m-%d")
     puzsq = Puzsq(date, problems=args.p)
-    show(puzsq)
+    if args.json:
+        print(json.dumps(puzsq.get_summary()))
+    else:
+        show(puzsq)
 
 
 if __name__ == '__main__':

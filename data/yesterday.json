@@ -1,0 +1,57 @@
+{
+  "day": "2022年11月10日",
+  "total": {
+    "problem": 21,
+    "favorite": 309,
+    "answered": 3424
+  },
+  "detail": {
+    "favorite": {
+      "problem": 210,
+      "author": 74
+    },
+    "answered": {
+      "problem": 1948,
+      "author": 223,
+      "solver": 219
+    }
+  },
+  "top": {
+    "problem": {
+      "favorite": {
+        "count": 10,
+        "names": [
+          "ましゅ by かぶ https://puzsq.logicpuzzle.app/share/102592"
+        ]
+      },
+      "answered": {
+        "count": 79,
+        "names": [
+          "ましゅ by かぶ https://puzsq.logicpuzzle.app/share/102592"
+        ]
+      }
+    },
+    "author": {
+      "favorite": {
+        "count": 36,
+        "names": [
+          "みんにょこ"
+        ]
+      },
+      "answered": {
+        "count": 361,
+        "names": [
+          "K.N.Y."
+        ]
+      }
+    },
+    "solver": {
+      "answered": {
+        "count": 238,
+        "names": [
+          "えすきゅん☆(bbpz)"
+        ]
+      }
+    }
+  }
+}
