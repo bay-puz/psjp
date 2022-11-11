@@ -54,8 +54,8 @@ function setTweetUrlsYesterday(data) {
     const messageSuffix = "#昨日のpuzsq "
     var messages = {}
     messages["tweetTotal"] = "📖投稿　　 " + data["total"]["problem"] + "問\n"
-    messages["tweetTotal"] += "❤ いいね　 " + data["total"]["favorite"] + "問\n"
-    messages["tweetTotal"] += "📝解答登録 " + data["total"]["answered"] + "問\n"
+    messages["tweetTotal"] += "❤ いいね　 " + data["total"]["favorite"] + "回\n"
+    messages["tweetTotal"] += "📝解答登録 " + data["total"]["answered"] + "回\n"
 
     messages["tweetCount"] = "❤ いいねされた問題📖 " + data["count"]["favorite"]["problem"] + "問\n"
     messages["tweetCount"] += "❤ いいねされた作者🧑‍🎨 " + data["count"]["favorite"]["author"] + "人\n"
@@ -80,7 +80,7 @@ function setTweetUrlsYesterday(data) {
     for (const name of data["top"]["author"]["answered"]["names"]) {
         messages["tweetTopUser"] += "　" + name["name"] + " さん\n"
     }
-    messages["tweetTopUser"] += "📝もっとも解答登録した解き手🙆（" + data["top"]["solver"]["answered"]["count"] + "回）\n"
+    messages["tweetTopUser"] += "📝もっとも解答登録した解き手🙆（" + data["top"]["solver"]["answered"]["count"] + "問）\n"
     for (const name of data["top"]["solver"]["answered"]["names"]) {
         messages["tweetTopUser"] += "　" + name["name"] + " さん\n"
     }
