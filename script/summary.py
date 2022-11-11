@@ -14,20 +14,15 @@ PSJP_API_INFOMATION_LIST = ["user", "kind"]
 class Puzsq:
     def __init__(self, date: datetime, problems: str = "") -> None:
         self.date = date
+        self.problems = load_json(problems) if len(problems) > 0 else {}
+        self._setup()
+
+    def _setup(self) -> None:
         self.user_dict = get_api_info("user")
         self.kind_dict = get_api_info("kind")
-        self.problem_dict = get_api_date("problem", date)
-        self.problems = load_json(problems) if len(problems) > 0 else {}
-        self.favorite_dict = get_api_date("favorite", date)
-        self.answered_dict = get_api_date("answered", date)
-
-        self.problems_fav, self.authors_fav, _ = self._count_register_dict(self.favorite_dict)
-        self.problems_ans, self.authors_ans, self.solvers_ans = self._count_register_dict(self.answered_dict)
-
-        self.most_favorited_problems = self._top(self.problems_fav)
-        self.most_favorited_authors = self._top(self.authors_fav)
-        self.most_answered_problems = self._top(self.problems_ans)
-        self.most_answered_authors = self._top(self.authors_ans)
+        self.problem_dict = get_api_date("problem", self.date)
+        self.favorite_dict = get_api_date("favorite", self.date)
+        self.answered_dict = get_api_date("answered", self.date)
 
     def _count_register_dict(self, register_dict: dict) -> Tuple[dict, dict, dict]:
         problems = {}
@@ -53,42 +48,46 @@ class Puzsq:
                 solvers[str(sid)] += 1
         return (problems, authors, solvers)
 
-    def _top(self, count_dict: dict) -> list:
-        top_id = [-1]
-        for cid, count in count_dict.items():
-            if top_id[0] == -1 or count_dict[str(top_id[0])] < count:
-                top_id = [cid]
-            elif count_dict[str(top_id[0])] == count:
-                top_id.append(cid)
-        return top_id
+    def get_summary(self) -> dict:
+        summary = {}
+        summary["day"] = self.date.strftime("%Y年%-m月%-d日")
+        summary["total"] = {"problem": len(self.problem_dict),
+                            "favorite": len(self.favorite_dict),
+                            "answered": len(self.answered_dict)}
 
-    def show(self) -> None:
-        print(self.date.strftime("＼%Y年%-m月%-d日のパズスク／"))
-        print(f"📖投稿数\t{len(self.problem_dict)} 問")
-        print(f"❤ いいね数\t{len(self.favorite_dict)} 回")
-        print(f"📝解答登録数\t{len(self.answered_dict)} 回")
-        print("")
-        print(f"❤ いいねされた問題📖\t{len(self.problems_fav)}問")
-        print(f"❤ いいねされた作者🧑‍🎨\t{len(self.authors_fav)}人")
-        print(f"📝解答登録された問題📖\t{len(self.problems_ans)}問")
-        print(f"📝解答登録された作者🧑‍🎨\t{len(self.authors_ans)}人")
-        print(f"📝解答登録した解き手🙆\t{len(self.solvers_ans)}人")
-        print("")
-        most_fav_p_c = self.problems_fav[str(self.most_favorited_problems[0])]
-        print(f"❤ もっともいいねされた問題（{most_fav_p_c}回）")
-        for pid in self.most_favorited_problems:
-            print(f" {self.get_problem_info(pid)}")
-        most_ans_p_c = self.problems_ans[str(self.most_answered_problems[0])]
-        print(f"📝もっとも解答登録された問題（{most_ans_p_c}回）")
-        for pid in self.most_answered_problems:
-            print(f" {self.get_problem_info(pid)}")
-        print("")
-        most_fav_a = [f"{self.get_user_name(a)}さん" for a in self.most_favorited_authors]
-        most_fav_a_c = self.authors_fav[str(self.most_favorited_authors[0])]
-        print(f"❤ もっともいいねされた作者（{most_fav_a_c}回）... {'、'.join(most_fav_a)}")
-        most_ans_a = [f"{self.get_user_name(a)}さん" for a in self.most_answered_authors]
-        most_ans_a_c = self.authors_ans[str(self.most_answered_authors[0])]
-        print(f"📝もっとも解答登録された作者（{most_ans_a_c}回）... {'、'.join(most_ans_a)}")
+        problems_fav, authors_fav, _ = self._count_register_dict(self.favorite_dict)
+        problems_ans, authors_ans, solvers_ans = self._count_register_dict(self.answered_dict)
+        summary["detail"] = {}
+        summary["detail"]["favorite"] = {"problem": len(problems_fav), "author": len(authors_fav)}
+        summary["detail"]["answered"] = {"problem": len(problems_ans), "author": len(authors_ans), "solver": len(solvers_ans)}
+
+        def _top(count_dict: dict) -> Tuple[int, list]:
+            top_id = [-1]
+            for cid, count in count_dict.items():
+                if top_id[0] == -1 or count_dict[str(top_id[0])] < count:
+                    top_id = [cid]
+                elif count_dict[str(top_id[0])] == count:
+                    top_id.append(cid)
+            return (count_dict[str(top_id[0])], top_id)
+
+        summary["top"] = {"problem": {}, "author": {}, "solver": {}}
+        most_favorited_problems_c, ids = _top(problems_fav)
+        most_favorited_problems = [self.get_problem_info(p) for p in ids]
+        summary["top"]["problem"]["favorite"] = {"count": most_favorited_problems_c, "names": most_favorited_problems}
+        most_answered_problems_c, ids = _top(problems_ans)
+        most_answered_problems = [self.get_problem_info(p) for p in ids]
+        summary["top"]["problem"]["answered"] = {"count": most_answered_problems_c, "names": most_answered_problems}
+        most_favorited_authors_c, ids = _top(authors_fav)
+        most_favorited_authors = [self.get_user_name(p) for p in ids]
+        summary["top"]["author"]["favorite"] = {"count": most_favorited_authors_c, "names": most_favorited_authors}
+        most_answered_authors_c, ids = _top(authors_ans)
+        most_answered_authors = [self.get_user_name(p) for p in ids]
+        summary["top"]["author"]["answered"] = {"count": most_answered_authors_c, "names": most_answered_authors}
+        most_answer_solvers_c, ids = _top(solvers_ans)
+        most_answer_solvers = [self.get_user_name(p) for p in ids]
+        summary["top"]["solver"]["answered"] = {"count": most_answer_solvers_c, "names": most_answer_solvers}
+
+        return summary
 
     def get_problem_by_pid(self, pid) -> dict:
         if str(pid) in self.problem_dict:
@@ -157,6 +156,34 @@ def get_problem_str(prob: dict) -> str:
     return prob_str
 
 
+def show(data: Puzsq) -> None:
+    summary = data.get_summary()
+    print(f'＼{summary["day"]}のパズスク／')
+    print(f'📖投稿数\t{summary["total"]["problem"]} 問')
+    print(f'❤ いいね数\t{summary["total"]["favorite"]} 回')
+    print(f'📝解答登録数\t{summary["total"]["answered"]} 回')
+    print('')
+    print(f'❤ いいねされた問題📖 {summary["detail"]["favorite"]["problem"]}問')
+    print(f'❤ いいねされた作者🧑‍🎨 {summary["detail"]["favorite"]["author"]}人')
+    print(f'📝解答登録された問題📖 {summary["detail"]["answered"]["problem"]}問')
+    print(f'📝解答登録された作者🧑‍🎨 {summary["detail"]["answered"]["author"]}人')
+    print(f'📝解答登録した解き手🙆 {summary["detail"]["answered"]["solver"]}人')
+    print('')
+    print(f'❤ もっともいいねされた問題📖（{summary["top"]["problem"]["favorite"]["count"]}回）')
+    for name in summary["top"]["problem"]["favorite"]["names"]:
+        print(f' {name}')
+    print(f'📝もっとも解答登録された問題📖（{summary["top"]["problem"]["answered"]["count"]}回）')
+    for name in summary["top"]["problem"]["answered"]["names"]:
+        print(f' {name}')
+    print('')
+    users = [f"{n} さん" for n in summary["top"]["author"]["favorite"]["names"]]
+    print(f'❤ もっともいいねされた作者🧑‍🎨（{summary["top"]["author"]["favorite"]["count"]}回） {"、".join(users)}')
+    users = [f"{n} さん" for n in summary["top"]["author"]["answered"]["names"]]
+    print(f'📝もっとも解答登録された作者🧑‍🎨（{summary["top"]["author"]["answered"]["count"]}回） {"、".join(users)}')
+    users = [f"{n} さん" for n in summary["top"]["solver"]["answered"]["names"]]
+    print(f'📝もっとも解答登録した解き手🙆（{summary["top"]["solver"]["answered"]["count"]}回） {"、".join(users)}')
+
+
 def main():
     parser = argparse.ArgumentParser(description='指定した日のPuzzle Square JPのまとめを表示する')
     parser.add_argument("day", type=str, help="日付。例：2022-11-08")
@@ -165,7 +192,7 @@ def main():
 
     date = datetime.strptime(args.day, "%Y-%m-%d")
     puzsq = Puzsq(date, problems=args.p)
-    puzsq.show()
+    show(puzsq)
 
 
 if __name__ == '__main__':
