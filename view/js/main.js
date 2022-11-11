@@ -1,10 +1,11 @@
-document.getElementById("goAuthor").addEventListener("click", function(){goPage("author");});
-document.getElementById("goPuzzle").addEventListener("click", function(){goPage("kind");});
-document.getElementById("goAuthorPuzzle").addEventListener("click", function(){goPage("both");});
-document.getElementById("goRanking").addEventListener("click", goRanking);
-document.getElementById("goGraph").addEventListener("click", goGraph);
+document.getElementById("goAuthor").addEventListener("click", function(){goStatPage("author");});
+document.getElementById("goPuzzle").addEventListener("click", function(){goStatPage("kind");});
+document.getElementById("goAuthorPuzzle").addEventListener("click", function(){goStatPage("both");});
+document.getElementById("goGraph").addEventListener("click", function(){goPage("graph");});
+document.getElementById("goRanking").addEventListener("click", function(){goPage("ranking");});
+document.getElementById("goYesterday").addEventListener("click", function(){goPage("yesterday");});
 
-async function goPage(type) {
+async function goStatPage(type) {
     var url = new URL("view/stat.html", location.href);
     var urlSearchParams = url.searchParams;
 
@@ -38,12 +39,8 @@ async function getQueryId(elementId, type) {
     return  dataId
 }
 
-function goRanking() {
-    location.href = "./view/ranking.html";
-};
-
-function goGraph() {
-    location.href = "./view/graph.html";
+function goPage(page) {
+    location.href = "./view/" + page + ".html";
 };
 
 function showAlert(name, type) {
