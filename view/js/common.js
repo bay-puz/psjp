@@ -1,10 +1,6 @@
 function setTweetUrl() {
-    var url = new URL("https://twitter.com/intent/tweet");
-    var params = new URLSearchParams();
     const message = document.getElementsByTagName("title")[0].innerText
-    params.append("text", message);
-    params.append("url", location.href);
-    url.search = params.toString();
+    var url = getTweetUrl(message)
     var elements = document.getElementsByClassName("tweetLink")
     for(var element of elements) {
         element.href = url.href
@@ -29,4 +25,13 @@ function getStatLink(author_id, kind_id, text) {
     aElement.target = "_blank"
     aElement.classList.add("statLink")
     return aElement
+}
+
+function getTweetUrl(message) {
+    var url = new URL("https://twitter.com/intent/tweet");
+    var params = new URLSearchParams();
+    params.append("text", message);
+    params.append("url", location.href);
+    url.search = params.toString();
+    return url
 }
