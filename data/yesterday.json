@@ -1,19 +1,19 @@
 {
-  "day": "2022年11月11日",
+  "day": "2022年11月12日",
   "total": {
-    "problem": 29,
-    "favorite": 325,
-    "answered": 3848
+    "problem": 26,
+    "favorite": 327,
+    "answered": 3182
   },
   "count": {
     "favorite": {
-      "problem": 177,
-      "author": 68
+      "problem": 200,
+      "author": 75
     },
     "answered": {
-      "problem": 1893,
-      "author": 213,
-      "solver": 213
+      "problem": 1646,
+      "author": 206,
+      "solver": 223
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 12,
         "names": [
           {
-            "name": "ヤジリン by ラグナ",
-            "url": "https://puzsq.logicpuzzle.app/share/102618"
+            "name": "やじさんかずさん by gnull",
+            "url": "https://puzsq.logicpuzzle.app/share/102631"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 69,
         "names": [
           {
-            "name": "ヤジリン by ラグナ",
-            "url": "https://puzsq.logicpuzzle.app/share/102618"
+            "name": "やじさんかずさん by gnull",
+            "url": "https://puzsq.logicpuzzle.app/share/102631"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 32,
         "names": [
           {
-            "name": "ラグナ",
-            "url": "https://puzsq.logicpuzzle.app/?author=381"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 362,
+        "count": 274,
         "names": [
           {
-            "name": "ラグナ",
-            "url": "https://puzsq.logicpuzzle.app/?author=381"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 155,
+        "count": 215,
         "names": [
           {
-            "name": "えすきゅん☆(bbpz)",
-            "url": "https://puzsq.logicpuzzle.app/?author=2323"
+            "name": "あまからとう",
+            "url": "https://puzsq.logicpuzzle.app/?author=453"
           }
         ]
       }
