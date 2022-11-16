@@ -1,19 +1,19 @@
 {
-  "day": "2022年11月15日",
+  "day": "2022年11月16日",
   "total": {
-    "problem": 34,
-    "favorite": 422,
-    "answered": 4173
+    "problem": 20,
+    "favorite": 361,
+    "answered": 4112
   },
   "count": {
     "favorite": {
-      "problem": 265,
-      "author": 83
+      "problem": 218,
+      "author": 80
     },
     "answered": {
-      "problem": 2173,
-      "author": 210,
-      "solver": 238
+      "problem": 2043,
+      "author": 219,
+      "solver": 221
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 11,
         "names": [
           {
-            "name": "へやわけ by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/102721"
+            "name": "チェンブロ by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/102758"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 94,
         "names": [
           {
-            "name": "へやわけ by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/102721"
+            "name": "へやわけ by ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/share/102757"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 35,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ペンギン王者",
+            "url": "https://puzsq.logicpuzzle.app/?author=1578"
           }
         ]
       },
       "answered": {
-        "count": 457,
+        "count": 349,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 486,
+        "count": 364,
         "names": [
           {
             "name": "えすきゅん☆(bbpz)",
