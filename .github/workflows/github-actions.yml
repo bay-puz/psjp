@@ -9,7 +9,7 @@ on:
         type: boolean
   schedule:
     # 日本時間で日付が変わってすぐに実行する
-    - cron: '10 15 * * *'
+    - cron: '1 15 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,11 +29,12 @@ jobs:
         run: python script/cut-data.py
       - name: make graph
         run: |
-          python script/graph/problem.py
           python script/graph/date.py
+          python script/graph/favor.py
           python script/graph/first.py
-          python script/graph/span.py
           python script/graph/latest.py
+          python script/graph/problem.py
+          python script/graph/span.py
       - name: git push
         run: |
           git config --global user.name github-actions
