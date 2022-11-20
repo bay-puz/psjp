@@ -26,15 +26,15 @@ def get_fav_ans(data: dict, difficulty: int):
 
 def plot(data):
     pyplot.rcParams["font.family"] = 'MotoyaLMaru'
-    fig = pyplot.figure()
+    fig = pyplot.figure(figsize=[20, 10])
     pyplot.xlabel("解答登録数")
     pyplot.ylabel("いいね数")
     pyplot.title("問題別解答登録数/いいね数")
 
-    difficultys = [{"n": 1, "s": "らくらく", "c": "b", "m": "s"}, {"n": 2, "s": "おてごろ", "c": "g", "m": "s"}, {"n": 3, "s": "たいへん", "c": "y", "m": "s"}, {"n": 4, "s": "アゼン", "c": "orange", "m": "x"}, {"n": 5, "s": "ハバネロ", "c": "r", "m": "x"}]
+    difficultys = [{"n": 1, "s": "らくらく", "c": "b", "m": "o"}, {"n": 2, "s": "おてごろ", "c": "g", "m": "s"}, {"n": 3, "s": "たいへん", "c": "y", "m": "D"}, {"n": 4, "s": "アゼン", "c": "orange", "m": "^"}, {"n": 5, "s": "ハバネロ", "c": "r", "m": "*"}]
     for d in difficultys:
         fav, ans = get_fav_ans(data, d["n"])
-        pyplot.scatter(ans, fav, s=1, c=d["c"], marker=d["m"], alpha=0.5)
+        pyplot.scatter(ans, fav, s=6, c=d["c"], marker=d["m"], alpha=0.5)
     pyplot.legend([d["s"] for d in difficultys], loc="upper left")
     fig.savefig(f"graph/answered-favorite.png")
 
