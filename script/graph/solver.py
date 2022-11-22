@@ -8,21 +8,26 @@ def load(file: str):
         return json.loads(data_json)
 
 
-def solvers_answer(data: dict, difficulty: int):
+def solvers_answer(data: dict, difficulty: int, stack: bool = False):
     name_list = []
     answer_n_list = []
 
     def _sort(d):
-        return int(d["answer_n"])
+        if stack:
+            return int(d["answer_n"])
+        return (int(d["difficulty"][difficulty]["answer_n"]))
 
     sorted_list = sorted(data.values(), key=_sort)
     for d in sorted_list:
         name_list.append(d["name"])
-        # グラフを難易度別に重ねて表示させる
-        num = 0
-        for i in range(difficulty + 1):
-            num += d["difficulty"][i]["answer_n"]
-        answer_n_list.append(num)
+        if stack:
+            # グラフを難易度別に重ねて表示させる
+            num = 0
+            for i in range(difficulty + 1):
+                num += d["difficulty"][i]["answer_n"]
+            answer_n_list.append(num)
+        else:
+            answer_n_list.append(d["difficulty"][difficulty]["answer_n"])
 
     return name_list, answer_n_list
 
@@ -50,10 +55,21 @@ def plot_solvers_answer(data: dict):
     set_plot()
     pyplot.title("ユーザー別解答数（上位" + str(size) + "人）")
     for d in difficultys:
-        name, answer = solvers_answer(data, d["n"])
+        name, answer = solvers_answer(data, d["n"], stack=True)
         pyplot.barh(name[-1 * size:], answer[-1 * size:], fc=d["c"], label=d["s"])
     pyplot.legend()
-    fig.savefig("graph/solvers_answer.png")
+    fig.savefig("graph/solvers-answer.png")
+
+    size = 20
+    for d in difficultys:
+        if d["n"] == 0:
+            continue
+        fig = pyplot.figure(figsize=[5, 8])
+        set_plot()
+        pyplot.title(f"ユーザー別{d['s']}解答数（上位{str(size)}人）")
+        name, answer = solvers_answer(data, d["n"])
+        pyplot.barh(name[-1 * size:], answer[-1 * size:], fc=d["c"], label=d["s"])
+        fig.savefig(f"graph/solvers-answer-{d['n']}.png")
 
 
 def main():
