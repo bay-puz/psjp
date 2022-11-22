@@ -13,19 +13,7 @@ def write(data: dict, file: str) -> None:
         json.dump(data, f)
 
 
-def main():
-    parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
-    parser.add_argument("-b", metavar="base", type=str, default="data/data.json", help="元データ")
-    parser.add_argument("-p", metavar="problem", type=str, help="追加のproblem")
-    parser.add_argument("-f", metavar="favorite", type=str, help="追加のfavorite")
-    parser.add_argument("-a", metavar="answered", type=str, help="追加のanswered")
-    args = parser.parse_args()
-
-    base = load(args.b)
-    problems = load(args.p)
-    favorites = load(args.f)
-    answered = load(args.a)
-
+def combine(base: dict, problems: dict, favorites: dict, answered: dict) -> dict:
     fav_n = 'favorite_n'
     ans_n = 'answered_n'
     for p_id, problem in problems.items():
@@ -52,7 +40,24 @@ def main():
             continue
         base[p_id][ans_n] += 1
 
-    write(base, args.b)
+    return base
+
+
+def main():
+    parser = argparse.ArgumentParser(description='日付を指定したデータを結合する')
+    parser.add_argument("-b", metavar="base", type=str, default="data/data.json", help="問題データ")
+    parser.add_argument("-p", metavar="problem", type=str, help="追加のproblem")
+    parser.add_argument("-f", metavar="favorite", type=str, help="追加のfavorite")
+    parser.add_argument("-a", metavar="answered", type=str, help="追加のanswered")
+    args = parser.parse_args()
+
+    base = load(args.b)
+    problems = load(args.p)
+    favorites = load(args.f)
+    answered = load(args.a)
+
+    combined = combine(base, problems, favorites, answered)
+    write(combined, args.b)
 
 
 if __name__ == '__main__':
