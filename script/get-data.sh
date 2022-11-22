@@ -11,7 +11,7 @@ KIND_API="/kind"
 
 # ファイルとスクリプト
 DATA_FILE="data/data.json"
-SOLVERS_FILE="data/solvers.dat"
+SOLVERS_FILE="data/solvers.json"
 USER_FILE="data/user.json"
 KIND_FILE="data/kind.json"
 YESTERDAY_FILE="data/yesterday.json"
