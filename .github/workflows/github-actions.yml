@@ -32,7 +32,6 @@ jobs:
           python script/graph/date.py
           python script/graph/favor.py
           python script/graph/first.py
-          python script/graph/latest.py
           python script/graph/problem.py
           python script/graph/solver.py
           python script/graph/span.py
