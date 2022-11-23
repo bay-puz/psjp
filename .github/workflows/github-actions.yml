@@ -36,6 +36,7 @@ jobs:
           python script/graph/problem.py
           python script/graph/solver.py
           python script/graph/span.py
+          python script/graph/top.py
       - name: git push
         run: |
           git config --global user.name github-actions
