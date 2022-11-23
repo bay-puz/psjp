@@ -71,8 +71,6 @@ def plot(author_dict, puzzle_dict, user_dict, kind_dict):
     pyplot.legend()
     fig.savefig("graph/problem-by-author.png")
 
-    return
-
 
 def main():
     data_author = load("data/author.json")
