@@ -2441,13 +2441,38 @@
   },
   "587": {
     "name": "Parquet",
-    "name_e": "",
+    "name_e": "Parquet",
     "category": 3
   },
   "588": {
     "name": "コブリン（マインスイーパモード）",
-    "name_e": "",
+    "name_e": "Koburin [Minesweeper]",
     "category": 2
+  },
+  "589": {
+    "name": "オレサッカー",
+    "name_e": "Ore-Soccer",
+    "category": 2
+  },
+  "590": {
+    "name": "愛のカタチ",
+    "name_e": "It's Yours",
+    "category": 3
+  },
+  "591": {
+    "name": "デコレーションツリー",
+    "name_e": "Decoration Tree",
+    "category": 2
+  },
+  "592": {
+    "name": "Battenberg Painting",
+    "name_e": "Battenberg Painting",
+    "category": 3
+  },
+  "593": {
+    "name": "Point a star",
+    "name_e": "Point a star",
+    "category": 4
   },
   "-2": {
     "name": "Instructionless",
