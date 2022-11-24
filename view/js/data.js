@@ -85,8 +85,8 @@ function getPath() {
 
 function initData() {
     var dif = []
-    for(let index=0; index<5; index++){
-        dif += {"number": index + 1, "problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
+    for(var index=0; index<5; index++){
+        dif.push({"number": index + 1, "problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0})
     }
     return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": dif}
 }

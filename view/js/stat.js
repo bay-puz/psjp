@@ -14,6 +14,7 @@ async function setPage(sort, order) {
         urlParams.set("kind", urlParams.get("puzzle"))
         urlParams.delete("puzzle")
         location.search = urlParams
+        return
     }
 
     if (! urlParams.has("author") && ! urlParams.has("kind")) {
@@ -33,8 +34,18 @@ async function setPage(sort, order) {
     if (urlParams.has("author") && urlParams.has("kind")) {
         const kindId = Number(urlParams.get("kind"))
         const kindName = getNameById(kindId, "kind", {}, kindData)
+        if (kindName === null) {
+            urlParams.delete("kind")
+            location.search = urlParams
+            return
+        }
         const authorId = Number(urlParams.get("author"))
         const authorName = getNameById(authorId, "user", userData, {})
+        if (authorName === null) {
+            urlParams.delete("author")
+            location.search = urlParams
+            return
+        }
         var dataAuthor = getDataById(authorId, "author", authorData, {})
         if (! dataAuthor) {
             dataAuthor = initData()
@@ -45,7 +56,12 @@ async function setPage(sort, order) {
             anotherType = "kind"
         } else {
             is_both = true
-            data = dataAuthor.kind[kindId]
+            if ( dataAuthor.problem_n < 1 ){
+                data = initData()
+            }
+            else {
+                data = dataAuthor.kind[kindId]
+            }
         }
         if (! data){
             data = initData()
@@ -55,14 +71,26 @@ async function setPage(sort, order) {
         if (urlParams.has("author")) {
             anotherType = "kind"
             const authorId = Number(urlParams.get("author"))
+            const authorName = getNameById(authorId, "user", userData, {})
+            if (authorName === null) {
+                urlParams.delete("author")
+                location.search = urlParams
+                return
+            }
             data = getDataById(authorId, "author", authorData, {})
             if (! data) {
                 data = initData()
             }
-            data.name = getNameById(authorId, "user", userData, {})
+            data.name = authorName
         } else {
             anotherType = "author"
             const kindId = Number(urlParams.get("kind"))
+            const puzzleName = getNameById(kindId, "kind", {}, kindData)
+            if (puzzleName === null) {
+                urlParams.delete("kind")
+                location.search = urlParams
+                return
+            }
             data = getDataById(kindId, "puzzle", {}, puzzleData)
             if (! data) {
                 data = initData()
@@ -96,7 +124,7 @@ async function setPage(sort, order) {
     }
     makeTable("difficultyTable", "difficulty", difficultyList)
 
-    if (is_both) {
+    if (is_both || data.problem_n < 1) {
         hideElements("notBoth")
     } else {
         setInfo("display", displayStr[anotherType])
