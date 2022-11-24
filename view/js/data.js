@@ -29,6 +29,15 @@ async function getAllData(type) {
     return await loadData(file)
 }
 
+async function getNameData(type) {
+    if ( type === "kind"  || type === "puzzle" ){
+        file = "kind.json"
+    } else if ( type === "user" || type === "author" ){
+        file = "user.json"
+    }
+    return await loadData(file)
+}
+
 async function getData(id, type) {
     if ( type === "kind"  || type === "puzzle" ){
         file = "puzzle.json"
@@ -45,27 +54,22 @@ async function getData(id, type) {
 }
 
 async function getIdByName(name, type) {
-    if ( type === "kind"  || type === "puzzle" ){
-        file = "kind.json"
-    } else if ( type === "user" || type === "author" ){
-        file = "user.json"
-    }
-    var data = await loadData(file)
+    data = await getNameData(type)
     for (const key in data) {
         if (data[key].name === name) {
-            return key;
+            return key
         }
     }
     return null
 }
 
-async function getNameById(id, type) {
+// 高速化のためファイルのfetchをしない
+function getNameById(id, type, userData, kindData) {
     if ( type === "kind"  || type === "puzzle" ){
-        file = "kind.json"
+        data = kindData
     } else if ( type === "user" || type === "author" ){
-        file = "user.json"
+        data = userData
     }
-    var data = await loadData(file)
     if ( id in data ) {
         return data[id].name
     }

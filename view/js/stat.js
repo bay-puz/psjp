@@ -23,15 +23,19 @@ async function setPage(sort, order) {
     var data = {}
     var is_both = false
     var anotherType = null;
+
+    const userData = await getNameData("user")
+    const kindData = await getNameData("kind")
+
     if (urlParams.has("author") && urlParams.has("kind")) {
         const kindId = Number(urlParams.get("kind"))
-        const kindName = await getNameById(kindId, "kind")
+        const kindName = getNameById(kindId, "kind", {}, kindData)
         const authorId = Number(urlParams.get("author"))
-        const authorName = await getNameById(authorId, "author")
+        const authorName = getNameById(authorId, "user", userData, {})
         var dataAuthor = await getData(authorId, "author")
         if (! dataAuthor) {
             dataAuthor = initData()
-            dataAuthor.name = await getNameById(authorId, "author")
+            dataAuthor.name = await getNameById(authorId, "user", userData, {})
         }
         if (kindId === 0) {
             data = dataAuthor
@@ -52,7 +56,7 @@ async function setPage(sort, order) {
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(authorId, "user")
+            data.name = await getNameById(authorId, "user", userData, {})
         } else {
             anotherType = "author"
             const kindId = Number(urlParams.get("kind"))
@@ -60,7 +64,7 @@ async function setPage(sort, order) {
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(kindId, "kind")
+            data.name = await getNameById(kindId, "kind", {}, kindData)
         }
     }
     setTitle(data.name)
@@ -100,7 +104,7 @@ async function setPage(sort, order) {
             var d = data[anotherType][key]
             const authorId = (anotherType === "kind")? data.id: d.id
             const kindId = (anotherType === "author")? data.id: d.id
-            const name = await getNameById(d.id, anotherType)
+            const name = getNameById(d.id, anotherType, userData, kindData)
             d[anotherType] = getStatLink(authorId, kindId, name).outerHTML
             d["favorite_r"] = (d.favorite_n / d.problem_n).toFixed(2)
             d["answered_r"] = (d.answered_n / d.problem_n).toFixed(2)
