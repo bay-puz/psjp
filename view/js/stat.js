@@ -71,7 +71,7 @@ async function setPage(sort, order) {
     data["answered_r"] = (data.answered_n / data.problem_n).toFixed(2)
     data["count_r"] = (data.problem_n / data.count).toFixed(2)
     data["variant_r"] = (data.variant_n / data.problem_n).toFixed(2)
-    for (let index = 1; index <= 5; index++) {
+    for (let index = 0; index < 5; index++) {
         data.difficulty[index]["problem_r"] = (data.difficulty[index].problem_n / data.problem_n).toFixed(2)
         data.difficulty[index]["favorite_r"] = (data.difficulty[index].favorite_n / data.difficulty[index].problem_n).toFixed(2)
         data.difficulty[index]["answered_r"] = (data.difficulty[index].answered_n / data.difficulty[index].problem_n).toFixed(2)
@@ -83,9 +83,9 @@ async function setPage(sort, order) {
         setInfo(key, data[key])
     }
 
-    var difficultyList = Object.values(data.difficulty).slice(1);
+    var difficultyList = Object.values(data.difficulty);
     for (let index = 0; index < 5; index++) {
-        difficultyList[index]["difficulty"] = displayDifficultyStr[index+1]
+        difficultyList[index]["difficulty"] = displayDifficultyStr[index + 1]
     }
     makeTable("difficultyTable", "difficulty", difficultyList)
 
@@ -100,7 +100,8 @@ async function setPage(sort, order) {
             var d = data[anotherType][key]
             const authorId = (anotherType === "kind")? data.id: d.id
             const kindId = (anotherType === "author")? data.id: d.id
-            d[anotherType] = getStatLink(authorId, kindId, d.name).outerHTML
+            const name = await getNameById(d.id, anotherType)
+            d[anotherType] = getStatLink(authorId, kindId, name).outerHTML
             d["favorite_r"] = (d.favorite_n / d.problem_n).toFixed(2)
             d["answered_r"] = (d.answered_n / d.problem_n).toFixed(2)
             d["problem_r"] = (d.problem_n / data.problem_n).toFixed(2)

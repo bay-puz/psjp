@@ -80,8 +80,11 @@ function getPath() {
 }
 
 function initData() {
-    var dif = {"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
-    return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [dif, dif, dif, dif, dif, dif]}
+    dif = []
+    for(const index=0; index<5; index++){
+        dif += {"number": index + 1, "problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
+    }
+    return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": dif}
 }
 
 const displayStr = {"kind": "パズル", "author": "作者", "favorite_n": "いいね数", "answered_n": "解答者数", "problem_n": "問題数", "problem_r": "占有率", "kind_c": "作者数",  "author_c": "パズル数", "favorite_r": "平均いいね数", "answered_r": "平均解答者数", "kind_r": "作者平均", "author_r": "パズル平均", "variant_n": "変種数", "variant_r": "変種率", "difficulty": "難易度"}
