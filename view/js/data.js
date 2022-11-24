@@ -29,6 +29,21 @@ async function getAllData(type) {
     return await loadData(file)
 }
 
+// 高速化のためファイルのfetchをしない
+function getDataById(id, type, authorData, puzzleData) {
+    if ( type === "kind"  || type === "puzzle" ){
+        data = puzzleData
+    } else if ( type === "user" || type === "author" ){
+        data = authorData
+    }
+    for (const key in data) {
+        if (data[key].id === id) {
+            return data[key]
+        }
+    }
+    return null
+}
+
 async function getNameData(type) {
     if ( type === "kind"  || type === "puzzle" ){
         file = "kind.json"
@@ -36,21 +51,6 @@ async function getNameData(type) {
         file = "user.json"
     }
     return await loadData(file)
-}
-
-async function getData(id, type) {
-    if ( type === "kind"  || type === "puzzle" ){
-        file = "puzzle.json"
-    } else if ( type === "user" || type === "author" ){
-        file = "author.json"
-    }
-    var data = await loadData(file)
-    for (const key in data) {
-        if (data[key].id === id) {
-            return data[key];
-        }
-    }
-    return null
 }
 
 async function getIdByName(name, type) {
@@ -84,8 +84,8 @@ function getPath() {
 }
 
 function initData() {
-    dif = []
-    for(const index=0; index<5; index++){
+    var dif = []
+    for(let index=0; index<5; index++){
         dif += {"number": index + 1, "problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
     }
     return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": dif}

@@ -27,12 +27,15 @@ async function setPage(sort, order) {
     const userData = await getNameData("user")
     const kindData = await getNameData("kind")
 
+    const authorData = await getAllData("author")
+    const puzzleData = await getAllData("puzzle")
+
     if (urlParams.has("author") && urlParams.has("kind")) {
         const kindId = Number(urlParams.get("kind"))
         const kindName = getNameById(kindId, "kind", {}, kindData)
         const authorId = Number(urlParams.get("author"))
         const authorName = getNameById(authorId, "user", userData, {})
-        var dataAuthor = await getData(authorId, "author")
+        var dataAuthor = getDataById(authorId, "author", authorData, {})
         if (! dataAuthor) {
             dataAuthor = initData()
             dataAuthor.name = await getNameById(authorId, "user", userData, {})
@@ -52,19 +55,19 @@ async function setPage(sort, order) {
         if (urlParams.has("author")) {
             anotherType = "kind"
             const authorId = Number(urlParams.get("author"))
-            data = await getData(authorId, "author")
+            data = getDataById(authorId, "author", authorData, {})
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(authorId, "user", userData, {})
+            data.name = getNameById(authorId, "user", userData, {})
         } else {
             anotherType = "author"
             const kindId = Number(urlParams.get("kind"))
-            data = await getData(kindId, "puzzle")
+            data = getDataById(kindId, "puzzle", {}, puzzleData)
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(kindId, "kind", {}, kindData)
+            data.name = getNameById(kindId, "kind", {}, kindData)
         }
     }
     setTitle(data.name)
