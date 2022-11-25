@@ -3,16 +3,16 @@
   "total": {
     "problem": 29,
     "favorite": 449,
-    "answered": 4064
+    "answered": 3840
   },
   "count": {
     "favorite": {
       "problem": 310,
-      "author": 115
+      "author": 114
     },
     "answered": {
-      "problem": 1891,
-      "author": 239,
+      "problem": 1734,
+      "author": 230,
       "solver": 236
     }
   },
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 565,
+        "count": 536,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 230,
+        "count": 160,
         "names": [
           {
-            "name": "えすきゅん☆(bbpz)",
-            "url": "https://puzsq.logicpuzzle.app/?author=2323"
+            "name": "盥",
+            "url": "https://puzsq.logicpuzzle.app/?author=108"
           }
         ]
       }
