@@ -12,6 +12,7 @@ KIND_API="/kind"
 # ファイルとスクリプト
 DATA_FILE="data/data.json"
 SOLVERS_FILE="data/solvers.json"
+ACTIVITY_FILE="data/activity.json"
 USER_FILE="data/user.json"
 KIND_FILE="data/kind.json"
 YESTERDAY_FILE="data/yesterday.json"
@@ -39,9 +40,10 @@ function readable(){
 export TZ="Asia/Tokyo"
 
 # 元データファイルがなければ作り、データは最古の日付から取る
-if [ ! -f "${DATA_FILE}" ] || [ ! -f "${SOLVERS_FILE}" ]; then
+if [ ! -f "${DATA_FILE}" ] || [ ! -f "${SOLVERS_FILE}" ] || [ ! -f "${ACTIVITY_FILE}" ]; then
     echo "{}" > "${DATA_FILE}"
     echo "{}" > "${SOLVERS_FILE}"
+    echo "{}" > "${ACTIVITY_FILE}"
     DATE="2019-05-09"
 else
     # UPDATE_FILEに書かれた日付を読みこむ
@@ -75,7 +77,7 @@ while true; do
 
     # 取得したデータを結合する
     echo "combine data at ${DATE}"
-    /usr/bin/python3 "${CONBINE_SCRIPT}" -p /tmp/p.json -f /tmp/f.json -a /tmp/a.json
+    /usr/bin/python3 "${CONBINE_SCRIPT}" -p /tmp/p.json -f /tmp/f.json -a /tmp/a.json -d "${DATE}"
     /usr/bin/python3 "${SOLVERS_SCRIPT}" -a /tmp/a.json
     rm -f /tmp/p.json /tmp/f.json /tmp/a.json
 done
@@ -90,6 +92,7 @@ echo "${DATE}" > "${UPDATE_FILE}"
 # JSONを見やすくする
 readable "${DATA_FILE}"
 readable "${SOLVERS_FILE}"
+readable "${ACTIVITY_FILE}"
 readable "${USER_FILE}"
 readable "${KIND_FILE}"
 readable "${YESTERDAY_FILE}"
