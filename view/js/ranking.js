@@ -28,11 +28,14 @@ async function makeRanking(p) {
     var data = await getAllData(p.category)
     delete data[0]
 
+    const userData = await getNameData("user")
+    const kindData = await getNameData("kind")
+
     for (const key in data) {
         var d = data[key]
         const authorId = (p.category === "author")? d.id: 0
         const kindId = (p.category === "kind")? d.id: 0
-        const name = await getNameById(d.id, p.category)
+        const name = getNameById(d.id, p.category, userData, kindData)
         var contents = {"name": name, "problem_n": d.problem_n, "favorite_n": d.favorite_n, "answered_n": d.answered_n, "variant_n": d.variant_n, "rank": 1}
         contents[p.category] = getStatLink(authorId, kindId, name).outerHTML
         contents["count"] = d.count

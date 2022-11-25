@@ -14,6 +14,7 @@ async function setPage(sort, order) {
         urlParams.set("kind", urlParams.get("puzzle"))
         urlParams.delete("puzzle")
         location.search = urlParams
+        return
     }
 
     if (! urlParams.has("author") && ! urlParams.has("kind")) {
@@ -23,22 +24,44 @@ async function setPage(sort, order) {
     var data = {}
     var is_both = false
     var anotherType = null;
+
+    const userData = await getNameData("user")
+    const kindData = await getNameData("kind")
+
+    const authorData = await getAllData("author")
+    const puzzleData = await getAllData("puzzle")
+
     if (urlParams.has("author") && urlParams.has("kind")) {
         const kindId = Number(urlParams.get("kind"))
-        const kindName = await getNameById(kindId, "kind")
+        const kindName = getNameById(kindId, "kind", {}, kindData)
+        if (kindName === null) {
+            urlParams.delete("kind")
+            location.search = urlParams
+            return
+        }
         const authorId = Number(urlParams.get("author"))
-        const authorName = await getNameById(authorId, "author")
-        var dataAuthor = await getData(authorId, "author")
+        const authorName = getNameById(authorId, "user", userData, {})
+        if (authorName === null) {
+            urlParams.delete("author")
+            location.search = urlParams
+            return
+        }
+        var dataAuthor = getDataById(authorId, "author", authorData, {})
         if (! dataAuthor) {
             dataAuthor = initData()
-            dataAuthor.name = await getNameById(authorId, "author")
+            dataAuthor.name = await getNameById(authorId, "user", userData, {})
         }
         if (kindId === 0) {
             data = dataAuthor
             anotherType = "kind"
         } else {
             is_both = true
-            data = dataAuthor.kind[kindId]
+            if ( dataAuthor.problem_n < 1 ){
+                data = initData()
+            }
+            else {
+                data = dataAuthor.kind[kindId]
+            }
         }
         if (! data){
             data = initData()
@@ -48,19 +71,31 @@ async function setPage(sort, order) {
         if (urlParams.has("author")) {
             anotherType = "kind"
             const authorId = Number(urlParams.get("author"))
-            data = await getData(authorId, "author")
+            const authorName = getNameById(authorId, "user", userData, {})
+            if (authorName === null) {
+                urlParams.delete("author")
+                location.search = urlParams
+                return
+            }
+            data = getDataById(authorId, "author", authorData, {})
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(authorId, "user")
+            data.name = authorName
         } else {
             anotherType = "author"
             const kindId = Number(urlParams.get("kind"))
-            data = await getData(kindId, "puzzle")
+            const puzzleName = getNameById(kindId, "kind", {}, kindData)
+            if (puzzleName === null) {
+                urlParams.delete("kind")
+                location.search = urlParams
+                return
+            }
+            data = getDataById(kindId, "puzzle", {}, puzzleData)
             if (! data) {
                 data = initData()
             }
-            data.name = await getNameById(kindId, "kind")
+            data.name = getNameById(kindId, "kind", {}, kindData)
         }
     }
     setTitle(data.name)
@@ -71,7 +106,7 @@ async function setPage(sort, order) {
     data["answered_r"] = (data.answered_n / data.problem_n).toFixed(2)
     data["count_r"] = (data.problem_n / data.count).toFixed(2)
     data["variant_r"] = (data.variant_n / data.problem_n).toFixed(2)
-    for (let index = 1; index <= 5; index++) {
+    for (let index = 0; index < 5; index++) {
         data.difficulty[index]["problem_r"] = (data.difficulty[index].problem_n / data.problem_n).toFixed(2)
         data.difficulty[index]["favorite_r"] = (data.difficulty[index].favorite_n / data.difficulty[index].problem_n).toFixed(2)
         data.difficulty[index]["answered_r"] = (data.difficulty[index].answered_n / data.difficulty[index].problem_n).toFixed(2)
@@ -83,13 +118,13 @@ async function setPage(sort, order) {
         setInfo(key, data[key])
     }
 
-    var difficultyList = Object.values(data.difficulty).slice(1);
+    var difficultyList = Object.values(data.difficulty);
     for (let index = 0; index < 5; index++) {
-        difficultyList[index]["difficulty"] = displayDifficultyStr[index+1]
+        difficultyList[index]["difficulty"] = displayDifficultyStr[index + 1]
     }
     makeTable("difficultyTable", "difficulty", difficultyList)
 
-    if (is_both) {
+    if (is_both || data.problem_n < 1) {
         hideElements("notBoth")
     } else {
         setInfo("display", displayStr[anotherType])
@@ -100,7 +135,8 @@ async function setPage(sort, order) {
             var d = data[anotherType][key]
             const authorId = (anotherType === "kind")? data.id: d.id
             const kindId = (anotherType === "author")? data.id: d.id
-            d[anotherType] = getStatLink(authorId, kindId, d.name).outerHTML
+            const name = getNameById(d.id, anotherType, userData, kindData)
+            d[anotherType] = getStatLink(authorId, kindId, name).outerHTML
             d["favorite_r"] = (d.favorite_n / d.problem_n).toFixed(2)
             d["answered_r"] = (d.answered_n / d.problem_n).toFixed(2)
             d["problem_r"] = (d.problem_n / data.problem_n).toFixed(2)

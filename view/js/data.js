@@ -22,50 +22,50 @@ function loadData(file) {
 
 async function getAllData(type) {
     if ( type === "kind"  || type === "puzzle" ){
-        file = "puzzle.json"
-    } else if ( type === "user" || type === "author" ){
-        file = "author.json"
+        return await loadData("puzzle.json")
     }
-    return await loadData(file)
+    return await loadData("author.json")
 }
 
-async function getData(id, type) {
+// 高速化のためファイルのfetchをしない
+function getDataById(id, type, authorData, puzzleData) {
     if ( type === "kind"  || type === "puzzle" ){
-        file = "puzzle.json"
+        data = puzzleData
     } else if ( type === "user" || type === "author" ){
-        file = "author.json"
+        data = authorData
     }
-    var data = await loadData(file)
     for (const key in data) {
         if (data[key].id === id) {
-            return data[key];
+            return data[key]
         }
     }
     return null
+}
+
+async function getNameData(type) {
+    if ( type === "kind"  || type === "puzzle" ){
+        return await loadData("kind.json")
+    }
+    return await loadData("user.json")
 }
 
 async function getIdByName(name, type) {
-    if ( type === "kind"  || type === "puzzle" ){
-        file = "kind.json"
-    } else if ( type === "user" || type === "author" ){
-        file = "user.json"
-    }
-    var data = await loadData(file)
+    data = await getNameData(type)
     for (const key in data) {
         if (data[key].name === name) {
-            return key;
+            return key
         }
     }
     return null
 }
 
-async function getNameById(id, type) {
+// 高速化のためファイルのfetchをしない
+function getNameById(id, type, userData, kindData) {
     if ( type === "kind"  || type === "puzzle" ){
-        file = "kind.json"
+        data = kindData
     } else if ( type === "user" || type === "author" ){
-        file = "user.json"
+        data = userData
     }
-    var data = await loadData(file)
     if ( id in data ) {
         return data[id].name
     }
@@ -80,8 +80,11 @@ function getPath() {
 }
 
 function initData() {
-    var dif = {"problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0}
-    return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": [dif, dif, dif, dif, dif, dif]}
+    var dif = []
+    for(var index=0; index<5; index++){
+        dif.push({"number": index + 1, "problem_n": 0, "favorite_n": 0, "answered_n": 0, "variant_n": 0})
+    }
+    return {"name": "", "problem_n": 0, "favorite_n":0, "answered_n": 0, "variant_n":0, "count": 0, "puzzle": {}, "author": {}, "difficulty": dif}
 }
 
 const displayStr = {"kind": "パズル", "author": "作者", "favorite_n": "いいね数", "answered_n": "解答者数", "problem_n": "問題数", "problem_r": "占有率", "kind_c": "作者数",  "author_c": "パズル数", "favorite_r": "平均いいね数", "answered_r": "平均解答者数", "kind_r": "作者平均", "author_r": "パズル平均", "variant_n": "変種数", "variant_r": "変種率", "difficulty": "難易度"}
