@@ -1,45 +1,53 @@
 {
-  "day": "2022年11月24日",
+  "day": "2022年11月25日",
   "total": {
-    "problem": 29,
-    "favorite": 449,
-    "answered": 3840
+    "problem": 19,
+    "favorite": 359,
+    "answered": 3331
   },
   "count": {
     "favorite": {
-      "problem": 310,
-      "author": 114
+      "problem": 258,
+      "author": 101
     },
     "answered": {
-      "problem": 1734,
-      "author": 230,
-      "solver": 236
+      "problem": 1641,
+      "author": 205,
+      "solver": 233
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 9,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/102930"
+            "name": "かいだんしばり by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/102873"
+          },
+          {
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/102979"
+          },
+          {
+            "name": "ぬりめいず by ことり",
+            "url": "https://puzsq.logicpuzzle.app/share/102980"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 76,
         "names": [
           {
-            "name": "ヤジリン by にゃぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/102925"
+            "name": "ぬりめいず by ことり",
+            "url": "https://puzsq.logicpuzzle.app/share/102980"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 31,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 536,
+        "count": 330,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 223,
         "names": [
           {
-            "name": "盥",
-            "url": "https://puzsq.logicpuzzle.app/?author=108"
+            "name": "えすきゅん☆",
+            "url": "https://puzsq.logicpuzzle.app/?author=102"
           }
         ]
       }
