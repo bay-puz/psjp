@@ -1,53 +1,45 @@
 {
-  "day": "2022年11月25日",
+  "day": "2022年11月26日",
   "total": {
-    "problem": 19,
-    "favorite": 359,
-    "answered": 3331
+    "problem": 28,
+    "favorite": 518,
+    "answered": 4329
   },
   "count": {
     "favorite": {
-      "problem": 258,
-      "author": 101
+      "problem": 335,
+      "author": 113
     },
     "answered": {
-      "problem": 1641,
-      "author": 205,
-      "solver": 233
+      "problem": 2322,
+      "author": 237,
+      "solver": 232
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 9,
+        "count": 13,
         "names": [
           {
-            "name": "かいだんしばり by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/102873"
-          },
-          {
-            "name": "ぬりかべ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/102979"
-          },
-          {
-            "name": "ぬりめいず by ことり",
-            "url": "https://puzsq.logicpuzzle.app/share/102980"
+            "name": "ダブルチョコ by モンキーバナナ",
+            "url": "https://puzsq.logicpuzzle.app/share/103004"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 69,
         "names": [
           {
-            "name": "ぬりめいず by ことり",
-            "url": "https://puzsq.logicpuzzle.app/share/102980"
+            "name": "シャカシャカ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/103003"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 31,
+        "count": 49,
         "names": [
           {
             "name": "K.N.Y.",
@@ -56,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 330,
+        "count": 376,
         "names": [
           {
             "name": "K.N.Y.",
@@ -67,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 223,
+        "count": 214,
         "names": [
           {
             "name": "えすきゅん☆",

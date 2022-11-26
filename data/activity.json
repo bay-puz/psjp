@@ -18142,5 +18142,19 @@
       "answered": 1641,
       "favorited": 258
     }
+  },
+  "2022-11-26": {
+    "problem_n": 28,
+    "favorite_n": 518,
+    "answered_n": 4329,
+    "user": {
+      "authors": 17,
+      "solvers": 232,
+      "both": 15
+    },
+    "problem": {
+      "answered": 2322,
+      "favorited": 335
+    }
   }
 }
