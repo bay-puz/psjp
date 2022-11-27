@@ -1,45 +1,45 @@
 {
-  "day": "2022年11月26日",
+  "day": "2022年11月27日",
   "total": {
-    "problem": 28,
-    "favorite": 518,
-    "answered": 4329
+    "problem": 26,
+    "favorite": 540,
+    "answered": 4797
   },
   "count": {
     "favorite": {
-      "problem": 335,
-      "author": 113
+      "problem": 353,
+      "author": 118
     },
     "answered": {
-      "problem": 2322,
-      "author": 237,
-      "solver": 232
+      "problem": 2185,
+      "author": 231,
+      "solver": 231
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "ダブルチョコ by モンキーバナナ",
-            "url": "https://puzsq.logicpuzzle.app/share/103004"
+            "name": "アイスローム by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/103007"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 100,
         "names": [
           {
-            "name": "シャカシャカ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/103003"
+            "name": "ヤジリン by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/103022"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 63,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 376,
+        "count": 468,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 214,
+        "count": 161,
         "names": [
           {
             "name": "えすきゅん☆",
