@@ -1,45 +1,45 @@
 {
-  "day": "2022年11月27日",
+  "day": "2022年11月28日",
   "total": {
-    "problem": 26,
-    "favorite": 540,
-    "answered": 4797
+    "problem": 23,
+    "favorite": 547,
+    "answered": 4028
   },
   "count": {
     "favorite": {
-      "problem": 353,
-      "author": 118
+      "problem": 343,
+      "author": 115
     },
     "answered": {
-      "problem": 2185,
-      "author": 231,
-      "solver": 231
+      "problem": 1780,
+      "author": 216,
+      "solver": 235
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "アイスローム by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103007"
+            "name": "チョコバナナ by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/103056"
           }
         ]
       },
       "answered": {
-        "count": 100,
+        "count": 87,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/103022"
+            "name": "ヤジリン by ペンパ石",
+            "url": "https://puzsq.logicpuzzle.app/share/103046"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 63,
+        "count": 43,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 468,
+        "count": 350,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 161,
+        "count": 154,
         "names": [
           {
-            "name": "えすきゅん☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=102"
+            "name": "にしなんとか",
+            "url": "https://puzsq.logicpuzzle.app/?author=42"
           }
         ]
       }
