@@ -1,45 +1,45 @@
 {
-  "day": "2022年11月29日",
+  "day": "2022年11月30日",
   "total": {
-    "problem": 22,
-    "favorite": 393,
-    "answered": 4299
+    "problem": 30,
+    "favorite": 494,
+    "answered": 4140
   },
   "count": {
     "favorite": {
-      "problem": 265,
-      "author": 99
+      "problem": 304,
+      "author": 105
     },
     "answered": {
-      "problem": 2082,
-      "author": 220,
-      "solver": 236
+      "problem": 1900,
+      "author": 203,
+      "solver": 246
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 13,
         "names": [
           {
-            "name": "島国 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/103073"
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/103113"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 94,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103064"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/103114"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 58,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 417,
+        "count": 388,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 163,
         "names": [
           {
-            "name": "Coo",
-            "url": "https://puzsq.logicpuzzle.app/?author=338"
+            "name": "かぶ",
+            "url": "https://puzsq.logicpuzzle.app/?author=49"
           }
         ]
       }
