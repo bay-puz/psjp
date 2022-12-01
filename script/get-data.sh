@@ -92,7 +92,8 @@ echo "${DATE}" > "${UPDATE_FILE}"
 # JSONを見やすくする
 readable "${DATA_FILE}"
 readable "${SOLVERS_FILE}"
-readable "${ACTIVITY_FILE}"
+# activityは行数が多くなるので整形しない
+# readable "${ACTIVITY_FILE}"
 readable "${USER_FILE}"
 readable "${KIND_FILE}"
 readable "${YESTERDAY_FILE}"
