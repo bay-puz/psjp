@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月1日",
+  "day": "2022年12月2日",
   "total": {
-    "problem": 52,
-    "favorite": 651,
-    "answered": 4829
+    "problem": 44,
+    "favorite": 534,
+    "answered": 4094
   },
   "count": {
     "favorite": {
-      "problem": 273,
-      "author": 92
+      "problem": 265,
+      "author": 97
     },
     "answered": {
-      "problem": 1673,
-      "author": 204,
-      "solver": 267
+      "problem": 1499,
+      "author": 199,
+      "solver": 255
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 25,
         "names": [
           {
-            "name": "チョコナ by にしなんとか",
-            "url": "https://puzsq.logicpuzzle.app/share/102964"
+            "name": "バッグ/Cave by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/103012"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 76,
         "names": [
           {
-            "name": "チョコナ by カズリット",
-            "url": "https://puzsq.logicpuzzle.app/share/103143"
+            "name": "バッグ/Cave by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/103221"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 43,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "USBe",
+            "url": "https://puzsq.logicpuzzle.app/?author=43"
           }
         ]
       },
       "answered": {
-        "count": 352,
+        "count": 343,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 234,
+        "count": 108,
         "names": [
           {
-            "name": " ",
-            "url": "https://puzsq.logicpuzzle.app/?author=78"
+            "name": "ci",
+            "url": "https://puzsq.logicpuzzle.app/?author=2077"
           }
         ]
       }
