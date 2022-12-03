@@ -29,6 +29,7 @@ jobs:
         run: python script/cut-data.py
       - name: make graph
         run: |
+          python script/graph/activity.py
           python script/graph/date.py
           python script/graph/difficulty.py
           python script/graph/favor.py
