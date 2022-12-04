@@ -1,54 +1,58 @@
 {
-  "day": "2022年12月3日",
+  "day": "2022年12月4日",
   "total": {
-    "problem": 34,
-    "favorite": 658,
-    "answered": 4461
+    "problem": 40,
+    "favorite": 714,
+    "answered": 4713
   },
   "count": {
     "favorite": {
-      "problem": 366,
-      "author": 114
+      "problem": 459,
+      "author": 121
     },
     "answered": {
-      "problem": 1751,
-      "author": 215,
-      "solver": 252
+      "problem": 2044,
+      "author": 228,
+      "solver": 243
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 11,
         "names": [
           {
-            "name": "マティーニ by takmu",
-            "url": "https://puzsq.logicpuzzle.app/share/103267"
+            "name": "遠い誓い by 盥",
+            "url": "https://puzsq.logicpuzzle.app/share/103209"
+          },
+          {
+            "name": "遠い誓い２ by GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/share/103265"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 73,
         "names": [
           {
-            "name": "カクテルランプ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103079"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/103301"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 61,
         "names": [
           {
-            "name": "_AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/?author=358"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 331,
+        "count": 449,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 167,
         "names": [
           {
-            "name": "あまからとう",
-            "url": "https://puzsq.logicpuzzle.app/?author=453"
+            "name": "apiad",
+            "url": "https://puzsq.logicpuzzle.app/?author=498"
           }
         ]
       }
