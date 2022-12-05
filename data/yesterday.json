@@ -1,58 +1,54 @@
 {
-  "day": "2022年12月4日",
+  "day": "2022年12月5日",
   "total": {
-    "problem": 40,
-    "favorite": 714,
-    "answered": 4713
+    "problem": 45,
+    "favorite": 654,
+    "answered": 4572
   },
   "count": {
     "favorite": {
-      "problem": 459,
-      "author": 121
+      "problem": 345,
+      "author": 115
     },
     "answered": {
-      "problem": 2044,
-      "author": 228,
-      "solver": 243
+      "problem": 1690,
+      "author": 208,
+      "solver": 255
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 16,
         "names": [
           {
-            "name": "遠い誓い by 盥",
-            "url": "https://puzsq.logicpuzzle.app/share/103209"
-          },
-          {
-            "name": "遠い誓い２ by GESAKU",
-            "url": "https://puzsq.logicpuzzle.app/share/103265"
+            "name": "Tents by takmu",
+            "url": "https://puzsq.logicpuzzle.app/share/103348"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 74,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/103301"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/103350"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 44,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 449,
+        "count": 472,
         "names": [
           {
             "name": "みんにょこ",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 167,
+        "count": 185,
         "names": [
           {
             "name": "apiad",
