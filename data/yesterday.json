@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月8日",
+  "day": "2022年12月9日",
   "total": {
-    "problem": 40,
-    "favorite": 587,
-    "answered": 4969
+    "problem": 29,
+    "favorite": 593,
+    "answered": 4785
   },
   "count": {
     "favorite": {
-      "problem": 317,
+      "problem": 269,
       "author": 103
     },
     "answered": {
-      "problem": 2062,
-      "author": 209,
-      "solver": 263
+      "problem": 2015,
+      "author": 232,
+      "solver": 272
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by もしも名前を上限いっぱい32文字に設定したらどう表示されるのか？",
-            "url": "https://puzsq.logicpuzzle.app/share/103444"
+            "name": "アイスダンス・ペア（変種） by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/103513"
           }
         ]
       },
       "answered": {
-        "count": 98,
+        "count": 90,
         "names": [
           {
-            "name": "美術館 by SKB",
-            "url": "https://puzsq.logicpuzzle.app/share/103470"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/103510"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 46,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 352,
+        "count": 323,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 151,
         "names": [
           {
-            "name": "ugly2333",
-            "url": "https://puzsq.logicpuzzle.app/?author=1070"
+            "name": "takmu",
+            "url": "https://puzsq.logicpuzzle.app/?author=1098"
           }
         ]
       }
