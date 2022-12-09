@@ -1,77 +1,69 @@
 {
-  "day": "2022年12月7日",
+  "day": "2022年12月8日",
   "total": {
-    "problem": 32,
-    "favorite": 511,
-    "answered": 3974
+    "problem": 40,
+    "favorite": 587,
+    "answered": 4969
   },
   "count": {
     "favorite": {
-      "problem": 322,
-      "author": 98
+      "problem": 317,
+      "author": 103
     },
     "answered": {
-      "problem": 1900,
-      "author": 202,
-      "solver": 248
+      "problem": 2062,
+      "author": 209,
+      "solver": 263
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 18,
         "names": [
           {
-            "name": "ストストーン by USBe",
-            "url": "https://puzsq.logicpuzzle.app/share/103254"
+            "name": "美術館 by もしも名前を上限いっぱい32文字に設定したらどう表示されるのか？",
+            "url": "https://puzsq.logicpuzzle.app/share/103444"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 98,
         "names": [
           {
-            "name": "ストストーン by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/103428"
-          },
-          {
-            "name": "ストストーン by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/103445"
+            "name": "美術館 by SKB",
+            "url": "https://puzsq.logicpuzzle.app/share/103470"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 39,
+        "count": 36,
         "names": [
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
-          },
-          {
-            "name": "連打",
-            "url": "https://puzsq.logicpuzzle.app/?author=2091"
           }
         ]
       },
       "answered": {
-        "count": 442,
+        "count": 352,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 151,
+        "count": 133,
         "names": [
           {
-            "name": "かぶ",
-            "url": "https://puzsq.logicpuzzle.app/?author=49"
+            "name": "ugly2333",
+            "url": "https://puzsq.logicpuzzle.app/?author=1070"
           }
         ]
       }
