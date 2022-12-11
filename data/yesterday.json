@@ -1,38 +1,38 @@
 {
-  "day": "2022年12月10日",
+  "day": "2022年12月11日",
   "total": {
-    "problem": 31,
-    "favorite": 556,
-    "answered": 4025
+    "problem": 29,
+    "favorite": 649,
+    "answered": 4929
   },
   "count": {
     "favorite": {
-      "problem": 340,
-      "author": 108
+      "problem": 467,
+      "author": 133
     },
     "answered": {
-      "problem": 1964,
-      "author": 221,
-      "solver": 254
+      "problem": 2556,
+      "author": 230,
+      "solver": 262
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "Tiger in the Woods by KRin",
-            "url": "https://puzsq.logicpuzzle.app/share/103519"
+            "name": "ペロペロキャンディ by 盥",
+            "url": "https://puzsq.logicpuzzle.app/share/103438"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 95,
         "names": [
           {
-            "name": "Tiger in the Woods by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/103517"
+            "name": "ヤジリン by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/103566"
           }
         ]
       }
@@ -42,28 +42,28 @@
         "count": 43,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 399,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 302,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "kawatea",
+            "url": "https://puzsq.logicpuzzle.app/?author=1468"
           }
         ]
       }
