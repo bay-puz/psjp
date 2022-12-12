@@ -1,38 +1,46 @@
 {
-  "day": "2022年12月11日",
+  "day": "2022年12月12日",
   "total": {
-    "problem": 29,
-    "favorite": 649,
-    "answered": 4929
+    "problem": 34,
+    "favorite": 532,
+    "answered": 4530
   },
   "count": {
     "favorite": {
-      "problem": 467,
-      "author": 133
+      "problem": 261,
+      "author": 96
     },
     "answered": {
-      "problem": 2556,
-      "author": 230,
-      "solver": 262
+      "problem": 2126,
+      "author": 229,
+      "solver": 264
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "ペロペロキャンディ by 盥",
-            "url": "https://puzsq.logicpuzzle.app/share/103438"
+            "name": "Rassi Silai by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/103552"
+          },
+          {
+            "name": "Rassi Silai by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/103601"
           }
         ]
       },
       "answered": {
-        "count": 95,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/103566"
+            "name": "Rassi Silai by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/103601"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/103603"
           }
         ]
       }
@@ -42,28 +50,28 @@
         "count": 43,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/?author=1"
           }
         ]
       },
       "answered": {
-        "count": 399,
+        "count": 333,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 302,
+        "count": 214,
         "names": [
           {
-            "name": "kawatea",
-            "url": "https://puzsq.logicpuzzle.app/?author=1468"
+            "name": "taso",
+            "url": "https://puzsq.logicpuzzle.app/?author=611"
           }
         ]
       }
