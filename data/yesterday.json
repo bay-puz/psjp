@@ -1,69 +1,65 @@
 {
-  "day": "2022年12月14日",
+  "day": "2022年12月15日",
   "total": {
-    "problem": 27,
-    "favorite": 553,
-    "answered": 4869
+    "problem": 31,
+    "favorite": 563,
+    "answered": 4986
   },
   "count": {
     "favorite": {
-      "problem": 330,
-      "author": 112
+      "problem": 274,
+      "author": 99
     },
     "answered": {
-      "problem": 2425,
-      "author": 245,
-      "solver": 257
+      "problem": 2242,
+      "author": 241,
+      "solver": 254
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 18,
         "names": [
           {
-            "name": "愛のカタチ by USBe",
-            "url": "https://puzsq.logicpuzzle.app/share/103359"
-          },
-          {
-            "name": "天体ショー by takmu",
-            "url": "https://puzsq.logicpuzzle.app/share/103661"
+            "name": "シャカシャカ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/103698"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 89,
         "names": [
           {
-            "name": "愛のカタチ by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/103656"
+            "name": "たわむれんが by KRin",
+            "url": "https://puzsq.logicpuzzle.app/share/103684"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 56,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 330,
+        "count": 427,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 188,
+        "count": 143,
         "names": [
           {
             "name": "takmu",
