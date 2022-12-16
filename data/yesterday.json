@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月15日",
+  "day": "2022年12月16日",
   "total": {
     "problem": 31,
-    "favorite": 563,
-    "answered": 4986
+    "favorite": 535,
+    "answered": 4852
   },
   "count": {
     "favorite": {
-      "problem": 274,
-      "author": 99
+      "problem": 333,
+      "author": 101
     },
     "answered": {
-      "problem": 2242,
-      "author": 241,
-      "solver": 254
+      "problem": 2573,
+      "author": 238,
+      "solver": 258
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 13,
         "names": [
           {
-            "name": "シャカシャカ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/103698"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/103725"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 77,
         "names": [
           {
-            "name": "たわむれんが by KRin",
-            "url": "https://puzsq.logicpuzzle.app/share/103684"
+            "name": "Battenberg Painting by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/103688"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 35,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 427,
+        "count": 370,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 509,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "きらく",
+            "url": "https://puzsq.logicpuzzle.app/?author=71"
           }
         ]
       }
