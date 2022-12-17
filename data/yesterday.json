@@ -1,38 +1,38 @@
 {
-  "day": "2022年12月16日",
+  "day": "2022年12月17日",
   "total": {
-    "problem": 31,
-    "favorite": 535,
-    "answered": 4852
+    "problem": 32,
+    "favorite": 489,
+    "answered": 4258
   },
   "count": {
     "favorite": {
-      "problem": 333,
+      "problem": 292,
       "author": 101
     },
     "answered": {
-      "problem": 2573,
-      "author": 238,
-      "solver": 258
+      "problem": 2025,
+      "author": 216,
+      "solver": 247
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 12,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/103725"
+            "name": "リングリング by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/103760"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 81,
         "names": [
           {
-            "name": "Battenberg Painting by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103688"
+            "name": "リングリング by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/103736"
           }
         ]
       }
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 370,
+        "count": 306,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 509,
+        "count": 149,
         "names": [
           {
-            "name": "きらく",
-            "url": "https://puzsq.logicpuzzle.app/?author=71"
+            "name": "kawatea",
+            "url": "https://puzsq.logicpuzzle.app/?author=1468"
           }
         ]
       }
