@@ -1,45 +1,45 @@
 {
-  "day": "2022年12月17日",
+  "day": "2022年12月18日",
   "total": {
-    "problem": 32,
-    "favorite": 489,
-    "answered": 4258
+    "problem": 30,
+    "favorite": 526,
+    "answered": 4644
   },
   "count": {
     "favorite": {
-      "problem": 292,
-      "author": 101
+      "problem": 233,
+      "author": 76
     },
     "answered": {
-      "problem": 2025,
-      "author": 216,
-      "solver": 247
+      "problem": 2102,
+      "author": 224,
+      "solver": 248
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 15,
         "names": [
           {
-            "name": "リングリング by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/103760"
+            "name": "月か太陽 by 盥",
+            "url": "https://puzsq.logicpuzzle.app/share/103785"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 89,
         "names": [
           {
-            "name": "リングリング by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103736"
+            "name": "Light and Shadow by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/103759"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 38,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 306,
+        "count": 307,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 194,
         "names": [
           {
-            "name": "kawatea",
-            "url": "https://puzsq.logicpuzzle.app/?author=1468"
+            "name": "takmu",
+            "url": "https://puzsq.logicpuzzle.app/?author=1098"
           }
         ]
       }
