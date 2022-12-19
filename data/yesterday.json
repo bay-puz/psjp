@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月18日",
+  "day": "2022年12月19日",
   "total": {
-    "problem": 30,
-    "favorite": 526,
-    "answered": 4644
+    "problem": 26,
+    "favorite": 558,
+    "answered": 4743
   },
   "count": {
     "favorite": {
-      "problem": 233,
-      "author": 76
+      "problem": 315,
+      "author": 104
     },
     "answered": {
-      "problem": 2102,
-      "author": 224,
-      "solver": 248
+      "problem": 2165,
+      "author": 225,
+      "solver": 246
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 14,
         "names": [
           {
-            "name": "月か太陽 by 盥",
-            "url": "https://puzsq.logicpuzzle.app/share/103785"
+            "name": "家族写真 by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/103734"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 81,
         "names": [
           {
-            "name": "Light and Shadow by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103759"
+            "name": "ヤジリン by takmu",
+            "url": "https://puzsq.logicpuzzle.app/share/103827"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
-        "names": [
-          {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          }
-        ]
-      },
-      "answered": {
-        "count": 307,
+        "count": 32,
         "names": [
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
+      },
+      "answered": {
+        "count": 344,
+        "names": [
+          {
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
+          }
+        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 194,
+        "count": 235,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "kawatea",
+            "url": "https://puzsq.logicpuzzle.app/?author=1468"
           }
         ]
       }
