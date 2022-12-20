@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月19日",
+  "day": "2022年12月20日",
   "total": {
-    "problem": 26,
-    "favorite": 558,
-    "answered": 4743
+    "problem": 29,
+    "favorite": 632,
+    "answered": 4359
   },
   "count": {
     "favorite": {
-      "problem": 315,
-      "author": 104
+      "problem": 404,
+      "author": 127
     },
     "answered": {
-      "problem": 2165,
-      "author": 225,
-      "solver": 246
+      "problem": 2108,
+      "author": 230,
+      "solver": 261
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 18,
         "names": [
           {
-            "name": "家族写真 by USBe",
-            "url": "https://puzsq.logicpuzzle.app/share/103734"
+            "name": "Ivy / 三叉路リンク by 盥",
+            "url": "https://puzsq.logicpuzzle.app/share/103839"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 87,
         "names": [
           {
-            "name": "ヤジリン by takmu",
-            "url": "https://puzsq.logicpuzzle.app/share/103827"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/103850"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 38,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       },
       "answered": {
-        "count": 344,
+        "count": 338,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 235,
+        "count": 301,
         "names": [
           {
-            "name": "kawatea",
-            "url": "https://puzsq.logicpuzzle.app/?author=1468"
+            "name": "takmu",
+            "url": "https://puzsq.logicpuzzle.app/?author=1098"
           }
         ]
       }
