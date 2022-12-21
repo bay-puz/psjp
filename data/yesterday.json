@@ -1,19 +1,19 @@
 {
-  "day": "2022年12月20日",
+  "day": "2022年12月21日",
   "total": {
-    "problem": 29,
-    "favorite": 632,
-    "answered": 4359
+    "problem": 34,
+    "favorite": 508,
+    "answered": 4481
   },
   "count": {
     "favorite": {
-      "problem": 404,
-      "author": 127
+      "problem": 254,
+      "author": 97
     },
     "answered": {
-      "problem": 2108,
-      "author": 230,
-      "solver": 261
+      "problem": 2200,
+      "author": 233,
+      "solver": 252
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 18,
         "names": [
           {
-            "name": "Ivy / 三叉路リンク by 盥",
-            "url": "https://puzsq.logicpuzzle.app/share/103839"
+            "name": "ダブルチョコ by 盥",
+            "url": "https://puzsq.logicpuzzle.app/share/103852"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 88,
         "names": [
           {
             "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/103850"
+            "url": "https://puzsq.logicpuzzle.app/share/103885"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 37,
         "names": [
           {
-            "name": "_AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/?author=358"
+            "name": "USBe",
+            "url": "https://puzsq.logicpuzzle.app/?author=43"
           }
         ]
       },
       "answered": {
-        "count": 338,
+        "count": 290,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 301,
+        "count": 255,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "てんのみかさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1507"
           }
         ]
       }
