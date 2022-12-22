@@ -1,45 +1,45 @@
 {
-  "day": "2022年12月21日",
+  "day": "2022年12月22日",
   "total": {
-    "problem": 34,
-    "favorite": 508,
-    "answered": 4481
+    "problem": 42,
+    "favorite": 564,
+    "answered": 4685
   },
   "count": {
     "favorite": {
-      "problem": 254,
-      "author": 97
+      "problem": 258,
+      "author": 94
     },
     "answered": {
-      "problem": 2200,
-      "author": 233,
-      "solver": 252
+      "problem": 1995,
+      "author": 228,
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 16,
         "names": [
           {
-            "name": "ダブルチョコ by 盥",
-            "url": "https://puzsq.logicpuzzle.app/share/103852"
+            "name": "ましゅ by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/103763"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 100,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/103885"
+            "name": "ましゅ by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/103763"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 46,
         "names": [
           {
             "name": "USBe",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 290,
+        "count": 358,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 255,
+        "count": 148,
         "names": [
           {
-            "name": "てんのみかさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1507"
+            "name": "rhoo",
+            "url": "https://puzsq.logicpuzzle.app/?author=2032"
           }
         ]
       }
