@@ -1,46 +1,54 @@
 {
-  "day": "2022年12月23日",
+  "day": "2022年12月24日",
   "total": {
-    "problem": 26,
-    "favorite": 498,
-    "answered": 4800
+    "problem": 33,
+    "favorite": 501,
+    "answered": 4655
   },
   "count": {
     "favorite": {
-      "problem": 248,
-      "author": 97
+      "problem": 232,
+      "author": 96
     },
     "answered": {
-      "problem": 2106,
-      "author": 215,
-      "solver": 248
+      "problem": 2165,
+      "author": 229,
+      "solver": 245
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 14,
         "names": [
           {
-            "name": "スターバトル by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/103951"
+            "name": "ひとりにしてくれ by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/103784"
+          },
+          {
+            "name": "ひとりにしてくれ by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/103980"
           }
         ]
       },
       "answered": {
-        "count": 103,
+        "count": 90,
         "names": [
           {
-            "name": "スターバトル by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/103934"
+            "name": "ひとりにしてくれ by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/103980"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
+        "count": 32,
         "names": [
+          {
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
+          },
           {
             "name": "Subaru_Saito",
             "url": "https://puzsq.logicpuzzle.app/?author=1"
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 296,
+        "count": 255,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,7 +67,7 @@
     },
     "solver": {
       "answered": {
-        "count": 222,
+        "count": 411,
         "names": [
           {
             "name": "kawatea",
