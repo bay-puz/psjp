@@ -1,29 +1,29 @@
 {
-  "day": "2022年12月25日",
+  "day": "2022年12月26日",
   "total": {
-    "problem": 51,
-    "favorite": 643,
-    "answered": 5163
+    "problem": 23,
+    "favorite": 337,
+    "answered": 3905
   },
   "count": {
     "favorite": {
-      "problem": 309,
-      "author": 107
+      "problem": 195,
+      "author": 90
     },
     "answered": {
-      "problem": 2232,
-      "author": 240,
-      "solver": 259
+      "problem": 1858,
+      "author": 226,
+      "solver": 241
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 14,
         "names": [
           {
-            "name": "ひとりにしてくれ（変種） by うまや天国",
-            "url": "https://puzsq.logicpuzzle.app/share/104025"
+            "name": "ましゅ by ☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/share/104054"
           }
         ]
       },
@@ -31,35 +31,35 @@
         "count": 82,
         "names": [
           {
-            "name": "ヤジリン by 牛飼い",
-            "url": "https://puzsq.logicpuzzle.app/share/103367"
+            "name": "ましゅ by ☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/share/104054"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 27,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 350,
+        "count": 342,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 219,
         "names": [
           {
             "name": "takmu",
