@@ -1,69 +1,69 @@
 {
-  "day": "2022年12月26日",
+  "day": "2022年12月27日",
   "total": {
-    "problem": 23,
-    "favorite": 337,
-    "answered": 3905
+    "problem": 18,
+    "favorite": 431,
+    "answered": 4579
   },
   "count": {
     "favorite": {
-      "problem": 195,
-      "author": 90
+      "problem": 257,
+      "author": 109
     },
     "answered": {
-      "problem": 1858,
-      "author": 226,
-      "solver": 241
+      "problem": 2469,
+      "author": 236,
+      "solver": 240
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "ましゅ by ☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/share/104054"
+            "name": "ましゅ by Apppp!!",
+            "url": "https://puzsq.logicpuzzle.app/share/104087"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 94,
         "names": [
           {
-            "name": "ましゅ by ☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/share/104054"
+            "name": "ヤジリン by HAINEA ",
+            "url": "https://puzsq.logicpuzzle.app/share/104031"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 27,
+        "count": 35,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 382,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 219,
+        "count": 222,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "ugly2333",
+            "url": "https://puzsq.logicpuzzle.app/?author=1070"
           }
         ]
       }
