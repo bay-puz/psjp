@@ -1,45 +1,57 @@
 {
-  "day": "2022年12月27日",
+  "day": "2022年12月28日",
   "total": {
-    "problem": 18,
-    "favorite": 431,
-    "answered": 4579
+    "problem": 24,
+    "favorite": 408,
+    "answered": 3922
   },
   "count": {
     "favorite": {
-      "problem": 257,
-      "author": 109
+      "problem": 254,
+      "author": 104
     },
     "answered": {
-      "problem": 2469,
-      "author": 236,
-      "solver": 240
+      "problem": 2107,
+      "author": 220,
+      "solver": 247
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 11,
         "names": [
           {
-            "name": "ましゅ by Apppp!!",
-            "url": "https://puzsq.logicpuzzle.app/share/104087"
+            "name": "ましゅ by 鳳",
+            "url": "https://puzsq.logicpuzzle.app/share/104107"
+          },
+          {
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/104112"
+          },
+          {
+            "name": "ひとりにしてくれ（変種） by ナナメ",
+            "url": "https://puzsq.logicpuzzle.app/share/104113"
+          },
+          {
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/104115"
           }
         ]
       },
       "answered": {
-        "count": 94,
+        "count": 78,
         "names": [
           {
-            "name": "ヤジリン by HAINEA ",
-            "url": "https://puzsq.logicpuzzle.app/share/104031"
+            "name": "ましゅ by 結城",
+            "url": "https://puzsq.logicpuzzle.app/share/104105"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 31,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +60,7 @@
         ]
       },
       "answered": {
-        "count": 382,
+        "count": 316,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +71,11 @@
     },
     "solver": {
       "answered": {
-        "count": 222,
+        "count": 127,
         "names": [
           {
-            "name": "ugly2333",
-            "url": "https://puzsq.logicpuzzle.app/?author=1070"
+            "name": "てんのみかさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1507"
           }
         ]
       }
