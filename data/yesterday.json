@@ -1,81 +1,69 @@
 {
-  "day": "2022年12月28日",
+  "day": "2022年12月29日",
   "total": {
-    "problem": 24,
-    "favorite": 408,
-    "answered": 3922
+    "problem": 27,
+    "favorite": 435,
+    "answered": 4038
   },
   "count": {
     "favorite": {
-      "problem": 254,
-      "author": 104
+      "problem": 302,
+      "author": 105
     },
     "answered": {
-      "problem": 2107,
-      "author": 220,
-      "solver": 247
+      "problem": 2138,
+      "author": 228,
+      "solver": 232
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 16,
         "names": [
           {
-            "name": "ましゅ by 鳳",
-            "url": "https://puzsq.logicpuzzle.app/share/104107"
-          },
-          {
             "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/104112"
-          },
-          {
-            "name": "ひとりにしてくれ（変種） by ナナメ",
-            "url": "https://puzsq.logicpuzzle.app/share/104113"
-          },
-          {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/104115"
+            "url": "https://puzsq.logicpuzzle.app/share/104139"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 74,
         "names": [
           {
-            "name": "ましゅ by 結城",
-            "url": "https://puzsq.logicpuzzle.app/share/104105"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/104142"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 31,
+        "count": 36,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 316,
+        "count": 441,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 127,
+        "count": 155,
         "names": [
           {
-            "name": "てんのみかさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1507"
+            "name": "UNP",
+            "url": "https://puzsq.logicpuzzle.app/?author=1002"
           }
         ]
       }
