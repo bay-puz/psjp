@@ -1,45 +1,45 @@
 {
-  "day": "2022年12月29日",
+  "day": "2022年12月30日",
   "total": {
-    "problem": 27,
-    "favorite": 435,
-    "answered": 4038
+    "problem": 31,
+    "favorite": 399,
+    "answered": 4960
   },
   "count": {
     "favorite": {
-      "problem": 302,
-      "author": 105
+      "problem": 226,
+      "author": 92
     },
     "answered": {
-      "problem": 2138,
-      "author": 228,
-      "solver": 232
+      "problem": 2683,
+      "author": 240,
+      "solver": 247
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 12,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/104139"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/104174"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 66,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/104142"
+            "name": "ダブルチョコ by モンキーバナナ",
+            "url": "https://puzsq.logicpuzzle.app/share/104175"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 34,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,18 +48,18 @@
         ]
       },
       "answered": {
-        "count": 441,
+        "count": 371,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 155,
+        "count": 310,
         "names": [
           {
             "name": "UNP",
