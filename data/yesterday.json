@@ -1,45 +1,45 @@
 {
-  "day": "2022年12月30日",
+  "day": "2022年12月31日",
   "total": {
-    "problem": 31,
-    "favorite": 399,
-    "answered": 4960
+    "problem": 49,
+    "favorite": 381,
+    "answered": 4362
   },
   "count": {
     "favorite": {
-      "problem": 226,
-      "author": 92
+      "problem": 218,
+      "author": 88
     },
     "answered": {
-      "problem": 2683,
-      "author": 240,
-      "solver": 247
+      "problem": 2246,
+      "author": 245,
+      "solver": 242
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 11,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/104174"
+            "name": "シークワーズ by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/104221"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 82,
         "names": [
           {
-            "name": "ダブルチョコ by モンキーバナナ",
-            "url": "https://puzsq.logicpuzzle.app/share/104175"
+            "name": "へやわけ by locker",
+            "url": "https://puzsq.logicpuzzle.app/share/104199"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 30,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 371,
+        "count": 365,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 310,
+        "count": 145,
         "names": [
           {
-            "name": "UNP",
-            "url": "https://puzsq.logicpuzzle.app/?author=1002"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }

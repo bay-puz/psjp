@@ -2271,7 +2271,7 @@
   },
   "551": {
     "name": "ブラウニー",
-    "name_e": "",
+    "name_e": "Brownie",
     "category": 4
   },
   "552": {
@@ -2296,12 +2296,12 @@
   },
   "556": {
     "name": "アロード",
-    "name_e": "",
+    "name_e": "Arroad",
     "category": 2
   },
   "557": {
     "name": "いそかべ",
-    "name_e": "",
+    "name_e": "Isokabe",
     "category": 2
   },
   "558": {
@@ -2311,7 +2311,7 @@
   },
   "559": {
     "name": "フュージョンリンク",
-    "name_e": "",
+    "name_e": "Fusion Link",
     "category": 2
   },
   "560": {
@@ -2336,7 +2336,7 @@
   },
   "564": {
     "name": "ミーニーミニ",
-    "name_e": "",
+    "name_e": "MiINiIMiNi",
     "category": 1
   },
   "565": {
@@ -2445,7 +2445,7 @@
     "category": 3
   },
   "588": {
-    "name": "コブリン（マインスイーパモード）",
+    "name": "コブリン（マインスイーパ）",
     "name_e": "Koburin [Minesweeper]",
     "category": 2
   },
@@ -2536,21 +2536,21 @@
   },
   "608": {
     "name": "サーペント・サム",
-    "name_e": "",
-    "category": 1
-  },
-  "609": {
-    "name": "ソウルメイツ",
-    "name_e": "",
+    "name_e": "Serpent Sum",
     "category": 1
   },
   "610": {
     "name": "ソウルメイツ",
-    "name_e": "",
+    "name_e": "Soul Mates",
     "category": 1
   },
   "611": {
     "name": "Full House",
+    "name_e": "",
+    "category": 2
+  },
+  "612": {
+    "name": "Rook End Mazes",
     "name_e": "",
     "category": 2
   },
