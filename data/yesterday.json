@@ -1,45 +1,45 @@
 {
-  "day": "2022年12月31日",
+  "day": "2023年1月1日",
   "total": {
-    "problem": 49,
-    "favorite": 381,
-    "answered": 4362
+    "problem": 47,
+    "favorite": 501,
+    "answered": 4446
   },
   "count": {
     "favorite": {
-      "problem": 218,
-      "author": 88
+      "problem": 256,
+      "author": 90
     },
     "answered": {
-      "problem": 2246,
-      "author": 245,
+      "problem": 1731,
+      "author": 222,
       "solver": 242
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 17,
         "names": [
           {
-            "name": "シークワーズ by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/104221"
+            "name": "スリザーリンク / Fences by ZON",
+            "url": "https://puzsq.logicpuzzle.app/share/104257"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 81,
         "names": [
           {
-            "name": "へやわけ by locker",
-            "url": "https://puzsq.logicpuzzle.app/share/104199"
+            "name": "ヤジリン by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/104211"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 28,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 365,
+        "count": 355,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 152,
         "names": [
           {
             "name": "桃花",
