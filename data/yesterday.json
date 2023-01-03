@@ -1,45 +1,45 @@
 {
-  "day": "2023年1月2日",
+  "day": "2023年1月3日",
   "total": {
-    "problem": 31,
-    "favorite": 464,
-    "answered": 4374
+    "problem": 33,
+    "favorite": 510,
+    "answered": 4270
   },
   "count": {
     "favorite": {
-      "problem": 280,
-      "author": 99
+      "problem": 352,
+      "author": 120
     },
     "answered": {
-      "problem": 2115,
-      "author": 227,
-      "solver": 229
+      "problem": 1920,
+      "author": 231,
+      "solver": 257
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 10,
         "names": [
           {
-            "name": "ダブルチョコ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/104277"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/104311"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 73,
         "names": [
           {
-            "name": "コローン by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/104138"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/104316"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 55,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 510,
+        "count": 581,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 169,
+        "count": 184,
         "names": [
           {
-            "name": "きらく",
-            "url": "https://puzsq.logicpuzzle.app/?author=71"
+            "name": "takmu",
+            "url": "https://puzsq.logicpuzzle.app/?author=1098"
           }
         ]
       }
