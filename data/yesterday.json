@@ -1,38 +1,38 @@
 {
-  "day": "2023年1月9日",
+  "day": "2023年1月10日",
   "total": {
-    "problem": 31,
-    "favorite": 494,
-    "answered": 4651
+    "problem": 29,
+    "favorite": 474,
+    "answered": 4111
   },
   "count": {
     "favorite": {
-      "problem": 306,
+      "problem": 291,
       "author": 99
     },
     "answered": {
-      "problem": 2622,
-      "author": 235,
-      "solver": 256
+      "problem": 1995,
+      "author": 220,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 14,
         "names": [
           {
-            "name": "ペンシルズ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/104466"
+            "name": "∀人∃ＨＥＹＡ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/104496"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 89,
         "names": [
           {
-            "name": "ヤジリン by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/104467"
+            "name": "∀人∃ＨＥＹＡ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/104496"
           }
         ]
       }
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 565,
+        "count": 484,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 211,
+        "count": 140,
         "names": [
           {
-            "name": "きらく",
-            "url": "https://puzsq.logicpuzzle.app/?author=71"
+            "name": "はる",
+            "url": "https://puzsq.logicpuzzle.app/?author=699"
           }
         ]
       }
