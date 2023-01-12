@@ -1,69 +1,69 @@
 {
-  "day": "2023年1月11日",
+  "day": "2023年1月12日",
   "total": {
-    "problem": 18,
-    "favorite": 377,
-    "answered": 3477
+    "problem": 19,
+    "favorite": 430,
+    "answered": 3997
   },
   "count": {
     "favorite": {
-      "problem": 258,
-      "author": 102
+      "problem": 297,
+      "author": 117
     },
     "answered": {
-      "problem": 1769,
-      "author": 229,
-      "solver": 260
+      "problem": 1955,
+      "author": 224,
+      "solver": 271
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 12,
         "names": [
           {
-            "name": "スリザーリンク / Fences by もや（新）",
-            "url": "https://puzsq.logicpuzzle.app/share/104521"
+            "name": "ソウルメイツ by GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/share/104468"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 107,
         "names": [
           {
-            "name": "美術館 by マイタケの先見",
-            "url": "https://puzsq.logicpuzzle.app/share/104543"
+            "name": "シンプルループ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/104473"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 29,
+        "count": 35,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 275,
+        "count": 328,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 111,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "はる",
+            "url": "https://puzsq.logicpuzzle.app/?author=699"
           }
         ]
       }
