@@ -1,45 +1,49 @@
 {
-  "day": "2023年1月12日",
+  "day": "2023年1月13日",
   "total": {
-    "problem": 19,
-    "favorite": 430,
-    "answered": 3997
+    "problem": 18,
+    "favorite": 358,
+    "answered": 3845
   },
   "count": {
     "favorite": {
-      "problem": 297,
-      "author": 117
+      "problem": 250,
+      "author": 113
     },
     "answered": {
-      "problem": 1955,
-      "author": 224,
-      "solver": 271
+      "problem": 2045,
+      "author": 220,
+      "solver": 265
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 11,
         "names": [
           {
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/104572"
+          },
+          {
             "name": "ソウルメイツ by GESAKU",
-            "url": "https://puzsq.logicpuzzle.app/share/104468"
+            "url": "https://puzsq.logicpuzzle.app/share/104495"
           }
         ]
       },
       "answered": {
-        "count": 107,
+        "count": 92,
         "names": [
           {
-            "name": "シンプルループ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/104473"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/104509"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 34,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 328,
+        "count": 374,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 111,
+        "count": 133,
         "names": [
           {
-            "name": "はる",
-            "url": "https://puzsq.logicpuzzle.app/?author=699"
+            "name": "厄袋",
+            "url": "https://puzsq.logicpuzzle.app/?author=2467"
           }
         ]
       }
