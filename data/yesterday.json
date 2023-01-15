@@ -1,38 +1,38 @@
 {
-  "day": "2023年1月14日",
+  "day": "2023年1月15日",
   "total": {
-    "problem": 20,
-    "favorite": 474,
-    "answered": 4475
+    "problem": 24,
+    "favorite": 508,
+    "answered": 4395
   },
   "count": {
     "favorite": {
-      "problem": 330,
-      "author": 118
+      "problem": 334,
+      "author": 109
     },
     "answered": {
-      "problem": 2558,
-      "author": 240,
+      "problem": 2342,
+      "author": 256,
       "solver": 268
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 14,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/104592"
+            "name": "ヤジリン by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/104612"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 92,
         "names": [
           {
-            "name": "ぬりみさき by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/104587"
+            "name": "ヤジリン by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/104612"
           }
         ]
       }
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 442,
+        "count": 454,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 137,
         "names": [
           {
-            "name": "ムラジ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1481"
+            "name": "jjycjn",
+            "url": "https://puzsq.logicpuzzle.app/?author=526"
           }
         ]
       }
