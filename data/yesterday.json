@@ -1,69 +1,73 @@
 {
-  "day": "2023年1月15日",
+  "day": "2023年1月16日",
   "total": {
-    "problem": 24,
-    "favorite": 508,
-    "answered": 4395
+    "problem": 33,
+    "favorite": 450,
+    "answered": 4281
   },
   "count": {
     "favorite": {
-      "problem": 334,
-      "author": 109
+      "problem": 233,
+      "author": 99
     },
     "answered": {
-      "problem": 2342,
-      "author": 256,
-      "solver": 268
+      "problem": 1997,
+      "author": 235,
+      "solver": 261
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 18,
         "names": [
           {
-            "name": "ヤジリン by しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/104612"
+            "name": "へやわけ by fT",
+            "url": "https://puzsq.logicpuzzle.app/share/104645"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/104612"
+            "name": "へやわけ by fT",
+            "url": "https://puzsq.logicpuzzle.app/share/104645"
+          },
+          {
+            "name": "へやわけ by えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/share/104650"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 68,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "fT",
+            "url": "https://puzsq.logicpuzzle.app/?author=1075"
           }
         ]
       },
       "answered": {
-        "count": 454,
+        "count": 412,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "fT",
+            "url": "https://puzsq.logicpuzzle.app/?author=1075"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 137,
+        "count": 156,
         "names": [
           {
-            "name": "jjycjn",
-            "url": "https://puzsq.logicpuzzle.app/?author=526"
+            "name": "TKTYI",
+            "url": "https://puzsq.logicpuzzle.app/?author=2370"
           }
         ]
       }
