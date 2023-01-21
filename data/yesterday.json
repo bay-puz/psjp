@@ -1,69 +1,69 @@
 {
-  "day": "2023年1月20日",
+  "day": "2023年1月21日",
   "total": {
-    "problem": 25,
-    "favorite": 304,
-    "answered": 4321
+    "problem": 32,
+    "favorite": 339,
+    "answered": 4518
   },
   "count": {
     "favorite": {
-      "problem": 184,
-      "author": 77
+      "problem": 182,
+      "author": 95
     },
     "answered": {
-      "problem": 2219,
-      "author": 236,
-      "solver": 277
+      "problem": 2034,
+      "author": 243,
+      "solver": 256
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 12,
         "names": [
           {
             "name": "美術館 by 細波",
-            "url": "https://puzsq.logicpuzzle.app/share/104756"
+            "url": "https://puzsq.logicpuzzle.app/share/104779"
           }
         ]
       },
       "answered": {
-        "count": 107,
+        "count": 96,
         "names": [
           {
             "name": "美術館 by 細波",
-            "url": "https://puzsq.logicpuzzle.app/share/104756"
+            "url": "https://puzsq.logicpuzzle.app/share/104779"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 20,
+        "count": 43,
         "names": [
           {
-            "name": "空手踊り",
-            "url": "https://puzsq.logicpuzzle.app/?author=1451"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 422,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 216,
+        "count": 237,
         "names": [
           {
-            "name": "zzetubou",
-            "url": "https://puzsq.logicpuzzle.app/?author=1103"
+            "name": "かにみそ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1136"
           }
         ]
       }
