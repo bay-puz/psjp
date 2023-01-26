@@ -1,69 +1,73 @@
 {
-  "day": "2023年1月25日",
+  "day": "2023年1月26日",
   "total": {
-    "problem": 27,
-    "favorite": 389,
-    "answered": 3904
+    "problem": 24,
+    "favorite": 372,
+    "answered": 3823
   },
   "count": {
     "favorite": {
-      "problem": 262,
-      "author": 96
+      "problem": 219,
+      "author": 89
     },
     "answered": {
-      "problem": 2073,
-      "author": 224,
-      "solver": 272
+      "problem": 1895,
+      "author": 235,
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 15,
         "names": [
           {
-            "name": "ダブルチョコ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/104893"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/104919"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 95,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/104886"
+            "name": "ヤジリン by Fuyurudayo",
+            "url": "https://puzsq.logicpuzzle.app/share/104920"
+          },
+          {
+            "name": "美術館 by 4G@きずふぃろ",
+            "url": "https://puzsq.logicpuzzle.app/share/104911"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 29,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 343,
+        "count": 397,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 216,
+        "count": 111,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "ナナメ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2450"
           }
         ]
       }
