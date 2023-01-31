@@ -1,19 +1,19 @@
 {
-  "day": "2023年1月30日",
+  "day": "2023年1月31日",
   "total": {
-    "problem": 25,
-    "favorite": 393,
-    "answered": 4308
+    "problem": 44,
+    "favorite": 518,
+    "answered": 4980
   },
   "count": {
     "favorite": {
-      "problem": 251,
-      "author": 94
+      "problem": 248,
+      "author": 106
     },
     "answered": {
-      "problem": 2104,
-      "author": 232,
-      "solver": 270
+      "problem": 1755,
+      "author": 222,
+      "solver": 277
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 12,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/105024"
+            "name": "フィルオミノ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/105051"
           }
         ]
       },
       "answered": {
-        "count": 94,
+        "count": 92,
         "names": [
           {
-            "name": "美術館 by fkfk",
-            "url": "https://puzsq.logicpuzzle.app/share/105023"
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/105054"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 102,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       },
       "answered": {
-        "count": 381,
+        "count": 1057,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 162,
+        "count": 105,
         "names": [
           {
-            "name": "Coo",
-            "url": "https://puzsq.logicpuzzle.app/?author=338"
+            "name": "mkut",
+            "url": "https://puzsq.logicpuzzle.app/?author=1440"
           }
         ]
       }
