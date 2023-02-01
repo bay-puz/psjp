@@ -1,45 +1,49 @@
 {
-  "day": "2023年1月31日",
+  "day": "2023年2月1日",
   "total": {
-    "problem": 44,
-    "favorite": 518,
-    "answered": 4980
+    "problem": 31,
+    "favorite": 324,
+    "answered": 4993
   },
   "count": {
     "favorite": {
-      "problem": 248,
-      "author": 106
+      "problem": 175,
+      "author": 84
     },
     "answered": {
-      "problem": 1755,
-      "author": 222,
-      "solver": 277
+      "problem": 1994,
+      "author": 231,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 11,
         "names": [
           {
-            "name": "フィルオミノ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105051"
+            "name": "∀人∃ＨＥＹＡ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105093"
+          },
+          {
+            "name": "ドッスンフワリ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/105100"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 97,
         "names": [
           {
             "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105054"
+            "url": "https://puzsq.logicpuzzle.app/share/105085"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 102,
+        "count": 71,
         "names": [
           {
             "name": "coggy",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 1057,
+        "count": 898,
         "names": [
           {
             "name": "coggy",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 105,
+        "count": 150,
         "names": [
           {
-            "name": "mkut",
-            "url": "https://puzsq.logicpuzzle.app/?author=1440"
+            "name": "edderiofer",
+            "url": "https://puzsq.logicpuzzle.app/?author=268"
           }
         ]
       }
