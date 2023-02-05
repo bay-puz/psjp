@@ -1,49 +1,49 @@
 {
-  "day": "2023年2月4日",
+  "day": "2023年2月5日",
   "total": {
-    "problem": 29,
-    "favorite": 424,
-    "answered": 4049
+    "problem": 32,
+    "favorite": 463,
+    "answered": 3926
   },
   "count": {
     "favorite": {
-      "problem": 235,
-      "author": 94
+      "problem": 289,
+      "author": 102
     },
     "answered": {
-      "problem": 1807,
-      "author": 232,
-      "solver": 268
+      "problem": 1801,
+      "author": 229,
+      "solver": 253
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 15,
         "names": [
           {
-            "name": "ダブルチョコ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/105165"
+            "name": "フィルオミノ by semiexp",
+            "url": "https://puzsq.logicpuzzle.app/share/105209"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105171"
+            "name": "ましゅ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/105190"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 47,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
@@ -51,19 +51,19 @@
         "count": 396,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 113,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "いむぎ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1117"
           }
         ]
       }
