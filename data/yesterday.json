@@ -1,45 +1,53 @@
 {
-  "day": "2023年2月7日",
+  "day": "2023年2月8日",
   "total": {
-    "problem": 27,
-    "favorite": 395,
-    "answered": 4041
+    "problem": 22,
+    "favorite": 362,
+    "answered": 3870
   },
   "count": {
     "favorite": {
-      "problem": 230,
-      "author": 79
+      "problem": 211,
+      "author": 88
     },
     "answered": {
-      "problem": 1803,
-      "author": 229,
-      "solver": 254
+      "problem": 1786,
+      "author": 227,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 10,
         "names": [
           {
-            "name": "LITS by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/105247"
+            "name": "へやわけ by はっちゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/105276"
+          },
+          {
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/105271"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/105277"
           }
         ]
       },
       "answered": {
-        "count": 102,
+        "count": 96,
         "names": [
           {
-            "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105249"
+            "name": "へやわけ by はっちゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/105276"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 29,
         "names": [
           {
             "name": "coggy",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 704,
+        "count": 341,
         "names": [
           {
             "name": "coggy",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 126,
         "names": [
           {
-            "name": "mkut",
-            "url": "https://puzsq.logicpuzzle.app/?author=1440"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
