@@ -1,19 +1,19 @@
 {
-  "day": "2023年2月8日",
+  "day": "2023年2月9日",
   "total": {
-    "problem": 22,
-    "favorite": 362,
-    "answered": 3870
+    "problem": 27,
+    "favorite": 374,
+    "answered": 3228
   },
   "count": {
     "favorite": {
-      "problem": 211,
-      "author": 88
+      "problem": 244,
+      "author": 86
     },
     "answered": {
-      "problem": 1786,
-      "author": 227,
-      "solver": 280
+      "problem": 1444,
+      "author": 209,
+      "solver": 256
     }
   },
   "top": {
@@ -22,32 +22,24 @@
         "count": 10,
         "names": [
           {
-            "name": "へやわけ by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/105276"
-          },
-          {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/105271"
-          },
-          {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/105277"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105287"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 74,
         "names": [
           {
-            "name": "へやわけ by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/105276"
+            "name": "ダブルチョコ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105204"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 29,
+        "count": 40,
         "names": [
           {
             "name": "coggy",
@@ -56,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 341,
+        "count": 474,
         "names": [
           {
             "name": "coggy",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 126,
+        "count": 159,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "RSTT",
+            "url": "https://puzsq.logicpuzzle.app/?author=839"
           }
         ]
       }
