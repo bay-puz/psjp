@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月9日",
+  "day": "2023年2月10日",
   "total": {
-    "problem": 27,
-    "favorite": 374,
-    "answered": 3228
+    "problem": 31,
+    "favorite": 407,
+    "answered": 3314
   },
   "count": {
     "favorite": {
-      "problem": 244,
-      "author": 86
+      "problem": 235,
+      "author": 90
     },
     "answered": {
-      "problem": 1444,
-      "author": 209,
-      "solver": 256
+      "problem": 1415,
+      "author": 224,
+      "solver": 258
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 10,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105287"
+            "name": "ヤジリン by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/105340"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 89,
         "names": [
           {
-            "name": "ダブルチョコ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105204"
+            "name": "ヤジリン by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/105340"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 29,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 474,
+        "count": 209,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 159,
+        "count": 108,
         "names": [
           {
-            "name": "RSTT",
-            "url": "https://puzsq.logicpuzzle.app/?author=839"
+            "name": "punglam",
+            "url": "https://puzsq.logicpuzzle.app/?author=2069"
           }
         ]
       }
