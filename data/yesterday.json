@@ -1,45 +1,45 @@
 {
-  "day": "2023年2月11日",
+  "day": "2023年2月12日",
   "total": {
     "problem": 24,
-    "favorite": 331,
-    "answered": 3218
+    "favorite": 475,
+    "answered": 3761
   },
   "count": {
     "favorite": {
-      "problem": 193,
-      "author": 80
+      "problem": 289,
+      "author": 97
     },
     "answered": {
-      "problem": 1537,
-      "author": 210,
-      "solver": 262
+      "problem": 1792,
+      "author": 226,
+      "solver": 257
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 14,
         "names": [
           {
-            "name": "ヤジリン by わんど",
-            "url": "https://puzsq.logicpuzzle.app/share/105353"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105375"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 86,
         "names": [
           {
-            "name": "ヤジリン by わんど",
-            "url": "https://puzsq.logicpuzzle.app/share/105353"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105375"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 40,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 288,
+        "count": 306,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 172,
+        "count": 146,
         "names": [
           {
             "name": "たまご",
