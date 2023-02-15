@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月14日",
+  "day": "2023年2月15日",
   "total": {
-    "problem": 43,
-    "favorite": 431,
-    "answered": 3922
+    "problem": 26,
+    "favorite": 433,
+    "answered": 3772
   },
   "count": {
     "favorite": {
-      "problem": 202,
-      "author": 81
+      "problem": 206,
+      "author": 84
     },
     "answered": {
-      "problem": 1588,
-      "author": 209,
-      "solver": 273
+      "problem": 1742,
+      "author": 234,
+      "solver": 269
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 17,
         "names": [
           {
-            "name": "チョコバナナ by gnull",
-            "url": "https://puzsq.logicpuzzle.app/share/105445"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105394"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/105431"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/105448"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 53,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       },
       "answered": {
-        "count": 339,
+        "count": 322,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 115,
+        "count": 107,
         "names": [
           {
-            "name": "かにみそ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1136"
+            "name": "Stp. Fox",
+            "url": "https://puzsq.logicpuzzle.app/?author=2424"
           }
         ]
       }
