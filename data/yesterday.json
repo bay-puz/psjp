@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月15日",
+  "day": "2023年2月16日",
   "total": {
-    "problem": 26,
-    "favorite": 433,
-    "answered": 3772
+    "problem": 20,
+    "favorite": 389,
+    "answered": 3770
   },
   "count": {
     "favorite": {
-      "problem": 206,
-      "author": 84
+      "problem": 244,
+      "author": 94
     },
     "answered": {
-      "problem": 1742,
-      "author": 234,
-      "solver": 269
+      "problem": 1876,
+      "author": 220,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105394"
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/105492"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 104,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/105448"
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/105492"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 33,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 322,
+        "count": 277,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 107,
+        "count": 165,
         "names": [
           {
-            "name": "Stp. Fox",
-            "url": "https://puzsq.logicpuzzle.app/?author=2424"
+            "name": "てんのみかさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1507"
           }
         ]
       }
