@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月16日",
+  "day": "2023年2月17日",
   "total": {
-    "problem": 20,
-    "favorite": 389,
-    "answered": 3770
+    "problem": 29,
+    "favorite": 344,
+    "answered": 4072
   },
   "count": {
     "favorite": {
-      "problem": 244,
-      "author": 94
+      "problem": 175,
+      "author": 85
     },
     "answered": {
-      "problem": 1876,
-      "author": 220,
-      "solver": 276
+      "problem": 1818,
+      "author": 233,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 13,
         "names": [
           {
-            "name": "美術館 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/105492"
+            "name": "ガイドアロー by ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/share/105532"
           }
         ]
       },
       "answered": {
-        "count": 104,
+        "count": 84,
         "names": [
           {
-            "name": "美術館 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/105492"
+            "name": "美術館 by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/105534"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 38,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       },
       "answered": {
-        "count": 277,
+        "count": 311,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 165,
+        "count": 188,
         "names": [
           {
-            "name": "てんのみかさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1507"
+            "name": "連打",
+            "url": "https://puzsq.logicpuzzle.app/?author=2091"
           }
         ]
       }
