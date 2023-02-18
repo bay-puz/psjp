@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月17日",
+  "day": "2023年2月18日",
   "total": {
-    "problem": 29,
-    "favorite": 344,
-    "answered": 4072
+    "problem": 35,
+    "favorite": 392,
+    "answered": 4335
   },
   "count": {
     "favorite": {
-      "problem": 175,
-      "author": 85
+      "problem": 213,
+      "author": 79
     },
     "answered": {
-      "problem": 1818,
-      "author": 233,
-      "solver": 277
+      "problem": 1971,
+      "author": 223,
+      "solver": 262
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 18,
         "names": [
           {
-            "name": "ガイドアロー by ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/share/105532"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105516"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 82,
         "names": [
           {
-            "name": "美術館 by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/105534"
+            "name": "ましゅ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/105557"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 45,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 311,
+        "count": 326,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 188,
+        "count": 140,
         "names": [
           {
-            "name": "連打",
-            "url": "https://puzsq.logicpuzzle.app/?author=2091"
+            "name": "EKBM",
+            "url": "https://puzsq.logicpuzzle.app/?author=211"
           }
         ]
       }
