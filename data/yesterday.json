@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月19日",
+  "day": "2023年2月20日",
   "total": {
-    "problem": 18,
-    "favorite": 520,
-    "answered": 4141
+    "problem": 38,
+    "favorite": 420,
+    "answered": 4678
   },
   "count": {
     "favorite": {
-      "problem": 346,
-      "author": 105
+      "problem": 219,
+      "author": 89
     },
     "answered": {
-      "problem": 2029,
-      "author": 230,
-      "solver": 267
+      "problem": 2125,
+      "author": 240,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 14,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/105544"
+            "name": "へやわけ by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/105669"
           }
         ]
       },
       "answered": {
-        "count": 110,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/105600"
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/105663"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 24,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       },
       "answered": {
-        "count": 297,
+        "count": 328,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 109,
+        "count": 151,
         "names": [
           {
-            "name": "volxa",
-            "url": "https://puzsq.logicpuzzle.app/?author=573"
+            "name": "RSTT",
+            "url": "https://puzsq.logicpuzzle.app/?author=839"
           }
         ]
       }
