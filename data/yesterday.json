@@ -1,54 +1,66 @@
 {
-  "day": "2023年2月20日",
+  "day": "2023年2月21日",
   "total": {
-    "problem": 38,
-    "favorite": 420,
-    "answered": 4678
+    "problem": 26,
+    "favorite": 360,
+    "answered": 3955
   },
   "count": {
     "favorite": {
-      "problem": 219,
-      "author": 89
+      "problem": 167,
+      "author": 72
     },
     "answered": {
-      "problem": 2125,
-      "author": 240,
-      "solver": 277
+      "problem": 1805,
+      "author": 217,
+      "solver": 268
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/105669"
+            "name": "Tricklayer by うまや天国",
+            "url": "https://puzsq.logicpuzzle.app/share/105692"
+          },
+          {
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105642"
+          },
+          {
+            "name": "シャカシャカ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105592"
+          },
+          {
+            "name": "へやわけ by サンゴ三号さん",
+            "url": "https://puzsq.logicpuzzle.app/share/105706"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 98,
         "names": [
           {
             "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105663"
+            "url": "https://puzsq.logicpuzzle.app/share/105691"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 24,
+        "count": 31,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       },
       "answered": {
-        "count": 328,
+        "count": 369,
         "names": [
           {
             "name": "coggy",
@@ -59,11 +71,11 @@
     },
     "solver": {
       "answered": {
-        "count": 151,
+        "count": 109,
         "names": [
           {
-            "name": "RSTT",
-            "url": "https://puzsq.logicpuzzle.app/?author=839"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
