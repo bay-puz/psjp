@@ -1,81 +1,69 @@
 {
-  "day": "2023年2月21日",
+  "day": "2023年2月22日",
   "total": {
-    "problem": 26,
-    "favorite": 360,
-    "answered": 3955
+    "problem": 39,
+    "favorite": 376,
+    "answered": 4198
   },
   "count": {
     "favorite": {
-      "problem": 167,
-      "author": 72
+      "problem": 180,
+      "author": 80
     },
     "answered": {
-      "problem": 1805,
-      "author": 217,
-      "solver": 268
+      "problem": 1852,
+      "author": 227,
+      "solver": 273
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 14,
         "names": [
           {
-            "name": "Tricklayer by うまや天国",
-            "url": "https://puzsq.logicpuzzle.app/share/105692"
-          },
-          {
             "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/105642"
-          },
-          {
-            "name": "シャカシャカ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105592"
-          },
-          {
-            "name": "へやわけ by サンゴ三号さん",
-            "url": "https://puzsq.logicpuzzle.app/share/105706"
+            "url": "https://puzsq.logicpuzzle.app/share/105644"
           }
         ]
       },
       "answered": {
-        "count": 98,
+        "count": 92,
         "names": [
           {
-            "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105691"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105644"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 31,
+        "count": 38,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 369,
+        "count": 300,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 109,
+        "count": 125,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "zzetubou",
+            "url": "https://puzsq.logicpuzzle.app/?author=1103"
           }
         ]
       }
