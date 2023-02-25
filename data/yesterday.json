@@ -1,69 +1,69 @@
 {
-  "day": "2023年2月24日",
+  "day": "2023年2月25日",
   "total": {
-    "problem": 28,
-    "favorite": 442,
-    "answered": 4379
+    "problem": 26,
+    "favorite": 566,
+    "answered": 4245
   },
   "count": {
     "favorite": {
-      "problem": 269,
-      "author": 104
+      "problem": 383,
+      "author": 129
     },
     "answered": {
-      "problem": 2281,
-      "author": 250,
-      "solver": 273
+      "problem": 2274,
+      "author": 249,
+      "solver": 256
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 11,
         "names": [
           {
-            "name": "Canal View by ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/share/105768"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105649"
           }
         ]
       },
       "answered": {
-        "count": 98,
+        "count": 73,
         "names": [
           {
-            "name": "美術館 by TanakaTaroh",
-            "url": "https://puzsq.logicpuzzle.app/share/105771"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105649"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 49,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 377,
+        "count": 315,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 251,
+        "count": 172,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "File_xor",
+            "url": "https://puzsq.logicpuzzle.app/?author=332"
           }
         ]
       }
