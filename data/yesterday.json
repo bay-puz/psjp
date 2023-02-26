@@ -1,65 +1,65 @@
 {
-  "day": "2023年2月25日",
+  "day": "2023年2月26日",
   "total": {
-    "problem": 26,
-    "favorite": 566,
-    "answered": 4245
+    "problem": 30,
+    "favorite": 488,
+    "answered": 3944
   },
   "count": {
     "favorite": {
-      "problem": 383,
-      "author": 129
+      "problem": 297,
+      "author": 109
     },
     "answered": {
-      "problem": 2274,
-      "author": 249,
-      "solver": 256
+      "problem": 2163,
+      "author": 245,
+      "solver": 270
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 15,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/105649"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105611"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 78,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/105649"
+            "name": "ヤジリン by HAINEA ",
+            "url": "https://puzsq.logicpuzzle.app/share/105850"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 53,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 315,
+        "count": 507,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 172,
+        "count": 167,
         "names": [
           {
             "name": "File_xor",
