@@ -1,65 +1,69 @@
 {
-  "day": "2023年2月27日",
+  "day": "2023年2月28日",
   "total": {
-    "problem": 24,
-    "favorite": 444,
-    "answered": 3851
+    "problem": 30,
+    "favorite": 351,
+    "answered": 3798
   },
   "count": {
     "favorite": {
-      "problem": 270,
-      "author": 83
+      "problem": 192,
+      "author": 77
     },
     "answered": {
-      "problem": 1934,
+      "problem": 1901,
       "author": 239,
-      "solver": 259
+      "solver": 270
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 12,
         "names": [
           {
-            "name": "美術館 by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/105794"
+            "name": "スリザーリンク / Fences by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/105884"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/105794"
+            "name": "美術館 by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/105885"
+          },
+          {
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/105681"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 54,
         "names": [
           {
-            "name": "4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/?author=322"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 316,
+        "count": 364,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 245,
+        "count": 166,
         "names": [
           {
             "name": "zonotope",
