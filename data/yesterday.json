@@ -1,45 +1,53 @@
 {
-  "day": "2023年3月1日",
+  "day": "2023年3月2日",
   "total": {
-    "problem": 32,
-    "favorite": 413,
-    "answered": 4044
+    "problem": 29,
+    "favorite": 461,
+    "answered": 4425
   },
   "count": {
     "favorite": {
-      "problem": 287,
-      "author": 106
+      "problem": 316,
+      "author": 101
     },
     "answered": {
-      "problem": 2133,
-      "author": 244,
-      "solver": 280
+      "problem": 2274,
+      "author": 233,
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 10,
         "names": [
           {
-            "name": "シャカシャカ by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/105866"
+            "name": "ソウルメイツ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/105919"
+          },
+          {
+            "name": "月か太陽 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105614"
+          },
+          {
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/105962"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 76,
         "names": [
           {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105613"
+            "name": "ヤジリン by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/105955"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 34,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 363,
+        "count": 390,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 169,
+        "count": 123,
         "names": [
           {
-            "name": "まえだ",
-            "url": "https://puzsq.logicpuzzle.app/?author=107"
+            "name": "かにみそ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1136"
           }
         ]
       }
