@@ -1,77 +1,69 @@
 {
-  "day": "2023年3月2日",
+  "day": "2023年3月3日",
   "total": {
-    "problem": 29,
-    "favorite": 461,
-    "answered": 4425
+    "problem": 23,
+    "favorite": 337,
+    "answered": 4059
   },
   "count": {
     "favorite": {
-      "problem": 316,
-      "author": 101
+      "problem": 224,
+      "author": 90
     },
     "answered": {
-      "problem": 2274,
-      "author": 233,
-      "solver": 266
+      "problem": 2123,
+      "author": 234,
+      "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 10,
+        "count": 11,
         "names": [
           {
-            "name": "ソウルメイツ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/105919"
-          },
-          {
-            "name": "月か太陽 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105614"
-          },
-          {
-            "name": "ヤジリン by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/105962"
+            "name": "スリザーリンク / Fences by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/105996"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/105955"
+            "name": "ヤジリン by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/105615"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 29,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       },
       "answered": {
-        "count": 390,
+        "count": 294,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "coggy",
+            "url": "https://puzsq.logicpuzzle.app/?author=1603"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 123,
+        "count": 164,
         "names": [
           {
-            "name": "かにみそ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1136"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
