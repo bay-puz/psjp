@@ -1,69 +1,69 @@
 {
-  "day": "2023年3月3日",
+  "day": "2023年3月4日",
   "total": {
-    "problem": 23,
-    "favorite": 337,
-    "answered": 4059
+    "problem": 27,
+    "favorite": 307,
+    "answered": 3675
   },
   "count": {
     "favorite": {
-      "problem": 224,
-      "author": 90
+      "problem": 191,
+      "author": 84
     },
     "answered": {
-      "problem": 2123,
-      "author": 234,
-      "solver": 274
+      "problem": 1894,
+      "author": 231,
+      "solver": 243
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 17,
         "names": [
           {
-            "name": "スリザーリンク / Fences by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/105996"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/106006"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 97,
         "names": [
           {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105615"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/106006"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 29,
+        "count": 25,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "4G@きずふぃろ",
+            "url": "https://puzsq.logicpuzzle.app/?author=322"
           }
         ]
       },
       "answered": {
-        "count": 294,
+        "count": 231,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 164,
+        "count": 121,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "punglam",
+            "url": "https://puzsq.logicpuzzle.app/?author=2069"
           }
         ]
       }
