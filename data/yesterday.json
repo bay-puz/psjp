@@ -1,54 +1,58 @@
 {
-  "day": "2023年3月6日",
+  "day": "2023年3月7日",
   "total": {
-    "problem": 21,
-    "favorite": 471,
-    "answered": 3974
+    "problem": 37,
+    "favorite": 563,
+    "answered": 4285
   },
   "count": {
     "favorite": {
-      "problem": 301,
-      "author": 110
+      "problem": 312,
+      "author": 101
     },
     "answered": {
-      "problem": 1918,
-      "author": 232,
-      "solver": 265
+      "problem": 2200,
+      "author": 237,
+      "solver": 260
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/106058"
+            "name": "ヤジリン by vanillaice",
+            "url": "https://puzsq.logicpuzzle.app/share/106084"
+          },
+          {
+            "name": "美術館 by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/106098"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 90,
         "names": [
           {
-            "name": "ヤジリン by OTL",
-            "url": "https://puzsq.logicpuzzle.app/share/106059"
+            "name": "美術館 by 4G@きずふぃろ",
+            "url": "https://puzsq.logicpuzzle.app/share/106028"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 63,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/?author=1"
           }
         ]
       },
       "answered": {
-        "count": 289,
+        "count": 317,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 192,
+        "count": 262,
         "names": [
           {
-            "name": "どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/?author=2552"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
