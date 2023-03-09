@@ -1,49 +1,45 @@
 {
-  "day": "2023年3月8日",
+  "day": "2023年3月9日",
   "total": {
-    "problem": 23,
-    "favorite": 409,
-    "answered": 3798
+    "problem": 29,
+    "favorite": 394,
+    "answered": 3581
   },
   "count": {
     "favorite": {
-      "problem": 260,
-      "author": 97
+      "problem": 259,
+      "author": 99
     },
     "answered": {
-      "problem": 1939,
-      "author": 248,
-      "solver": 260
+      "problem": 1775,
+      "author": 231,
+      "solver": 248
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 14,
         "names": [
           {
-            "name": "ダブルチョコ by てけてけ",
-            "url": "https://puzsq.logicpuzzle.app/share/106128"
-          },
-          {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/105921"
+            "name": "ダブルチョコ by まり餡",
+            "url": "https://puzsq.logicpuzzle.app/share/106135"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 93,
         "names": [
           {
-            "name": "Tapa by チャースーメン",
-            "url": "https://puzsq.logicpuzzle.app/share/106117"
+            "name": "美術館 by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/106149"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 30,
         "names": [
           {
             "name": "K.N.Y.",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 260,
+        "count": 285,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 98,
+        "count": 144,
         "names": [
           {
-            "name": "冬牡丹",
-            "url": "https://puzsq.logicpuzzle.app/?author=2395"
+            "name": "fkfk",
+            "url": "https://puzsq.logicpuzzle.app/?author=2291"
           }
         ]
       }
