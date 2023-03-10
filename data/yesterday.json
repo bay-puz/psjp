@@ -1,45 +1,49 @@
 {
-  "day": "2023年3月9日",
+  "day": "2023年3月10日",
   "total": {
-    "problem": 29,
-    "favorite": 394,
-    "answered": 3581
+    "problem": 36,
+    "favorite": 479,
+    "answered": 3985
   },
   "count": {
     "favorite": {
-      "problem": 259,
-      "author": 99
+      "problem": 287,
+      "author": 93
     },
     "answered": {
-      "problem": 1775,
-      "author": 231,
-      "solver": 248
+      "problem": 1801,
+      "author": 221,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "ダブルチョコ by まり餡",
-            "url": "https://puzsq.logicpuzzle.app/share/106135"
+            "name": "ヤジリン by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/106173"
+          },
+          {
+            "name": "シンプルループ by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/106178"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 88,
         "names": [
           {
-            "name": "美術館 by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/106149"
+            "name": "シンプルループ by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/106178"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 48,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 285,
+        "count": 295,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 160,
         "names": [
           {
-            "name": "fkfk",
-            "url": "https://puzsq.logicpuzzle.app/?author=2291"
+            "name": "zzetubou",
+            "url": "https://puzsq.logicpuzzle.app/?author=1103"
           }
         ]
       }
