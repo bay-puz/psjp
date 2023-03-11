@@ -1,19 +1,19 @@
 {
-  "day": "2023年3月10日",
+  "day": "2023年3月11日",
   "total": {
-    "problem": 36,
-    "favorite": 479,
-    "answered": 3985
+    "problem": 30,
+    "favorite": 546,
+    "answered": 3987
   },
   "count": {
     "favorite": {
-      "problem": 287,
-      "author": 93
+      "problem": 326,
+      "author": 110
     },
     "answered": {
-      "problem": 1801,
-      "author": 221,
-      "solver": 280
+      "problem": 1740,
+      "author": 222,
+      "solver": 279
     }
   },
   "top": {
@@ -22,37 +22,33 @@
         "count": 13,
         "names": [
           {
-            "name": "ヤジリン by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/106173"
-          },
-          {
-            "name": "シンプルループ by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/106178"
+            "name": "ましゅ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/106171"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 79,
         "names": [
           {
-            "name": "シンプルループ by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/106178"
+            "name": "ましゅ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/106171"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 33,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 295,
+        "count": 237,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 99,
         "names": [
           {
-            "name": "zzetubou",
-            "url": "https://puzsq.logicpuzzle.app/?author=1103"
+            "name": "punglam",
+            "url": "https://puzsq.logicpuzzle.app/?author=2069"
           }
         ]
       }
