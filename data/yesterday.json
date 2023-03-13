@@ -1,65 +1,69 @@
 {
-  "day": "2023年3月12日",
+  "day": "2023年3月13日",
   "total": {
     "problem": 31,
-    "favorite": 540,
-    "answered": 3812
+    "favorite": 479,
+    "answered": 4120
   },
   "count": {
     "favorite": {
-      "problem": 368,
-      "author": 125
+      "problem": 285,
+      "author": 101
     },
     "answered": {
-      "problem": 2210,
-      "author": 248,
-      "solver": 258
+      "problem": 1974,
+      "author": 233,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/106238"
+            "name": "インボックス・アウトボックス by どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/share/106270"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 87,
         "names": [
           {
-            "name": "美術館 by あ",
-            "url": "https://puzsq.logicpuzzle.app/share/106250"
+            "name": "美術館 by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/106262"
+          },
+          {
+            "name": "ぬりかべ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/106249"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 46,
+        "count": 42,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "かぶ",
+            "url": "https://puzsq.logicpuzzle.app/?author=49"
           }
         ]
       },
       "answered": {
-        "count": 250,
+        "count": 359,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 193,
+        "count": 169,
         "names": [
           {
             "name": "KRin",
