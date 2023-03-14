@@ -1,58 +1,58 @@
 {
-  "day": "2023年3月13日",
+  "day": "2023年3月14日",
   "total": {
-    "problem": 31,
-    "favorite": 479,
-    "answered": 4120
+    "problem": 33,
+    "favorite": 425,
+    "answered": 3969
   },
   "count": {
     "favorite": {
-      "problem": 285,
-      "author": 101
+      "problem": 304,
+      "author": 106
     },
     "answered": {
-      "problem": 1974,
-      "author": 233,
-      "solver": 277
+      "problem": 1912,
+      "author": 232,
+      "solver": 269
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 14,
         "names": [
           {
-            "name": "インボックス・アウトボックス by どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/share/106270"
+            "name": "シャカシャカ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106155"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 82,
         "names": [
           {
-            "name": "美術館 by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/106262"
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/106301"
           },
           {
-            "name": "ぬりかべ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/106249"
+            "name": "美術館 by fkfk",
+            "url": "https://puzsq.logicpuzzle.app/share/106306"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 30,
         "names": [
           {
-            "name": "かぶ",
-            "url": "https://puzsq.logicpuzzle.app/?author=49"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 359,
+        "count": 286,
         "names": [
           {
             "name": "ゆき❄/Yu-ri",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 169,
+        "count": 133,
         "names": [
           {
-            "name": "KRin",
-            "url": "https://puzsq.logicpuzzle.app/?author=2134"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
