@@ -102,11 +102,14 @@ function setTweetUrlsYesterday(messages) {
 
 function setCopyButtons(messages) {
     for (const key in messages["data"]) {
-        document.getElementById("copy" + key).addEventListener("click", function(){showCopyMessage(key, messages)})
+        document.getElementById("copy" + key).addEventListener("click", function(){writeCopyMessage(key, messages)})
     }
 }
 
-function showCopyMessage(key, messages) {
+function writeCopyMessage(key, messages) {
     const message = messages["title"] + "\n" + messages["data"][key] + "\n" + messages["copyFooter"]
-    alert(message)
+    navigator.clipboard.writeText(message).then(()=>{
+        alert("以下をクリップボードに書き込みました\n\n" + message)
+    },()=>{
+        alert("クリップボードに書き込めませんでした。。。\n\n" + message)})
 }
