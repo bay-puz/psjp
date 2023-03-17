@@ -47,12 +47,12 @@ footer a {
     color: blue;
 }
 
-dialog {
+.copyDialog {
     border-radius: 1em;
     border-style: none;
 }
 
-dialog .copyText {
+.copyDialog .copyText {
     border-radius: 1em;
     padding: 1em;
     background-color:ivory;
