@@ -47,6 +47,18 @@ footer a {
     color: blue;
 }
 
+dialog {
+    border-radius: 1em;
+    border-style: none;
+}
+
+dialog .copyText {
+    border-radius: 1em;
+    padding: 1em;
+    background-color:ivory;
+    border-style: none;
+}
+
 .contents {
     text-align: center;
     line-height: 1.5em;
