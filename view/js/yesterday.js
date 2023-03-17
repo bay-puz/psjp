@@ -21,7 +21,9 @@ async function showYesterday() {
     setDataList("top_auth_ans", dataDict["top"]["author"]["answered"]["names"], true)
     setDataList("top_sol_ans", dataDict["top"]["solver"]["answered"]["names"], true)
 
-    setTweetUrlsYesterday(dataDict)
+    const messages = getMessages(dataDict)
+    setTweetUrlsYesterday(messages)
+    setCopyButtons(messages)
 
 }; showYesterday()
 
@@ -49,45 +51,75 @@ function setDataList(elementId, list, user=false) {
     }
 }
 
-function setTweetUrlsYesterday(data) {
-    const messagePrefix = "＼" + data["day"] + "のパズスク／\n"
-    const messageSuffix = "#昨日のpuzsq "
+function getMessages(data) {
     var messages = {}
-    messages["tweetTotal"] = "📖投稿　　 " + data["total"]["problem"] + "問\n"
-    messages["tweetTotal"] += "❤ いいね　 " + data["total"]["favorite"] + "回\n"
-    messages["tweetTotal"] += "📝解答登録 " + data["total"]["answered"] + "回\n"
+    messages["title"] = "＼" + data["day"] + "のパズスク／\n"
+    messages["tweetHashtag"] = "#昨日のpuzsq "
+    messages["copyFooter"] = "もっと見る→" + location.href + "\n"
+    messages["data"] = {}
 
-    messages["tweetCount"] = "❤ いいねされた問題📖 " + data["count"]["favorite"]["problem"] + "問\n"
-    messages["tweetCount"] += "❤ いいねされた作者🧑‍🎨 " + data["count"]["favorite"]["author"] + "人\n"
-    messages["tweetCount"] += "📝解答登録された問題📖 " + data["count"]["answered"]["problem"] + "問\n"
-    messages["tweetCount"] += "📝解答登録された作者🧑‍🎨 " + data["count"]["answered"]["author"] + "人\n"
-    messages["tweetCount"] += "📝解答登録した解き手🙆 " + data["count"]["answered"]["solver"] + "人\n"
+    messages["data"]["Total"] = "📖投稿　　 " + data["total"]["problem"] + "問\n"
+    messages["data"]["Total"] += "❤ いいね　 " + data["total"]["favorite"] + "回\n"
+    messages["data"]["Total"] += "📝解答登録 " + data["total"]["answered"] + "回\n"
 
-    messages["tweetTopProblem"] = "❤ もっともいいねされた問題📖（" + data["top"]["problem"]["favorite"]["count"] + "回）\n"
+    messages["data"]["Count"] = "❤ いいねされた問題📖 " + data["count"]["favorite"]["problem"] + "問\n"
+    messages["data"]["Count"] += "❤ いいねされた作者🧑‍🎨 " + data["count"]["favorite"]["author"] + "人\n"
+    messages["data"]["Count"] += "📝解答登録された問題📖 " + data["count"]["answered"]["problem"] + "問\n"
+    messages["data"]["Count"] += "📝解答登録された作者🧑‍🎨 " + data["count"]["answered"]["author"] + "人\n"
+    messages["data"]["Count"] += "📝解答登録した解き手🙆 " + data["count"]["answered"]["solver"] + "人\n"
+
+    messages["data"]["TopProblem"] = "❤ もっともいいねされた問題📖（" + data["top"]["problem"]["favorite"]["count"] + "回）\n"
     for (const name of data["top"]["problem"]["favorite"]["names"]) {
-        messages["tweetTopProblem"] += name["name"] + " " + name["url"] + "\n"
+        messages["data"]["TopProblem"] += name["name"] + " " + name["url"] + "\n"
     }
-    messages["tweetTopProblem"] += "📝もっとも解答登録された問題📖（" + data["top"]["problem"]["answered"]["count"] + "回）\n"
+    messages["data"]["TopProblem"] += "📝もっとも解答登録された問題📖（" + data["top"]["problem"]["answered"]["count"] + "回）\n"
     for (const name of data["top"]["problem"]["answered"]["names"]) {
-        messages["tweetTopProblem"] += name["name"] + " " + name["url"] + "\n"
+        messages["data"]["TopProblem"] += name["name"] + " " + name["url"] + "\n"
     }
 
-    messages["tweetTopUser"] = "❤ もっともいいねされた作者🧑‍🎨（" + data["top"]["author"]["favorite"]["count"] + "回）\n"
+    messages["data"]["TopUser"] = "❤ もっともいいねされた作者🧑‍🎨（" + data["top"]["author"]["favorite"]["count"] + "回）\n"
     for (const name of data["top"]["author"]["favorite"]["names"]) {
-        messages["tweetTopUser"] += "　" + name["name"] + " さん\n"
+        messages["data"]["TopUser"] += "　" + name["name"] + " さん\n"
     }
-    messages["tweetTopUser"] += "📝もっとも解答登録された作者🧑‍🎨（" + data["top"]["author"]["answered"]["count"] + "回）\n"
+    messages["data"]["TopUser"] += "📝もっとも解答登録された作者🧑‍🎨（" + data["top"]["author"]["answered"]["count"] + "回）\n"
     for (const name of data["top"]["author"]["answered"]["names"]) {
-        messages["tweetTopUser"] += "　" + name["name"] + " さん\n"
+        messages["data"]["TopUser"] += "　" + name["name"] + " さん\n"
     }
-    messages["tweetTopUser"] += "📝もっとも解答登録した解き手🙆（" + data["top"]["solver"]["answered"]["count"] + "問）\n"
+    messages["data"]["TopUser"] += "📝もっとも解答登録した解き手🙆（" + data["top"]["solver"]["answered"]["count"] + "問）\n"
     for (const name of data["top"]["solver"]["answered"]["names"]) {
-        messages["tweetTopUser"] += "　" + name["name"] + " さん\n"
+        messages["data"]["TopUser"] += "　" + name["name"] + " さん\n"
     }
+    return messages
+}
 
-    for (const key in messages) {
-        var url = getTweetUrl(messagePrefix + messages[key] + messageSuffix)
-        var tweetElement = document.getElementById(key)
+function setTweetUrlsYesterday(messages) {
+    for (const key in messages["data"]) {
+        var url = getTweetUrl(messages["title"] + messages["data"][key] + messages["tweetHashtag"])
+        var tweetElement = document.getElementById("tweet" + key)
         tweetElement.href = url.href
+    }
+}
+
+function setCopyButtons(messages) {
+    for (const key in messages["data"]) {
+        document.getElementById("copy" + key).addEventListener("click", function(){openCopyDialog(key, messages)})
+    }
+}
+
+function generateCopyMessage (key, messages) {
+    return messages["title"] + "\n" + messages["data"][key] + "\n" + messages["copyFooter"]
+}
+
+function openCopyDialog(key, messages) {
+    var messageElement = document.getElementById("dialog" + key + "Text")
+    messageElement.innerText = generateCopyMessage(key, messages)
+    var dialogElement = document.getElementById("dialog" + key)
+    dialogElement.addEventListener('close', function onClose () {copyMessage(key, messages, dialogElement.returnValue)})
+    dialogElement.showModal()
+}
+
+function copyMessage(key, messages, value) {
+    if (value === "copy") {
+        navigator.clipboard.writeText(generateCopyMessage(key, messages))
     }
 }

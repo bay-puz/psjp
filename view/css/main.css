@@ -29,7 +29,7 @@ footer a {
     text-decoration: none;
 }
 
-.psjpLink, .tweetLink, .tweetLinkYesterday {
+.psjpLink, .tweetLink, .tweetLinkYesterday, .copyButton {
     color: black;
     text-decoration: none;
     font-size: x-small;
@@ -45,6 +45,18 @@ footer a {
 .statLink:hover {
     text-decoration: underline;
     color: blue;
+}
+
+.copyDialog {
+    border-radius: 1em;
+    border-style: none;
+}
+
+.copyDialog .copyText {
+    border-radius: 1em;
+    padding: 1em;
+    background-color:ivory;
+    border-style: none;
 }
 
 .contents {
