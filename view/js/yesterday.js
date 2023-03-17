@@ -102,14 +102,24 @@ function setTweetUrlsYesterday(messages) {
 
 function setCopyButtons(messages) {
     for (const key in messages["data"]) {
-        document.getElementById("copy" + key).addEventListener("click", function(){writeCopyMessage(key, messages)})
+        document.getElementById("copy" + key).addEventListener("click", function(){openCopyDialog(key, messages)})
     }
 }
 
-function writeCopyMessage(key, messages) {
-    const message = messages["title"] + "\n" + messages["data"][key] + "\n" + messages["copyFooter"]
-    navigator.clipboard.writeText(message).then(()=>{
-        alert("以下をクリップボードに書き込みました\n\n" + message)
-    },()=>{
-        alert("クリップボードに書き込めませんでした。。。\n\n" + message)})
+function generateCopyMessage (key, messages) {
+    return messages["title"] + "\n" + messages["data"][key] + "\n" + messages["copyFooter"]
+}
+
+function openCopyDialog(key, messages) {
+    var messageElement = document.getElementById("dialog" + key + "Text")
+    messageElement.innerText = generateCopyMessage(key, messages)
+    var dialogElement = document.getElementById("dialog" + key)
+    dialogElement.addEventListener('close', function onClose () {copyMessage(key, messages, dialogElement.returnValue)})
+    dialogElement.showModal()
+}
+
+function copyMessage(key, messages, value) {
+    if (value === "copy") {
+        navigator.clipboard.writeText(generateCopyMessage(key, messages))
+    }
 }
