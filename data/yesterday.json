@@ -1,45 +1,45 @@
 {
-  "day": "2023年3月17日",
+  "day": "2023年3月18日",
   "total": {
-    "problem": 21,
-    "favorite": 428,
-    "answered": 4044
+    "problem": 26,
+    "favorite": 465,
+    "answered": 3687
   },
   "count": {
     "favorite": {
-      "problem": 300,
-      "author": 108
+      "problem": 334,
+      "author": 115
     },
     "answered": {
-      "problem": 2103,
+      "problem": 2118,
       "author": 244,
-      "solver": 267
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 12,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/106413"
+            "name": "ネットワーズ by さらぴっぴ",
+            "url": "https://puzsq.logicpuzzle.app/share/106429"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 74,
         "names": [
           {
-            "name": "美術館 by どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/share/106354"
+            "name": "ヤジリン by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106185"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 27,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 221,
+        "count": 278,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 204,
         "names": [
           {
-            "name": "はる",
-            "url": "https://puzsq.logicpuzzle.app/?author=699"
+            "name": "どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/?author=2552"
           }
         ]
       }
