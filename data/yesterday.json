@@ -1,54 +1,54 @@
 {
-  "day": "2023年3月18日",
+  "day": "2023年3月19日",
   "total": {
-    "problem": 26,
-    "favorite": 465,
-    "answered": 3687
+    "problem": 34,
+    "favorite": 448,
+    "answered": 3976
   },
   "count": {
     "favorite": {
-      "problem": 334,
-      "author": 115
+      "problem": 260,
+      "author": 111
     },
     "answered": {
-      "problem": 2118,
-      "author": 244,
-      "solver": 266
+      "problem": 1786,
+      "author": 238,
+      "solver": 269
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 14,
         "names": [
           {
-            "name": "ネットワーズ by さらぴっぴ",
-            "url": "https://puzsq.logicpuzzle.app/share/106429"
+            "name": "ヤジリン by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/106486"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 87,
         "names": [
           {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106185"
+            "name": "美術館 by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/106476"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 27,
+        "count": 35,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 278,
+        "count": 326,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 204,
+        "count": 180,
         "names": [
           {
             "name": "どっかのだれか",
