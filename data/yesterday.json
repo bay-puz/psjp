@@ -1,65 +1,65 @@
 {
-  "day": "2023年3月19日",
+  "day": "2023年3月20日",
   "total": {
-    "problem": 34,
-    "favorite": 448,
-    "answered": 3976
+    "problem": 26,
+    "favorite": 299,
+    "answered": 3528
   },
   "count": {
     "favorite": {
-      "problem": 260,
-      "author": 111
+      "problem": 193,
+      "author": 71
     },
     "answered": {
-      "problem": 1786,
-      "author": 238,
-      "solver": 269
+      "problem": 1819,
+      "author": 220,
+      "solver": 262
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 11,
         "names": [
           {
-            "name": "ヤジリン by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/106486"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106188"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 81,
         "names": [
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/106476"
+            "name": "ましゅ by かぶ",
+            "url": "https://puzsq.logicpuzzle.app/share/106518"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
-        "names": [
-          {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
-          }
-        ]
-      },
-      "answered": {
-        "count": 326,
+        "count": 33,
         "names": [
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
+      },
+      "answered": {
+        "count": 339,
+        "names": [
+          {
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+          }
+        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 208,
         "names": [
           {
             "name": "どっかのだれか",
