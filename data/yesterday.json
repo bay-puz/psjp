@@ -1,45 +1,45 @@
 {
-  "day": "2023年3月26日",
+  "day": "2023年3月27日",
   "total": {
-    "problem": 26,
-    "favorite": 584,
-    "answered": 4294
+    "problem": 20,
+    "favorite": 573,
+    "answered": 3938
   },
   "count": {
     "favorite": {
-      "problem": 418,
-      "author": 130
+      "problem": 393,
+      "author": 117
     },
     "answered": {
-      "problem": 2182,
-      "author": 243,
-      "solver": 271
+      "problem": 2082,
+      "author": 227,
+      "solver": 273
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by 牛飼い",
-            "url": "https://puzsq.logicpuzzle.app/share/106712"
+            "name": "ぬりめいず by どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/share/106537"
           }
         ]
       },
       "answered": {
-        "count": 94,
+        "count": 85,
         "names": [
           {
-            "name": "美術館 by takanah-oisii",
-            "url": "https://puzsq.logicpuzzle.app/share/106693"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/106739"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 48,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 395,
+        "count": 291,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 193,
+        "count": 218,
         "names": [
           {
-            "name": "karin_to",
-            "url": "https://puzsq.logicpuzzle.app/?author=2614"
+            "name": "盥",
+            "url": "https://puzsq.logicpuzzle.app/?author=108"
           }
         ]
       }
