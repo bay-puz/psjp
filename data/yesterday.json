@@ -1,19 +1,19 @@
 {
-  "day": "2023年3月30日",
+  "day": "2023年3月31日",
   "total": {
-    "problem": 30,
-    "favorite": 406,
-    "answered": 3536
+    "problem": 25,
+    "favorite": 451,
+    "answered": 3253
   },
   "count": {
     "favorite": {
-      "problem": 210,
-      "author": 82
+      "problem": 260,
+      "author": 95
     },
     "answered": {
-      "problem": 1593,
-      "author": 212,
-      "solver": 264
+      "problem": 1443,
+      "author": 216,
+      "solver": 257
     }
   },
   "top": {
@@ -22,24 +22,28 @@
         "count": 14,
         "names": [
           {
-            "name": "ヤジリン by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/106847"
+            "name": "シンカミノ by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/106886"
+          },
+          {
+            "name": "ヤジリン by 四代目久万七",
+            "url": "https://puzsq.logicpuzzle.app/share/106890"
           }
         ]
       },
       "answered": {
-        "count": 94,
+        "count": 83,
         "names": [
           {
-            "name": "美術館 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/106843"
+            "name": "ヤジリン by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/106877"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 46,
         "names": [
           {
             "name": "ゆき❄/Yu-ri",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 301,
+        "count": 326,
         "names": [
           {
             "name": "ゆき❄/Yu-ri",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 85,
         "names": [
           {
-            "name": "盥",
-            "url": "https://puzsq.logicpuzzle.app/?author=108"
+            "name": "　",
+            "url": "https://puzsq.logicpuzzle.app/?author=1517"
           }
         ]
       }
