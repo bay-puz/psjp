@@ -1,58 +1,58 @@
 {
-  "day": "2023年3月31日",
+  "day": "2023年4月1日",
   "total": {
-    "problem": 25,
-    "favorite": 451,
-    "answered": 3253
+    "problem": 47,
+    "favorite": 521,
+    "answered": 4232
   },
   "count": {
     "favorite": {
-      "problem": 260,
-      "author": 95
+      "problem": 250,
+      "author": 100
     },
     "answered": {
-      "problem": 1443,
-      "author": 216,
-      "solver": 257
+      "problem": 1902,
+      "author": 252,
+      "solver": 262
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 15,
         "names": [
           {
             "name": "シンカミノ by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/106886"
-          },
-          {
-            "name": "ヤジリン by 四代目久万七",
-            "url": "https://puzsq.logicpuzzle.app/share/106890"
+            "url": "https://puzsq.logicpuzzle.app/share/106928"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/106877"
+            "name": "シンプルループ by どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/share/106619"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 46,
+        "count": 41,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "Levain",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
+          },
+          {
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 326,
+        "count": 282,
         "names": [
           {
             "name": "ゆき❄/Yu-ri",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 85,
+        "count": 245,
         "names": [
           {
-            "name": "　",
-            "url": "https://puzsq.logicpuzzle.app/?author=1517"
+            "name": "Christopher",
+            "url": "https://puzsq.logicpuzzle.app/?author=2444"
           }
         ]
       }
