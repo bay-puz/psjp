@@ -1,58 +1,54 @@
 {
-  "day": "2023年4月1日",
+  "day": "2023年4月2日",
   "total": {
-    "problem": 47,
-    "favorite": 521,
-    "answered": 4232
+    "problem": 33,
+    "favorite": 541,
+    "answered": 4098
   },
   "count": {
     "favorite": {
-      "problem": 250,
-      "author": 100
+      "problem": 335,
+      "author": 83
     },
     "answered": {
-      "problem": 1902,
-      "author": 252,
-      "solver": 262
+      "problem": 1793,
+      "author": 221,
+      "solver": 267
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 16,
         "names": [
           {
-            "name": "シンカミノ by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/106928"
+            "name": "ダブルチョコ by しんたん",
+            "url": "https://puzsq.logicpuzzle.app/share/106952"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 90,
         "names": [
           {
-            "name": "シンプルループ by どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/share/106619"
+            "name": "美術館 by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/106949"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
+        "count": 116,
         "names": [
           {
-            "name": "Levain",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
-          },
-          {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       },
       "answered": {
-        "count": 282,
+        "count": 381,
         "names": [
           {
             "name": "ゆき❄/Yu-ri",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 245,
+        "count": 159,
         "names": [
           {
-            "name": "Christopher",
-            "url": "https://puzsq.logicpuzzle.app/?author=2444"
+            "name": "ぱると",
+            "url": "https://puzsq.logicpuzzle.app/?author=703"
           }
         ]
       }
