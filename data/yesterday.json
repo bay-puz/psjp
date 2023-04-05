@@ -1,54 +1,58 @@
 {
-  "day": "2023年4月4日",
+  "day": "2023年4月5日",
   "total": {
-    "problem": 24,
-    "favorite": 409,
-    "answered": 3426
+    "problem": 31,
+    "favorite": 446,
+    "answered": 3791
   },
   "count": {
     "favorite": {
-      "problem": 231,
-      "author": 80
+      "problem": 218,
+      "author": 84
     },
     "answered": {
-      "problem": 1735,
-      "author": 222,
-      "solver": 248
+      "problem": 1749,
+      "author": 243,
+      "solver": 265
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 16,
         "names": [
           {
-            "name": "シンカミノ by すいそ",
-            "url": "https://puzsq.logicpuzzle.app/share/107005"
+            "name": "シンカミノ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/106984"
+          },
+          {
+            "name": "シンカミノ by UNP",
+            "url": "https://puzsq.logicpuzzle.app/share/107023"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 79,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/106986"
+            "name": "スリザーリンク / Fences by すいそ",
+            "url": "https://puzsq.logicpuzzle.app/share/107015"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 44,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 241,
+        "count": 320,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 108,
+        "count": 120,
         "names": [
           {
-            "name": "連打",
-            "url": "https://puzsq.logicpuzzle.app/?author=2091"
+            "name": "ふーこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=262"
           }
         ]
       }
