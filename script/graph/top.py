@@ -20,9 +20,10 @@ def top(data_dict: dict, name_dict: dict, type: str, limit: int):
     sorted_list = sorted(data_dict.values(), key=sort_problem)
     limit_list = sorted_list[-1 * limit:]
 
+    label_ids = []
     for data in limit_list:
-        name = name_dict[str(data["id"])]["name"]
-        labels.append(name)
+        id_str = str(data["id"])
+        label_ids.append(id_str)
 
         max_problem = 0
         for d in data[type].values():
@@ -32,6 +33,22 @@ def top(data_dict: dict, name_dict: dict, type: str, limit: int):
         p = int(data["problem_n"])
         width_top.append(p)
         width_other.append(p - max_problem)
+
+    labels = [name_dict[id_str]["name"] for id_str in label_ids]
+
+    # 同名アカウントがあるときは id を付けて区別する
+    duplicated_names = []
+    for name in labels:
+        if name in duplicated_names:
+            continue
+        if labels.count(name) > 1:
+            duplicated_names.append(name)
+    print(duplicated_names)
+    for name_iter, name in enumerate(labels):
+        if name in duplicated_names:
+            id_str = label_ids[name_iter]
+            name += ' (' + id_str + ')'
+            labels[name_iter] = name
 
     return labels, width_top, width_other
 

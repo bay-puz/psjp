@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*- #
-from itertools import count
 import json
 from datetime import datetime
 from matplotlib import pyplot
@@ -17,15 +16,16 @@ def get_span_categories(data: dict, is_author: bool, limit: int, categories: dic
     problem_dict = {}
     for d in data.values():
         time = datetime.fromisoformat(d["registered"])
-        name = categories[str(d[category_id])]["name"]
-        if name not in problem_dict:
-            problem_dict[name] = {"first": time, "last": time, "count": 1, "name": name}
+        id_str = str(d[category_id])
+        name = categories[id_str]["name"]
+        if id_str not in problem_dict:
+            problem_dict[id_str] = {"first": time, "last": time, "count": 1, "name": name, "id": id_str}
         else:
-            if problem_dict[name]["first"] > time:
-                problem_dict[name]["first"] = time
-            if problem_dict[name]["last"] < time:
-                problem_dict[name]["last"] = time
-            problem_dict[name]["count"] += 1
+            if problem_dict[id_str]["first"] > time:
+                problem_dict[id_str]["first"] = time
+            if problem_dict[id_str]["last"] < time:
+                problem_dict[id_str]["last"] = time
+            problem_dict[id_str]["count"] += 1
 
     sorted_list = sorted(problem_dict.values(), key=lambda x: x["count"])
     limited_list = sorted_list[-1 * limit:]
@@ -33,6 +33,20 @@ def get_span_categories(data: dict, is_author: bool, limit: int, categories: dic
     names = [p["name"] for p in limited_list]
     firsts = [p["first"] for p in limited_list]
     lasts = [p["last"] for p in limited_list]
+
+    # 同名アカウントがあるときは id を付けて区別する
+    if category_id == 'user':
+        duplicated_names = []
+        for name in names:
+            if name in duplicated_names:
+                continue
+            if names.count(name) > 1:
+                duplicated_names.append(name)
+        for name_iter, name in enumerate(names):
+            if name in duplicated_names:
+                id_str = limited_list[name_iter]["id"]
+                name += ' (' + id_str + ')'
+                names[name_iter] = name
 
     return names, firsts, lasts
 
