@@ -18,25 +18,38 @@ def get_first_categories(data: dict, is_author: bool, name_dict: dict):
     for d in data.values():
         category_id = d[search]
         time = datetime.fromisoformat(d["registered"])
-        name = name_dict[str(d[category])]["name"]
         if category_id in first_problem:
             if first_problem[category_id]["time"] > time:
                 first_problem[category_id]["time"] = time
-                first_problem[category_id]["name"] = name
+                first_problem[category_id]["id"] = d[category]
         else:
-            first_problem[category_id] = {"time": time, "name": name}
+            first_problem[category_id] = {"time": time, "id": d[category]}
 
     counts_dict = {}
     for d in first_problem.values():
-        name = d["name"]
-        if name in counts_dict:
-            counts_dict[name] += 1
+        id_str = str(d["id"])
+        if id_str in counts_dict:
+            counts_dict[id_str] += 1
         else:
-            counts_dict[name] = 1
+            counts_dict[id_str] = 1
 
     sorted_dict = sorted(counts_dict.items(), key=lambda x: x[1])
-    names = [name for name, _ in sorted_dict]
+    names = [name_dict[id_str]["name"] for id_str, _ in sorted_dict]
     counts = [count for _, count in sorted_dict]
+
+    # 同名アカウントがあるときは id を付けて区別する
+    if category == 'user':
+        duplicated_names = []
+        for name in names:
+            if name in duplicated_names:
+                continue
+            if names.count(name) > 1:
+                duplicated_names.append(name)
+        for name_iter, name in enumerate(names):
+            if name in duplicated_names:
+                id_str, _ = sorted_dict[name_iter]
+                name += ' (' + id_str + ')'
+                names[name_iter] = name
 
     return names, counts
 
