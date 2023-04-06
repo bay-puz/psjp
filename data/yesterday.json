@@ -1,58 +1,54 @@
 {
-  "day": "2023年4月5日",
+  "day": "2023年4月6日",
   "total": {
-    "problem": 31,
-    "favorite": 446,
-    "answered": 3791
+    "problem": 33,
+    "favorite": 515,
+    "answered": 3882
   },
   "count": {
     "favorite": {
-      "problem": 218,
-      "author": 84
+      "problem": 248,
+      "author": 83
     },
     "answered": {
-      "problem": 1749,
-      "author": 243,
-      "solver": 265
+      "problem": 1884,
+      "author": 229,
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 29,
         "names": [
           {
-            "name": "シンカミノ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/106984"
-          },
-          {
-            "name": "シンカミノ by UNP",
-            "url": "https://puzsq.logicpuzzle.app/share/107023"
+            "name": "シンカミノ by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/107047"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 80,
         "names": [
           {
-            "name": "スリザーリンク / Fences by すいそ",
-            "url": "https://puzsq.logicpuzzle.app/share/107015"
+            "name": "ヤジリン by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106602"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 50,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 320,
+        "count": 368,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 139,
         "names": [
           {
-            "name": "ふーこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=262"
+            "name": "hola6",
+            "url": "https://puzsq.logicpuzzle.app/?author=2668"
           }
         ]
       }
