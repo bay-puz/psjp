@@ -1,73 +1,73 @@
 {
-  "day": "2023年4月9日",
+  "day": "2023年4月10日",
   "total": {
-    "problem": 29,
-    "favorite": 642,
-    "answered": 4434
+    "problem": 74,
+    "favorite": 750,
+    "answered": 5538
   },
   "count": {
     "favorite": {
-      "problem": 409,
-      "author": 119
+      "problem": 280,
+      "author": 102
     },
     "answered": {
-      "problem": 2260,
-      "author": 245,
-      "solver": 268
+      "problem": 2008,
+      "author": 238,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 17,
         "names": [
           {
-            "name": "スリザーリンク / Fences by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106649"
+            "name": "ヤジリン by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/107250"
           },
           {
-            "name": "ぬりみさき by 破壊",
-            "url": "https://puzsq.logicpuzzle.app/share/107221"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/106746"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 90,
         "names": [
           {
-            "name": "スリザーリンク / Fences by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106649"
+            "name": "ヤジリン by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/107250"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 103,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/?author=2409"
           }
         ]
       },
       "answered": {
-        "count": 444,
+        "count": 418,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/?author=2409"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 273,
+        "count": 166,
         "names": [
           {
-            "name": "どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/?author=2552"
+            "name": "2839",
+            "url": "https://puzsq.logicpuzzle.app/?author=2277"
           }
         ]
       }
