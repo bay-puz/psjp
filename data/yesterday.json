@@ -1,54 +1,54 @@
 {
-  "day": "2023年4月11日",
+  "day": "2023年4月12日",
   "total": {
-    "problem": 100,
-    "favorite": 1034,
-    "answered": 6881
+    "problem": 88,
+    "favorite": 1238,
+    "answered": 8724
   },
   "count": {
     "favorite": {
-      "problem": 324,
-      "author": 109
+      "problem": 388,
+      "author": 126
     },
     "answered": {
-      "problem": 1907,
-      "author": 234,
-      "solver": 279
+      "problem": 2061,
+      "author": 248,
+      "solver": 297
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
-            "name": "スラローム by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/107339"
+            "name": "チョコバナナ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/107447"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 86,
         "names": [
           {
             "name": "ぬりかべ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106654"
+            "url": "https://puzsq.logicpuzzle.app/share/107385"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 86,
+        "count": 105,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 584,
+        "count": 827,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 123,
+        "count": 182,
         "names": [
           {
-            "name": "liarnose",
-            "url": "https://puzsq.logicpuzzle.app/?author=2393"
+            "name": "どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/?author=2552"
           }
         ]
       }
