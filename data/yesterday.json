@@ -1,19 +1,19 @@
 {
-  "day": "2023年4月14日",
+  "day": "2023年4月15日",
   "total": {
-    "problem": 65,
-    "favorite": 711,
-    "answered": 6500
+    "problem": 38,
+    "favorite": 850,
+    "answered": 6359
   },
   "count": {
     "favorite": {
-      "problem": 270,
-      "author": 99
+      "problem": 421,
+      "author": 128
     },
     "answered": {
-      "problem": 2370,
-      "author": 245,
-      "solver": 268
+      "problem": 2701,
+      "author": 249,
+      "solver": 274
     }
   },
   "top": {
@@ -22,60 +22,48 @@
         "count": 15,
         "names": [
           {
-            "name": "ダブルチョコ by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/107218"
-          },
-          {
-            "name": "美術館 by ama_reach",
-            "url": "https://puzsq.logicpuzzle.app/share/107545"
-          },
-          {
-            "name": "ヤギとオオカミ by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/107544"
-          },
-          {
-            "name": "Voxas by しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/107547"
+            "name": "タめいロ by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/107500"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 86,
         "names": [
           {
-            "name": "美術館 by ama_reach",
-            "url": "https://puzsq.logicpuzzle.app/share/107545"
+            "name": "ヤジリン by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/107592"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 49,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 514,
+        "count": 407,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 380,
         "names": [
           {
-            "name": "どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/?author=2552"
+            "name": "EKBM",
+            "url": "https://puzsq.logicpuzzle.app/?author=211"
           }
         ]
       }
