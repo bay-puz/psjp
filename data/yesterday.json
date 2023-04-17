@@ -1,69 +1,69 @@
 {
-  "day": "2023年4月16日",
+  "day": "2023年4月17日",
   "total": {
-    "problem": 47,
-    "favorite": 777,
-    "answered": 5441
+    "problem": 28,
+    "favorite": 501,
+    "answered": 4731
   },
   "count": {
     "favorite": {
-      "problem": 395,
-      "author": 118
+      "problem": 245,
+      "author": 82
     },
     "answered": {
-      "problem": 2408,
-      "author": 245,
-      "solver": 261
+      "problem": 2071,
+      "author": 239,
+      "solver": 268
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "Instructionless by しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/107626"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/107664"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 88,
         "names": [
           {
-            "name": "やじさんかずさん by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/107434"
+            "name": "ヤジリン by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/107671"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 45,
         "names": [
           {
-            "name": "名無し",
-            "url": "https://puzsq.logicpuzzle.app/?author=2449"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 379,
+        "count": 460,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 199,
         "names": [
           {
-            "name": "盥",
-            "url": "https://puzsq.logicpuzzle.app/?author=108"
+            "name": "Christopher",
+            "url": "https://puzsq.logicpuzzle.app/?author=2444"
           }
         ]
       }
