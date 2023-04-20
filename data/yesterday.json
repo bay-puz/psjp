@@ -1,69 +1,69 @@
 {
-  "day": "2023年4月19日",
+  "day": "2023年4月20日",
   "total": {
-    "problem": 25,
-    "favorite": 563,
-    "answered": 4622
+    "problem": 29,
+    "favorite": 526,
+    "answered": 4364
   },
   "count": {
     "favorite": {
       "problem": 277,
-      "author": 97
+      "author": 114
     },
     "answered": {
-      "problem": 2224,
-      "author": 236,
-      "solver": 289
+      "problem": 2151,
+      "author": 239,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 23,
         "names": [
           {
-            "name": "シンメトリー迷路 by bay",
-            "url": "https://puzsq.logicpuzzle.app/share/107723"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/107762"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 105,
         "names": [
           {
-            "name": "ホタルビーム by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/107721"
+            "name": "美術館 by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/107748"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 55,
+        "names": [
+          {
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
+          }
+        ]
+      },
+      "answered": {
+        "count": 356,
         "names": [
           {
             "name": "鷹野リン",
             "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
-      },
-      "answered": {
-        "count": 371,
-        "names": [
-          {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
-          }
-        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 143,
         "names": [
           {
-            "name": "MF",
-            "url": "https://puzsq.logicpuzzle.app/?author=91"
+            "name": "盥",
+            "url": "https://puzsq.logicpuzzle.app/?author=108"
           }
         ]
       }
