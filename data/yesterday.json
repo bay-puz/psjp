@@ -1,54 +1,54 @@
 {
-  "day": "2023年4月20日",
+  "day": "2023年4月21日",
   "total": {
     "problem": 29,
-    "favorite": 526,
-    "answered": 4364
+    "favorite": 451,
+    "answered": 3822
   },
   "count": {
     "favorite": {
-      "problem": 277,
-      "author": 114
+      "problem": 220,
+      "author": 96
     },
     "answered": {
-      "problem": 2151,
-      "author": 239,
+      "problem": 1784,
+      "author": 218,
       "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/107762"
+            "name": "チョコバナナ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/107773"
           }
         ]
       },
       "answered": {
-        "count": 105,
+        "count": 100,
         "names": [
           {
             "name": "美術館 by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/107748"
+            "url": "https://puzsq.logicpuzzle.app/share/107778"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 40,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 356,
+        "count": 273,
         "names": [
           {
             "name": "鷹野リン",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 116,
         "names": [
           {
-            "name": "盥",
-            "url": "https://puzsq.logicpuzzle.app/?author=108"
+            "name": "しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2021"
           }
         ]
       }
