@@ -1,69 +1,73 @@
 {
-  "day": "2023年4月21日",
+  "day": "2023年4月22日",
   "total": {
-    "problem": 29,
-    "favorite": 451,
-    "answered": 3822
+    "problem": 30,
+    "favorite": 401,
+    "answered": 3981
   },
   "count": {
     "favorite": {
-      "problem": 220,
-      "author": 96
+      "problem": 212,
+      "author": 101
     },
     "answered": {
-      "problem": 1784,
-      "author": 218,
-      "solver": 277
+      "problem": 1966,
+      "author": 232,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 12,
         "names": [
           {
-            "name": "チョコバナナ by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/107773"
+            "name": "LITS by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/107802"
+          },
+          {
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/106875"
           }
         ]
       },
       "answered": {
-        "count": 100,
+        "count": 76,
         "names": [
           {
-            "name": "美術館 by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/107778"
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/107820"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 25,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "PuzsqMeetsネットワーク作問会",
+            "url": "https://puzsq.logicpuzzle.app/?author=2736"
           }
         ]
       },
       "answered": {
-        "count": 273,
+        "count": 317,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 116,
+        "count": 121,
         "names": [
           {
-            "name": "しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2021"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
