@@ -1,45 +1,45 @@
 {
-  "day": "2023年4月23日",
+  "day": "2023年4月24日",
   "total": {
-    "problem": 28,
-    "favorite": 486,
-    "answered": 3652
+    "problem": 22,
+    "favorite": 474,
+    "answered": 3705
   },
   "count": {
     "favorite": {
-      "problem": 299,
-      "author": 98
+      "problem": 259,
+      "author": 93
     },
     "answered": {
-      "problem": 1930,
-      "author": 263,
-      "solver": 263
+      "problem": 1786,
+      "author": 234,
+      "solver": 268
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 18,
         "names": [
           {
-            "name": "ななめぐり by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/107807"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/107874"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 88,
         "names": [
           {
-            "name": "ななめぐり by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/107807"
+            "name": "シャカシャカ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106793"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 48,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 273,
+        "count": 300,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 104,
+        "count": 120,
         "names": [
           {
-            "name": "はる",
-            "url": "https://puzsq.logicpuzzle.app/?author=699"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
