@@ -1,69 +1,69 @@
 {
-  "day": "2023年4月24日",
+  "day": "2023年4月25日",
   "total": {
-    "problem": 22,
-    "favorite": 474,
-    "answered": 3705
+    "problem": 25,
+    "favorite": 456,
+    "answered": 4153
   },
   "count": {
     "favorite": {
-      "problem": 259,
-      "author": 93
+      "problem": 274,
+      "author": 100
     },
     "answered": {
-      "problem": 1786,
-      "author": 234,
-      "solver": 268
+      "problem": 1978,
+      "author": 261,
+      "solver": 273
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 14,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/107874"
+            "name": "ぬりめいず by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/107905"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 90,
         "names": [
           {
-            "name": "シャカシャカ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106793"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/107841"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 52,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 300,
+        "count": 357,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 105,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "ネズみ公爵",
+            "url": "https://puzsq.logicpuzzle.app/?author=1291"
           }
         ]
       }
