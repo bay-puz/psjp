@@ -1,69 +1,69 @@
 {
-  "day": "2023年4月25日",
+  "day": "2023年4月26日",
   "total": {
-    "problem": 25,
-    "favorite": 456,
-    "answered": 4153
+    "problem": 26,
+    "favorite": 414,
+    "answered": 3883
   },
   "count": {
     "favorite": {
-      "problem": 274,
-      "author": 100
+      "problem": 205,
+      "author": 85
     },
     "answered": {
-      "problem": 1978,
-      "author": 261,
-      "solver": 273
+      "problem": 2004,
+      "author": 237,
+      "solver": 284
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 19,
         "names": [
           {
-            "name": "ぬりめいず by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/107905"
+            "name": "へやわけ（変種） by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/107958"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 91,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/107841"
+            "name": "美術館 by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/107943"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 48,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 357,
+        "count": 294,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 105,
+        "count": 165,
         "names": [
           {
-            "name": "ネズみ公爵",
-            "url": "https://puzsq.logicpuzzle.app/?author=1291"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
