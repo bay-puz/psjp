@@ -1,45 +1,49 @@
 {
-  "day": "2023年4月26日",
+  "day": "2023年4月27日",
   "total": {
-    "problem": 26,
-    "favorite": 414,
-    "answered": 3883
+    "problem": 37,
+    "favorite": 489,
+    "answered": 4408
   },
   "count": {
     "favorite": {
-      "problem": 205,
-      "author": 85
+      "problem": 197,
+      "author": 81
     },
     "answered": {
-      "problem": 2004,
-      "author": 237,
-      "solver": 284
+      "problem": 2008,
+      "author": 249,
+      "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ（変種） by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/107958"
+            "name": "リングリング by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/107946"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 85,
         "names": [
           {
-            "name": "美術館 by USBe",
-            "url": "https://puzsq.logicpuzzle.app/share/107943"
+            "name": "リングリング by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/107808"
+          },
+          {
+            "name": "リングリング by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/107887"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 53,
         "names": [
           {
             "name": "ぶすじま",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 294,
+        "count": 280,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 165,
+        "count": 243,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "いちご",
+            "url": "https://puzsq.logicpuzzle.app/?author=2729"
           }
         ]
       }
