@@ -1,49 +1,49 @@
 {
-  "day": "2023年4月27日",
+  "day": "2023年4月28日",
   "total": {
-    "problem": 37,
-    "favorite": 489,
-    "answered": 4408
+    "problem": 35,
+    "favorite": 504,
+    "answered": 4109
   },
   "count": {
     "favorite": {
-      "problem": 197,
-      "author": 81
+      "problem": 273,
+      "author": 105
     },
     "answered": {
-      "problem": 2008,
-      "author": 249,
-      "solver": 274
+      "problem": 1719,
+      "author": 230,
+      "solver": 272
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 21,
         "names": [
           {
-            "name": "リングリング by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/107946"
+            "name": "バーンズ by はっちゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/108000"
+          },
+          {
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/108016"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 84,
         "names": [
           {
-            "name": "リングリング by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/107808"
-          },
-          {
-            "name": "リングリング by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/107887"
+            "name": "バーンズ by えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/share/108008"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 34,
         "names": [
           {
             "name": "ぶすじま",
@@ -52,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 280,
+        "count": 247,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 243,
+        "count": 128,
         "names": [
           {
-            "name": "いちご",
-            "url": "https://puzsq.logicpuzzle.app/?author=2729"
+            "name": "ネズみ公爵",
+            "url": "https://puzsq.logicpuzzle.app/?author=1291"
           }
         ]
       }
