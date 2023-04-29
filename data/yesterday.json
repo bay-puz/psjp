@@ -1,73 +1,73 @@
 {
-  "day": "2023年4月28日",
+  "day": "2023年4月29日",
   "total": {
-    "problem": 35,
-    "favorite": 504,
-    "answered": 4109
+    "problem": 47,
+    "favorite": 561,
+    "answered": 4379
   },
   "count": {
     "favorite": {
-      "problem": 273,
-      "author": 105
+      "problem": 340,
+      "author": 114
     },
     "answered": {
-      "problem": 1719,
-      "author": 230,
-      "solver": 272
+      "problem": 2076,
+      "author": 246,
+      "solver": 253
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 15,
         "names": [
           {
-            "name": "バーンズ by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/108000"
-          },
-          {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/108016"
+            "name": "美術館 by 牛飼い",
+            "url": "https://puzsq.logicpuzzle.app/share/108044"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 78,
         "names": [
           {
-            "name": "バーンズ by えすきゅん☆(bbpz)",
-            "url": "https://puzsq.logicpuzzle.app/share/108008"
+            "name": "美術館 by 牛飼い",
+            "url": "https://puzsq.logicpuzzle.app/share/108044"
+          },
+          {
+            "name": "美術館 by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/108059"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 98,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 247,
+        "count": 773,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 128,
+        "count": 109,
         "names": [
           {
-            "name": "ネズみ公爵",
-            "url": "https://puzsq.logicpuzzle.app/?author=1291"
+            "name": "Christopher",
+            "url": "https://puzsq.logicpuzzle.app/?author=2444"
           }
         ]
       }
