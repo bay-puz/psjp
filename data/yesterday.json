@@ -1,49 +1,49 @@
 {
-  "day": "2023年4月30日",
+  "day": "2023年5月1日",
   "total": {
-    "problem": 33,
-    "favorite": 748,
-    "answered": 5139
+    "problem": 27,
+    "favorite": 538,
+    "answered": 3440
   },
   "count": {
     "favorite": {
-      "problem": 393,
-      "author": 110
+      "problem": 306,
+      "author": 102
     },
     "answered": {
-      "problem": 2327,
-      "author": 238,
-      "solver": 248
+      "problem": 1554,
+      "author": 230,
+      "solver": 259
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/108076"
+            "name": "ぬりめいず by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106778"
           },
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/107836"
+            "name": "Tapa by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/108111"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/107836"
+            "name": "ぬりめいず by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/106778"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 89,
+        "count": 48,
         "names": [
           {
             "name": "lemononmars",
@@ -52,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 611,
+        "count": 307,
         "names": [
           {
             "name": "lemononmars",
@@ -63,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 229,
+        "count": 140,
         "names": [
           {
             "name": "kawatea",
