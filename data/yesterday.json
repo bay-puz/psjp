@@ -1,49 +1,45 @@
 {
-  "day": "2023年5月1日",
+  "day": "2023年5月2日",
   "total": {
-    "problem": 27,
-    "favorite": 538,
-    "answered": 3440
+    "problem": 36,
+    "favorite": 557,
+    "answered": 4854
   },
   "count": {
     "favorite": {
-      "problem": 306,
-      "author": 102
+      "problem": 302,
+      "author": 108
     },
     "answered": {
-      "problem": 1554,
-      "author": 230,
-      "solver": 259
+      "problem": 2460,
+      "author": 255,
+      "solver": 266
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106778"
-          },
-          {
-            "name": "Tapa by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/108111"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/108135"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 92,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/106778"
+            "name": "美術館 by ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/108142"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 56,
         "names": [
           {
             "name": "lemononmars",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 307,
+        "count": 459,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 140,
+        "count": 265,
         "names": [
           {
-            "name": "kawatea",
-            "url": "https://puzsq.logicpuzzle.app/?author=1468"
+            "name": "ten986",
+            "url": "https://puzsq.logicpuzzle.app/?author=164"
           }
         ]
       }
