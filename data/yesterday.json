@@ -1,77 +1,77 @@
 {
-  "day": "2023年5月3日",
+  "day": "2023年5月4日",
   "total": {
-    "problem": 51,
-    "favorite": 616,
-    "answered": 5397
+    "problem": 44,
+    "favorite": 427,
+    "answered": 4481
   },
   "count": {
     "favorite": {
-      "problem": 279,
-      "author": 110
+      "problem": 230,
+      "author": 93
     },
     "answered": {
-      "problem": 2403,
-      "author": 247,
-      "solver": 259
+      "problem": 2374,
+      "author": 242,
+      "solver": 254
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 12,
         "names": [
           {
-            "name": "フィルオミノ by にょろっぴぃ",
-            "url": "https://puzsq.logicpuzzle.app/share/108194"
+            "name": "バーンズ by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/108061"
           },
           {
-            "name": "美術館 by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/108214"
+            "name": "美術館 by 牛飼い",
+            "url": "https://puzsq.logicpuzzle.app/share/108240"
+          },
+          {
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/108243"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 83,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/108186"
-          },
-          {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/107640"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/107641"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 181,
+        "count": 38,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 1367,
+        "count": 329,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 288,
+        "count": 201,
         "names": [
           {
-            "name": "ten986",
-            "url": "https://puzsq.logicpuzzle.app/?author=164"
+            "name": "どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/?author=2552"
           }
         ]
       }
