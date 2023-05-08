@@ -1,65 +1,65 @@
 {
-  "day": "2023年5月7日",
+  "day": "2023年5月8日",
   "total": {
-    "problem": 48,
-    "favorite": 766,
-    "answered": 4784
+    "problem": 37,
+    "favorite": 384,
+    "answered": 4153
   },
   "count": {
     "favorite": {
-      "problem": 502,
-      "author": 142
+      "problem": 171,
+      "author": 82
     },
     "answered": {
-      "problem": 2217,
-      "author": 255,
-      "solver": 270
+      "problem": 1761,
+      "author": 243,
+      "solver": 287
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 11,
         "names": [
           {
-            "name": "ヤジリン by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/108346"
+            "name": "シンカミノ by どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/share/107849"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 89,
         "names": [
           {
-            "name": "ヤジリン by ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/108346"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/107846"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 76,
+        "count": 45,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 468,
+        "count": 472,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 216,
+        "count": 131,
         "names": [
           {
             "name": "ten986",
