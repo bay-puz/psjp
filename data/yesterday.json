@@ -1,73 +1,69 @@
 {
-  "day": "2023年5月12日",
+  "day": "2023年5月13日",
   "total": {
-    "problem": 41,
-    "favorite": 431,
-    "answered": 3797
+    "problem": 49,
+    "favorite": 565,
+    "answered": 4847
   },
   "count": {
     "favorite": {
-      "problem": 239,
-      "author": 89
+      "problem": 276,
+      "author": 102
     },
     "answered": {
-      "problem": 1653,
-      "author": 230,
-      "solver": 275
+      "problem": 2306,
+      "author": 255,
+      "solver": 270
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/108512"
-          },
-          {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/108429"
+            "name": "チョコバナナ by 鳳",
+            "url": "https://puzsq.logicpuzzle.app/share/108571"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/108512"
+            "name": "美術館 by NASA",
+            "url": "https://puzsq.logicpuzzle.app/share/108560"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 55,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 345,
+        "count": 402,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 112,
+        "count": 191,
         "names": [
           {
-            "name": "柊",
-            "url": "https://puzsq.logicpuzzle.app/?author=687"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
