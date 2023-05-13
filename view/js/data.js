@@ -61,6 +61,9 @@ async function getIdByName(name, type) {
         if (data[key].name === name) {
             return key
         }
+        if (data[key].name_e === name) {
+            return key
+        }
     }
     return null
 }
@@ -79,7 +82,12 @@ function getNameById(id, type, userData, kindData) {
         data = userData
     }
     if ( id in data ) {
-        return data[id].name
+        if (data[id].name.length > 0) {
+            return data[id].name
+        }
+        if (data[id].name_e.length > 0) {
+            return data[id].name_e
+        }
     }
     return null
 }
