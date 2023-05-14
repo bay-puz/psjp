@@ -1,29 +1,33 @@
 {
-  "day": "2023年5月13日",
+  "day": "2023年5月14日",
   "total": {
-    "problem": 49,
-    "favorite": 565,
-    "answered": 4847
+    "problem": 36,
+    "favorite": 570,
+    "answered": 4325
   },
   "count": {
     "favorite": {
-      "problem": 276,
-      "author": 102
+      "problem": 353,
+      "author": 119
     },
     "answered": {
-      "problem": 2306,
-      "author": 255,
-      "solver": 270
+      "problem": 2068,
+      "author": 227,
+      "solver": 258
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 13,
         "names": [
           {
-            "name": "チョコバナナ by 鳳",
-            "url": "https://puzsq.logicpuzzle.app/share/108571"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/108601"
+          },
+          {
+            "name": "フィルオミノ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/107864"
           }
         ]
       },
@@ -31,24 +35,24 @@
         "count": 72,
         "names": [
           {
-            "name": "美術館 by NASA",
-            "url": "https://puzsq.logicpuzzle.app/share/108560"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/108521"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 52,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 402,
+        "count": 439,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 191,
+        "count": 267,
         "names": [
           {
             "name": "桃花",
