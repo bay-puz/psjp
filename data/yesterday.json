@@ -1,69 +1,65 @@
 {
-  "day": "2023年5月14日",
+  "day": "2023年5月15日",
   "total": {
     "problem": 36,
-    "favorite": 570,
-    "answered": 4325
+    "favorite": 510,
+    "answered": 4226
   },
   "count": {
     "favorite": {
-      "problem": 353,
-      "author": 119
+      "problem": 251,
+      "author": 95
     },
     "answered": {
-      "problem": 2068,
-      "author": 227,
-      "solver": 258
+      "problem": 2109,
+      "author": 229,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 15,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/108601"
-          },
-          {
-            "name": "フィルオミノ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/107864"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/108519"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 75,
         "names": [
           {
             "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/108521"
+            "url": "https://puzsq.logicpuzzle.app/share/108519"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 47,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 439,
+        "count": 336,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "ゆき❄/Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 267,
+        "count": 271,
         "names": [
           {
             "name": "桃花",
