@@ -1,69 +1,69 @@
 {
-  "day": "2023年5月17日",
+  "day": "2023年5月18日",
   "total": {
     "problem": 42,
-    "favorite": 490,
-    "answered": 4494
+    "favorite": 527,
+    "answered": 4282
   },
   "count": {
     "favorite": {
-      "problem": 284,
-      "author": 107
+      "problem": 263,
+      "author": 94
     },
     "answered": {
-      "problem": 2347,
-      "author": 240,
-      "solver": 290
+      "problem": 1823,
+      "author": 233,
+      "solver": 273
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 12,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/108738"
+            "name": "ヤジリン by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/108783"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 77,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/108738"
+            "name": "∀人∃ＨＥＹＡ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/108768"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 57,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
+            "name": "Yu-ri",
             "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 274,
+        "count": 633,
         "names": [
           {
-            "name": "ゆき❄/Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "G414xy",
+            "url": "https://puzsq.logicpuzzle.app/?author=2726"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 124,
+        "count": 130,
         "names": [
           {
-            "name": "kawatea",
-            "url": "https://puzsq.logicpuzzle.app/?author=1468"
+            "name": "Tonta",
+            "url": "https://puzsq.logicpuzzle.app/?author=205"
           }
         ]
       }
