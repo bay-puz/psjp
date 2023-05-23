@@ -1,29 +1,29 @@
 {
-  "day": "2023年5月22日",
+  "day": "2023年5月23日",
   "total": {
-    "problem": 26,
-    "favorite": 429,
-    "answered": 4937
+    "problem": 29,
+    "favorite": 436,
+    "answered": 4575
   },
   "count": {
     "favorite": {
-      "problem": 207,
-      "author": 81
+      "problem": 189,
+      "author": 74
     },
     "answered": {
-      "problem": 2253,
-      "author": 233,
-      "solver": 260
+      "problem": 2173,
+      "author": 235,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 15,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/108921"
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/108973"
           }
         ]
       },
@@ -31,43 +31,39 @@
         "count": 89,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/108921"
-          },
-          {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/108359"
+            "name": "へやわけ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/108564"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 74,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 463,
+        "count": 486,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 304,
+        "count": 109,
         "names": [
           {
-            "name": "まえだ",
-            "url": "https://puzsq.logicpuzzle.app/?author=107"
+            "name": "kawatea",
+            "url": "https://puzsq.logicpuzzle.app/?author=1468"
           }
         ]
       }
