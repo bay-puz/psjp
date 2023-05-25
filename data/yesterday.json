@@ -1,45 +1,49 @@
 {
-  "day": "2023年5月24日",
+  "day": "2023年5月25日",
   "total": {
-    "problem": 28,
-    "favorite": 409,
-    "answered": 4021
+    "problem": 40,
+    "favorite": 423,
+    "answered": 4086
   },
   "count": {
     "favorite": {
-      "problem": 224,
-      "author": 88
+      "problem": 217,
+      "author": 87
     },
     "answered": {
-      "problem": 1978,
-      "author": 236,
-      "solver": 289
+      "problem": 2033,
+      "author": 238,
+      "solver": 264
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 12,
         "names": [
           {
-            "name": "チェンブロ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/108945"
+            "name": "お家へ帰ろう by どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/share/108280"
+          },
+          {
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/109028"
           }
         ]
       },
       "answered": {
-        "count": 107,
+        "count": 76,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/108362"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/109027"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 62,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 392,
+        "count": 389,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 84,
         "names": [
           {
-            "name": "liarnose",
-            "url": "https://puzsq.logicpuzzle.app/?author=2393"
+            "name": "SyrupBeans",
+            "url": "https://puzsq.logicpuzzle.app/?author=476"
           }
         ]
       }
