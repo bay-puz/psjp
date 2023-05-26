@@ -1,73 +1,69 @@
 {
-  "day": "2023年5月25日",
+  "day": "2023年5月26日",
   "total": {
-    "problem": 40,
-    "favorite": 423,
-    "answered": 4086
+    "problem": 29,
+    "favorite": 381,
+    "answered": 4623
   },
   "count": {
     "favorite": {
-      "problem": 217,
-      "author": 87
+      "problem": 241,
+      "author": 97
     },
     "answered": {
-      "problem": 2033,
-      "author": 238,
-      "solver": 264
+      "problem": 2542,
+      "author": 269,
+      "solver": 298
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 14,
         "names": [
           {
-            "name": "お家へ帰ろう by どっかのだれか",
-            "url": "https://puzsq.logicpuzzle.app/share/108280"
-          },
-          {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/109028"
+            "name": "シンプルループ by takmu",
+            "url": "https://puzsq.logicpuzzle.app/share/109050"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 97,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/109027"
+            "name": "美術館 by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/109048"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 29,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 389,
+        "count": 339,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 84,
+        "count": 190,
         "names": [
           {
-            "name": "SyrupBeans",
-            "url": "https://puzsq.logicpuzzle.app/?author=476"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
