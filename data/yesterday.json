@@ -1,45 +1,45 @@
 {
-  "day": "2023年5月27日",
+  "day": "2023年5月28日",
   "total": {
-    "problem": 34,
-    "favorite": 533,
-    "answered": 4453
+    "problem": 41,
+    "favorite": 601,
+    "answered": 5373
   },
   "count": {
     "favorite": {
-      "problem": 301,
-      "author": 106
+      "problem": 339,
+      "author": 116
     },
     "answered": {
-      "problem": 2405,
-      "author": 255,
-      "solver": 274
+      "problem": 2585,
+      "author": 252,
+      "solver": 286
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 14,
         "names": [
           {
-            "name": "チョコバナナ by にんじん",
-            "url": "https://puzsq.logicpuzzle.app/share/109014"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/109103"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 83,
         "names": [
           {
-            "name": "ヤジリン by gnull",
-            "url": "https://puzsq.logicpuzzle.app/share/109055"
+            "name": "シンプルループ by G414xy",
+            "url": "https://puzsq.logicpuzzle.app/share/109126"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 50,
         "names": [
           {
             "name": "lemononmars",
@@ -48,18 +48,18 @@
         ]
       },
       "answered": {
-        "count": 341,
+        "count": 398,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 238,
+        "count": 142,
         "names": [
           {
             "name": "まえだ",
