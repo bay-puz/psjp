@@ -1,69 +1,69 @@
 {
-  "day": "2023年5月31日",
+  "day": "2023年6月1日",
   "total": {
-    "problem": 31,
-    "favorite": 415,
-    "answered": 4486
+    "problem": 40,
+    "favorite": 507,
+    "answered": 4325
   },
   "count": {
     "favorite": {
-      "problem": 237,
-      "author": 95
+      "problem": 254,
+      "author": 109
     },
     "answered": {
-      "problem": 2367,
-      "author": 250,
-      "solver": 281
+      "problem": 2025,
+      "author": 231,
+      "solver": 270
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 12,
         "names": [
           {
-            "name": "シャカシャカ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/109194"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/109292"
           }
         ]
       },
       "answered": {
-        "count": 100,
+        "count": 76,
         "names": [
           {
-            "name": "シンプルループ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/109211"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/108471"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 94,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 345,
+        "count": 588,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 119,
         "names": [
           {
-            "name": "　",
-            "url": "https://puzsq.logicpuzzle.app/?author=1517"
+            "name": "初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/?author=47"
           }
         ]
       }
