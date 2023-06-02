@@ -1,19 +1,19 @@
 {
-  "day": "2023年6月1日",
+  "day": "2023年6月2日",
   "total": {
-    "problem": 40,
-    "favorite": 507,
-    "answered": 4325
+    "problem": 44,
+    "favorite": 502,
+    "answered": 4780
   },
   "count": {
     "favorite": {
-      "problem": 254,
-      "author": 109
+      "problem": 268,
+      "author": 93
     },
     "answered": {
-      "problem": 2025,
-      "author": 231,
-      "solver": 270
+      "problem": 2245,
+      "author": 251,
+      "solver": 275
     }
   },
   "top": {
@@ -23,23 +23,23 @@
         "names": [
           {
             "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/109292"
+            "url": "https://puzsq.logicpuzzle.app/share/109305"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 68,
         "names": [
           {
-            "name": "ぬりかべ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/108471"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/109305"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 94,
+        "count": 86,
         "names": [
           {
             "name": "lemononmars",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 588,
+        "count": 539,
         "names": [
           {
             "name": "lemononmars",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 119,
+        "count": 219,
         "names": [
           {
-            "name": "初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/?author=47"
+            "name": "Coo",
+            "url": "https://puzsq.logicpuzzle.app/?author=338"
           }
         ]
       }
