@@ -1,65 +1,65 @@
 {
-  "day": "2023年6月2日",
+  "day": "2023年6月3日",
   "total": {
-    "problem": 44,
-    "favorite": 502,
-    "answered": 4780
+    "problem": 40,
+    "favorite": 562,
+    "answered": 4831
   },
   "count": {
     "favorite": {
-      "problem": 268,
-      "author": 93
+      "problem": 347,
+      "author": 121
     },
     "answered": {
-      "problem": 2245,
-      "author": 251,
+      "problem": 2222,
+      "author": 256,
       "solver": 275
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 13,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/109305"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/109109"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 75,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/109305"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/109355"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 86,
+        "count": 60,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 539,
+        "count": 457,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 219,
+        "count": 143,
         "names": [
           {
             "name": "Coo",
