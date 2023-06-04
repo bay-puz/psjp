@@ -1,65 +1,65 @@
 {
-  "day": "2023年6月3日",
+  "day": "2023年6月4日",
   "total": {
-    "problem": 40,
-    "favorite": 562,
-    "answered": 4831
+    "problem": 50,
+    "favorite": 712,
+    "answered": 5578
   },
   "count": {
     "favorite": {
-      "problem": 347,
-      "author": 121
+      "problem": 327,
+      "author": 119
     },
     "answered": {
-      "problem": 2222,
-      "author": 256,
-      "solver": 275
+      "problem": 2648,
+      "author": 277,
+      "solver": 281
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 15,
         "names": [
           {
-            "name": "ぬりかべ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/109109"
+            "name": "シンカミノ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/109415"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 80,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/109355"
+            "name": "美術館 by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/109399"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 85,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/?author=1"
           }
         ]
       },
       "answered": {
-        "count": 457,
+        "count": 464,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/?author=1"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 211,
         "names": [
           {
             "name": "Coo",
