@@ -1,66 +1,54 @@
 {
-  "day": "2023年6月6日",
+  "day": "2023年6月7日",
   "total": {
-    "problem": 39,
-    "favorite": 499,
-    "answered": 4626
+    "problem": 34,
+    "favorite": 422,
+    "answered": 4246
   },
   "count": {
     "favorite": {
-      "problem": 249,
-      "author": 91
+      "problem": 223,
+      "author": 86
     },
     "answered": {
-      "problem": 2111,
-      "author": 254,
-      "solver": 278
+      "problem": 2153,
+      "author": 255,
+      "solver": 280
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "チョコバナナ by 山本祐輔",
-            "url": "https://puzsq.logicpuzzle.app/share/109458"
-          },
-          {
-            "name": "ぬりみさき by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/109459"
-          },
-          {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/109461"
-          },
-          {
-            "name": "チョコバナナ by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/109471"
+            "name": "ダブルチョコ by WilliamHu",
+            "url": "https://puzsq.logicpuzzle.app/share/109497"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 89,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/109470"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/109506"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 45,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "WilliamHu",
+            "url": "https://puzsq.logicpuzzle.app/?author=2388"
           }
         ]
       },
       "answered": {
-        "count": 466,
+        "count": 289,
         "names": [
           {
             "name": "Yu-ri",
@@ -71,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 186,
+        "count": 166,
         "names": [
           {
-            "name": "初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/?author=47"
+            "name": "edderiofer",
+            "url": "https://puzsq.logicpuzzle.app/?author=268"
           }
         ]
       }
