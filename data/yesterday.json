@@ -1,73 +1,69 @@
 {
-  "day": "2023年6月8日",
+  "day": "2023年6月9日",
   "total": {
-    "problem": 27,
-    "favorite": 593,
-    "answered": 4372
+    "problem": 46,
+    "favorite": 558,
+    "answered": 4644
   },
   "count": {
     "favorite": {
-      "problem": 357,
-      "author": 108
+      "problem": 268,
+      "author": 107
     },
     "answered": {
-      "problem": 2189,
-      "author": 237,
-      "solver": 292
+      "problem": 2355,
+      "author": 262,
+      "solver": 294
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/109532"
-          },
-          {
-            "name": "ダブルチョコ by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/109536"
+            "name": "よみどおり（変種） by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/109572"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 84,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/109532"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/109559"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 54,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 309,
+        "count": 313,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 134,
+        "count": 201,
         "names": [
           {
-            "name": "NASA",
-            "url": "https://puzsq.logicpuzzle.app/?author=2782"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
