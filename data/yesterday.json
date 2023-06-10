@@ -1,69 +1,69 @@
 {
-  "day": "2023年6月9日",
+  "day": "2023年6月10日",
   "total": {
-    "problem": 46,
-    "favorite": 558,
-    "answered": 4644
+    "problem": 62,
+    "favorite": 638,
+    "answered": 5161
   },
   "count": {
     "favorite": {
-      "problem": 268,
-      "author": 107
+      "problem": 304,
+      "author": 108
     },
     "answered": {
-      "problem": 2355,
-      "author": 262,
-      "solver": 294
+      "problem": 2097,
+      "author": 263,
+      "solver": 277
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 17,
         "names": [
           {
-            "name": "よみどおり（変種） by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/109572"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/109385"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/109559"
+            "name": "フィルオミノ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/109625"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 86,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "かぶ",
+            "url": "https://puzsq.logicpuzzle.app/?author=49"
           }
         ]
       },
       "answered": {
-        "count": 313,
+        "count": 583,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "かぶ",
+            "url": "https://puzsq.logicpuzzle.app/?author=49"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 201,
+        "count": 260,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "うまや天国",
+            "url": "https://puzsq.logicpuzzle.app/?author=57"
           }
         ]
       }
