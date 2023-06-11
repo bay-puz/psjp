@@ -1,69 +1,69 @@
 {
-  "day": "2023年6月10日",
+  "day": "2023年6月11日",
   "total": {
-    "problem": 62,
-    "favorite": 638,
-    "answered": 5161
+    "problem": 34,
+    "favorite": 473,
+    "answered": 4166
   },
   "count": {
     "favorite": {
-      "problem": 304,
-      "author": 108
+      "problem": 245,
+      "author": 81
     },
     "answered": {
-      "problem": 2097,
-      "author": 263,
-      "solver": 277
+      "problem": 1786,
+      "author": 230,
+      "solver": 281
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/109385"
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/109663"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 86,
         "names": [
           {
-            "name": "フィルオミノ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/109625"
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/109663"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 86,
+        "count": 57,
         "names": [
           {
-            "name": "かぶ",
-            "url": "https://puzsq.logicpuzzle.app/?author=49"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 583,
+        "count": 349,
         "names": [
           {
-            "name": "かぶ",
-            "url": "https://puzsq.logicpuzzle.app/?author=49"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 260,
+        "count": 145,
         "names": [
           {
-            "name": "うまや天国",
-            "url": "https://puzsq.logicpuzzle.app/?author=57"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
