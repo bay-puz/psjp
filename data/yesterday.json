@@ -1,69 +1,69 @@
 {
-  "day": "2023年6月11日",
+  "day": "2023年6月12日",
   "total": {
-    "problem": 34,
-    "favorite": 473,
-    "answered": 4166
+    "problem": 45,
+    "favorite": 422,
+    "answered": 4066
   },
   "count": {
     "favorite": {
-      "problem": 245,
-      "author": 81
+      "problem": 197,
+      "author": 77
     },
     "answered": {
-      "problem": 1786,
-      "author": 230,
-      "solver": 281
+      "problem": 1804,
+      "author": 236,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 14,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/109663"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/109682"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/109663"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/109447"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 52,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 349,
+        "count": 355,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 151,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
