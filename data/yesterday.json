@@ -1,58 +1,54 @@
 {
-  "day": "2023年6月13日",
+  "day": "2023年6月14日",
   "total": {
-    "problem": 25,
-    "favorite": 489,
-    "answered": 4645
+    "problem": 31,
+    "favorite": 490,
+    "answered": 4854
   },
   "count": {
     "favorite": {
-      "problem": 249,
-      "author": 98
+      "problem": 283,
+      "author": 110
     },
     "answered": {
-      "problem": 2296,
-      "author": 250,
+      "problem": 2349,
+      "author": 254,
       "solver": 288
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "ダブルチョコ by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/109729"
+            "name": "ましゅ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/109144"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 100,
         "names": [
           {
-            "name": "チョコバナナ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/109674"
-          },
-          {
-            "name": "ヤジリン by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/109727"
+            "name": "ましゅ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/109144"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 44,
         "names": [
           {
-            "name": "Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/?author=1"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 278,
+        "count": 393,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 237,
+        "count": 318,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
