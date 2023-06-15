@@ -1,65 +1,65 @@
 {
-  "day": "2023年6月14日",
+  "day": "2023年6月15日",
   "total": {
-    "problem": 31,
-    "favorite": 490,
-    "answered": 4854
+    "problem": 38,
+    "favorite": 440,
+    "answered": 4639
   },
   "count": {
     "favorite": {
-      "problem": 283,
-      "author": 110
+      "problem": 261,
+      "author": 109
     },
     "answered": {
-      "problem": 2349,
-      "author": 254,
-      "solver": 288
+      "problem": 2534,
+      "author": 270,
+      "solver": 281
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 20,
         "names": [
           {
-            "name": "ましゅ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/109144"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/109812"
           }
         ]
       },
       "answered": {
-        "count": 100,
+        "count": 80,
         "names": [
           {
-            "name": "ましゅ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/109144"
+            "name": "ヤジリン by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/109145"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 47,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 393,
+        "count": 401,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 318,
+        "count": 348,
         "names": [
           {
             "name": "Yu-ri",
