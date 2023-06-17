@@ -1,69 +1,69 @@
 {
-  "day": "2023年6月16日",
+  "day": "2023年6月17日",
   "total": {
-    "problem": 33,
-    "favorite": 444,
-    "answered": 5133
+    "problem": 38,
+    "favorite": 448,
+    "answered": 4189
   },
   "count": {
     "favorite": {
-      "problem": 234,
-      "author": 99
+      "problem": 191,
+      "author": 84
     },
     "answered": {
-      "problem": 2532,
-      "author": 256,
-      "solver": 284
+      "problem": 1815,
+      "author": 237,
+      "solver": 282
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "チョコバナナ by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/109838"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/109895"
           }
         ]
       },
       "answered": {
-        "count": 103,
+        "count": 75,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/109146"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/109862"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 34,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 418,
+        "count": 277,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 343,
+        "count": 167,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "NASA",
+            "url": "https://puzsq.logicpuzzle.app/?author=2782"
           }
         ]
       }
