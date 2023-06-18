@@ -1,69 +1,73 @@
 {
-  "day": "2023年6月17日",
+  "day": "2023年6月18日",
   "total": {
-    "problem": 38,
-    "favorite": 448,
-    "answered": 4189
+    "problem": 52,
+    "favorite": 500,
+    "answered": 5347
   },
   "count": {
     "favorite": {
-      "problem": 191,
-      "author": 84
+      "problem": 268,
+      "author": 99
     },
     "answered": {
-      "problem": 1815,
-      "author": 237,
-      "solver": 282
+      "problem": 2613,
+      "author": 256,
+      "solver": 281
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 14,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/109895"
+            "name": "ナンバーリンク by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/109926"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 88,
         "names": [
           {
-            "name": "ましゅ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/109862"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/109912"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 44,
+        "names": [
+          {
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+          },
+          {
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
+          }
+        ]
+      },
+      "answered": {
+        "count": 430,
         "names": [
           {
             "name": "lemononmars",
             "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
-      },
-      "answered": {
-        "count": 277,
-        "names": [
-          {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
-          }
-        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 167,
+        "count": 336,
         "names": [
           {
-            "name": "NASA",
-            "url": "https://puzsq.logicpuzzle.app/?author=2782"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
