@@ -1,69 +1,65 @@
 {
-  "day": "2023年6月18日",
+  "day": "2023年6月19日",
   "total": {
-    "problem": 52,
-    "favorite": 500,
-    "answered": 5347
+    "problem": 31,
+    "favorite": 447,
+    "answered": 4111
   },
   "count": {
     "favorite": {
-      "problem": 268,
-      "author": 99
+      "problem": 228,
+      "author": 93
     },
     "answered": {
-      "problem": 2613,
-      "author": 256,
-      "solver": 281
+      "problem": 2066,
+      "author": 225,
+      "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 15,
         "names": [
           {
-            "name": "ナンバーリンク by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/109926"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/109870"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 77,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/109912"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/109883"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 46,
         "names": [
           {
             "name": "lemononmars",
             "url": "https://puzsq.logicpuzzle.app/?author=2756"
-          },
-          {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 430,
+        "count": 321,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 336,
+        "count": 189,
         "names": [
           {
             "name": "Yu-ri",
