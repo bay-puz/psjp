@@ -1,45 +1,45 @@
 {
-  "day": "2023年6月19日",
+  "day": "2023年6月20日",
   "total": {
-    "problem": 31,
-    "favorite": 447,
-    "answered": 4111
+    "problem": 29,
+    "favorite": 441,
+    "answered": 4227
   },
   "count": {
     "favorite": {
-      "problem": 228,
+      "problem": 263,
       "author": 93
     },
     "answered": {
-      "problem": 2066,
-      "author": 225,
-      "solver": 274
+      "problem": 2216,
+      "author": 245,
+      "solver": 283
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 13,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/109870"
+            "name": "チョコバナナ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/110012"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 82,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/109883"
+            "name": "∀人∃ＨＥＹＡ by Charvari",
+            "url": "https://puzsq.logicpuzzle.app/share/109693"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 46,
+        "count": 47,
         "names": [
           {
             "name": "lemononmars",
@@ -48,18 +48,18 @@
         ]
       },
       "answered": {
-        "count": 321,
+        "count": 342,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 189,
+        "count": 140,
         "names": [
           {
             "name": "Yu-ri",
