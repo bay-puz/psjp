@@ -1,69 +1,73 @@
 {
-  "day": "2023年6月20日",
+  "day": "2023年6月21日",
   "total": {
-    "problem": 29,
-    "favorite": 441,
-    "answered": 4227
+    "problem": 38,
+    "favorite": 427,
+    "answered": 4539
   },
   "count": {
     "favorite": {
-      "problem": 263,
-      "author": 93
+      "problem": 189,
+      "author": 76
     },
     "answered": {
-      "problem": 2216,
-      "author": 245,
-      "solver": 283
+      "problem": 2218,
+      "author": 236,
+      "solver": 279
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 15,
         "names": [
           {
-            "name": "チョコバナナ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/110012"
+            "name": "ヤジリン by 空手踊り",
+            "url": "https://puzsq.logicpuzzle.app/share/110070"
+          },
+          {
+            "name": "マティーニ by bay",
+            "url": "https://puzsq.logicpuzzle.app/share/110069"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 91,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by Charvari",
-            "url": "https://puzsq.logicpuzzle.app/share/109693"
+            "name": "へやわけ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/110059"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 48,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 321,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 140,
+        "count": 152,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "north nights",
+            "url": "https://puzsq.logicpuzzle.app/?author=2760"
           }
         ]
       }
