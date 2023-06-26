@@ -1,73 +1,73 @@
 {
-  "day": "2023年6月25日",
+  "day": "2023年6月26日",
   "total": {
-    "problem": 49,
-    "favorite": 513,
-    "answered": 4584
+    "problem": 33,
+    "favorite": 487,
+    "answered": 4502
   },
   "count": {
     "favorite": {
-      "problem": 300,
-      "author": 106
+      "problem": 190,
+      "author": 74
     },
     "answered": {
-      "problem": 2235,
-      "author": 247,
-      "solver": 282
+      "problem": 1866,
+      "author": 236,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "ダブルチョコ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/110209"
-          },
-          {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/109510"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/109867"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 103,
         "names": [
           {
-            "name": "ダブルチョコ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/110208"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/109867"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 43,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
+          },
+          {
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 300,
+        "count": 304,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 150,
         "names": [
           {
-            "name": "rak",
-            "url": "https://puzsq.logicpuzzle.app/?author=2802"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
