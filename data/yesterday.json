@@ -1,29 +1,29 @@
 {
-  "day": "2023年6月28日",
+  "day": "2023年6月29日",
   "total": {
-    "problem": 29,
-    "favorite": 460,
-    "answered": 4296
+    "problem": 23,
+    "favorite": 362,
+    "answered": 3640
   },
   "count": {
     "favorite": {
-      "problem": 271,
-      "author": 108
+      "problem": 231,
+      "author": 96
     },
     "answered": {
-      "problem": 2003,
-      "author": 242,
-      "solver": 281
+      "problem": 1934,
+      "author": 245,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 13,
         "names": [
           {
-            "name": "スターバトル by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/110296"
+            "name": "ましゅ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/110342"
           }
         ]
       },
@@ -31,24 +31,24 @@
         "count": 83,
         "names": [
           {
-            "name": "スターバトル by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/110296"
+            "name": "ましゅ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/110342"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 28,
+        "count": 30,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 276,
+        "count": 293,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 123,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "stefliew",
+            "url": "https://puzsq.logicpuzzle.app/?author=2866"
           }
         ]
       }
