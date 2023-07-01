@@ -1,58 +1,58 @@
 {
-  "day": "2023年6月30日",
+  "day": "2023年7月1日",
   "total": {
-    "problem": 37,
-    "favorite": 390,
-    "answered": 3623
+    "problem": 87,
+    "favorite": 446,
+    "answered": 4049
   },
   "count": {
     "favorite": {
-      "problem": 208,
-      "author": 73
+      "problem": 230,
+      "author": 87
     },
     "answered": {
-      "problem": 1777,
-      "author": 233,
-      "solver": 271
+      "problem": 1722,
+      "author": 239,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 12,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/110378"
+            "name": "LITS by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/110404"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/110360"
+            "name": "ぬりめいず by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/110402"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 45,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/?author=1"
           }
         ]
       },
       "answered": {
-        "count": 411,
+        "count": 294,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "stefliew",
+            "url": "https://puzsq.logicpuzzle.app/?author=2866"
           }
         ]
       }
@@ -62,8 +62,8 @@
         "count": 123,
         "names": [
           {
-            "name": "punglam",
-            "url": "https://puzsq.logicpuzzle.app/?author=2069"
+            "name": "zonotope",
+            "url": "https://puzsq.logicpuzzle.app/?author=2251"
           }
         ]
       }
