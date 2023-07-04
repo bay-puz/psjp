@@ -1,49 +1,45 @@
 {
-  "day": "2023年7月3日",
+  "day": "2023年7月4日",
   "total": {
-    "problem": 33,
-    "favorite": 430,
-    "answered": 4087
+    "problem": 44,
+    "favorite": 508,
+    "answered": 4388
   },
   "count": {
     "favorite": {
-      "problem": 225,
-      "author": 87
+      "problem": 268,
+      "author": 93
     },
     "answered": {
-      "problem": 1923,
-      "author": 228,
-      "solver": 276
+      "problem": 1948,
+      "author": 234,
+      "solver": 296
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 14,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/110514"
-          },
-          {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/110517"
+            "name": "ストストーン by Subaru_Saito",
+            "url": "https://puzsq.logicpuzzle.app/share/110538"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/110517"
+            "name": "ヤジリン by 三価スニウム",
+            "url": "https://puzsq.logicpuzzle.app/share/110431"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 53,
         "names": [
           {
             "name": "Yu-ri",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 245,
+        "count": 348,
         "names": [
           {
             "name": "Yu-ri",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 123,
+        "count": 84,
         "names": [
           {
-            "name": "zonotope",
-            "url": "https://puzsq.logicpuzzle.app/?author=2251"
+            "name": "はるらぼ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2215"
           }
         ]
       }
