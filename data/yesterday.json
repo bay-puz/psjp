@@ -1,69 +1,69 @@
 {
-  "day": "2023年7月5日",
+  "day": "2023年7月6日",
   "total": {
-    "problem": 39,
-    "favorite": 425,
-    "answered": 5202
+    "problem": 35,
+    "favorite": 392,
+    "answered": 4263
   },
   "count": {
     "favorite": {
-      "problem": 232,
-      "author": 100
+      "problem": 185,
+      "author": 78
     },
     "answered": {
-      "problem": 2710,
-      "author": 268,
-      "solver": 290
+      "problem": 1829,
+      "author": 241,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 22,
         "names": [
           {
-            "name": "シャカシャカ by mudo",
-            "url": "https://puzsq.logicpuzzle.app/share/110124"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/110608"
           }
         ]
       },
       "answered": {
-        "count": 107,
+        "count": 81,
         "names": [
           {
-            "name": "ぬりかべ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/110564"
+            "name": "ぬりかべ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/110594"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 37,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 369,
+        "count": 349,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 239,
+        "count": 103,
         "names": [
           {
-            "name": "妖喰",
-            "url": "https://puzsq.logicpuzzle.app/?author=2851"
+            "name": "羊飼い",
+            "url": "https://puzsq.logicpuzzle.app/?author=2041"
           }
         ]
       }
