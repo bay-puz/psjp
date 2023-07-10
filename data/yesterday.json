@@ -1,73 +1,69 @@
 {
-  "day": "2023年7月9日",
+  "day": "2023年7月10日",
   "total": {
-    "problem": 44,
-    "favorite": 558,
-    "answered": 4848
+    "problem": 40,
+    "favorite": 403,
+    "answered": 3717
   },
   "count": {
     "favorite": {
-      "problem": 291,
-      "author": 106
+      "problem": 214,
+      "author": 85
     },
     "answered": {
-      "problem": 2072,
-      "author": 241,
-      "solver": 275
+      "problem": 1785,
+      "author": 230,
+      "solver": 267
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 14,
         "names": [
           {
-            "name": "ダブルチョコ by 連打",
-            "url": "https://puzsq.logicpuzzle.app/share/110791"
+            "name": "ヤジリン by SAnd",
+            "url": "https://puzsq.logicpuzzle.app/share/110714"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 79,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110200"
-          },
-          {
-            "name": "ましゅ by 弓月",
-            "url": "https://puzsq.logicpuzzle.app/share/110792"
+            "name": "ヤジリン by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/110831"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 30,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 329,
+        "count": 305,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 174,
+        "count": 106,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "ノコネコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1419"
           }
         ]
       }

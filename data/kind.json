@@ -2735,7 +2735,7 @@
     "category": 5
   },
   "657": {
-    "name": "",
+    "name": "Rail Pool",
     "name_e": "Rail Pool",
     "category": 2
   },
@@ -2761,7 +2761,7 @@
   },
   "662": {
     "name": "Arrows",
-    "name_e": "",
+    "name_e": "Arrows",
     "category": 4
   },
   "663": {
@@ -2833,6 +2833,16 @@
     "name": "",
     "name_e": "Curve Sums",
     "category": 2
+  },
+  "677": {
+    "name": "はすのしんかみの",
+    "name_e": "",
+    "category": 3
+  },
+  "678": {
+    "name": "はすのみの",
+    "name_e": "",
+    "category": 3
   },
   "-2": {
     "name": "Instructionless",
