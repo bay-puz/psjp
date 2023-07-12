@@ -1,69 +1,69 @@
 {
-  "day": "2023年7月11日",
+  "day": "2023年7月12日",
   "total": {
-    "problem": 35,
-    "favorite": 474,
-    "answered": 3793
+    "problem": 37,
+    "favorite": 425,
+    "answered": 4025
   },
   "count": {
     "favorite": {
-      "problem": 242,
-      "author": 94
+      "problem": 253,
+      "author": 89
     },
     "answered": {
-      "problem": 1910,
-      "author": 238,
-      "solver": 276
+      "problem": 2179,
+      "author": 243,
+      "solver": 291
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 14,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/110863"
+            "name": "美術館 by USBe",
+            "url": "https://puzsq.logicpuzzle.app/share/110916"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 71,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/110863"
+            "name": "ダブルチョコ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/110229"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 32,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 519,
+        "count": 306,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 112,
         "names": [
           {
-            "name": "hola6",
-            "url": "https://puzsq.logicpuzzle.app/?author=2668"
+            "name": "米酢",
+            "url": "https://puzsq.logicpuzzle.app/?author=196"
           }
         ]
       }
