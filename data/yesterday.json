@@ -1,19 +1,19 @@
 {
-  "day": "2023年7月12日",
+  "day": "2023年7月13日",
   "total": {
     "problem": 37,
-    "favorite": 425,
-    "answered": 4025
+    "favorite": 515,
+    "answered": 4506
   },
   "count": {
     "favorite": {
-      "problem": 253,
-      "author": 89
+      "problem": 294,
+      "author": 101
     },
     "answered": {
-      "problem": 2179,
-      "author": 243,
-      "solver": 291
+      "problem": 2068,
+      "author": 241,
+      "solver": 290
     }
   },
   "top": {
@@ -22,48 +22,52 @@
         "count": 14,
         "names": [
           {
-            "name": "美術館 by USBe",
-            "url": "https://puzsq.logicpuzzle.app/share/110916"
+            "name": "ましゅ by はっちゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/110939"
+          },
+          {
+            "name": "ぬりかべ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/110761"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 92,
         "names": [
           {
-            "name": "ダブルチョコ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110229"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/110955"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 46,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 306,
+        "count": 419,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 112,
+        "count": 135,
         "names": [
           {
-            "name": "米酢",
-            "url": "https://puzsq.logicpuzzle.app/?author=196"
+            "name": "naniwazu",
+            "url": "https://puzsq.logicpuzzle.app/?author=2939"
           }
         ]
       }
