@@ -1,73 +1,69 @@
 {
-  "day": "2023年7月15日",
+  "day": "2023年7月16日",
   "total": {
-    "problem": 45,
-    "favorite": 442,
-    "answered": 4238
+    "problem": 47,
+    "favorite": 487,
+    "answered": 4724
   },
   "count": {
     "favorite": {
-      "problem": 249,
-      "author": 96
+      "problem": 267,
+      "author": 94
     },
     "answered": {
-      "problem": 2030,
-      "author": 234,
-      "solver": 280
+      "problem": 2297,
+      "author": 245,
+      "solver": 286
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 13,
         "names": [
           {
-            "name": "ヤジリン by Notmilk",
-            "url": "https://puzsq.logicpuzzle.app/share/111015"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/111076"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 66,
         "names": [
           {
-            "name": "美術館 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/111012"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/111076"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 59,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
-          },
-          {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 286,
+        "count": 458,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 167,
+        "count": 142,
         "names": [
           {
-            "name": "naniwazu",
-            "url": "https://puzsq.logicpuzzle.app/?author=2939"
+            "name": "rak",
+            "url": "https://puzsq.logicpuzzle.app/?author=2802"
           }
         ]
       }
