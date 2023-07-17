@@ -1,19 +1,19 @@
 {
-  "day": "2023年7月16日",
+  "day": "2023年7月17日",
   "total": {
-    "problem": 47,
-    "favorite": 487,
-    "answered": 4724
+    "problem": 39,
+    "favorite": 441,
+    "answered": 4172
   },
   "count": {
     "favorite": {
-      "problem": 267,
-      "author": 94
+      "problem": 258,
+      "author": 93
     },
     "answered": {
-      "problem": 2297,
+      "problem": 1995,
       "author": 245,
-      "solver": 286
+      "solver": 279
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 13,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/111076"
+            "name": "∀人∃ＨＥＹＡ by ねーじゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/111132"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/111076"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/110369"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 50,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 458,
+        "count": 407,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 183,
         "names": [
           {
-            "name": "rak",
-            "url": "https://puzsq.logicpuzzle.app/?author=2802"
+            "name": "米酢",
+            "url": "https://puzsq.logicpuzzle.app/?author=196"
           }
         ]
       }
