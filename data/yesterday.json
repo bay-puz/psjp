@@ -1,45 +1,45 @@
 {
-  "day": "2023年7月18日",
+  "day": "2023年7月19日",
   "total": {
-    "problem": 39,
-    "favorite": 438,
-    "answered": 4311
+    "problem": 41,
+    "favorite": 520,
+    "answered": 4396
   },
   "count": {
     "favorite": {
-      "problem": 236,
-      "author": 85
+      "problem": 315,
+      "author": 116
     },
     "answered": {
-      "problem": 2136,
-      "author": 245,
-      "solver": 268
+      "problem": 2104,
+      "author": 241,
+      "solver": 288
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 16,
         "names": [
           {
-            "name": "ぬりかべ by うりよしきば",
-            "url": "https://puzsq.logicpuzzle.app/share/111161"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/111205"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 76,
         "names": [
           {
-            "name": "スターバトル by Charvari",
-            "url": "https://puzsq.logicpuzzle.app/share/111158"
+            "name": "ヤジリン by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/111192"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 59,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 318,
+        "count": 400,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 142,
         "names": [
           {
-            "name": "Tonta",
-            "url": "https://puzsq.logicpuzzle.app/?author=205"
+            "name": "にしなんとか",
+            "url": "https://puzsq.logicpuzzle.app/?author=42"
           }
         ]
       }
