@@ -1,69 +1,69 @@
 {
-  "day": "2023年7月22日",
+  "day": "2023年7月23日",
   "total": {
-    "problem": 46,
-    "favorite": 519,
-    "answered": 5293
+    "problem": 47,
+    "favorite": 400,
+    "answered": 4437
   },
   "count": {
     "favorite": {
-      "problem": 231,
-      "author": 76
+      "problem": 222,
+      "author": 89
     },
     "answered": {
-      "problem": 2190,
-      "author": 242,
-      "solver": 282
+      "problem": 2102,
+      "author": 245,
+      "solver": 304
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 12,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/110718"
+            "name": "ダブルチョコ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/111342"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 84,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/110718"
+            "name": "ましゅ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/110376"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 149,
+        "count": 56,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 1306,
+        "count": 496,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 159,
         "names": [
           {
-            "name": "KRin",
-            "url": "https://puzsq.logicpuzzle.app/?author=2134"
+            "name": "　",
+            "url": "https://puzsq.logicpuzzle.app/?author=1517"
           }
         ]
       }
