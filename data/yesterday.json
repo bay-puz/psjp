@@ -1,45 +1,45 @@
 {
-  "day": "2023年7月23日",
+  "day": "2023年7月24日",
   "total": {
-    "problem": 47,
-    "favorite": 400,
-    "answered": 4437
+    "problem": 23,
+    "favorite": 434,
+    "answered": 3825
   },
   "count": {
     "favorite": {
-      "problem": 222,
-      "author": 89
+      "problem": 245,
+      "author": 87
     },
     "answered": {
-      "problem": 2102,
-      "author": 245,
-      "solver": 304
+      "problem": 1818,
+      "author": 228,
+      "solver": 275
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 15,
         "names": [
           {
-            "name": "ダブルチョコ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/111342"
+            "name": "ぬりめいず by みくろん",
+            "url": "https://puzsq.logicpuzzle.app/share/111397"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 78,
         "names": [
           {
-            "name": "ましゅ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110376"
+            "name": "ぬりめいず by みくろん",
+            "url": "https://puzsq.logicpuzzle.app/share/111397"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 51,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 496,
+        "count": 378,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 159,
+        "count": 106,
         "names": [
           {
-            "name": "　",
-            "url": "https://puzsq.logicpuzzle.app/?author=1517"
+            "name": "aki",
+            "url": "https://puzsq.logicpuzzle.app/?author=2478"
           }
         ]
       }
