@@ -45,6 +45,7 @@
 1. International Borders [🔗](https://puzsq.logicpuzzle.app/?kind=225)
 1. Inverse LITSO [🔗](https://puzsq.logicpuzzle.app/?kind=669)
 1. Ivy / 三叉路リンク (Ivy) [🔗](https://puzsq.logicpuzzle.app/?kind=585)
+1. Kaisu [🔗](https://puzsq.logicpuzzle.app/?kind=683)
 1. Kropki [🔗](https://puzsq.logicpuzzle.app/?kind=71)
 1. LITS [🔗](https://puzsq.logicpuzzle.app/?kind=10)
 1. La Paz [🔗](https://puzsq.logicpuzzle.app/?kind=579)

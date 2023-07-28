@@ -1,45 +1,45 @@
 {
-  "day": "2023年7月27日",
+  "day": "2023年7月28日",
   "total": {
-    "problem": 18,
-    "favorite": 358,
-    "answered": 3132
+    "problem": 36,
+    "favorite": 548,
+    "answered": 4055
   },
   "count": {
     "favorite": {
-      "problem": 250,
-      "author": 102
+      "problem": 331,
+      "author": 115
     },
     "answered": {
-      "problem": 1712,
-      "author": 223,
-      "solver": 280
+      "problem": 2064,
+      "author": 251,
+      "solver": 264
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/106753"
+            "name": "ミッドループ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/110866"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110864"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/111519"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 58,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 295,
+        "count": 396,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 86,
+        "count": 117,
         "names": [
           {
-            "name": "maitake",
-            "url": "https://puzsq.logicpuzzle.app/?author=2392"
+            "name": "えすとす",
+            "url": "https://puzsq.logicpuzzle.app/?author=2968"
           }
         ]
       }
