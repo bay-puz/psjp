@@ -26,7 +26,9 @@ jobs:
       - name: get psjp data
         run: ./script/get-data.sh
       - name: cut psjp data
-        run: python script/cut-data.py
+        run: |
+          python script/cut-data.py
+          python script/list-puzzle.py
       - name: make graph
         run: |
           python script/graph/activity.py
