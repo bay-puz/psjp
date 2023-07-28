@@ -3,16 +3,17 @@ import json
 
 
 def cut_data(pid, data):
-    puz = ""
+    name = ""
     if data["name"] != "":
-        puz += data["name"]
-        if data["name_e"] != "":
-            puz += " (" + data["name_e"] + ")"
+        name += data["name"]
+        if data["name_e"] != "" and data["name"] != data["name_e"]:
+            name += " (" + data["name_e"] + ")"
     else:
-        puz += data["name_e"]
+        name += data["name_e"]
 
-    puz += f"\thttps://puzsq.logicpuzzle.app/?kind={pid}"
-    return puz
+    url = f"https://puzsq.logicpuzzle.app/?kind={pid}"
+
+    return f"1. {name} [🔗]({url})"
 
 
 def main():
@@ -26,7 +27,8 @@ def main():
         puzzles.append(cut_data(pid, data))
     list.sort(puzzles)
 
-    with open("data/puzzle_list.txt", "w") as fo:
+    with open("data/puzzle_list.md", "w") as fo:
+        fo.write("# ぱずすくのパズルのリスト\n")
         for p in puzzles:
             fo.write(p)
             fo.write('\n')
