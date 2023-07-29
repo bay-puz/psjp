@@ -1,69 +1,73 @@
 {
-  "day": "2023年7月28日",
+  "day": "2023年7月29日",
   "total": {
-    "problem": 36,
-    "favorite": 548,
-    "answered": 4055
+    "problem": 40,
+    "favorite": 538,
+    "answered": 4025
   },
   "count": {
     "favorite": {
-      "problem": 331,
-      "author": 115
+      "problem": 268,
+      "author": 103
     },
     "answered": {
-      "problem": 2064,
-      "author": 251,
-      "solver": 264
+      "problem": 1779,
+      "author": 228,
+      "solver": 271
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "ミッドループ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110866"
+            "name": "シンカミノ by てけてけ",
+            "url": "https://puzsq.logicpuzzle.app/share/111550"
+          },
+          {
+            "name": "Kaisu by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/111553"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 86,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/111519"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/110867"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 75,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 396,
+        "count": 390,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 117,
+        "count": 114,
         "names": [
           {
-            "name": "えすとす",
-            "url": "https://puzsq.logicpuzzle.app/?author=2968"
+            "name": "羊飼い",
+            "url": "https://puzsq.logicpuzzle.app/?author=2041"
           }
         ]
       }
