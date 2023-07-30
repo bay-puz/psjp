@@ -56,6 +56,7 @@
 1. Make a Maze [🔗](https://puzsq.logicpuzzle.app/?kind=247)
 1. Maxi Loop [🔗](https://puzsq.logicpuzzle.app/?kind=191)
 1. Mini Coral [🔗](https://puzsq.logicpuzzle.app/?kind=230)
+1. Myopia [🔗](https://puzsq.logicpuzzle.app/?kind=684)
 1. NEWS [🔗](https://puzsq.logicpuzzle.app/?kind=648)
 1. NIKOJI [🔗](https://puzsq.logicpuzzle.app/?kind=137)
 1. ONDO-K / Thermometers (Thermometers) [🔗](https://puzsq.logicpuzzle.app/?kind=155)

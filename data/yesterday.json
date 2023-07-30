@@ -1,49 +1,45 @@
 {
-  "day": "2023年7月29日",
+  "day": "2023年7月30日",
   "total": {
-    "problem": 40,
-    "favorite": 538,
-    "answered": 4025
+    "problem": 36,
+    "favorite": 461,
+    "answered": 3788
   },
   "count": {
     "favorite": {
-      "problem": 268,
-      "author": 103
+      "problem": 274,
+      "author": 87
     },
     "answered": {
-      "problem": 1779,
-      "author": 228,
-      "solver": 271
+      "problem": 1754,
+      "author": 227,
+      "solver": 251
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 14,
         "names": [
           {
-            "name": "シンカミノ by てけてけ",
-            "url": "https://puzsq.logicpuzzle.app/share/111550"
-          },
-          {
-            "name": "Kaisu by もや（新）",
-            "url": "https://puzsq.logicpuzzle.app/share/111553"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/111600"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 80,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/110867"
+            "name": "美術館 by きらく",
+            "url": "https://puzsq.logicpuzzle.app/share/111593"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 95,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 390,
+        "count": 596,
         "names": [
           {
             "name": "みんにょこ",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 129,
         "names": [
           {
             "name": "羊飼い",
