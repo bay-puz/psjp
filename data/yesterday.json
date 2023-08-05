@@ -1,69 +1,69 @@
 {
-  "day": "2023年8月4日",
+  "day": "2023年8月5日",
   "total": {
-    "problem": 32,
-    "favorite": 444,
-    "answered": 4194
+    "problem": 25,
+    "favorite": 501,
+    "answered": 4199
   },
   "count": {
     "favorite": {
-      "problem": 238,
-      "author": 77
+      "problem": 337,
+      "author": 107
     },
     "answered": {
-      "problem": 2157,
-      "author": 249,
-      "solver": 262
+      "problem": 2255,
+      "author": 246,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/111759"
+            "name": "ヤジリン by _AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/share/111788"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 78,
         "names": [
           {
-            "name": "ぬりめいず by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/111752"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/111164"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 43,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 410,
+        "count": 320,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 122,
+        "count": 168,
         "names": [
           {
-            "name": "まえだ",
-            "url": "https://puzsq.logicpuzzle.app/?author=107"
+            "name": "モノクログリーン",
+            "url": "https://puzsq.logicpuzzle.app/?author=253"
           }
         ]
       }
