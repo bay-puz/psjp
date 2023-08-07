@@ -1,69 +1,65 @@
 {
-  "day": "2023年8月6日",
+  "day": "2023年8月7日",
   "total": {
-    "problem": 31,
-    "favorite": 514,
-    "answered": 4446
+    "problem": 35,
+    "favorite": 479,
+    "answered": 3994
   },
   "count": {
     "favorite": {
-      "problem": 333,
-      "author": 95
+      "problem": 252,
+      "author": 97
     },
     "answered": {
-      "problem": 2359,
-      "author": 251,
-      "solver": 271
+      "problem": 1880,
+      "author": 237,
+      "solver": 260
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 16,
         "names": [
           {
-            "name": "ダブルチョコ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/111804"
+            "name": "チョコバナナ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/111847"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 84,
         "names": [
           {
-            "name": "美術館 by ビスカット",
-            "url": "https://puzsq.logicpuzzle.app/share/111798"
+            "name": "ぬりめいず by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/111167"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 122,
         "names": [
           {
             "name": "Yu-ri",
             "url": "https://puzsq.logicpuzzle.app/?author=2638"
-          },
-          {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 305,
+        "count": 684,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 176,
+        "count": 156,
         "names": [
           {
             "name": "TKTYI",
