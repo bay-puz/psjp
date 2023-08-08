@@ -1,29 +1,29 @@
 {
-  "day": "2023年8月7日",
+  "day": "2023年8月8日",
   "total": {
     "problem": 35,
-    "favorite": 479,
-    "answered": 3994
+    "favorite": 585,
+    "answered": 4695
   },
   "count": {
     "favorite": {
-      "problem": 252,
-      "author": 97
+      "problem": 354,
+      "author": 118
     },
     "answered": {
-      "problem": 1880,
-      "author": 237,
-      "solver": 260
+      "problem": 2365,
+      "author": 256,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 14,
         "names": [
           {
-            "name": "チョコバナナ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/111847"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/111883"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 84,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/111167"
+            "name": "ヤジリン by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/111869"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 122,
+        "count": 74,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 684,
+        "count": 456,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 156,
+        "count": 240,
         "names": [
           {
-            "name": "TKTYI",
-            "url": "https://puzsq.logicpuzzle.app/?author=2935"
+            "name": "maruchan",
+            "url": "https://puzsq.logicpuzzle.app/?author=2806"
           }
         ]
       }
