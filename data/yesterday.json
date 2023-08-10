@@ -1,19 +1,19 @@
 {
-  "day": "2023年8月9日",
+  "day": "2023年8月10日",
   "total": {
-    "problem": 33,
-    "favorite": 664,
-    "answered": 4774
+    "problem": 24,
+    "favorite": 389,
+    "answered": 3271
   },
   "count": {
     "favorite": {
-      "problem": 476,
-      "author": 120
+      "problem": 217,
+      "author": 89
     },
     "answered": {
-      "problem": 2603,
-      "author": 258,
-      "solver": 263
+      "problem": 1507,
+      "author": 229,
+      "solver": 261
     }
   },
   "top": {
@@ -22,44 +22,44 @@
         "count": 17,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/111925"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/111952"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 93,
         "names": [
           {
-            "name": "ましゅ by 4G@「Kid's_PhiloSophy」の片割れ",
-            "url": "https://puzsq.logicpuzzle.app/share/111891"
+            "name": "美術館 by 謎解きのオタク",
+            "url": "https://puzsq.logicpuzzle.app/share/111937"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 49,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 388,
+        "count": 307,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 272,
+        "count": 117,
         "names": [
           {
             "name": "MF",
