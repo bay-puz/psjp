@@ -1,69 +1,69 @@
 {
-  "day": "2023年8月13日",
+  "day": "2023年8月14日",
   "total": {
-    "problem": 31,
-    "favorite": 647,
-    "answered": 4381
+    "problem": 35,
+    "favorite": 603,
+    "answered": 4094
   },
   "count": {
     "favorite": {
-      "problem": 463,
-      "author": 128
+      "problem": 362,
+      "author": 101
     },
     "answered": {
-      "problem": 2424,
-      "author": 260,
-      "solver": 247
+      "problem": 2019,
+      "author": 237,
+      "solver": 249
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 15,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/111936"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/112049"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 65,
         "names": [
           {
-            "name": "ヤジリン by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/112008"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/112038"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 89,
+        "count": 63,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 376,
+        "count": 312,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 203,
+        "count": 192,
         "names": [
           {
-            "name": "☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=40"
+            "name": "羊飼い",
+            "url": "https://puzsq.logicpuzzle.app/?author=2041"
           }
         ]
       }
