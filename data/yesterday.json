@@ -1,73 +1,69 @@
 {
-  "day": "2023年8月15日",
+  "day": "2023年8月16日",
   "total": {
-    "problem": 25,
-    "favorite": 613,
-    "answered": 4120
+    "problem": 34,
+    "favorite": 542,
+    "answered": 3915
   },
   "count": {
     "favorite": {
-      "problem": 376,
-      "author": 112
+      "problem": 321,
+      "author": 107
     },
     "answered": {
-      "problem": 2107,
-      "author": 256,
-      "solver": 253
+      "problem": 1970,
+      "author": 245,
+      "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 17,
         "names": [
           {
-            "name": "ノースリー by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/112060"
-          },
-          {
-            "name": "ノースリー by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/112064"
+            "name": "ぬりかべ by きんたろ",
+            "url": "https://puzsq.logicpuzzle.app/share/112073"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 72,
         "names": [
           {
-            "name": "ノースリー by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/112064"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/112090"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 100,
+        "count": 74,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 414,
+        "count": 432,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 228,
+        "count": 102,
         "names": [
           {
-            "name": "MF",
-            "url": "https://puzsq.logicpuzzle.app/?author=91"
+            "name": "たほいや",
+            "url": "https://puzsq.logicpuzzle.app/?author=2192"
           }
         ]
       }
