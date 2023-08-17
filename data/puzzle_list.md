@@ -30,6 +30,7 @@
 1. Disorderly Loop [🔗](https://puzsq.logicpuzzle.app/?kind=408)
 1. Double Back [🔗](https://puzsq.logicpuzzle.app/?kind=184)
 1. Falling Letters [🔗](https://puzsq.logicpuzzle.app/?kind=148)
+1. Flexible Counters [🔗](https://puzsq.logicpuzzle.app/?kind=685)
 1. Full House [🔗](https://puzsq.logicpuzzle.app/?kind=611)
 1. Fusion Black [🔗](https://puzsq.logicpuzzle.app/?kind=510)
 1. Gaps [🔗](https://puzsq.logicpuzzle.app/?kind=145)

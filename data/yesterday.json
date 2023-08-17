@@ -1,45 +1,49 @@
 {
-  "day": "2023年8月16日",
+  "day": "2023年8月17日",
   "total": {
-    "problem": 34,
-    "favorite": 542,
-    "answered": 3915
+    "problem": 24,
+    "favorite": 501,
+    "answered": 3931
   },
   "count": {
     "favorite": {
-      "problem": 321,
-      "author": 107
+      "problem": 318,
+      "author": 105
     },
     "answered": {
-      "problem": 1970,
-      "author": 245,
+      "problem": 1979,
+      "author": 238,
       "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 13,
         "names": [
           {
-            "name": "ぬりかべ by きんたろ",
-            "url": "https://puzsq.logicpuzzle.app/share/112073"
+            "name": "ノースリー by geq0",
+            "url": "https://puzsq.logicpuzzle.app/share/112107"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/112106"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 70,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/112090"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/111816"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 74,
+        "count": 52,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 432,
+        "count": 339,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 157,
         "names": [
           {
-            "name": "たほいや",
-            "url": "https://puzsq.logicpuzzle.app/?author=2192"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
