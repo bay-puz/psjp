@@ -1,49 +1,49 @@
 {
-  "day": "2023年8月17日",
+  "day": "2023年8月18日",
   "total": {
-    "problem": 24,
-    "favorite": 501,
-    "answered": 3931
+    "problem": 30,
+    "favorite": 446,
+    "answered": 3829
   },
   "count": {
     "favorite": {
-      "problem": 318,
-      "author": 105
+      "problem": 214,
+      "author": 76
     },
     "answered": {
-      "problem": 1979,
-      "author": 238,
-      "solver": 274
+      "problem": 1701,
+      "author": 218,
+      "solver": 256
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 19,
         "names": [
           {
-            "name": "ノースリー by geq0",
-            "url": "https://puzsq.logicpuzzle.app/share/112107"
-          },
-          {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/112106"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/112144"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 72,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/111816"
+            "name": "ノースリー by akueri",
+            "url": "https://puzsq.logicpuzzle.app/share/112129"
+          },
+          {
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/112131"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 59,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,11 +52,11 @@
         ]
       },
       "answered": {
-        "count": 339,
+        "count": 403,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
