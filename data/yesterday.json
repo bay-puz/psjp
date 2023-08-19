@@ -1,49 +1,45 @@
 {
-  "day": "2023年8月18日",
+  "day": "2023年8月19日",
   "total": {
-    "problem": 30,
-    "favorite": 446,
-    "answered": 3829
+    "problem": 32,
+    "favorite": 517,
+    "answered": 4146
   },
   "count": {
     "favorite": {
-      "problem": 214,
-      "author": 76
+      "problem": 328,
+      "author": 103
     },
     "answered": {
-      "problem": 1701,
-      "author": 218,
-      "solver": 256
+      "problem": 2107,
+      "author": 254,
+      "solver": 271
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/112144"
+            "name": "ダブルチョコ by つらら",
+            "url": "https://puzsq.logicpuzzle.app/share/112162"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 80,
         "names": [
           {
-            "name": "ノースリー by akueri",
-            "url": "https://puzsq.logicpuzzle.app/share/112129"
-          },
-          {
-            "name": "美術館 by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/112131"
+            "name": "ヤジリン by 空手踊り",
+            "url": "https://puzsq.logicpuzzle.app/share/112168"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 35,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 403,
+        "count": 273,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 157,
+        "count": 112,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "たほいや",
+            "url": "https://puzsq.logicpuzzle.app/?author=2192"
           }
         ]
       }
