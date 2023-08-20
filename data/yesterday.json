@@ -1,65 +1,69 @@
 {
-  "day": "2023年8月19日",
+  "day": "2023年8月20日",
   "total": {
-    "problem": 32,
-    "favorite": 517,
-    "answered": 4146
+    "problem": 30,
+    "favorite": 428,
+    "answered": 3490
   },
   "count": {
     "favorite": {
-      "problem": 328,
-      "author": 103
+      "problem": 264,
+      "author": 104
     },
     "answered": {
-      "problem": 2107,
-      "author": 254,
-      "solver": 271
+      "problem": 1767,
+      "author": 221,
+      "solver": 258
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 12,
         "names": [
           {
             "name": "ダブルチョコ by つらら",
-            "url": "https://puzsq.logicpuzzle.app/share/112162"
+            "url": "https://puzsq.logicpuzzle.app/share/112219"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 74,
         "names": [
           {
-            "name": "ヤジリン by 空手踊り",
-            "url": "https://puzsq.logicpuzzle.app/share/112168"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/112215"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 34,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "きなこ屋",
+            "url": "https://puzsq.logicpuzzle.app/?author=1562"
+          },
+          {
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 273,
+        "count": 258,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 112,
+        "count": 100,
         "names": [
           {
             "name": "たほいや",
