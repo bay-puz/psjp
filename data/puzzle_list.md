@@ -101,6 +101,7 @@
 1. Tricklayer [🔗](https://puzsq.logicpuzzle.app/?kind=631)
 1. Vertex Slitherlink [🔗](https://puzsq.logicpuzzle.app/?kind=647)
 1. Voxas [🔗](https://puzsq.logicpuzzle.app/?kind=392)
+1. Water Walk [🔗](https://puzsq.logicpuzzle.app/?kind=686)
 1. Zero One Lines [🔗](https://puzsq.logicpuzzle.app/?kind=671)
 1. ∀人∃ＨＥＹＡ (ekawayeh (symmetry heyawake)) [🔗](https://puzsq.logicpuzzle.app/?kind=72)
 1. ○×ブロック [🔗](https://puzsq.logicpuzzle.app/?kind=529)
