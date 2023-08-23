@@ -1,73 +1,69 @@
 {
-  "day": "2023年8月22日",
+  "day": "2023年8月23日",
   "total": {
-    "problem": 30,
-    "favorite": 534,
-    "answered": 4323
+    "problem": 32,
+    "favorite": 463,
+    "answered": 4721
   },
   "count": {
     "favorite": {
-      "problem": 295,
-      "author": 91
+      "problem": 227,
+      "author": 85
     },
     "answered": {
-      "problem": 2200,
-      "author": 246,
-      "solver": 275
+      "problem": 2275,
+      "author": 253,
+      "solver": 286
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 24,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/112262"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/112304"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 98,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/112262"
-          },
-          {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112263"
+            "name": "美術館 by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/112306"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 54,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 367,
+        "count": 422,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 112,
+        "count": 267,
         "names": [
           {
-            "name": "Coo",
-            "url": "https://puzsq.logicpuzzle.app/?author=338"
+            "name": "MF",
+            "url": "https://puzsq.logicpuzzle.app/?author=91"
           }
         ]
       }
