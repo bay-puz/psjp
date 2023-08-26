@@ -1,45 +1,45 @@
 {
-  "day": "2023年8月25日",
+  "day": "2023年8月26日",
   "total": {
-    "problem": 23,
-    "favorite": 405,
-    "answered": 4374
+    "problem": 27,
+    "favorite": 463,
+    "answered": 3867
   },
   "count": {
     "favorite": {
-      "problem": 235,
-      "author": 101
+      "problem": 288,
+      "author": 111
     },
     "answered": {
-      "problem": 2258,
-      "author": 259,
-      "solver": 290
+      "problem": 2025,
+      "author": 252,
+      "solver": 275
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 21,
         "names": [
           {
-            "name": "ダブルチョコ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112365"
+            "name": "ダブルチョコ by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/112393"
           }
         ]
       },
       "answered": {
-        "count": 105,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/112020"
+            "name": "ヤジリン by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/112368"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 64,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 807,
+        "count": 494,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 154,
+        "count": 176,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/?author=40"
           }
         ]
       }
