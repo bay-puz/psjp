@@ -29,6 +29,7 @@
 1. Different Neighbours [🔗](https://puzsq.logicpuzzle.app/?kind=125)
 1. Disorderly Loop [🔗](https://puzsq.logicpuzzle.app/?kind=408)
 1. Double Back [🔗](https://puzsq.logicpuzzle.app/?kind=184)
+1. Double LITS [🔗](https://puzsq.logicpuzzle.app/?kind=688)
 1. Falling Letters [🔗](https://puzsq.logicpuzzle.app/?kind=148)
 1. Flexible Counters [🔗](https://puzsq.logicpuzzle.app/?kind=685)
 1. Full House [🔗](https://puzsq.logicpuzzle.app/?kind=611)
