@@ -1,19 +1,19 @@
 {
-  "day": "2023年8月28日",
+  "day": "2023年8月29日",
   "total": {
-    "problem": 28,
-    "favorite": 458,
-    "answered": 3926
+    "problem": 15,
+    "favorite": 471,
+    "answered": 3838
   },
   "count": {
     "favorite": {
-      "problem": 302,
-      "author": 108
+      "problem": 292,
+      "author": 100
     },
     "answered": {
-      "problem": 2013,
-      "author": 241,
-      "solver": 279
+      "problem": 2022,
+      "author": 252,
+      "solver": 272
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 17,
         "names": [
           {
-            "name": "スラローム by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/112203"
+            "name": "シャカシャカ by きなこ屋",
+            "url": "https://puzsq.logicpuzzle.app/share/112456"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 97,
         "names": [
           {
-            "name": "スラローム by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/112203"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/112460"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 50,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 540,
+        "count": 376,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 100,
+        "count": 105,
         "names": [
           {
-            "name": "Akairo",
-            "url": "https://puzsq.logicpuzzle.app/?author=2913"
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       }
