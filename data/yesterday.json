@@ -1,19 +1,19 @@
 {
-  "day": "2023年9月3日",
+  "day": "2023年9月4日",
   "total": {
-    "problem": 30,
-    "favorite": 758,
-    "answered": 4233
+    "problem": 26,
+    "favorite": 519,
+    "answered": 4121
   },
   "count": {
     "favorite": {
-      "problem": 506,
-      "author": 147
+      "problem": 312,
+      "author": 104
     },
     "answered": {
-      "problem": 1994,
-      "author": 248,
-      "solver": 277
+      "problem": 2131,
+      "author": 246,
+      "solver": 282
     }
   },
   "top": {
@@ -22,52 +22,48 @@
         "count": 18,
         "names": [
           {
-            "name": "ダブルチョコ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112607"
-          },
-          {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/112617"
+            "name": "ダブルチョコ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/112626"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 83,
         "names": [
           {
             "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112613"
+            "url": "https://puzsq.logicpuzzle.app/share/112641"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 44,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 377,
+        "count": 347,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 158,
+        "count": 134,
         "names": [
           {
-            "name": "ムラジ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1481"
+            "name": "Coo",
+            "url": "https://puzsq.logicpuzzle.app/?author=338"
           }
         ]
       }
