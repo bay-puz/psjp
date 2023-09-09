@@ -66,6 +66,7 @@
 1. Ovotovata [🔗](https://puzsq.logicpuzzle.app/?kind=393)
 1. Parquet [🔗](https://puzsq.logicpuzzle.app/?kind=587)
 1. Parrot Loop [🔗](https://puzsq.logicpuzzle.app/?kind=625)
+1. Penta Touch [🔗](https://puzsq.logicpuzzle.app/?kind=699)
 1. Pentominoes [🔗](https://puzsq.logicpuzzle.app/?kind=126)
 1. Pentopia [🔗](https://puzsq.logicpuzzle.app/?kind=209)
 1. Point a star [🔗](https://puzsq.logicpuzzle.app/?kind=593)
