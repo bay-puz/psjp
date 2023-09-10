@@ -1,69 +1,69 @@
 {
-  "day": "2023年9月9日",
+  "day": "2023年9月10日",
   "total": {
-    "problem": 26,
-    "favorite": 609,
-    "answered": 3902
+    "problem": 29,
+    "favorite": 512,
+    "answered": 3945
   },
   "count": {
     "favorite": {
-      "problem": 410,
-      "author": 121
+      "problem": 313,
+      "author": 109
     },
     "answered": {
-      "problem": 2269,
-      "author": 263,
-      "solver": 260
+      "problem": 2266,
+      "author": 259,
+      "solver": 248
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "ぬりかべ by 土刃",
-            "url": "https://puzsq.logicpuzzle.app/share/112752"
+            "name": "のりのり by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/112423"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 69,
         "names": [
           {
-            "name": "ましゅ by ☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/share/112745"
+            "name": "チョコバナナ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/112765"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 56,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 375,
+        "count": 383,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 114,
         "names": [
           {
-            "name": "　",
-            "url": "https://puzsq.logicpuzzle.app/?author=1517"
+            "name": "calica/sesquilinear ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2250"
           }
         ]
       }
