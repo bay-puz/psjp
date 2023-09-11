@@ -1,19 +1,19 @@
 {
-  "day": "2023年9月10日",
+  "day": "2023年9月11日",
   "total": {
-    "problem": 29,
-    "favorite": 512,
-    "answered": 3945
+    "problem": 22,
+    "favorite": 509,
+    "answered": 3793
   },
   "count": {
     "favorite": {
-      "problem": 313,
-      "author": 109
+      "problem": 290,
+      "author": 105
     },
     "answered": {
-      "problem": 2266,
-      "author": 259,
-      "solver": 248
+      "problem": 1871,
+      "author": 229,
+      "solver": 278
     }
   },
   "top": {
@@ -22,24 +22,24 @@
         "count": 17,
         "names": [
           {
-            "name": "のりのり by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/112423"
+            "name": "シャカシャカ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/112424"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 98,
         "names": [
           {
-            "name": "チョコバナナ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112765"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/112797"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 73,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 383,
+        "count": 443,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 143,
         "names": [
           {
-            "name": "calica/sesquilinear ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2250"
+            "name": "aki",
+            "url": "https://puzsq.logicpuzzle.app/?author=2478"
           }
         ]
       }
