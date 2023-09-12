@@ -167,7 +167,7 @@
 1. はしごをかけろ (Ladders) [🔗](https://puzsq.logicpuzzle.app/?kind=220)
 1. はすのしんかみの [🔗](https://puzsq.logicpuzzle.app/?kind=677)
 1. はすのみの [🔗](https://puzsq.logicpuzzle.app/?kind=678)
-1. はすのむら [🔗](https://puzsq.logicpuzzle.app/?kind=675)
+1. はすのむら (Hasunomura) [🔗](https://puzsq.logicpuzzle.app/?kind=675)
 1. はなれ組 (Hanare-gumi) [🔗](https://puzsq.logicpuzzle.app/?kind=116)
 1. ひとりにしてくれ (Hitori) [🔗](https://puzsq.logicpuzzle.app/?kind=8)
 1. ふたりにしてくれ [🔗](https://puzsq.logicpuzzle.app/?kind=316)
