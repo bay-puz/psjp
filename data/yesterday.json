@@ -1,73 +1,69 @@
 {
-  "day": "2023年9月15日",
+  "day": "2023年9月16日",
   "total": {
-    "problem": 19,
-    "favorite": 451,
-    "answered": 3684
+    "problem": 24,
+    "favorite": 549,
+    "answered": 3655
   },
   "count": {
     "favorite": {
-      "problem": 238,
-      "author": 103
+      "problem": 318,
+      "author": 113
     },
     "answered": {
-      "problem": 1958,
-      "author": 247,
-      "solver": 280
+      "problem": 1960,
+      "author": 248,
+      "solver": 278
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/112884"
+            "name": "シンカミノ by Yoshiki",
+            "url": "https://puzsq.logicpuzzle.app/share/112916"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 77,
         "names": [
           {
-            "name": "ましゅ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/112885"
-          },
-          {
-            "name": "ストストーン by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/112891"
+            "name": "シンカミノ by Yoshiki",
+            "url": "https://puzsq.logicpuzzle.app/share/112916"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 43,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 336,
+        "count": 245,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 90,
+        "count": 101,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "calica/sesquilinear ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2250"
           }
         ]
       }
