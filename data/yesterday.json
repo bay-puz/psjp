@@ -1,45 +1,61 @@
 {
-  "day": "2023年9月18日",
+  "day": "2023年9月19日",
   "total": {
-    "problem": 22,
-    "favorite": 617,
-    "answered": 4572
+    "problem": 28,
+    "favorite": 554,
+    "answered": 3954
   },
   "count": {
     "favorite": {
-      "problem": 392,
-      "author": 130
+      "problem": 304,
+      "author": 101
     },
     "answered": {
-      "problem": 2666,
-      "author": 268,
+      "problem": 2038,
+      "author": 256,
       "solver": 288
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/112967"
+            "name": "テトロチェーンＹ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/112976"
+          },
+          {
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/112992"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/112991"
+          },
+          {
+            "name": "ましゅ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/112997"
+          },
+          {
+            "name": "ヤジリン by しんたん",
+            "url": "https://puzsq.logicpuzzle.app/share/112999"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 99,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/112909"
+            "name": "ぬりかべ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/112993"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 35,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +64,7 @@
         ]
       },
       "answered": {
-        "count": 321,
+        "count": 285,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +75,11 @@
     },
     "solver": {
       "answered": {
-        "count": 224,
+        "count": 125,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "単一",
+            "url": "https://puzsq.logicpuzzle.app/?author=3076"
           }
         ]
       }
