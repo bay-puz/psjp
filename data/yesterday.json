@@ -1,19 +1,19 @@
 {
-  "day": "2023年9月19日",
+  "day": "2023年9月20日",
   "total": {
-    "problem": 28,
-    "favorite": 554,
-    "answered": 3954
+    "problem": 27,
+    "favorite": 511,
+    "answered": 4702
   },
   "count": {
     "favorite": {
-      "problem": 304,
-      "author": 101
+      "problem": 293,
+      "author": 94
     },
     "answered": {
-      "problem": 2038,
-      "author": 256,
-      "solver": 288
+      "problem": 2523,
+      "author": 269,
+      "solver": 292
     }
   },
   "top": {
@@ -22,24 +22,8 @@
         "count": 16,
         "names": [
           {
-            "name": "テトロチェーンＹ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/112976"
-          },
-          {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/112992"
-          },
-          {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/112991"
-          },
-          {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/112997"
-          },
-          {
-            "name": "ヤジリン by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/112999"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/113023"
           }
         ]
       },
@@ -47,24 +31,32 @@
         "count": 99,
         "names": [
           {
-            "name": "ぬりかべ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/112993"
+            "name": "ヤジリン by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/113025"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 39,
         "names": [
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
+          },
+          {
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+          },
+          {
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 285,
+        "count": 338,
         "names": [
           {
             "name": "K.N.Y.",
@@ -75,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 125,
+        "count": 186,
         "names": [
           {
-            "name": "単一",
-            "url": "https://puzsq.logicpuzzle.app/?author=3076"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
