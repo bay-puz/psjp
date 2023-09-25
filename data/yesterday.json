@@ -1,69 +1,69 @@
 {
-  "day": "2023年9月24日",
+  "day": "2023年9月25日",
   "total": {
-    "problem": 24,
-    "favorite": 357,
-    "answered": 3604
+    "problem": 29,
+    "favorite": 482,
+    "answered": 4132
   },
   "count": {
     "favorite": {
-      "problem": 188,
-      "author": 90
+      "problem": 229,
+      "author": 86
     },
     "answered": {
-      "problem": 1883,
-      "author": 249,
-      "solver": 286
+      "problem": 2108,
+      "author": 240,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 22,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/113148"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/113177"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 91,
         "names": [
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/112912"
+            "name": "シンプルループ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/113175"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
-        "names": [
-          {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
-          }
-        ]
-      },
-      "answered": {
-        "count": 286,
+        "count": 56,
         "names": [
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
           },
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+          }
+        ]
+      },
+      "answered": {
+        "count": 345,
+        "names": [
+          {
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 85,
+        "count": 180,
         "names": [
           {
             "name": "Tonta",
