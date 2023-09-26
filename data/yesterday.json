@@ -1,58 +1,58 @@
 {
-  "day": "2023年9月25日",
+  "day": "2023年9月26日",
   "total": {
-    "problem": 29,
-    "favorite": 482,
-    "answered": 4132
+    "problem": 26,
+    "favorite": 510,
+    "answered": 4028
   },
   "count": {
     "favorite": {
-      "problem": 229,
+      "problem": 273,
       "author": 86
     },
     "answered": {
-      "problem": 2108,
-      "author": 240,
-      "solver": 285
+      "problem": 2081,
+      "author": 247,
+      "solver": 288
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/113177"
+            "name": "シンカミノ by 土刃",
+            "url": "https://puzsq.logicpuzzle.app/share/113208"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 105,
         "names": [
           {
-            "name": "シンプルループ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/113175"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113170"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 48,
         "names": [
+          {
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
+          },
           {
             "name": "K.N.Y.",
             "url": "https://puzsq.logicpuzzle.app/?author=74"
-          },
-          {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 345,
+        "count": 344,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 139,
         "names": [
           {
-            "name": "Tonta",
-            "url": "https://puzsq.logicpuzzle.app/?author=205"
+            "name": "ネズみ公爵",
+            "url": "https://puzsq.logicpuzzle.app/?author=1291"
           }
         ]
       }

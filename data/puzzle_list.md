@@ -6,6 +6,7 @@
 1. ??????? [🔗](https://puzsq.logicpuzzle.app/?kind=194)
 1. ABCプレース (Easy as ABC) [🔗](https://puzsq.logicpuzzle.app/?kind=91)
 1. Akichiwake [🔗](https://puzsq.logicpuzzle.app/?kind=621)
+1. Alcazar [🔗](https://puzsq.logicpuzzle.app/?kind=704)
 1. Ant Mill [🔗](https://puzsq.logicpuzzle.app/?kind=572)
 1. Aqre [🔗](https://puzsq.logicpuzzle.app/?kind=224)
 1. Arboretum [🔗](https://puzsq.logicpuzzle.app/?kind=396)
