@@ -1,58 +1,58 @@
 {
-  "day": "2023年9月26日",
+  "day": "2023年9月27日",
   "total": {
-    "problem": 26,
-    "favorite": 510,
-    "answered": 4028
+    "problem": 17,
+    "favorite": 494,
+    "answered": 4063
   },
   "count": {
     "favorite": {
-      "problem": 273,
-      "author": 86
+      "problem": 303,
+      "author": 105
     },
     "answered": {
-      "problem": 2081,
-      "author": 247,
-      "solver": 288
+      "problem": 2474,
+      "author": 262,
+      "solver": 275
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 17,
         "names": [
           {
-            "name": "シンカミノ by 土刃",
-            "url": "https://puzsq.logicpuzzle.app/share/113208"
+            "name": "チョコバナナ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/113214"
           }
         ]
       },
       "answered": {
-        "count": 105,
+        "count": 78,
         "names": [
           {
-            "name": "へやわけ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113170"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113198"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/113222"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 50,
         "names": [
           {
             "name": "鷹野リン",
             "url": "https://puzsq.logicpuzzle.app/?author=584"
-          },
-          {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 344,
+        "count": 314,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +63,15 @@
     },
     "solver": {
       "answered": {
-        "count": 139,
+        "count": 113,
         "names": [
           {
-            "name": "ネズみ公爵",
-            "url": "https://puzsq.logicpuzzle.app/?author=1291"
+            "name": "単一",
+            "url": "https://puzsq.logicpuzzle.app/?author=3076"
+          },
+          {
+            "name": "MF",
+            "url": "https://puzsq.logicpuzzle.app/?author=91"
           }
         ]
       }
