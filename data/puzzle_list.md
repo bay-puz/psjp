@@ -9,6 +9,7 @@
 1. Alcazar [🔗](https://puzsq.logicpuzzle.app/?kind=704)
 1. Ant Mill [🔗](https://puzsq.logicpuzzle.app/?kind=572)
 1. Aqre [🔗](https://puzsq.logicpuzzle.app/?kind=224)
+1. Aquapelago [🔗](https://puzsq.logicpuzzle.app/?kind=705)
 1. Arboretum [🔗](https://puzsq.logicpuzzle.app/?kind=396)
 1. Arrow Loop [🔗](https://puzsq.logicpuzzle.app/?kind=622)
 1. Arrows [🔗](https://puzsq.logicpuzzle.app/?kind=662)
