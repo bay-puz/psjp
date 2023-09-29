@@ -1,73 +1,69 @@
 {
-  "day": "2023年9月28日",
+  "day": "2023年9月29日",
   "total": {
-    "problem": 40,
-    "favorite": 530,
-    "answered": 4147
+    "problem": 44,
+    "favorite": 745,
+    "answered": 5630
   },
   "count": {
     "favorite": {
-      "problem": 332,
-      "author": 107
+      "problem": 331,
+      "author": 110
     },
     "answered": {
-      "problem": 2307,
-      "author": 263,
-      "solver": 302
+      "problem": 2384,
+      "author": 272,
+      "solver": 293
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113221"
-          },
-          {
-            "name": "ヤジリン by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/113239"
+            "name": "Aquapelago by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/113290"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 90,
         "names": [
           {
-            "name": "美術館 by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/112960"
+            "name": "シンプルループ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/113292"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 113,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "くらのすけ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3071"
           }
         ]
       },
       "answered": {
-        "count": 360,
+        "count": 814,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "くらのすけ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3071"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 187,
+        "count": 132,
         "names": [
           {
-            "name": "cn449",
-            "url": "https://puzsq.logicpuzzle.app/?author=835"
+            "name": "calica/sesquilinear ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2250"
           }
         ]
       }
