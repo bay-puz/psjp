@@ -1,69 +1,69 @@
 {
-  "day": "2023年9月29日",
+  "day": "2023年9月30日",
   "total": {
-    "problem": 44,
-    "favorite": 745,
-    "answered": 5630
+    "problem": 27,
+    "favorite": 809,
+    "answered": 4699
   },
   "count": {
     "favorite": {
-      "problem": 331,
-      "author": 110
+      "problem": 494,
+      "author": 143
     },
     "answered": {
-      "problem": 2384,
-      "author": 272,
-      "solver": 293
+      "problem": 2437,
+      "author": 256,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 24,
         "names": [
           {
-            "name": "Aquapelago by Menderbug ",
-            "url": "https://puzsq.logicpuzzle.app/share/113290"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/113332"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 96,
         "names": [
           {
-            "name": "シンプルループ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/113292"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/113332"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 113,
+        "count": 75,
         "names": [
           {
-            "name": "くらのすけ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3071"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 814,
+        "count": 331,
         "names": [
           {
-            "name": "くらのすけ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3071"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 484,
         "names": [
           {
-            "name": "calica/sesquilinear ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2250"
+            "name": "Tonta",
+            "url": "https://puzsq.logicpuzzle.app/?author=205"
           }
         ]
       }
