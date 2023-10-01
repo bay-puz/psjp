@@ -1,29 +1,29 @@
 {
-  "day": "2023年9月30日",
+  "day": "2023年10月1日",
   "total": {
-    "problem": 27,
-    "favorite": 809,
-    "answered": 4699
+    "problem": 38,
+    "favorite": 636,
+    "answered": 4913
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 143
+      "problem": 337,
+      "author": 122
     },
     "answered": {
-      "problem": 2437,
-      "author": 256,
-      "solver": 276
+      "problem": 2149,
+      "author": 264,
+      "solver": 272
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/113332"
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/113353"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 96,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/113332"
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/113353"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 55,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 331,
+        "count": 426,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 484,
+        "count": 135,
         "names": [
           {
-            "name": "Tonta",
-            "url": "https://puzsq.logicpuzzle.app/?author=205"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
