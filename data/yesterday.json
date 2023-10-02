@@ -1,29 +1,29 @@
 {
-  "day": "2023年10月1日",
+  "day": "2023年10月2日",
   "total": {
-    "problem": 38,
-    "favorite": 636,
-    "answered": 4913
+    "problem": 27,
+    "favorite": 659,
+    "answered": 5022
   },
   "count": {
     "favorite": {
-      "problem": 337,
+      "problem": 348,
       "author": 122
     },
     "answered": {
-      "problem": 2149,
-      "author": 264,
-      "solver": 272
+      "problem": 1991,
+      "author": 250,
+      "solver": 287
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/113353"
+            "name": "美術館 by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/113370"
           }
         ]
       },
@@ -31,15 +31,15 @@
         "count": 96,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/113353"
+            "name": "美術館 by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/113370"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 81,
         "names": [
           {
             "name": "kaito1099511627776",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 426,
+        "count": 714,
         "names": [
           {
             "name": "kaito1099511627776",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 135,
+        "count": 179,
         "names": [
           {
             "name": "まえだ",
