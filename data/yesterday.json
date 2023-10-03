@@ -1,65 +1,69 @@
 {
-  "day": "2023年10月2日",
+  "day": "2023年10月3日",
   "total": {
     "problem": 27,
-    "favorite": 659,
-    "answered": 5022
+    "favorite": 582,
+    "answered": 4189
   },
   "count": {
     "favorite": {
-      "problem": 348,
-      "author": 122
+      "problem": 360,
+      "author": 132
     },
     "answered": {
-      "problem": 1991,
-      "author": 250,
-      "solver": 287
+      "problem": 2098,
+      "author": 256,
+      "solver": 274
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 24,
         "names": [
           {
-            "name": "美術館 by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/113370"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/113422"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 85,
         "names": [
           {
-            "name": "美術館 by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/113370"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113408"
+          },
+          {
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/113422"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 53,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 714,
+        "count": 354,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 137,
         "names": [
           {
             "name": "まえだ",
