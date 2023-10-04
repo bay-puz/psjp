@@ -1,73 +1,73 @@
 {
-  "day": "2023年10月3日",
+  "day": "2023年10月4日",
   "total": {
-    "problem": 27,
-    "favorite": 582,
-    "answered": 4189
+    "problem": 33,
+    "favorite": 691,
+    "answered": 5154
   },
   "count": {
     "favorite": {
-      "problem": 360,
-      "author": 132
+      "problem": 356,
+      "author": 105
     },
     "answered": {
-      "problem": 2098,
-      "author": 256,
-      "solver": 274
+      "problem": 2243,
+      "author": 252,
+      "solver": 289
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 21,
         "names": [
           {
             "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/113422"
+            "url": "https://puzsq.logicpuzzle.app/share/113457"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 92,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113408"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113412"
           },
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/113422"
+            "name": "シンプルループ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/113441"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 60,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 354,
+        "count": 362,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "くらのすけ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3071"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 137,
+        "count": 175,
         "names": [
           {
-            "name": "まえだ",
-            "url": "https://puzsq.logicpuzzle.app/?author=107"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
