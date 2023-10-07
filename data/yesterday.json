@@ -1,45 +1,45 @@
 {
-  "day": "2023年10月6日",
+  "day": "2023年10月7日",
   "total": {
-    "problem": 22,
-    "favorite": 577,
-    "answered": 3924
+    "problem": 27,
+    "favorite": 637,
+    "answered": 4189
   },
   "count": {
     "favorite": {
-      "problem": 366,
-      "author": 118
+      "problem": 448,
+      "author": 137
     },
     "answered": {
-      "problem": 2139,
-      "author": 260,
-      "solver": 291
+      "problem": 2224,
+      "author": 256,
+      "solver": 286
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 25,
         "names": [
           {
-            "name": "ましゅ by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/113500"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113507"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 90,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/113496"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113507"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 47,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 298,
+        "count": 320,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,15 @@
     },
     "solver": {
       "answered": {
-        "count": 125,
+        "count": 139,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+          },
+          {
+            "name": "tat",
+            "url": "https://puzsq.logicpuzzle.app/?author=2888"
           }
         ]
       }
