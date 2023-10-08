@@ -1,73 +1,69 @@
 {
-  "day": "2023年10月7日",
+  "day": "2023年10月8日",
   "total": {
-    "problem": 27,
-    "favorite": 637,
-    "answered": 4189
+    "problem": 41,
+    "favorite": 767,
+    "answered": 5031
   },
   "count": {
     "favorite": {
-      "problem": 448,
-      "author": 137
+      "problem": 494,
+      "author": 150
     },
     "answered": {
-      "problem": 2224,
-      "author": 256,
-      "solver": 286
+      "problem": 2302,
+      "author": 261,
+      "solver": 279
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113507"
+            "name": "ぬりかべ by ねむい",
+            "url": "https://puzsq.logicpuzzle.app/share/113551"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113507"
+            "name": "ヤジリン by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/113542"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 52,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "G414xy",
+            "url": "https://puzsq.logicpuzzle.app/?author=2726"
           }
         ]
       },
       "answered": {
-        "count": 320,
+        "count": 519,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "G414xy",
+            "url": "https://puzsq.logicpuzzle.app/?author=2726"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 139,
+        "count": 161,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
-          },
-          {
-            "name": "tat",
-            "url": "https://puzsq.logicpuzzle.app/?author=2888"
+            "name": "taso",
+            "url": "https://puzsq.logicpuzzle.app/?author=611"
           }
         ]
       }
