@@ -1,45 +1,53 @@
 {
-  "day": "2023年10月8日",
+  "day": "2023年10月9日",
   "total": {
-    "problem": 41,
-    "favorite": 767,
-    "answered": 5031
+    "problem": 36,
+    "favorite": 701,
+    "answered": 5342
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 150
+      "problem": 380,
+      "author": 109
     },
     "answered": {
-      "problem": 2302,
-      "author": 261,
-      "solver": 279
+      "problem": 2428,
+      "author": 270,
+      "solver": 302
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 21,
         "names": [
           {
-            "name": "ぬりかべ by ねむい",
-            "url": "https://puzsq.logicpuzzle.app/share/113551"
+            "name": "へやわけ by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113582"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 86,
         "names": [
           {
-            "name": "ヤジリン by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/113542"
+            "name": "ましゅ by wolog",
+            "url": "https://puzsq.logicpuzzle.app/share/113584"
+          },
+          {
+            "name": "美術館 by G414xy",
+            "url": "https://puzsq.logicpuzzle.app/share/113589"
+          },
+          {
+            "name": "ヤジリン by 畠入",
+            "url": "https://puzsq.logicpuzzle.app/share/113592"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 62,
         "names": [
           {
             "name": "G414xy",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 519,
+        "count": 686,
         "names": [
           {
             "name": "G414xy",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 161,
+        "count": 227,
         "names": [
           {
-            "name": "taso",
-            "url": "https://puzsq.logicpuzzle.app/?author=611"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
