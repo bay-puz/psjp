@@ -1,77 +1,73 @@
 {
-  "day": "2023年10月9日",
+  "day": "2023年10月10日",
   "total": {
-    "problem": 36,
-    "favorite": 701,
-    "answered": 5342
+    "problem": 39,
+    "favorite": 638,
+    "answered": 4721
   },
   "count": {
     "favorite": {
-      "problem": 380,
-      "author": 109
+      "problem": 372,
+      "author": 128
     },
     "answered": {
-      "problem": 2428,
-      "author": 270,
-      "solver": 302
+      "problem": 2086,
+      "author": 257,
+      "solver": 303
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/113582"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/113612"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 78,
         "names": [
           {
-            "name": "ましゅ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/113584"
-          },
-          {
-            "name": "美術館 by G414xy",
-            "url": "https://puzsq.logicpuzzle.app/share/113589"
-          },
-          {
-            "name": "ヤジリン by 畠入",
-            "url": "https://puzsq.logicpuzzle.app/share/113592"
+            "name": "ましゅ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/113610"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 39,
         "names": [
           {
-            "name": "G414xy",
-            "url": "https://puzsq.logicpuzzle.app/?author=2726"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 686,
+        "count": 308,
         "names": [
           {
             "name": "G414xy",
             "url": "https://puzsq.logicpuzzle.app/?author=2726"
+          },
+          {
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 227,
+        "count": 117,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "calica/sesquilinear ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2250"
           }
         ]
       }
