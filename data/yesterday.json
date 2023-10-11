@@ -1,59 +1,55 @@
 {
-  "day": "2023年10月10日",
+  "day": "2023年10月11日",
   "total": {
-    "problem": 39,
-    "favorite": 638,
-    "answered": 4721
+    "problem": 40,
+    "favorite": 652,
+    "answered": 5121
   },
   "count": {
     "favorite": {
-      "problem": 372,
-      "author": 128
+      "problem": 277,
+      "author": 98
     },
     "answered": {
-      "problem": 2086,
-      "author": 257,
-      "solver": 303
+      "problem": 2110,
+      "author": 253,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 26,
         "names": [
           {
-            "name": "チョコバナナ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/113612"
+            "name": "Aquapelago by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/113676"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 97,
         "names": [
           {
-            "name": "ましゅ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/113610"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/113375"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 39,
+        "count": 71,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 308,
+        "count": 511,
         "names": [
-          {
-            "name": "G414xy",
-            "url": "https://puzsq.logicpuzzle.app/?author=2726"
-          },
           {
             "name": "kaito1099511627776",
             "url": "https://puzsq.logicpuzzle.app/?author=2479"
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 117,
+        "count": 244,
         "names": [
           {
-            "name": "calica/sesquilinear ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2250"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
