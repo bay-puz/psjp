@@ -1,45 +1,45 @@
 {
-  "day": "2023年10月11日",
+  "day": "2023年10月12日",
   "total": {
-    "problem": 40,
-    "favorite": 652,
-    "answered": 5121
+    "problem": 24,
+    "favorite": 634,
+    "answered": 4877
   },
   "count": {
     "favorite": {
-      "problem": 277,
-      "author": 98
+      "problem": 344,
+      "author": 120
     },
     "answered": {
-      "problem": 2110,
-      "author": 253,
-      "solver": 308
+      "problem": 2370,
+      "author": 279,
+      "solver": 323
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 24,
         "names": [
           {
-            "name": "Aquapelago by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/113676"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/113689"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 98,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/113375"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/113685"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 40,
         "names": [
           {
             "name": "kaito1099511627776",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 511,
+        "count": 369,
         "names": [
           {
             "name": "kaito1099511627776",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 244,
+        "count": 329,
         "names": [
           {
             "name": "落葉子",
