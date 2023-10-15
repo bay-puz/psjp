@@ -1,65 +1,65 @@
 {
-  "day": "2023年10月14日",
+  "day": "2023年10月15日",
   "total": {
-    "problem": 27,
-    "favorite": 675,
-    "answered": 4535
+    "problem": 37,
+    "favorite": 592,
+    "answered": 4628
   },
   "count": {
     "favorite": {
-      "problem": 413,
-      "author": 139
+      "problem": 330,
+      "author": 109
     },
     "answered": {
-      "problem": 2282,
-      "author": 250,
-      "solver": 304
+      "problem": 2280,
+      "author": 251,
+      "solver": 294
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 20,
         "names": [
           {
-            "name": "ダブルチョコ by はっちゅ",
-            "url": "https://puzsq.logicpuzzle.app/share/113737"
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/113759"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 82,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/113678"
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/113759"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 65,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 392,
+        "count": 528,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 238,
         "names": [
           {
             "name": "落葉子",
