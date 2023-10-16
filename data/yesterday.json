@@ -1,69 +1,69 @@
 {
-  "day": "2023年10月15日",
+  "day": "2023年10月16日",
   "total": {
-    "problem": 37,
-    "favorite": 592,
-    "answered": 4628
+    "problem": 29,
+    "favorite": 620,
+    "answered": 3899
   },
   "count": {
     "favorite": {
-      "problem": 330,
-      "author": 109
+      "problem": 364,
+      "author": 114
     },
     "answered": {
-      "problem": 2280,
-      "author": 251,
-      "solver": 294
+      "problem": 1744,
+      "author": 242,
+      "solver": 289
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/113759"
+            "name": "ダブルチョコ by 土刃",
+            "url": "https://puzsq.logicpuzzle.app/share/113810"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 89,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/113759"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/113802"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 52,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 528,
+        "count": 313,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 238,
+        "count": 102,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "柚梨葉",
+            "url": "https://puzsq.logicpuzzle.app/?author=2807"
           }
         ]
       }
