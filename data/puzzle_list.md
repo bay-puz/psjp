@@ -95,6 +95,7 @@
 1. Starry Knights [🔗](https://puzsq.logicpuzzle.app/?kind=661)
 1. Statue Park [🔗](https://puzsq.logicpuzzle.app/?kind=123)
 1. Subwhirl [🔗](https://puzsq.logicpuzzle.app/?kind=509)
+1. Tachiawase Block [🔗](https://puzsq.logicpuzzle.app/?kind=707)
 1. Tapa [🔗](https://puzsq.logicpuzzle.app/?kind=26)
 1. Tapa-Like Loop [🔗](https://puzsq.logicpuzzle.app/?kind=226)
 1. Tents [🔗](https://puzsq.logicpuzzle.app/?kind=171)
