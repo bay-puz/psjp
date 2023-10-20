@@ -1,69 +1,69 @@
 {
-  "day": "2023年10月19日",
+  "day": "2023年10月20日",
   "total": {
-    "problem": 26,
-    "favorite": 557,
-    "answered": 3922
+    "problem": 38,
+    "favorite": 645,
+    "answered": 4619
   },
   "count": {
     "favorite": {
-      "problem": 346,
-      "author": 95
+      "problem": 344,
+      "author": 106
     },
     "answered": {
-      "problem": 1814,
-      "author": 242,
-      "solver": 298
+      "problem": 2108,
+      "author": 237,
+      "solver": 301
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 22,
         "names": [
           {
-            "name": "フィルオミノ by G414xy",
-            "url": "https://puzsq.logicpuzzle.app/share/113896"
+            "name": "ダブルチョコ by 連打",
+            "url": "https://puzsq.logicpuzzle.app/share/113939"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 101,
         "names": [
           {
-            "name": "フィルオミノ by G414xy",
-            "url": "https://puzsq.logicpuzzle.app/share/113896"
+            "name": "美術館 by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/113781"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 61,
         "names": [
           {
-            "name": "G414xy",
-            "url": "https://puzsq.logicpuzzle.app/?author=2726"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 414,
+        "count": 519,
         "names": [
           {
-            "name": "G414xy",
-            "url": "https://puzsq.logicpuzzle.app/?author=2726"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 116,
         "names": [
           {
-            "name": "柚梨葉",
-            "url": "https://puzsq.logicpuzzle.app/?author=2807"
+            "name": "edderiofer",
+            "url": "https://puzsq.logicpuzzle.app/?author=268"
           }
         ]
       }
