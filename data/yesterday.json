@@ -1,69 +1,73 @@
 {
-  "day": "2023年10月22日",
+  "day": "2023年10月23日",
   "total": {
-    "problem": 35,
-    "favorite": 605,
-    "answered": 4282
+    "problem": 29,
+    "favorite": 719,
+    "answered": 4416
   },
   "count": {
     "favorite": {
-      "problem": 354,
-      "author": 127
+      "problem": 397,
+      "author": 128
     },
     "answered": {
-      "problem": 2111,
-      "author": 242,
-      "solver": 282
+      "problem": 1933,
+      "author": 252,
+      "solver": 298
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 31,
+        "count": 16,
         "names": [
           {
+            "name": "スリザーリンク / Fences by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/114019"
+          },
+          {
             "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/113944"
+            "url": "https://puzsq.logicpuzzle.app/share/113945"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 79,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/113989"
+            "name": "ヤジリン by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/114025"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 70,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 271,
+        "count": 329,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 100,
+        "count": 121,
         "names": [
           {
-            "name": "ugly2333",
-            "url": "https://puzsq.logicpuzzle.app/?author=1070"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
