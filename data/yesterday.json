@@ -1,19 +1,19 @@
 {
-  "day": "2023年10月23日",
+  "day": "2023年10月24日",
   "total": {
-    "problem": 29,
-    "favorite": 719,
-    "answered": 4416
+    "problem": 26,
+    "favorite": 546,
+    "answered": 3981
   },
   "count": {
     "favorite": {
-      "problem": 397,
-      "author": 128
+      "problem": 317,
+      "author": 102
     },
     "answered": {
-      "problem": 1933,
-      "author": 252,
-      "solver": 298
+      "problem": 2067,
+      "author": 256,
+      "solver": 297
     }
   },
   "top": {
@@ -22,28 +22,28 @@
         "count": 16,
         "names": [
           {
-            "name": "スリザーリンク / Fences by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/114019"
+            "name": "美術館 by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/114048"
           },
           {
-            "name": "ヤジリン by SAnd",
-            "url": "https://puzsq.logicpuzzle.app/share/113945"
+            "name": "スターバトル by しんたん",
+            "url": "https://puzsq.logicpuzzle.app/share/114054"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/114025"
+            "name": "美術館 by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/114048"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 60,
         "names": [
           {
             "name": "ぶすじま",
@@ -52,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 329,
+        "count": 313,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 121,
+        "count": 93,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "　",
+            "url": "https://puzsq.logicpuzzle.app/?author=1517"
           }
         ]
       }
