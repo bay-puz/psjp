@@ -1,58 +1,54 @@
 {
-  "day": "2023年10月24日",
+  "day": "2023年10月25日",
   "total": {
-    "problem": 26,
-    "favorite": 546,
-    "answered": 3981
+    "problem": 24,
+    "favorite": 540,
+    "answered": 4290
   },
   "count": {
     "favorite": {
-      "problem": 317,
-      "author": 102
+      "problem": 267,
+      "author": 106
     },
     "answered": {
-      "problem": 2067,
-      "author": 256,
-      "solver": 297
+      "problem": 2255,
+      "author": 264,
+      "solver": 301
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 26,
         "names": [
           {
-            "name": "美術館 by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/114048"
-          },
-          {
-            "name": "スターバトル by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/114054"
+            "name": "美術館 by geq0",
+            "url": "https://puzsq.logicpuzzle.app/share/114069"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 112,
         "names": [
           {
-            "name": "美術館 by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/114048"
+            "name": "美術館 by geq0",
+            "url": "https://puzsq.logicpuzzle.app/share/114069"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 44,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 313,
+        "count": 339,
         "names": [
           {
             "name": "K.N.Y.",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 93,
+        "count": 108,
         "names": [
           {
-            "name": "　",
-            "url": "https://puzsq.logicpuzzle.app/?author=1517"
+            "name": "羊飼い",
+            "url": "https://puzsq.logicpuzzle.app/?author=2041"
           }
         ]
       }
