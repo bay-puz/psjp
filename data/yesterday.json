@@ -1,54 +1,58 @@
 {
-  "day": "2023年10月27日",
+  "day": "2023年10月28日",
   "total": {
-    "problem": 22,
-    "favorite": 487,
-    "answered": 4579
+    "problem": 26,
+    "favorite": 516,
+    "answered": 4424
   },
   "count": {
     "favorite": {
-      "problem": 237,
-      "author": 103
+      "problem": 308,
+      "author": 105
     },
     "answered": {
-      "problem": 2389,
-      "author": 263,
-      "solver": 320
+      "problem": 2302,
+      "author": 242,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 18,
         "names": [
           {
-            "name": "ましゅ by Agent",
-            "url": "https://puzsq.logicpuzzle.app/share/114124"
+            "name": "ましゅ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/114000"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 104,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/114112"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/114151"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 44,
         "names": [
           {
             "name": "Yu-ri",
             "url": "https://puzsq.logicpuzzle.app/?author=2638"
+          },
+          {
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 448,
+        "count": 397,
         "names": [
           {
             "name": "Yu-ri",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 101,
+        "count": 132,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "ろしにょる",
+            "url": "https://puzsq.logicpuzzle.app/?author=2985"
           }
         ]
       }
