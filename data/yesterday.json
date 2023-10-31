@@ -1,45 +1,45 @@
 {
-  "day": "2023年10月30日",
+  "day": "2023年10月31日",
   "total": {
-    "problem": 18,
-    "favorite": 718,
-    "answered": 4510
+    "problem": 33,
+    "favorite": 689,
+    "answered": 4585
   },
   "count": {
     "favorite": {
-      "problem": 481,
-      "author": 141
+      "problem": 420,
+      "author": 129
     },
     "answered": {
-      "problem": 2573,
-      "author": 262,
-      "solver": 309
+      "problem": 2486,
+      "author": 261,
+      "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 25,
         "names": [
           {
-            "name": "ヤジリン by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/114210"
+            "name": "チョコバナナ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/114003"
           }
         ]
       },
       "answered": {
-        "count": 103,
+        "count": 80,
         "names": [
           {
-            "name": "ヤジリン by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/114210"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/114133"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 52,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 304,
+        "count": 309,
         "names": [
           {
             "name": "K.N.Y.",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 137,
+        "count": 130,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "foolish",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }

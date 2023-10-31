@@ -221,6 +221,7 @@
 1. オビグル [🔗](https://puzsq.logicpuzzle.app/?kind=546)
 1. オルタネーション (Alternation) [🔗](https://puzsq.logicpuzzle.app/?kind=708)
 1. オレサッカー (Ore-Soccer) [🔗](https://puzsq.logicpuzzle.app/?kind=589)
+1. オールｏｒナッシング (All or Nothing) [🔗](https://puzsq.logicpuzzle.app/?kind=709)
 1. カウントダウン [🔗](https://puzsq.logicpuzzle.app/?kind=334)
 1. カウントダウンタイル [🔗](https://puzsq.logicpuzzle.app/?kind=346)
 1. カウントリンク [🔗](https://puzsq.logicpuzzle.app/?kind=376)
