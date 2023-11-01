@@ -322,7 +322,7 @@
 1. ダウンダウン [🔗](https://puzsq.logicpuzzle.app/?kind=223)
 1. ダブルチョコ (Double Choco) [🔗](https://puzsq.logicpuzzle.app/?kind=66)
 1. ダブルパイプリンク [🔗](https://puzsq.logicpuzzle.app/?kind=517)
-1. ダンス・アンド・ダンス [🔗](https://puzsq.logicpuzzle.app/?kind=597)
+1. ダンス・アンド・ダンス (Dance and Dance) [🔗](https://puzsq.logicpuzzle.app/?kind=597)
 1. ダンベル [🔗](https://puzsq.logicpuzzle.app/?kind=702)
 1. チェンブロ (Chained Block) [🔗](https://puzsq.logicpuzzle.app/?kind=381)
 1. チューテンリンク [🔗](https://puzsq.logicpuzzle.app/?kind=552)
