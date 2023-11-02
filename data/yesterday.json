@@ -1,69 +1,69 @@
 {
-  "day": "2023年11月1日",
+  "day": "2023年11月2日",
   "total": {
-    "problem": 30,
-    "favorite": 641,
-    "answered": 5090
+    "problem": 40,
+    "favorite": 681,
+    "answered": 4132
   },
   "count": {
     "favorite": {
-      "problem": 309,
-      "author": 110
+      "problem": 391,
+      "author": 120
     },
     "answered": {
-      "problem": 2436,
-      "author": 261,
+      "problem": 2069,
+      "author": 257,
       "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "チョコバナナ by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/114253"
+            "name": "オールｏｒナッシング by 稲葉直貴",
+            "url": "https://puzsq.logicpuzzle.app/share/114308"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 87,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/114237"
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/114285"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 94,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 496,
+        "count": 453,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 208,
+        "count": 107,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "TKTYI",
+            "url": "https://puzsq.logicpuzzle.app/?author=2935"
           }
         ]
       }
