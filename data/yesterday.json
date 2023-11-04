@@ -1,19 +1,19 @@
 {
-  "day": "2023年11月3日",
+  "day": "2023年11月4日",
   "total": {
-    "problem": 42,
-    "favorite": 705,
-    "answered": 4861
+    "problem": 33,
+    "favorite": 618,
+    "answered": 4665
   },
   "count": {
     "favorite": {
-      "problem": 419,
-      "author": 115
+      "problem": 333,
+      "author": 116
     },
     "answered": {
-      "problem": 2442,
-      "author": 271,
-      "solver": 303
+      "problem": 2197,
+      "author": 267,
+      "solver": 288
     }
   },
   "top": {
@@ -22,37 +22,33 @@
         "count": 17,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/114329"
-          },
-          {
-            "name": "Castle Wall by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/114193"
+            "name": "フィルオミノ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/114365"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 87,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/114329"
+            "name": "ヤジリン by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/114363"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 64,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 396,
+        "count": 430,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,15 @@
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 149,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "TKTYI",
+            "url": "https://puzsq.logicpuzzle.app/?author=2935"
+          },
+          {
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
