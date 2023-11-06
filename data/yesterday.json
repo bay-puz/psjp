@@ -1,54 +1,54 @@
 {
-  "day": "2023年11月5日",
+  "day": "2023年11月6日",
   "total": {
-    "problem": 39,
-    "favorite": 587,
-    "answered": 4718
+    "problem": 43,
+    "favorite": 622,
+    "answered": 4590
   },
   "count": {
     "favorite": {
-      "problem": 339,
-      "author": 105
+      "problem": 326,
+      "author": 114
     },
     "answered": {
-      "problem": 2076,
-      "author": 249,
-      "solver": 319
+      "problem": 2153,
+      "author": 257,
+      "solver": 301
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/114416"
+            "name": "オールｏｒナッシング by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/114466"
           }
         ]
       },
       "answered": {
-        "count": 109,
+        "count": 79,
         "names": [
           {
-            "name": "美術館 by SP1",
-            "url": "https://puzsq.logicpuzzle.app/share/114407"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/114469"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 102,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 658,
+        "count": 706,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 132,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "foolish",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
