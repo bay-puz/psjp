@@ -59,6 +59,7 @@
 1. Lohkous [🔗](https://puzsq.logicpuzzle.app/?kind=388)
 1. Magnets [🔗](https://puzsq.logicpuzzle.app/?kind=218)
 1. Make a Maze [🔗](https://puzsq.logicpuzzle.app/?kind=247)
+1. Mannequin Gate [🔗](https://puzsq.logicpuzzle.app/?kind=710)
 1. Maxi Loop [🔗](https://puzsq.logicpuzzle.app/?kind=191)
 1. Mini Coral [🔗](https://puzsq.logicpuzzle.app/?kind=230)
 1. Mukkonn Enn [🔗](https://puzsq.logicpuzzle.app/?kind=706)

@@ -1,45 +1,45 @@
 {
-  "day": "2023年11月6日",
+  "day": "2023年11月7日",
   "total": {
-    "problem": 43,
-    "favorite": 622,
-    "answered": 4590
+    "problem": 56,
+    "favorite": 748,
+    "answered": 5587
   },
   "count": {
     "favorite": {
-      "problem": 326,
-      "author": 114
+      "problem": 397,
+      "author": 132
     },
     "answered": {
-      "problem": 2153,
-      "author": 257,
-      "solver": 301
+      "problem": 2642,
+      "author": 265,
+      "solver": 334
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 21,
         "names": [
           {
-            "name": "オールｏｒナッシング by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/114466"
+            "name": "へやわけ by Akairo",
+            "url": "https://puzsq.logicpuzzle.app/share/114531"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/114469"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/114491"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 102,
+        "count": 64,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 706,
+        "count": 501,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 599,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "sevenkplus",
+            "url": "https://puzsq.logicpuzzle.app/?author=772"
           }
         ]
       }
