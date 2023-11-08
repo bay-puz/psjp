@@ -1,45 +1,45 @@
 {
-  "day": "2023年11月7日",
+  "day": "2023年11月8日",
   "total": {
-    "problem": 56,
-    "favorite": 748,
-    "answered": 5587
+    "problem": 44,
+    "favorite": 658,
+    "answered": 5198
   },
   "count": {
     "favorite": {
-      "problem": 397,
-      "author": 132
+      "problem": 382,
+      "author": 116
     },
     "answered": {
-      "problem": 2642,
-      "author": 265,
-      "solver": 334
+      "problem": 2577,
+      "author": 273,
+      "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by Akairo",
-            "url": "https://puzsq.logicpuzzle.app/share/114531"
+            "name": "∀人∃ＨＥＹＡ by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/114553"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 80,
         "names": [
           {
             "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/114491"
+            "url": "https://puzsq.logicpuzzle.app/share/114549"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 72,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 501,
+        "count": 605,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 599,
+        "count": 179,
         "names": [
           {
             "name": "sevenkplus",
