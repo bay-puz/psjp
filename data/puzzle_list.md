@@ -516,6 +516,7 @@
 1. 家族写真 (Family Photo) [🔗](https://puzsq.logicpuzzle.app/?kind=241)
 1. 対称星 [🔗](https://puzsq.logicpuzzle.app/?kind=695)
 1. 島国 (Islands / Shimaguni) [🔗](https://puzsq.logicpuzzle.app/?kind=32)
+1. 島国のカクテル [🔗](https://puzsq.logicpuzzle.app/?kind=712)
 1. 帰ってきたパイプリンク (Pipelink Returns) [🔗](https://puzsq.logicpuzzle.app/?kind=243)
 1. 愛のカタチ (It's Yours) [🔗](https://puzsq.logicpuzzle.app/?kind=590)
 1. 拡張四方リンク [🔗](https://puzsq.logicpuzzle.app/?kind=516)
