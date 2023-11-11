@@ -519,7 +519,7 @@
 1. 島国 (Islands / Shimaguni) [🔗](https://puzsq.logicpuzzle.app/?kind=32)
 1. 島国のカクテル [🔗](https://puzsq.logicpuzzle.app/?kind=712)
 1. 帰ってきたパイプリンク (Pipelink Returns) [🔗](https://puzsq.logicpuzzle.app/?kind=243)
-1. 快刀乱麻 [🔗](https://puzsq.logicpuzzle.app/?kind=714)
+1. 快刀乱麻 (KaitoRamma) [🔗](https://puzsq.logicpuzzle.app/?kind=714)
 1. 愛のカタチ (It's Yours) [🔗](https://puzsq.logicpuzzle.app/?kind=590)
 1. 拡張四方リンク [🔗](https://puzsq.logicpuzzle.app/?kind=516)
 1. 推理クロス [🔗](https://puzsq.logicpuzzle.app/?kind=87)
