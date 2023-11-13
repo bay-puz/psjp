@@ -2921,7 +2921,7 @@
   },
   "695": {
     "name": "対称星",
-    "name_e": "",
+    "name_e": "Taisho Hoshi",
     "category": 5
   },
   "696": {
@@ -3010,7 +3010,7 @@
     "category": 3
   },
   "713": {
-    "name": "",
+    "name": "Tring-tring",
     "name_e": "Tring-tring",
     "category": 2
   },
@@ -3018,6 +3018,11 @@
     "name": "快刀乱麻",
     "name_e": "KaitoRamma",
     "category": 5
+  },
+  "715": {
+    "name": "",
+    "name_e": "Dotted Tetromino",
+    "category": 4
   },
   "-2": {
     "name": "Instructionless",
