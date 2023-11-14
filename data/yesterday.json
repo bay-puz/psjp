@@ -1,54 +1,54 @@
 {
-  "day": "2023年11月13日",
+  "day": "2023年11月14日",
   "total": {
-    "problem": 62,
-    "favorite": 629,
-    "answered": 4787
+    "problem": 50,
+    "favorite": 700,
+    "answered": 5087
   },
   "count": {
     "favorite": {
-      "problem": 395,
-      "author": 135
+      "problem": 393,
+      "author": 128
     },
     "answered": {
-      "problem": 2488,
-      "author": 265,
-      "solver": 303
+      "problem": 2498,
+      "author": 260,
+      "solver": 329
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/114806"
+            "name": "へやわけ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/114917"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 99,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/114806"
+            "name": "へやわけ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/114917"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 113,
+        "count": 73,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 774,
+        "count": 511,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 235,
+        "count": 223,
         "names": [
           {
             "name": "ろしにょる",

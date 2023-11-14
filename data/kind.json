@@ -1881,7 +1881,7 @@
   },
   "383": {
     "name": "ドミノフィールド",
-    "name_e": "",
+    "name_e": "Domino Field",
     "category": 3
   },
   "384": {
@@ -3023,6 +3023,21 @@
     "name": "",
     "name_e": "Dotted Tetromino",
     "category": 4
+  },
+  "716": {
+    "name": "",
+    "name_e": "Fragmented by division",
+    "category": 5
+  },
+  "717": {
+    "name": "",
+    "name_e": "Tetrominous",
+    "category": 5
+  },
+  "718": {
+    "name": "",
+    "name_e": "Bi Chart",
+    "category": 3
   },
   "-2": {
     "name": "Instructionless",
