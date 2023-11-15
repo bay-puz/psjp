@@ -1,54 +1,58 @@
 {
-  "day": "2023年11月14日",
+  "day": "2023年11月15日",
   "total": {
-    "problem": 50,
-    "favorite": 700,
-    "answered": 5087
+    "problem": 45,
+    "favorite": 756,
+    "answered": 5137
   },
   "count": {
     "favorite": {
-      "problem": 393,
-      "author": 128
+      "problem": 427,
+      "author": 133
     },
     "answered": {
-      "problem": 2498,
-      "author": 260,
-      "solver": 329
+      "problem": 2431,
+      "author": 269,
+      "solver": 307
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/114917"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/114446"
+          },
+          {
+            "name": "ダブルチョコ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/115011"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 82,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/114917"
+            "name": "ヤジリン by s",
+            "url": "https://puzsq.logicpuzzle.app/share/115005"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 44,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 511,
+        "count": 365,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 223,
+        "count": 123,
         "names": [
           {
-            "name": "ろしにょる",
-            "url": "https://puzsq.logicpuzzle.app/?author=2985"
+            "name": "葉音",
+            "url": "https://puzsq.logicpuzzle.app/?author=3190"
           }
         ]
       }
