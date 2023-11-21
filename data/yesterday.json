@@ -1,29 +1,29 @@
 {
-  "day": "2023年11月20日",
+  "day": "2023年11月21日",
   "total": {
-    "problem": 48,
-    "favorite": 750,
-    "answered": 5683
+    "problem": 45,
+    "favorite": 596,
+    "answered": 4158
   },
   "count": {
     "favorite": {
-      "problem": 380,
-      "author": 113
+      "problem": 320,
+      "author": 98
     },
     "answered": {
-      "problem": 2640,
-      "author": 270,
-      "solver": 324
+      "problem": 2073,
+      "author": 247,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/115288"
+            "name": "へやわけ by Akairo",
+            "url": "https://puzsq.logicpuzzle.app/share/115315"
           }
         ]
       },
@@ -31,35 +31,35 @@
         "count": 85,
         "names": [
           {
-            "name": "ヤジリン by 一一",
-            "url": "https://puzsq.logicpuzzle.app/share/115282"
+            "name": "ぬりかべ by Akairo",
+            "url": "https://puzsq.logicpuzzle.app/share/115314"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 83,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Akairo",
+            "url": "https://puzsq.logicpuzzle.app/?author=2913"
           }
         ]
       },
       "answered": {
-        "count": 723,
+        "count": 331,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Akairo",
+            "url": "https://puzsq.logicpuzzle.app/?author=2913"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 156,
+        "count": 143,
         "names": [
           {
             "name": "dudethefirst",
