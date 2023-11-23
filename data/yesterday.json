@@ -1,45 +1,45 @@
 {
-  "day": "2023年11月22日",
+  "day": "2023年11月23日",
   "total": {
-    "problem": 50,
-    "favorite": 601,
-    "answered": 4982
+    "problem": 42,
+    "favorite": 616,
+    "answered": 4828
   },
   "count": {
     "favorite": {
-      "problem": 333,
-      "author": 109
+      "problem": 408,
+      "author": 129
     },
     "answered": {
-      "problem": 2545,
-      "author": 257,
-      "solver": 322
+      "problem": 2329,
+      "author": 254,
+      "solver": 306
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "ノースリー by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/115405"
+            "name": "へやわけ by ねーじゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/115438"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 76,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/115380"
+            "name": "美術館 by muhorka",
+            "url": "https://puzsq.logicpuzzle.app/share/115331"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 78,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 505,
+        "count": 598,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 152,
+        "count": 155,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "foolish",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
