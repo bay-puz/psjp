@@ -45,6 +45,7 @@
 1. Fusion Black [🔗](https://puzsq.logicpuzzle.app/?kind=510)
 1. Gaps [🔗](https://puzsq.logicpuzzle.app/?kind=145)
 1. Geradeweg [🔗](https://puzsq.logicpuzzle.app/?kind=132)
+1. Go Square [🔗](https://puzsq.logicpuzzle.app/?kind=746)
 1. Gravel [🔗](https://puzsq.logicpuzzle.app/?kind=656)
 1. HBクロス [🔗](https://puzsq.logicpuzzle.app/?kind=237)
 1. Haisu [🔗](https://puzsq.logicpuzzle.app/?kind=192)

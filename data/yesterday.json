@@ -1,45 +1,45 @@
 {
-  "day": "2023年11月24日",
+  "day": "2023年11月25日",
   "total": {
-    "problem": 38,
-    "favorite": 558,
-    "answered": 4491
+    "problem": 32,
+    "favorite": 470,
+    "answered": 4245
   },
   "count": {
     "favorite": {
-      "problem": 294,
-      "author": 94
+      "problem": 283,
+      "author": 106
     },
     "answered": {
-      "problem": 2267,
-      "author": 247,
-      "solver": 314
+      "problem": 2196,
+      "author": 250,
+      "solver": 304
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "ぬりかべ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/115523"
+            "name": "チョコバナナ by yyao",
+            "url": "https://puzsq.logicpuzzle.app/share/115576"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 81,
         "names": [
           {
-            "name": "美術館 by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/115495"
+            "name": "フィルオミノ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/115574"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 49,
         "names": [
           {
             "name": "anurag",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 337,
+        "count": 325,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 153,
+        "count": 141,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
