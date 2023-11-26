@@ -38,6 +38,7 @@
 1. Double Back [🔗](https://puzsq.logicpuzzle.app/?kind=184)
 1. Double LITS [🔗](https://puzsq.logicpuzzle.app/?kind=688)
 1. Euler’s Expedition [🔗](https://puzsq.logicpuzzle.app/?kind=731)
+1. Expressway [🔗](https://puzsq.logicpuzzle.app/?kind=747)
 1. Falling Letters [🔗](https://puzsq.logicpuzzle.app/?kind=148)
 1. Flexible Counters [🔗](https://puzsq.logicpuzzle.app/?kind=685)
 1. Fragmented by division [🔗](https://puzsq.logicpuzzle.app/?kind=716)
