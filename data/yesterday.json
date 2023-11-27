@@ -1,73 +1,69 @@
 {
-  "day": "2023年11月26日",
+  "day": "2023年11月27日",
   "total": {
-    "problem": 39,
-    "favorite": 578,
-    "answered": 4595
+    "problem": 42,
+    "favorite": 490,
+    "answered": 4857
   },
   "count": {
     "favorite": {
-      "problem": 403,
-      "author": 109
+      "problem": 284,
+      "author": 102
     },
     "answered": {
-      "problem": 2680,
-      "author": 260,
-      "solver": 273
+      "problem": 2639,
+      "author": 265,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/115624"
+            "name": "Aquapelago by geq0",
+            "url": "https://puzsq.logicpuzzle.app/share/115691"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 78,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/115624"
+            "name": "美術館 by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/115684"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 73,
         "names": [
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/?author=2633"
           }
         ]
       },
       "answered": {
-        "count": 332,
+        "count": 590,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 286,
+        "count": 115,
         "names": [
           {
-            "name": "るしゅ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2878"
+            "name": "foolish",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
