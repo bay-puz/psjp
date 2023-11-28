@@ -3020,7 +3020,7 @@
     "category": 5
   },
   "715": {
-    "name": "",
+    "name": "Dotted Tetromino",
     "name_e": "Dotted Tetromino",
     "category": 4
   },
@@ -3188,6 +3188,26 @@
     "name": "",
     "name_e": "Linear Automaton",
     "category": 2
+  },
+  "749": {
+    "name": "",
+    "name_e": "Comet",
+    "category": 2
+  },
+  "750": {
+    "name": "",
+    "name_e": "Leg Day",
+    "category": 2
+  },
+  "751": {
+    "name": "",
+    "name_e": "Engineered Divide",
+    "category": 5
+  },
+  "752": {
+    "name": "",
+    "name_e": "LITS (Vestigial)",
+    "category": 3
   },
   "-2": {
     "name": "Instructionless",
