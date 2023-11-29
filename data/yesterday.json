@@ -1,54 +1,58 @@
 {
-  "day": "2023年11月28日",
+  "day": "2023年11月29日",
   "total": {
-    "problem": 43,
-    "favorite": 595,
-    "answered": 4633
+    "problem": 38,
+    "favorite": 566,
+    "answered": 5004
   },
   "count": {
     "favorite": {
-      "problem": 339,
-      "author": 107
+      "problem": 313,
+      "author": 113
     },
     "answered": {
-      "problem": 2432,
-      "author": 255,
-      "solver": 326
+      "problem": 2445,
+      "author": 271,
+      "solver": 307
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 38,
+        "count": 21,
         "names": [
           {
-            "name": "その他 by fluff",
-            "url": "https://puzsq.logicpuzzle.app/share/115748"
+            "name": "リフレクトリンク by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/115797"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 82,
         "names": [
           {
-            "name": "ぬりかべ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/115740"
+            "name": "コブリン by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/115798"
+          },
+          {
+            "name": "リフレクトリンク by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/115797"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 89,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 539,
+        "count": 652,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 171,
+        "count": 145,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "ヤの",
+            "url": "https://puzsq.logicpuzzle.app/?author=375"
           }
         ]
       }
