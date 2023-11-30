@@ -1,58 +1,54 @@
 {
-  "day": "2023年11月29日",
+  "day": "2023年11月30日",
   "total": {
-    "problem": 38,
-    "favorite": 566,
-    "answered": 5004
+    "problem": 49,
+    "favorite": 530,
+    "answered": 3971
   },
   "count": {
     "favorite": {
-      "problem": 313,
-      "author": 113
+      "problem": 349,
+      "author": 118
     },
     "answered": {
-      "problem": 2445,
-      "author": 271,
-      "solver": 307
+      "problem": 2083,
+      "author": 264,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
-            "name": "リフレクトリンク by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/115797"
+            "name": "へやわけ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/115862"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 88,
         "names": [
           {
-            "name": "コブリン by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/115798"
-          },
-          {
-            "name": "リフレクトリンク by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/115797"
+            "name": "へやわけ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/115862"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 89,
+        "count": 42,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 652,
+        "count": 337,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 74,
         "names": [
           {
-            "name": "ヤの",
-            "url": "https://puzsq.logicpuzzle.app/?author=375"
+            "name": "fulmor",
+            "url": "https://puzsq.logicpuzzle.app/?author=3251"
           }
         ]
       }
