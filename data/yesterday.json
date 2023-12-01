@@ -1,65 +1,69 @@
 {
-  "day": "2023年11月30日",
+  "day": "2023年12月1日",
   "total": {
-    "problem": 49,
-    "favorite": 530,
-    "answered": 3971
+    "problem": 90,
+    "favorite": 816,
+    "answered": 5783
   },
   "count": {
     "favorite": {
-      "problem": 349,
-      "author": 118
+      "problem": 309,
+      "author": 106
     },
     "answered": {
-      "problem": 2083,
-      "author": 264,
-      "solver": 309
+      "problem": 2151,
+      "author": 261,
+      "solver": 342
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/115862"
+            "name": "チョコバナナ by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/115955"
+          },
+          {
+            "name": "チョコバナナ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/116009"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 64,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/115862"
+            "name": "チョコバナナ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/115975"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 87,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "にしなんとか",
+            "url": "https://puzsq.logicpuzzle.app/?author=42"
           }
         ]
       },
       "answered": {
-        "count": 337,
+        "count": 588,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "にしなんとか",
+            "url": "https://puzsq.logicpuzzle.app/?author=42"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 74,
+        "count": 114,
         "names": [
           {
             "name": "fulmor",
