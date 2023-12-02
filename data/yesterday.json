@@ -1,73 +1,69 @@
 {
-  "day": "2023年12月1日",
+  "day": "2023年12月2日",
   "total": {
-    "problem": 90,
-    "favorite": 816,
-    "answered": 5783
+    "problem": 75,
+    "favorite": 729,
+    "answered": 5810
   },
   "count": {
     "favorite": {
-      "problem": 309,
-      "author": 106
+      "problem": 330,
+      "author": 103
     },
     "answered": {
-      "problem": 2151,
-      "author": 261,
-      "solver": 342
+      "problem": 2041,
+      "author": 247,
+      "solver": 304
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 16,
         "names": [
           {
-            "name": "チョコバナナ by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/115955"
-          },
-          {
-            "name": "チョコバナナ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116009"
+            "name": "Castle Wall by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/115662"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 68,
         "names": [
           {
-            "name": "チョコバナナ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/115975"
+            "name": "Castle Wall by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/115580"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 78,
         "names": [
           {
-            "name": "にしなんとか",
-            "url": "https://puzsq.logicpuzzle.app/?author=42"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 588,
+        "count": 616,
         "names": [
           {
-            "name": "にしなんとか",
-            "url": "https://puzsq.logicpuzzle.app/?author=42"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 211,
         "names": [
           {
-            "name": "fulmor",
-            "url": "https://puzsq.logicpuzzle.app/?author=3251"
+            "name": "foolish",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
