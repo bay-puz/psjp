@@ -1,45 +1,45 @@
 {
-  "day": "2023年12月2日",
+  "day": "2023年12月3日",
   "total": {
-    "problem": 75,
-    "favorite": 729,
-    "answered": 5810
+    "problem": 81,
+    "favorite": 642,
+    "answered": 5383
   },
   "count": {
     "favorite": {
-      "problem": 330,
-      "author": 103
+      "problem": 296,
+      "author": 100
     },
     "answered": {
-      "problem": 2041,
-      "author": 247,
-      "solver": 304
+      "problem": 2151,
+      "author": 265,
+      "solver": 299
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 12,
         "names": [
           {
-            "name": "Castle Wall by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/115662"
+            "name": "ノースリー by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/116118"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 62,
         "names": [
           {
-            "name": "Castle Wall by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/115580"
+            "name": "ヤジリン by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/115667"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 63,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 616,
+        "count": 429,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 211,
+        "count": 181,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "るしゅ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2878"
           }
         ]
       }
