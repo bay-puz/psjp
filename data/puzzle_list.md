@@ -124,6 +124,7 @@
 1. Squares and Rectangles [🔗](https://puzsq.logicpuzzle.app/?kind=743)
 1. Starry Knights [🔗](https://puzsq.logicpuzzle.app/?kind=661)
 1. Statue Park [🔗](https://puzsq.logicpuzzle.app/?kind=123)
+1. Strike the right chord [🔗](https://puzsq.logicpuzzle.app/?kind=756)
 1. Subwhirl [🔗](https://puzsq.logicpuzzle.app/?kind=509)
 1. Superstitious Parking [🔗](https://puzsq.logicpuzzle.app/?kind=733)
 1. Tapa (Nurikabe) [🔗](https://puzsq.logicpuzzle.app/?kind=741)
