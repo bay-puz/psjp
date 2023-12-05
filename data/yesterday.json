@@ -1,81 +1,69 @@
 {
-  "day": "2023年12月4日",
+  "day": "2023年12月5日",
   "total": {
-    "problem": 67,
-    "favorite": 673,
-    "answered": 5309
+    "problem": 80,
+    "favorite": 582,
+    "answered": 5442
   },
   "count": {
     "favorite": {
-      "problem": 295,
-      "author": 104
+      "problem": 283,
+      "author": 97
     },
     "answered": {
-      "problem": 1974,
-      "author": 245,
-      "solver": 320
+      "problem": 2387,
+      "author": 270,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 15,
         "names": [
           {
-            "name": "ソウルメイツ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116185"
+            "name": "フィルオミノ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/116255"
           }
         ]
       },
       "answered": {
-        "count": 59,
+        "count": 70,
         "names": [
           {
-            "name": "ソウルメイツ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116185"
-          },
-          {
-            "name": "ソウルメイツ by Hizuriya",
-            "url": "https://puzsq.logicpuzzle.app/share/116041"
-          },
-          {
-            "name": "∀人∃ＨＥＹＡ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/116207"
-          },
-          {
-            "name": "∀人∃ＨＥＹＡ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/116211"
+            "name": "ましゅ by muhorka",
+            "url": "https://puzsq.logicpuzzle.app/share/116268"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 80,
+        "count": 61,
         "names": [
           {
-            "name": "GESAKU",
-            "url": "https://puzsq.logicpuzzle.app/?author=2409"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 351,
+        "count": 467,
         "names": [
           {
-            "name": "coggy",
-            "url": "https://puzsq.logicpuzzle.app/?author=1603"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 288,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "るしゅ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2878"
           }
         ]
       }
