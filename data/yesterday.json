@@ -1,45 +1,45 @@
 {
-  "day": "2023年12月5日",
+  "day": "2023年12月6日",
   "total": {
-    "problem": 80,
-    "favorite": 582,
-    "answered": 5442
+    "problem": 64,
+    "favorite": 568,
+    "answered": 5579
   },
   "count": {
     "favorite": {
-      "problem": 283,
-      "author": 97
+      "problem": 329,
+      "author": 121
     },
     "answered": {
-      "problem": 2387,
+      "problem": 2550,
       "author": 270,
-      "solver": 326
+      "solver": 335
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 13,
         "names": [
           {
-            "name": "フィルオミノ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/116255"
+            "name": "シンカミノ by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/116354"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 66,
         "names": [
           {
-            "name": "ましゅ by muhorka",
-            "url": "https://puzsq.logicpuzzle.app/share/116268"
+            "name": "シンカミノ by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/115881"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 33,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 467,
+        "count": 393,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 288,
+        "count": 208,
         "names": [
           {
             "name": "るしゅ",
