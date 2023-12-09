@@ -27,6 +27,7 @@
 1. Clones in the Neighborhood [🔗](https://puzsq.logicpuzzle.app/?kind=734)
 1. Comet [🔗](https://puzsq.logicpuzzle.app/?kind=749)
 1. Compass [🔗](https://puzsq.logicpuzzle.app/?kind=154)
+1. Competitive Loop [🔗](https://puzsq.logicpuzzle.app/?kind=764)
 1. Containers [🔗](https://puzsq.logicpuzzle.app/?kind=757)
 1. Context [🔗](https://puzsq.logicpuzzle.app/?kind=505)
 1. Cross Border Parity Loop [🔗](https://puzsq.logicpuzzle.app/?kind=728)

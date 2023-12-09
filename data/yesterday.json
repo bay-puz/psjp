@@ -1,65 +1,65 @@
 {
-  "day": "2023年12月8日",
+  "day": "2023年12月9日",
   "total": {
-    "problem": 47,
-    "favorite": 451,
-    "answered": 4800
+    "problem": 59,
+    "favorite": 444,
+    "answered": 4656
   },
   "count": {
     "favorite": {
-      "problem": 317,
-      "author": 113
+      "problem": 342,
+      "author": 112
     },
     "answered": {
-      "problem": 3071,
-      "author": 291,
-      "solver": 326
+      "problem": 2849,
+      "author": 264,
+      "solver": 282
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 10,
         "names": [
           {
-            "name": "シンカミノ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/116452"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/116500"
           }
         ]
       },
       "answered": {
-        "count": 62,
+        "count": 54,
         "names": [
           {
-            "name": "シンカミノ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/116452"
+            "name": "美術館 by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/116495"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 34,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 437,
+        "count": 338,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 277,
+        "count": 395,
         "names": [
           {
             "name": "るしゅ",
