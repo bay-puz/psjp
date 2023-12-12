@@ -30,6 +30,7 @@
 1. Competitive Loop [🔗](https://puzsq.logicpuzzle.app/?kind=764)
 1. Containers [🔗](https://puzsq.logicpuzzle.app/?kind=757)
 1. Context [🔗](https://puzsq.logicpuzzle.app/?kind=505)
+1. Coral [🔗](https://puzsq.logicpuzzle.app/?kind=767)
 1. Cross Border Parity Loop [🔗](https://puzsq.logicpuzzle.app/?kind=728)
 1. Cross The Streams [🔗](https://puzsq.logicpuzzle.app/?kind=573)
 1. Crossstitch [🔗](https://puzsq.logicpuzzle.app/?kind=387)
