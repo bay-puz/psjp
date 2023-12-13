@@ -1,54 +1,54 @@
 {
-  "day": "2023年12月12日",
+  "day": "2023年12月13日",
   "total": {
-    "problem": 48,
-    "favorite": 546,
-    "answered": 4479
+    "problem": 72,
+    "favorite": 653,
+    "answered": 5330
   },
   "count": {
     "favorite": {
-      "problem": 329,
-      "author": 109
+      "problem": 343,
+      "author": 110
     },
     "answered": {
-      "problem": 2365,
-      "author": 251,
-      "solver": 324
+      "problem": 2286,
+      "author": 261,
+      "solver": 313
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "Kaisu by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/116661"
+            "name": "チョコバナナ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/116727"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 78,
         "names": [
           {
-            "name": "美術館 by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116705"
+            "name": "ましゅ by きんたろ",
+            "url": "https://puzsq.logicpuzzle.app/share/116400"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 43,
+        "count": 44,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 369,
+        "count": 519,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,15 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 93,
+        "count": 189,
         "names": [
           {
-            "name": "channel",
-            "url": "https://puzsq.logicpuzzle.app/?author=3274"
-          },
-          {
-            "name": "まっきー",
-            "url": "https://puzsq.logicpuzzle.app/?author=423"
+            "name": "るしゅ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2878"
           }
         ]
       }
