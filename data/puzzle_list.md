@@ -52,6 +52,7 @@
 1. Full House [🔗](https://puzsq.logicpuzzle.app/?kind=611)
 1. Fusion Black [🔗](https://puzsq.logicpuzzle.app/?kind=510)
 1. Gaps [🔗](https://puzsq.logicpuzzle.app/?kind=145)
+1. Geometric Loop [🔗](https://puzsq.logicpuzzle.app/?kind=768)
 1. Geradeweg [🔗](https://puzsq.logicpuzzle.app/?kind=132)
 1. Go Square [🔗](https://puzsq.logicpuzzle.app/?kind=746)
 1. Gold and Diamonds [🔗](https://puzsq.logicpuzzle.app/?kind=760)
