@@ -1,19 +1,19 @@
 {
-  "day": "2023年12月15日",
+  "day": "2023年12月16日",
   "total": {
-    "problem": 60,
-    "favorite": 675,
-    "answered": 5735
+    "problem": 66,
+    "favorite": 653,
+    "answered": 5118
   },
   "count": {
     "favorite": {
-      "problem": 351,
-      "author": 121
+      "problem": 436,
+      "author": 126
     },
     "answered": {
-      "problem": 2945,
-      "author": 284,
-      "solver": 327
+      "problem": 2447,
+      "author": 273,
+      "solver": 314
     }
   },
   "top": {
@@ -22,37 +22,37 @@
         "count": 18,
         "names": [
           {
-            "name": "海苔ぬり by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116864"
-          },
-          {
-            "name": "チョコバナナ by 四次元ベクトル",
-            "url": "https://puzsq.logicpuzzle.app/share/116877"
+            "name": "Square Jam by lilva",
+            "url": "https://puzsq.logicpuzzle.app/share/116926"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 61,
         "names": [
           {
-            "name": "海苔ぬり by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/116864"
+            "name": "Square Jam by lilva",
+            "url": "https://puzsq.logicpuzzle.app/share/116926"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 44,
         "names": [
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
+          },
+          {
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 373,
+        "count": 503,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 296,
+        "count": 256,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "ヤの",
+            "url": "https://puzsq.logicpuzzle.app/?author=375"
           }
         ]
       }
