@@ -97,6 +97,7 @@
 1. NEWS [🔗](https://puzsq.logicpuzzle.app/?kind=648)
 1. NIKOJI [🔗](https://puzsq.logicpuzzle.app/?kind=137)
 1. No Replicas [🔗](https://puzsq.logicpuzzle.app/?kind=761)
+1. Numericlone [🔗](https://puzsq.logicpuzzle.app/?kind=771)
 1. Nurisquare [🔗](https://puzsq.logicpuzzle.app/?kind=770)
 1. ONDO-K / Thermometers (Thermometers) [🔗](https://puzsq.logicpuzzle.app/?kind=155)
 1. Ovotovata [🔗](https://puzsq.logicpuzzle.app/?kind=393)

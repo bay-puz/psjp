@@ -1,58 +1,54 @@
 {
-  "day": "2023年12月16日",
+  "day": "2023年12月17日",
   "total": {
-    "problem": 66,
-    "favorite": 653,
-    "answered": 5118
+    "problem": 69,
+    "favorite": 581,
+    "answered": 5137
   },
   "count": {
     "favorite": {
-      "problem": 436,
-      "author": 126
+      "problem": 352,
+      "author": 102
     },
     "answered": {
-      "problem": 2447,
-      "author": 273,
-      "solver": 314
+      "problem": 2379,
+      "author": 243,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 14,
         "names": [
           {
-            "name": "Square Jam by lilva",
-            "url": "https://puzsq.logicpuzzle.app/share/116926"
+            "name": "ヤジリン by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/116821"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 75,
         "names": [
           {
-            "name": "Square Jam by lilva",
-            "url": "https://puzsq.logicpuzzle.app/share/116926"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/116976"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 55,
         "names": [
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
-          },
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 503,
+        "count": 489,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 256,
+        "count": 235,
         "names": [
           {
-            "name": "ヤの",
-            "url": "https://puzsq.logicpuzzle.app/?author=375"
+            "name": "きらく",
+            "url": "https://puzsq.logicpuzzle.app/?author=71"
           }
         ]
       }
