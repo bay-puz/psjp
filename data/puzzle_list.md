@@ -111,6 +111,7 @@
 1. Point a star [🔗](https://puzsq.logicpuzzle.app/?kind=593)
 1. Pointing at the Crowd [🔗](https://puzsq.logicpuzzle.app/?kind=181)
 1. Polyominous [🔗](https://puzsq.logicpuzzle.app/?kind=182)
+1. R - B Loop [🔗](https://puzsq.logicpuzzle.app/?kind=772)
 1. RBPループ [🔗](https://puzsq.logicpuzzle.app/?kind=697)
 1. RGBループ (RGB Loop) [🔗](https://puzsq.logicpuzzle.app/?kind=679)
 1. Rail Pool [🔗](https://puzsq.logicpuzzle.app/?kind=657)
