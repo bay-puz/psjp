@@ -17,7 +17,7 @@ def get_span_categories(data: dict, is_author: bool, limit: int, categories: dic
     for d in data.values():
         time = datetime.fromisoformat(d["registered"])
         id_str = str(d[category_id])
-        name = categories[id_str]["name"]
+        name = categories[id_str]["name"] if id_str in categories else "不明"
         if id_str not in problem_dict:
             problem_dict[id_str] = {"first": time, "last": time, "count": 1, "name": name, "id": id_str}
         else:

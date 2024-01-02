@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*- #
 import json
-from datetime import datetime
 from matplotlib import pyplot
 
 
@@ -28,9 +27,13 @@ class PSJP:
             _add_data(d["user"], d["kind"], d["difficulty"])
 
     def get_user_name(self, u_id: int):
+        if str(u_id) not in self.user:
+            return "不明なユーザー"
         return self.user[str(u_id)]["name"]
 
     def get_kind_name(self, k_id: int):
+        if str(k_id) not in self.kind:
+            return "不明なパズル"
         return self.kind[str(k_id)]["name"]
 
     def get_dict(self, type: str):
