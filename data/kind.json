@@ -506,7 +506,7 @@
   },
   "106": {
     "name": "なわばり",
-    "name_e": "Territory",
+    "name_e": "Nawabari",
     "category": 5
   },
   "107": {
@@ -3295,7 +3295,7 @@
     "category": 3
   },
   "770": {
-    "name": "",
+    "name": "Nurisquare",
     "name_e": "Nurisquare",
     "category": 3
   },
@@ -3304,9 +3304,39 @@
     "name_e": "Numericlone",
     "category": 5
   },
-  "772": {
+  "773": {
     "name": "",
-    "name_e": "R - B Loop",
+    "name_e": "Binary Loop",
+    "category": 2
+  },
+  "774": {
+    "name": "",
+    "name_e": "Geometric Double",
+    "category": 2
+  },
+  "775": {
+    "name": "",
+    "name_e": "Turn and Run",
+    "category": 2
+  },
+  "776": {
+    "name": "",
+    "name_e": "Foreshadow",
+    "category": 2
+  },
+  "777": {
+    "name": "",
+    "name_e": "Estate Lawns",
+    "category": 3
+  },
+  "778": {
+    "name": "",
+    "name_e": "Interior Illumination",
+    "category": 4
+  },
+  "779": {
+    "name": "",
+    "name_e": "Corner Loop / Turning Slitherlink",
     "category": 2
   },
   "-2": {

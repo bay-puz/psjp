@@ -1,69 +1,73 @@
 {
-  "day": "2023年12月20日",
+  "day": "2024年1月1日",
   "total": {
-    "problem": 61,
-    "favorite": 584,
-    "answered": 4610
+    "problem": 108,
+    "favorite": 762,
+    "answered": 5310
   },
   "count": {
     "favorite": {
-      "problem": 324,
-      "author": 105
+      "problem": 338,
+      "author": 107
     },
     "answered": {
-      "problem": 2402,
-      "author": 263,
-      "solver": 313
+      "problem": 2001,
+      "author": 247,
+      "solver": 282
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by ph.",
-            "url": "https://puzsq.logicpuzzle.app/share/117158"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/117883"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 76,
         "names": [
           {
-            "name": "美術館 by ph.",
-            "url": "https://puzsq.logicpuzzle.app/share/117158"
+            "name": "美術館 by たほいや",
+            "url": "https://puzsq.logicpuzzle.app/share/115843"
+          },
+          {
+            "name": "美術館 by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/117863"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 65,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 446,
+        "count": 515,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 131,
+        "count": 118,
         "names": [
           {
-            "name": "adamthrasher",
-            "url": "https://puzsq.logicpuzzle.app/?author=3075"
+            "name": "Seren✩",
+            "url": "https://puzsq.logicpuzzle.app/?author=3086"
           }
         ]
       }
