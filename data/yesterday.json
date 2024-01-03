@@ -1,42 +1,38 @@
 {
-  "day": "2024年1月2日",
+  "day": "2024年1月3日",
   "total": {
-    "problem": 54,
-    "favorite": 629,
-    "answered": 4501
+    "problem": 42,
+    "favorite": 532,
+    "answered": 4924
   },
   "count": {
     "favorite": {
-      "problem": 420,
-      "author": 121
+      "problem": 345,
+      "author": 100
     },
     "answered": {
-      "problem": 2286,
+      "problem": 2512,
       "author": 254,
-      "solver": 281
+      "solver": 282
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 10,
+        "count": 22,
         "names": [
           {
-            "name": "スリザーリンク / Fences by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/117934"
-          },
-          {
-            "name": "シンカミノ by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/117950"
+            "name": "チョコバナナ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/117996"
           }
         ]
       },
       "answered": {
-        "count": 63,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/117875"
+            "name": "ぬりかべ by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/117998"
           }
         ]
       }
@@ -46,28 +42,28 @@
         "count": 53,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 529,
+        "count": 664,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 237,
         "names": [
           {
-            "name": "6",
-            "url": "https://puzsq.logicpuzzle.app/?author=1013"
+            "name": "☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/?author=40"
           }
         ]
       }
