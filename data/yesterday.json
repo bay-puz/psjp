@@ -1,45 +1,45 @@
 {
-  "day": "2024年1月3日",
+  "day": "2024年1月4日",
   "total": {
     "problem": 42,
-    "favorite": 532,
-    "answered": 4924
+    "favorite": 589,
+    "answered": 4910
   },
   "count": {
     "favorite": {
-      "problem": 345,
-      "author": 100
+      "problem": 312,
+      "author": 95
     },
     "answered": {
-      "problem": 2512,
-      "author": 254,
-      "solver": 282
+      "problem": 2490,
+      "author": 274,
+      "solver": 299
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 25,
         "names": [
           {
-            "name": "チョコバナナ by Menderbug ",
-            "url": "https://puzsq.logicpuzzle.app/share/117996"
+            "name": "美術館 by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/118027"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 93,
         "names": [
           {
-            "name": "ぬりかべ by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/117998"
+            "name": "美術館 by 凍み豆腐程度の能力",
+            "url": "https://puzsq.logicpuzzle.app/share/118027"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 91,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 664,
+        "count": 677,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 237,
+        "count": 212,
         "names": [
           {
-            "name": "☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=40"
+            "name": "TKTYI",
+            "url": "https://puzsq.logicpuzzle.app/?author=2935"
           }
         ]
       }
