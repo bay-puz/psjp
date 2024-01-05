@@ -1,69 +1,69 @@
 {
-  "day": "2024年1月4日",
+  "day": "2024年1月5日",
   "total": {
-    "problem": 42,
-    "favorite": 589,
-    "answered": 4910
+    "problem": 55,
+    "favorite": 691,
+    "answered": 5469
   },
   "count": {
     "favorite": {
-      "problem": 312,
-      "author": 95
+      "problem": 437,
+      "author": 122
     },
     "answered": {
-      "problem": 2490,
-      "author": 274,
-      "solver": 299
+      "problem": 2755,
+      "author": 280,
+      "solver": 316
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 18,
         "names": [
           {
-            "name": "美術館 by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/118027"
+            "name": "ましゅ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/118066"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 77,
         "names": [
           {
-            "name": "美術館 by 凍み豆腐程度の能力",
-            "url": "https://puzsq.logicpuzzle.app/share/118027"
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/118094"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 91,
+        "count": 107,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 677,
+        "count": 989,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 212,
+        "count": 136,
         "names": [
           {
-            "name": "TKTYI",
-            "url": "https://puzsq.logicpuzzle.app/?author=2935"
+            "name": "winst",
+            "url": "https://puzsq.logicpuzzle.app/?author=2446"
           }
         ]
       }
