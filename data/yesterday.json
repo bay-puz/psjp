@@ -1,69 +1,69 @@
 {
-  "day": "2024年1月5日",
+  "day": "2024年1月6日",
   "total": {
-    "problem": 55,
-    "favorite": 691,
-    "answered": 5469
+    "problem": 67,
+    "favorite": 441,
+    "answered": 4438
   },
   "count": {
     "favorite": {
-      "problem": 437,
-      "author": 122
+      "problem": 272,
+      "author": 100
     },
     "answered": {
-      "problem": 2755,
-      "author": 280,
-      "solver": 316
+      "problem": 2252,
+      "author": 250,
+      "solver": 285
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 13,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/118066"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/118151"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 67,
         "names": [
           {
-            "name": "美術館 by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/118094"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/118153"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 107,
+        "count": 56,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 989,
+        "count": 499,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 143,
         "names": [
           {
-            "name": "winst",
-            "url": "https://puzsq.logicpuzzle.app/?author=2446"
+            "name": "☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/?author=40"
           }
         ]
       }
