@@ -1,69 +1,69 @@
 {
-  "day": "2024年1月6日",
+  "day": "2024年1月7日",
   "total": {
-    "problem": 67,
-    "favorite": 441,
-    "answered": 4438
+    "problem": 102,
+    "favorite": 462,
+    "answered": 5007
   },
   "count": {
     "favorite": {
-      "problem": 272,
-      "author": 100
+      "problem": 292,
+      "author": 103
     },
     "answered": {
-      "problem": 2252,
-      "author": 250,
-      "solver": 285
+      "problem": 2702,
+      "author": 283,
+      "solver": 291
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 11,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118151"
+            "name": "ぬりめいず by Tonta",
+            "url": "https://puzsq.logicpuzzle.app/share/118220"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 54,
         "names": [
           {
             "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118153"
+            "url": "https://puzsq.logicpuzzle.app/share/118284"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
-        "names": [
-          {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          }
-        ]
-      },
-      "answered": {
-        "count": 499,
+        "count": 34,
         "names": [
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
+      },
+      "answered": {
+        "count": 658,
+        "names": [
+          {
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+          }
+        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 119,
         "names": [
           {
-            "name": "☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=40"
+            "name": "ph.",
+            "url": "https://puzsq.logicpuzzle.app/?author=3302"
           }
         ]
       }
