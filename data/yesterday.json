@@ -1,38 +1,38 @@
 {
-  "day": "2024年1月8日",
+  "day": "2024年1月9日",
   "total": {
-    "problem": 74,
-    "favorite": 565,
-    "answered": 5354
+    "problem": 64,
+    "favorite": 528,
+    "answered": 4688
   },
   "count": {
     "favorite": {
-      "problem": 382,
-      "author": 107
+      "problem": 348,
+      "author": 110
     },
     "answered": {
-      "problem": 2906,
-      "author": 278,
-      "solver": 301
+      "problem": 2405,
+      "author": 258,
+      "solver": 311
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 18,
         "names": [
           {
-            "name": "ダブルチョコ by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/118346"
+            "name": "ましゅ by Tonta",
+            "url": "https://puzsq.logicpuzzle.app/share/118380"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 79,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/118323"
+            "name": "ましゅ by Tonta",
+            "url": "https://puzsq.logicpuzzle.app/share/118380"
           }
         ]
       }
@@ -42,13 +42,13 @@
         "count": 62,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 748,
+        "count": 639,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 159,
+        "count": 132,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "アリフレッド像",
+            "url": "https://puzsq.logicpuzzle.app/?author=1559"
           }
         ]
       }
