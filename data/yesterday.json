@@ -1,45 +1,49 @@
 {
-  "day": "2024年1月9日",
+  "day": "2024年1月10日",
   "total": {
-    "problem": 64,
-    "favorite": 528,
-    "answered": 4688
+    "problem": 56,
+    "favorite": 543,
+    "answered": 4326
   },
   "count": {
     "favorite": {
-      "problem": 348,
-      "author": 110
+      "problem": 333,
+      "author": 91
     },
     "answered": {
-      "problem": 2405,
-      "author": 258,
-      "solver": 311
+      "problem": 2468,
+      "author": 273,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "ましゅ by Tonta",
-            "url": "https://puzsq.logicpuzzle.app/share/118380"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/118459"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 59,
         "names": [
           {
-            "name": "ましゅ by Tonta",
-            "url": "https://puzsq.logicpuzzle.app/share/118380"
+            "name": "スラローム by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/118441"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/118459"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 79,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 639,
+        "count": 504,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 122,
         "names": [
           {
-            "name": "アリフレッド像",
-            "url": "https://puzsq.logicpuzzle.app/?author=1559"
+            "name": "ugly2333",
+            "url": "https://puzsq.logicpuzzle.app/?author=1070"
           }
         ]
       }
