@@ -1,58 +1,54 @@
 {
-  "day": "2024年1月10日",
+  "day": "2024年1月11日",
   "total": {
     "problem": 56,
-    "favorite": 543,
-    "answered": 4326
+    "favorite": 525,
+    "answered": 4639
   },
   "count": {
     "favorite": {
-      "problem": 333,
-      "author": 91
+      "problem": 343,
+      "author": 107
     },
     "answered": {
-      "problem": 2468,
-      "author": 273,
-      "solver": 308
+      "problem": 2372,
+      "author": 259,
+      "solver": 292
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 12,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118459"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/118499"
           }
         ]
       },
       "answered": {
-        "count": 59,
+        "count": 58,
         "names": [
           {
-            "name": "スラローム by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/118441"
-          },
-          {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118459"
+            "name": "ヤジリン by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/118434"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 76,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 504,
+        "count": 749,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 122,
+        "count": 136,
         "names": [
           {
-            "name": "ugly2333",
-            "url": "https://puzsq.logicpuzzle.app/?author=1070"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
