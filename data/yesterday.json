@@ -1,45 +1,53 @@
 {
-  "day": "2024年1月12日",
+  "day": "2024年1月13日",
   "total": {
-    "problem": 50,
-    "favorite": 553,
-    "answered": 4474
+    "problem": 57,
+    "favorite": 531,
+    "answered": 4302
   },
   "count": {
     "favorite": {
-      "problem": 323,
-      "author": 112
+      "problem": 353,
+      "author": 117
     },
     "answered": {
-      "problem": 2404,
-      "author": 270,
-      "solver": 293
+      "problem": 2214,
+      "author": 260,
+      "solver": 295
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 11,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118567"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/118604"
+          },
+          {
+            "name": "ガイドアロー by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/118632"
+          },
+          {
+            "name": "∀人∃ＨＥＹＡ by ねーじゅ",
+            "url": "https://puzsq.logicpuzzle.app/share/118645"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 59,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118562"
+            "name": "ましゅ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/118616"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 75,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 707,
+        "count": 850,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 171,
+        "count": 165,
         "names": [
           {
-            "name": "UNP",
-            "url": "https://puzsq.logicpuzzle.app/?author=1002"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
