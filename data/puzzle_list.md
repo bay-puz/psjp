@@ -28,6 +28,7 @@
 1. Castle Wall [🔗](https://puzsq.logicpuzzle.app/?kind=121)
 1. Circles and Squares [🔗](https://puzsq.logicpuzzle.app/?kind=595)
 1. Clones in the Neighborhood [🔗](https://puzsq.logicpuzzle.app/?kind=734)
+1. Close Knit [🔗](https://puzsq.logicpuzzle.app/?kind=790)
 1. Comet [🔗](https://puzsq.logicpuzzle.app/?kind=749)
 1. Compass [🔗](https://puzsq.logicpuzzle.app/?kind=154)
 1. Competitive Loop [🔗](https://puzsq.logicpuzzle.app/?kind=764)
