@@ -1,73 +1,69 @@
 {
-  "day": "2024年1月15日",
+  "day": "2024年1月16日",
   "total": {
-    "problem": 42,
-    "favorite": 642,
-    "answered": 4796
+    "problem": 47,
+    "favorite": 603,
+    "answered": 4348
   },
   "count": {
     "favorite": {
-      "problem": 343,
-      "author": 119
+      "problem": 330,
+      "author": 100
     },
     "answered": {
-      "problem": 2325,
-      "author": 241,
-      "solver": 308
+      "problem": 2199,
+      "author": 249,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118767"
-          },
-          {
-            "name": "チョコバナナ by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/118784"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/118819"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 79,
         "names": [
           {
-            "name": "ぬりかべ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118763"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/118819"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 80,
+        "count": 51,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 655,
+        "count": 377,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 139,
+        "count": 110,
         "names": [
           {
-            "name": "汢光",
-            "url": "https://puzsq.logicpuzzle.app/?author=936"
+            "name": "連打",
+            "url": "https://puzsq.logicpuzzle.app/?author=2091"
           }
         ]
       }
