@@ -1,54 +1,58 @@
 {
-  "day": "2024年1月19日",
+  "day": "2024年1月20日",
   "total": {
-    "problem": 53,
-    "favorite": 690,
-    "answered": 4763
+    "problem": 42,
+    "favorite": 676,
+    "answered": 4953
   },
   "count": {
     "favorite": {
-      "problem": 398,
-      "author": 123
+      "problem": 482,
+      "author": 140
     },
     "answered": {
-      "problem": 2619,
-      "author": 289,
-      "solver": 300
+      "problem": 3019,
+      "author": 282,
+      "solver": 294
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 13,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118936"
+            "name": "へやわけ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/118989"
+          },
+          {
+            "name": "ヤジリン by もや（新）",
+            "url": "https://puzsq.logicpuzzle.app/share/119014"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 53,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/118936"
+            "name": "シンプルループ by Hraf",
+            "url": "https://puzsq.logicpuzzle.app/share/118974"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 51,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 356,
+        "count": 454,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 235,
+        "count": 220,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "連打",
+            "url": "https://puzsq.logicpuzzle.app/?author=2091"
           }
         ]
       }
