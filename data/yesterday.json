@@ -1,58 +1,58 @@
 {
-  "day": "2024年1月20日",
+  "day": "2024年1月21日",
   "total": {
-    "problem": 42,
-    "favorite": 676,
-    "answered": 4953
+    "problem": 65,
+    "favorite": 594,
+    "answered": 4800
   },
   "count": {
     "favorite": {
-      "problem": 482,
-      "author": 140
+      "problem": 407,
+      "author": 126
     },
     "answered": {
-      "problem": 3019,
-      "author": 282,
-      "solver": 294
+      "problem": 2693,
+      "author": 257,
+      "solver": 284
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 12,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/118989"
+            "name": "ましゅ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/119023"
           },
           {
-            "name": "ヤジリン by もや（新）",
-            "url": "https://puzsq.logicpuzzle.app/share/119014"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/119032"
           }
         ]
       },
       "answered": {
-        "count": 53,
+        "count": 66,
         "names": [
           {
-            "name": "シンプルループ by Hraf",
-            "url": "https://puzsq.logicpuzzle.app/share/118974"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/119025"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 51,
+        "count": 43,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 454,
+        "count": 504,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 220,
+        "count": 174,
         "names": [
           {
             "name": "連打",

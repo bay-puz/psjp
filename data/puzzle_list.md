@@ -113,6 +113,7 @@
 1. Nurisquare [🔗](https://puzsq.logicpuzzle.app/?kind=770)
 1. ONDO-K / Thermometers (Thermometers) [🔗](https://puzsq.logicpuzzle.app/?kind=155)
 1. Ovotovata [🔗](https://puzsq.logicpuzzle.app/?kind=393)
+1. Parimony [🔗](https://puzsq.logicpuzzle.app/?kind=791)
 1. Parquet [🔗](https://puzsq.logicpuzzle.app/?kind=587)
 1. Parrot Loop [🔗](https://puzsq.logicpuzzle.app/?kind=625)
 1. Pendulum [🔗](https://puzsq.logicpuzzle.app/?kind=759)
