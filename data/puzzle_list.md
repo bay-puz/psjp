@@ -332,6 +332,7 @@
 1. コブリン（マインスイーパ） (Koburin [Minesweeper]) [🔗](https://puzsq.logicpuzzle.app/?kind=588)
 1. コモンエッジ [🔗](https://puzsq.logicpuzzle.app/?kind=630)
 1. コローン (Clones) [🔗](https://puzsq.logicpuzzle.app/?kind=198)
+1. コンビニおでん [🔗](https://puzsq.logicpuzzle.app/?kind=792)
 1. コージュン (Cojun) [🔗](https://puzsq.logicpuzzle.app/?kind=233)
 1. コーナーリンク [🔗](https://puzsq.logicpuzzle.app/?kind=382)
 1. コーヒー牛乳 (Coffee Milk) [🔗](https://puzsq.logicpuzzle.app/?kind=405)
