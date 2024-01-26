@@ -1,69 +1,69 @@
 {
-  "day": "2024年1月25日",
+  "day": "2024年1月26日",
   "total": {
-    "problem": 40,
-    "favorite": 604,
-    "answered": 4922
+    "problem": 66,
+    "favorite": 664,
+    "answered": 5236
   },
   "count": {
     "favorite": {
-      "problem": 343,
-      "author": 103
+      "problem": 382,
+      "author": 117
     },
     "answered": {
-      "problem": 2761,
-      "author": 269,
-      "solver": 311
+      "problem": 2711,
+      "author": 263,
+      "solver": 304
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 15,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/119279"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/119330"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by しゅどぼ",
-            "url": "https://puzsq.logicpuzzle.app/share/119250"
+            "name": "ヤジリン by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/119296"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 62,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 305,
+        "count": 354,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 197,
+        "count": 158,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "連打",
+            "url": "https://puzsq.logicpuzzle.app/?author=2091"
           }
         ]
       }
