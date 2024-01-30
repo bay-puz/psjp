@@ -22,6 +22,7 @@
 1. Battenberg Painting [🔗](https://puzsq.logicpuzzle.app/?kind=592)
 1. Bi Chart [🔗](https://puzsq.logicpuzzle.app/?kind=718)
 1. Binary Loop [🔗](https://puzsq.logicpuzzle.app/?kind=773)
+1. Borricade [🔗](https://puzsq.logicpuzzle.app/?kind=801)
 1. Bramble [🔗](https://puzsq.logicpuzzle.app/?kind=784)
 1. Canal View [🔗](https://puzsq.logicpuzzle.app/?kind=196)
 1. Castle Walker [🔗](https://puzsq.logicpuzzle.app/?kind=690)
