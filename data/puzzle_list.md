@@ -151,6 +151,7 @@
 1. Shikaku Fillomino [🔗](https://puzsq.logicpuzzle.app/?kind=738)
 1. Slash Pack [🔗](https://puzsq.logicpuzzle.app/?kind=623)
 1. Slovak Sums [🔗](https://puzsq.logicpuzzle.app/?kind=231)
+1. Slow Turn [🔗](https://puzsq.logicpuzzle.app/?kind=802)
 1. Snake Egg [🔗](https://puzsq.logicpuzzle.app/?kind=133)
 1. Snake Hole  [🔗](https://puzsq.logicpuzzle.app/?kind=726)
 1. Snake Pit [🔗](https://puzsq.logicpuzzle.app/?kind=186)
