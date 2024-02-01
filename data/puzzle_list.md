@@ -149,6 +149,7 @@
 1. R・Bループ (R・B Loop) [🔗](https://puzsq.logicpuzzle.app/?kind=642)
 1. Scrabble [🔗](https://puzsq.logicpuzzle.app/?kind=236)
 1. Shikaku Fillomino [🔗](https://puzsq.logicpuzzle.app/?kind=738)
+1. Skating (Skater) [🔗](https://puzsq.logicpuzzle.app/?kind=803)
 1. Slash Pack [🔗](https://puzsq.logicpuzzle.app/?kind=623)
 1. Slovak Sums [🔗](https://puzsq.logicpuzzle.app/?kind=231)
 1. Slow Turn [🔗](https://puzsq.logicpuzzle.app/?kind=802)

@@ -1,62 +1,54 @@
 {
-  "day": "2024年1月31日",
+  "day": "2024年2月1日",
   "total": {
-    "problem": 51,
-    "favorite": 621,
-    "answered": 5384
+    "problem": 57,
+    "favorite": 676,
+    "answered": 5414
   },
   "count": {
     "favorite": {
-      "problem": 288,
-      "author": 93
+      "problem": 391,
+      "author": 132
     },
     "answered": {
-      "problem": 2890,
-      "author": 279,
-      "solver": 303
+      "problem": 3010,
+      "author": 268,
+      "solver": 316
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 22,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/119551"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/119617"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 87,
         "names": [
           {
-            "name": "美術館 by Mikuroさいな",
-            "url": "https://puzsq.logicpuzzle.app/share/119576"
-          },
-          {
-            "name": "ヤジリン by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/119587"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/119615"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 67,
         "names": [
           {
-            "name": "y888",
-            "url": "https://puzsq.logicpuzzle.app/?author=3102"
-          },
-          {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 490,
+        "count": 466,
         "names": [
           {
             "name": "anurag",
@@ -67,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 424,
+        "count": 319,
         "names": [
           {
             "name": "foolish",
