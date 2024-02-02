@@ -1,54 +1,54 @@
 {
-  "day": "2024年2月1日",
+  "day": "2024年2月2日",
   "total": {
-    "problem": 57,
-    "favorite": 676,
-    "answered": 5414
+    "problem": 47,
+    "favorite": 660,
+    "answered": 5080
   },
   "count": {
     "favorite": {
-      "problem": 391,
-      "author": 132
+      "problem": 347,
+      "author": 121
     },
     "answered": {
-      "problem": 3010,
-      "author": 268,
-      "solver": 316
+      "problem": 2769,
+      "author": 278,
+      "solver": 344
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/119617"
+            "name": "ぬりかべ by wolog",
+            "url": "https://puzsq.logicpuzzle.app/share/119673"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 74,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/119615"
+            "name": "ぬりかべ by wolog",
+            "url": "https://puzsq.logicpuzzle.app/share/119673"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 32,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 466,
+        "count": 274,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 319,
+        "count": 203,
         "names": [
           {
             "name": "foolish",
