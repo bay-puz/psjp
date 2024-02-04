@@ -194,6 +194,7 @@
 1. Vertigo [🔗](https://puzsq.logicpuzzle.app/?kind=722)
 1. Voxas [🔗](https://puzsq.logicpuzzle.app/?kind=392)
 1. World Tour [🔗](https://puzsq.logicpuzzle.app/?kind=744)
+1. X-Sums [🔗](https://puzsq.logicpuzzle.app/?kind=811)
 1. Xerophile [🔗](https://puzsq.logicpuzzle.app/?kind=800)
 1. Zero One Lines [🔗](https://puzsq.logicpuzzle.app/?kind=671)
 1. Zexaligy [🔗](https://puzsq.logicpuzzle.app/?kind=721)
