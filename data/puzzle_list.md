@@ -24,6 +24,7 @@
 1. Binary Loop [🔗](https://puzsq.logicpuzzle.app/?kind=773)
 1. Borricade [🔗](https://puzsq.logicpuzzle.app/?kind=801)
 1. Bramble [🔗](https://puzsq.logicpuzzle.app/?kind=784)
+1. Bricklayer [🔗](https://puzsq.logicpuzzle.app/?kind=812)
 1. Canal View [🔗](https://puzsq.logicpuzzle.app/?kind=196)
 1. Castle Walker [🔗](https://puzsq.logicpuzzle.app/?kind=690)
 1. Castle Wall [🔗](https://puzsq.logicpuzzle.app/?kind=121)

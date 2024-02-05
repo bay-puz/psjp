@@ -1,29 +1,29 @@
 {
-  "day": "2024年2月4日",
+  "day": "2024年2月5日",
   "total": {
-    "problem": 52,
-    "favorite": 557,
-    "answered": 5138
+    "problem": 56,
+    "favorite": 632,
+    "answered": 5366
   },
   "count": {
     "favorite": {
-      "problem": 337,
-      "author": 106
+      "problem": 334,
+      "author": 116
     },
     "answered": {
-      "problem": 2947,
-      "author": 289,
-      "solver": 288
+      "problem": 2812,
+      "author": 303,
+      "solver": 313
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 20,
         "names": [
           {
-            "name": "ましゅ by 白澄あん",
-            "url": "https://puzsq.logicpuzzle.app/share/119773"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/119842"
           }
         ]
       },
@@ -31,32 +31,24 @@
         "count": 72,
         "names": [
           {
-            "name": "ましゅ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/119753"
-          },
-          {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/119760"
+            "name": "ヤジリン by 𝕘𝕟𝕦𝕝𝕝",
+            "url": "https://puzsq.logicpuzzle.app/share/119756"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 51,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
-          },
-          {
-            "name": "willow",
-            "url": "https://puzsq.logicpuzzle.app/?author=93"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 427,
+        "count": 513,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 310,
+        "count": 139,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "Gert",
+            "url": "https://puzsq.logicpuzzle.app/?author=2641"
           }
         ]
       }
