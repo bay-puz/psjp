@@ -358,6 +358,7 @@
 1. サイコロタワー [🔗](https://puzsq.logicpuzzle.app/?kind=639)
 1. サカバンバスピース [🔗](https://puzsq.logicpuzzle.app/?kind=682)
 1. サムライン (Sum Line) [🔗](https://puzsq.logicpuzzle.app/?kind=271)
+1. サンアンコー (San-Anko) [🔗](https://puzsq.logicpuzzle.app/?kind=816)
 1. サンクチュアリ (Sanctuary) [🔗](https://puzsq.logicpuzzle.app/?kind=364)
 1. サングラス (Sunglasses) [🔗](https://puzsq.logicpuzzle.app/?kind=128)
 1. サンサロード [🔗](https://puzsq.logicpuzzle.app/?kind=808)
