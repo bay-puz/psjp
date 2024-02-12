@@ -666,6 +666,7 @@
 1. 相ダ部屋 (Araf) [🔗](https://puzsq.logicpuzzle.app/?kind=97)
 1. 真珠の首飾り [🔗](https://puzsq.logicpuzzle.app/?kind=527)
 1. 矢をつなげ [🔗](https://puzsq.logicpuzzle.app/?kind=329)
+1. 短辺消失 / the Longest [🔗](https://puzsq.logicpuzzle.app/?kind=819)
 1. 碁石ひろい (Goishi / Hiroimono) [🔗](https://puzsq.logicpuzzle.app/?kind=270)
 1. 磁石イチマガ (Magnetic Ichimaga) [🔗](https://puzsq.logicpuzzle.app/?kind=107)
 1. 穴埋めサイコロ [🔗](https://puzsq.logicpuzzle.app/?kind=804)

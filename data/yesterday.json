@@ -1,29 +1,33 @@
 {
-  "day": "2024年2月11日",
+  "day": "2024年2月12日",
   "total": {
-    "problem": 36,
-    "favorite": 499,
-    "answered": 4569
+    "problem": 41,
+    "favorite": 690,
+    "answered": 5303
   },
   "count": {
     "favorite": {
-      "problem": 320,
-      "author": 102
+      "problem": 455,
+      "author": 110
     },
     "answered": {
-      "problem": 2695,
-      "author": 267,
-      "solver": 288
+      "problem": 3031,
+      "author": 294,
+      "solver": 307
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/120114"
+            "name": "チョコバナナ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/120062"
+          },
+          {
+            "name": "へやわけ by takmu",
+            "url": "https://puzsq.logicpuzzle.app/share/120159"
           }
         ]
       },
@@ -31,28 +35,24 @@
         "count": 69,
         "names": [
           {
-            "name": "美術館 by ph.",
-            "url": "https://puzsq.logicpuzzle.app/share/119993"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/120138"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 29,
+        "count": 130,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "サンゴ三号さん",
-            "url": "https://puzsq.logicpuzzle.app/?author=580"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 414,
+        "count": 550,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 203,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "るしゅ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2878"
           }
         ]
       }
