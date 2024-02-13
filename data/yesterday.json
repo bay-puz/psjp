@@ -1,19 +1,19 @@
 {
-  "day": "2024年2月12日",
+  "day": "2024年2月13日",
   "total": {
-    "problem": 41,
-    "favorite": 690,
-    "answered": 5303
+    "problem": 42,
+    "favorite": 540,
+    "answered": 5045
   },
   "count": {
     "favorite": {
-      "problem": 455,
-      "author": 110
+      "problem": 299,
+      "author": 104
     },
     "answered": {
-      "problem": 3031,
-      "author": 294,
-      "solver": 307
+      "problem": 2523,
+      "author": 273,
+      "solver": 327
     }
   },
   "top": {
@@ -22,37 +22,33 @@
         "count": 19,
         "names": [
           {
-            "name": "チョコバナナ by トンボロ",
-            "url": "https://puzsq.logicpuzzle.app/share/120062"
-          },
-          {
-            "name": "へやわけ by takmu",
-            "url": "https://puzsq.logicpuzzle.app/share/120159"
+            "name": "ましゅ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/120178"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 76,
         "names": [
           {
-            "name": "ましゅ by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/120138"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/120186"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 130,
+        "count": 41,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 550,
+        "count": 478,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 203,
+        "count": 112,
         "names": [
           {
             "name": "るしゅ",
