@@ -1,18 +1,18 @@
 {
-  "day": "2024年2月14日",
+  "day": "2024年2月15日",
   "total": {
-    "problem": 41,
-    "favorite": 614,
-    "answered": 5310
+    "problem": 50,
+    "favorite": 771,
+    "answered": 5176
   },
   "count": {
     "favorite": {
-      "problem": 384,
-      "author": 125
+      "problem": 402,
+      "author": 129
     },
     "answered": {
-      "problem": 3044,
-      "author": 290,
+      "problem": 2496,
+      "author": 273,
       "solver": 318
     }
   },
@@ -22,48 +22,52 @@
         "count": 17,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/120229"
+            "name": "ましゅ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/120262"
           },
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/120243"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/120291"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 76,
         "names": [
           {
-            "name": "ぬりかべ by きんたろ",
-            "url": "https://puzsq.logicpuzzle.app/share/120149"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/120257"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/120272"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 46,
+        "count": 64,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/?author=2409"
           }
         ]
       },
       "answered": {
-        "count": 397,
+        "count": 310,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Mate",
+            "url": "https://puzsq.logicpuzzle.app/?author=3367"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 260,
+        "count": 162,
         "names": [
           {
             "name": "foolish",
