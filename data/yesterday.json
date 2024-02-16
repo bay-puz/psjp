@@ -1,19 +1,19 @@
 {
-  "day": "2024年2月15日",
+  "day": "2024年2月16日",
   "total": {
-    "problem": 50,
-    "favorite": 771,
-    "answered": 5176
+    "problem": 37,
+    "favorite": 628,
+    "answered": 4689
   },
   "count": {
     "favorite": {
-      "problem": 402,
-      "author": 129
+      "problem": 398,
+      "author": 112
     },
     "answered": {
-      "problem": 2496,
-      "author": 273,
-      "solver": 318
+      "problem": 2722,
+      "author": 276,
+      "solver": 312
     }
   },
   "top": {
@@ -22,32 +22,24 @@
         "count": 17,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/120262"
-          },
-          {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/120291"
+            "name": "へやわけ by 初月葉桜",
+            "url": "https://puzsq.logicpuzzle.app/share/120316"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 63,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/120257"
-          },
-          {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/120272"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/120317"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 41,
         "names": [
           {
             "name": "GESAKU",
@@ -56,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 294,
         "names": [
           {
-            "name": "Mate",
-            "url": "https://puzsq.logicpuzzle.app/?author=3367"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 162,
+        "count": 159,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "☆★プレアデス★☆",
+            "url": "https://puzsq.logicpuzzle.app/?author=40"
           }
         ]
       }
