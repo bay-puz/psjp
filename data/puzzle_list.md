@@ -103,6 +103,7 @@
 1. Litherslink [🔗](https://puzsq.logicpuzzle.app/?kind=507)
 1. Lohkous [🔗](https://puzsq.logicpuzzle.app/?kind=388)
 1. Loom [🔗](https://puzsq.logicpuzzle.app/?kind=798)
+1. Loop Mill [🔗](https://puzsq.logicpuzzle.app/?kind=820)
 1. Loop and Bounds [🔗](https://puzsq.logicpuzzle.app/?kind=786)
 1. Lossless Loop [🔗](https://puzsq.logicpuzzle.app/?kind=719)
 1. Lost in the Woods [🔗](https://puzsq.logicpuzzle.app/?kind=720)
