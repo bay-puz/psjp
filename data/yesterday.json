@@ -1,54 +1,58 @@
 {
-  "day": "2024年2月17日",
+  "day": "2024年2月18日",
   "total": {
-    "problem": 32,
-    "favorite": 603,
-    "answered": 4767
+    "problem": 42,
+    "favorite": 625,
+    "answered": 4965
   },
   "count": {
     "favorite": {
-      "problem": 369,
+      "problem": 394,
       "author": 113
     },
     "answered": {
-      "problem": 2704,
-      "author": 264,
-      "solver": 294
+      "problem": 2831,
+      "author": 282,
+      "solver": 307
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 21,
         "names": [
           {
-            "name": "ヤジリン by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/120351"
+            "name": "ましゅ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/120375"
+          },
+          {
+            "name": "ましゅ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/120376"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/120356"
+            "name": "ましゅ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/120375"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 72,
         "names": [
           {
-            "name": "wolog",
-            "url": "https://puzsq.logicpuzzle.app/?author=2984"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 472,
+        "count": 650,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 224,
+        "count": 129,
         "names": [
           {
-            "name": "☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=40"
+            "name": "Gert",
+            "url": "https://puzsq.logicpuzzle.app/?author=2641"
           }
         ]
       }
