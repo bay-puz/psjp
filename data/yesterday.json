@@ -1,73 +1,73 @@
 {
-  "day": "2024年2月18日",
+  "day": "2024年2月19日",
   "total": {
-    "problem": 42,
-    "favorite": 625,
-    "answered": 4965
+    "problem": 46,
+    "favorite": 600,
+    "answered": 5625
   },
   "count": {
     "favorite": {
-      "problem": 394,
-      "author": 113
+      "problem": 385,
+      "author": 115
     },
     "answered": {
-      "problem": 2831,
-      "author": 282,
-      "solver": 307
+      "problem": 3101,
+      "author": 277,
+      "solver": 305
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 12,
         "names": [
           {
-            "name": "ましゅ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/120375"
+            "name": "リフレクトリンク by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/120428"
           },
           {
-            "name": "ましゅ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/120376"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/120383"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 78,
         "names": [
           {
-            "name": "ましゅ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/120375"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/120383"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 72,
+        "count": 77,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 650,
+        "count": 375,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 129,
+        "count": 152,
         "names": [
           {
-            "name": "Gert",
-            "url": "https://puzsq.logicpuzzle.app/?author=2641"
+            "name": "s",
+            "url": "https://puzsq.logicpuzzle.app/?author=3127"
           }
         ]
       }
