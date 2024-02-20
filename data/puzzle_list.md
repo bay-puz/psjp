@@ -127,6 +127,7 @@
 1. Parimony [🔗](https://puzsq.logicpuzzle.app/?kind=791)
 1. Parquet [🔗](https://puzsq.logicpuzzle.app/?kind=587)
 1. Parrot Loop [🔗](https://puzsq.logicpuzzle.app/?kind=625)
+1. Path Puzzles [🔗](https://puzsq.logicpuzzle.app/?kind=821)
 1. Pendulum [🔗](https://puzsq.logicpuzzle.app/?kind=759)
 1. Penta Touch [🔗](https://puzsq.logicpuzzle.app/?kind=699)
 1. Pentanatomino [🔗](https://puzsq.logicpuzzle.app/?kind=780)
