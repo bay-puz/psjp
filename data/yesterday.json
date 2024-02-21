@@ -1,69 +1,73 @@
 {
-  "day": "2024年2月20日",
+  "day": "2024年2月21日",
   "total": {
-    "problem": 32,
-    "favorite": 661,
-    "answered": 5214
+    "problem": 36,
+    "favorite": 697,
+    "answered": 5808
   },
   "count": {
     "favorite": {
-      "problem": 470,
-      "author": 125
+      "problem": 458,
+      "author": 132
     },
     "answered": {
-      "problem": 3184,
-      "author": 287,
-      "solver": 292
+      "problem": 3334,
+      "author": 294,
+      "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/120482"
+            "name": "ヤジリン by しゅどぼ",
+            "url": "https://puzsq.logicpuzzle.app/share/120504"
+          },
+          {
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/120518"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 76,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/120482"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/120518"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 42,
         "names": [
           {
-            "name": "y888",
-            "url": "https://puzsq.logicpuzzle.app/?author=3102"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 301,
+        "count": 371,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Mate",
+            "url": "https://puzsq.logicpuzzle.app/?author=3367"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 176,
+        "count": 175,
         "names": [
           {
-            "name": "単一",
-            "url": "https://puzsq.logicpuzzle.app/?author=3076"
+            "name": "bakpao",
+            "url": "https://puzsq.logicpuzzle.app/?author=2187"
           }
         ]
       }
