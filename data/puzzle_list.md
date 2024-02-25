@@ -307,7 +307,7 @@
 1. イチマガ (Ichimaga) [🔗](https://puzsq.logicpuzzle.app/?kind=143)
 1. イッツウ [🔗](https://puzsq.logicpuzzle.app/?kind=549)
 1. イルミネーション (Illumination) [🔗](https://puzsq.logicpuzzle.app/?kind=89)
-1. インボックス・アウトボックス [🔗](https://puzsq.logicpuzzle.app/?kind=641)
+1. インボックス・アウトボックス (Inbox/Outbox) [🔗](https://puzsq.logicpuzzle.app/?kind=641)
 1. ウォーターウォーク (Water Walk) [🔗](https://puzsq.logicpuzzle.app/?kind=686)
 1. ウォールロジック (Wall Logic (Four-Winds)) [🔗](https://puzsq.logicpuzzle.app/?kind=74)
 1. ウソタタミ (Uso-tatami) [🔗](https://puzsq.logicpuzzle.app/?kind=213)
