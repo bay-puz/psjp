@@ -1,73 +1,69 @@
 {
-  "day": "2024年2月27日",
+  "day": "2024年2月28日",
   "total": {
-    "problem": 25,
-    "favorite": 691,
-    "answered": 4646
+    "problem": 24,
+    "favorite": 669,
+    "answered": 4925
   },
   "count": {
     "favorite": {
-      "problem": 434,
-      "author": 136
+      "problem": 460,
+      "author": 128
     },
     "answered": {
-      "problem": 2750,
-      "author": 292,
-      "solver": 319
+      "problem": 3096,
+      "author": 287,
+      "solver": 323
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by au voleur!",
-            "url": "https://puzsq.logicpuzzle.app/share/120675"
+            "name": "チョコバナナ by トンボロ",
+            "url": "https://puzsq.logicpuzzle.app/share/120639"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/120680"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/120687"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 44,
         "names": [
           {
-            "name": "USBe",
-            "url": "https://puzsq.logicpuzzle.app/?author=43"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 232,
+        "count": 241,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 143,
         "names": [
           {
             "name": "単一",
             "url": "https://puzsq.logicpuzzle.app/?author=3076"
-          },
-          {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
