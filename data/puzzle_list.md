@@ -135,6 +135,7 @@
 1. Pentomino Puzzles [🔗](https://puzsq.logicpuzzle.app/?kind=809)
 1. Pentominoes [🔗](https://puzsq.logicpuzzle.app/?kind=126)
 1. Pentopia [🔗](https://puzsq.logicpuzzle.app/?kind=209)
+1. Persistence of Memory [🔗](https://puzsq.logicpuzzle.app/?kind=824)
 1. Point a star [🔗](https://puzsq.logicpuzzle.app/?kind=593)
 1. Pointing at the Crowd [🔗](https://puzsq.logicpuzzle.app/?kind=181)
 1. Polyominous [🔗](https://puzsq.logicpuzzle.app/?kind=182)
