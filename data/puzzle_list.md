@@ -92,6 +92,7 @@
 1. Kropki [🔗](https://puzsq.logicpuzzle.app/?kind=71)
 1. LITS (Vestigial) [🔗](https://puzsq.logicpuzzle.app/?kind=752)
 1. LITS [🔗](https://puzsq.logicpuzzle.app/?kind=10)
+1. LIX Loop [🔗](https://puzsq.logicpuzzle.app/?kind=825)
 1. LUZ Loop [🔗](https://puzsq.logicpuzzle.app/?kind=794)
 1. La Paz [🔗](https://puzsq.logicpuzzle.app/?kind=579)
 1. Leeway [🔗](https://puzsq.logicpuzzle.app/?kind=793)
