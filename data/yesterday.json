@@ -1,54 +1,58 @@
 {
-  "day": "2024年3月7日",
+  "day": "2024年3月8日",
   "total": {
-    "problem": 55,
-    "favorite": 790,
-    "answered": 4894
+    "problem": 61,
+    "favorite": 772,
+    "answered": 5280
   },
   "count": {
     "favorite": {
-      "problem": 490,
-      "author": 134
+      "problem": 458,
+      "author": 119
     },
     "answered": {
-      "problem": 2741,
-      "author": 269,
-      "solver": 335
+      "problem": 2824,
+      "author": 294,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/121141"
+            "name": "シンプルループ by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/121191"
+          },
+          {
+            "name": "ヤジリン by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/121193"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 79,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/121135"
+            "name": "美術館 by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/121194"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 100,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 470,
+        "count": 507,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 167,
+        "count": 110,
         "names": [
           {
-            "name": "Tiralmo",
-            "url": "https://puzsq.logicpuzzle.app/?author=2926"
+            "name": "s",
+            "url": "https://puzsq.logicpuzzle.app/?author=3127"
           }
         ]
       }
