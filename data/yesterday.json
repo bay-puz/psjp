@@ -1,58 +1,58 @@
 {
-  "day": "2024年3月8日",
+  "day": "2024年3月9日",
   "total": {
-    "problem": 61,
-    "favorite": 772,
-    "answered": 5280
+    "problem": 52,
+    "favorite": 692,
+    "answered": 5340
   },
   "count": {
     "favorite": {
-      "problem": 458,
-      "author": 119
+      "problem": 501,
+      "author": 139
     },
     "answered": {
-      "problem": 2824,
-      "author": 294,
-      "solver": 314
+      "problem": 3031,
+      "author": 295,
+      "solver": 320
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 13,
         "names": [
           {
-            "name": "シンプルループ by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/121191"
-          },
-          {
-            "name": "ヤジリン by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/121193"
+            "name": "ぬりかべ by wolog",
+            "url": "https://puzsq.logicpuzzle.app/share/121274"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 61,
         "names": [
           {
-            "name": "美術館 by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/121194"
+            "name": "ぬりかべ by wolog",
+            "url": "https://puzsq.logicpuzzle.app/share/121274"
+          },
+          {
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/121279"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 100,
+        "count": 84,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 507,
+        "count": 812,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 110,
+        "count": 236,
         "names": [
           {
-            "name": "s",
-            "url": "https://puzsq.logicpuzzle.app/?author=3127"
+            "name": "えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/?author=102"
           }
         ]
       }
