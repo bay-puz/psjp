@@ -404,6 +404,7 @@
 1. スターバトル (Star Battle) [🔗](https://puzsq.logicpuzzle.app/?kind=68)
 1. ステンドグラス [🔗](https://puzsq.logicpuzzle.app/?kind=187)
 1. ストストーン (Stostone) [🔗](https://puzsq.logicpuzzle.app/?kind=33)
+1. スナイピングアロー [🔗](https://puzsq.logicpuzzle.app/?kind=832)
 1. スラローム (Slalom) [🔗](https://puzsq.logicpuzzle.app/?kind=4)
 1. スリザーボックス [🔗](https://puzsq.logicpuzzle.app/?kind=331)
 1. スリザーリンク / Fences (Slitherlink / Fences) [🔗](https://puzsq.logicpuzzle.app/?kind=1)

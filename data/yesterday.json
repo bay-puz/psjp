@@ -1,29 +1,29 @@
 {
-  "day": "2024年3月9日",
+  "day": "2024年3月10日",
   "total": {
-    "problem": 52,
-    "favorite": 692,
-    "answered": 5340
+    "problem": 56,
+    "favorite": 972,
+    "answered": 5367
   },
   "count": {
     "favorite": {
-      "problem": 501,
-      "author": 139
+      "problem": 640,
+      "author": 149
     },
     "answered": {
-      "problem": 3031,
-      "author": 295,
-      "solver": 320
+      "problem": 3086,
+      "author": 288,
+      "solver": 315
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 24,
         "names": [
           {
-            "name": "ぬりかべ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/121274"
+            "name": "チョコバナナ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/120124"
           }
         ]
       },
@@ -31,28 +31,28 @@
         "count": 61,
         "names": [
           {
-            "name": "ぬりかべ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/121274"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/121316"
           },
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/121279"
+            "name": "チョコバナナ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/120124"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 84,
+        "count": 91,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "takmu",
+            "url": "https://puzsq.logicpuzzle.app/?author=1098"
           }
         ]
       },
       "answered": {
-        "count": 812,
+        "count": 429,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 236,
+        "count": 196,
         "names": [
           {
-            "name": "えすきゅん☆(bbpz)",
-            "url": "https://puzsq.logicpuzzle.app/?author=102"
+            "name": "ラグナ",
+            "url": "https://puzsq.logicpuzzle.app/?author=381"
           }
         ]
       }
