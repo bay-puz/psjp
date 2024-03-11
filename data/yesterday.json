@@ -1,58 +1,54 @@
 {
-  "day": "2024年3月10日",
+  "day": "2024年3月11日",
   "total": {
-    "problem": 56,
-    "favorite": 972,
-    "answered": 5367
+    "problem": 46,
+    "favorite": 756,
+    "answered": 5205
   },
   "count": {
     "favorite": {
-      "problem": 640,
-      "author": 149
+      "problem": 492,
+      "author": 123
     },
     "answered": {
-      "problem": 3086,
-      "author": 288,
-      "solver": 315
+      "problem": 2939,
+      "author": 273,
+      "solver": 328
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 20,
         "names": [
           {
-            "name": "チョコバナナ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/120124"
+            "name": "スリザーリンク / Fences by takmu",
+            "url": "https://puzsq.logicpuzzle.app/share/121380"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/121316"
-          },
-          {
-            "name": "チョコバナナ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/120124"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/121293"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 91,
+        "count": 84,
         "names": [
           {
-            "name": "takmu",
-            "url": "https://puzsq.logicpuzzle.app/?author=1098"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 429,
+        "count": 521,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 196,
+        "count": 145,
         "names": [
           {
             "name": "ラグナ",

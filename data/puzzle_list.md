@@ -193,6 +193,7 @@
 1. TomTom [🔗](https://puzsq.logicpuzzle.app/?kind=153)
 1. Tonttiraja [🔗](https://puzsq.logicpuzzle.app/?kind=594)
 1. Touch Slitherlink [🔗](https://puzsq.logicpuzzle.app/?kind=652)
+1. Touching Tails [🔗](https://puzsq.logicpuzzle.app/?kind=833)
 1. Train Stations [🔗](https://puzsq.logicpuzzle.app/?kind=823)
 1. Transporter [🔗](https://puzsq.logicpuzzle.app/?kind=228)
 1. Tricklayer [🔗](https://puzsq.logicpuzzle.app/?kind=631)
