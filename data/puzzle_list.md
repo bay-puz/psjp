@@ -98,6 +98,7 @@
 1. Leeway [🔗](https://puzsq.logicpuzzle.app/?kind=793)
 1. Leg Day [🔗](https://puzsq.logicpuzzle.app/?kind=750)
 1. Light and Shadow [🔗](https://puzsq.logicpuzzle.app/?kind=152)
+1. Lighthouses [🔗](https://puzsq.logicpuzzle.app/?kind=834)
 1. Limbs [🔗](https://puzsq.logicpuzzle.app/?kind=762)
 1. Line of Sight [🔗](https://puzsq.logicpuzzle.app/?kind=740)
 1. Linear Automaton [🔗](https://puzsq.logicpuzzle.app/?kind=748)
