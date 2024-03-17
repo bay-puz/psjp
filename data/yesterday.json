@@ -1,77 +1,69 @@
 {
-  "day": "2024年3月16日",
+  "day": "2024年3月17日",
   "total": {
-    "problem": 46,
-    "favorite": 877,
-    "answered": 5487
+    "problem": 48,
+    "favorite": 627,
+    "answered": 4820
   },
   "count": {
     "favorite": {
-      "problem": 515,
-      "author": 135
+      "problem": 370,
+      "author": 119
     },
     "answered": {
-      "problem": 3017,
-      "author": 298,
-      "solver": 319
+      "problem": 2739,
+      "author": 281,
+      "solver": 299
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 15,
         "names": [
           {
-            "name": "ぬりみさき by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/121618"
-          },
-          {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/121634"
-          },
-          {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/121639"
+            "name": "シャカシャカ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/121667"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 60,
         "names": [
           {
-            "name": "ヤジリン by s",
-            "url": "https://puzsq.logicpuzzle.app/share/121623"
+            "name": "ヤジリン by まさかさ",
+            "url": "https://puzsq.logicpuzzle.app/share/121689"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 51,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       },
       "answered": {
-        "count": 376,
+        "count": 393,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 140,
+        "count": 149,
         "names": [
           {
-            "name": "hiro1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=3382"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
