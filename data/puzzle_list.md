@@ -57,6 +57,7 @@
 1. Falling Letters [🔗](https://puzsq.logicpuzzle.app/?kind=148)
 1. Flexible Counters [🔗](https://puzsq.logicpuzzle.app/?kind=685)
 1. Floor Plan [🔗](https://puzsq.logicpuzzle.app/?kind=758)
+1. Following Suit [🔗](https://puzsq.logicpuzzle.app/?kind=835)
 1. Foreshadow [🔗](https://puzsq.logicpuzzle.app/?kind=776)
 1. Fountain Walk (Hasu-no-Mura-Like Loop) [🔗](https://puzsq.logicpuzzle.app/?kind=765)
 1. Fragmented by division [🔗](https://puzsq.logicpuzzle.app/?kind=716)
