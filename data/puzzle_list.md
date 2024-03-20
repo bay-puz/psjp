@@ -128,6 +128,7 @@
 1. Oddstitch [🔗](https://puzsq.logicpuzzle.app/?kind=826)
 1. One Good Turn Deserves Another [🔗](https://puzsq.logicpuzzle.app/?kind=799)
 1. One-Two Zone [🔗](https://puzsq.logicpuzzle.app/?kind=836)
+1. Oscillatory [🔗](https://puzsq.logicpuzzle.app/?kind=838)
 1. Ovotovata [🔗](https://puzsq.logicpuzzle.app/?kind=393)
 1. Parimony [🔗](https://puzsq.logicpuzzle.app/?kind=791)
 1. Parquet [🔗](https://puzsq.logicpuzzle.app/?kind=587)
