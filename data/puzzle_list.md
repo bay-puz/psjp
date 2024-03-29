@@ -82,6 +82,7 @@
 1. House Puzzles [🔗](https://puzsq.logicpuzzle.app/?kind=795)
 1. IKOJI [🔗](https://puzsq.logicpuzzle.app/?kind=368)
 1. Impenetrable Terrain [🔗](https://puzsq.logicpuzzle.app/?kind=732)
+1. Implicit Directors [🔗](https://puzsq.logicpuzzle.app/?kind=844)
 1. Inner Coral [🔗](https://puzsq.logicpuzzle.app/?kind=199)
 1. Instructionless [🔗](https://puzsq.logicpuzzle.app/?kind=-2)
 1. Interior Illumination [🔗](https://puzsq.logicpuzzle.app/?kind=778)
