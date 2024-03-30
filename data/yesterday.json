@@ -1,54 +1,58 @@
 {
-  "day": "2024年3月29日",
+  "day": "2024年3月30日",
   "total": {
-    "problem": 50,
-    "favorite": 734,
-    "answered": 4436
+    "problem": 43,
+    "favorite": 688,
+    "answered": 4444
   },
   "count": {
     "favorite": {
-      "problem": 552,
-      "author": 146
+      "problem": 525,
+      "author": 128
     },
     "answered": {
-      "problem": 2762,
-      "author": 265,
-      "solver": 288
+      "problem": 2816,
+      "author": 279,
+      "solver": 273
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 14,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/122272"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/122326"
+          },
+          {
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/122346"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 58,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/122272"
+            "name": "ましゅ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/122333"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 133,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 416,
+        "count": 322,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 181,
         "names": [
           {
-            "name": "☆★プレアデス★☆",
-            "url": "https://puzsq.logicpuzzle.app/?author=40"
+            "name": "えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/?author=102"
           }
         ]
       }
