@@ -124,6 +124,7 @@
 1. Myopia [🔗](https://puzsq.logicpuzzle.app/?kind=684)
 1. NEWS [🔗](https://puzsq.logicpuzzle.app/?kind=648)
 1. NIKOJI [🔗](https://puzsq.logicpuzzle.app/?kind=137)
+1. New KaitoRamma [🔗](https://puzsq.logicpuzzle.app/?kind=845)
 1. No Replicas [🔗](https://puzsq.logicpuzzle.app/?kind=761)
 1. Numericlone [🔗](https://puzsq.logicpuzzle.app/?kind=771)
 1. Nurisquare [🔗](https://puzsq.logicpuzzle.app/?kind=770)
