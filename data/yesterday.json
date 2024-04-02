@@ -1,69 +1,73 @@
 {
-  "day": "2024年4月1日",
+  "day": "2024年4月2日",
   "total": {
-    "problem": 54,
-    "favorite": 891,
-    "answered": 4504
+    "problem": 49,
+    "favorite": 559,
+    "answered": 4254
   },
   "count": {
     "favorite": {
-      "problem": 579,
-      "author": 136
+      "problem": 401,
+      "author": 126
     },
     "answered": {
-      "problem": 2450,
-      "author": 269,
-      "solver": 269
+      "problem": 2554,
+      "author": 277,
+      "solver": 299
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 15,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/122417"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/122471"
+          },
+          {
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/122483"
           }
         ]
       },
       "answered": {
-        "count": 62,
+        "count": 64,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/120795"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/122471"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 34,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/?author=2633"
           }
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 261,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 129,
+        "count": 279,
         "names": [
           {
-            "name": "msh",
-            "url": "https://puzsq.logicpuzzle.app/?author=3486"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
