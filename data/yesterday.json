@@ -1,58 +1,54 @@
 {
-  "day": "2024年4月2日",
+  "day": "2024年4月3日",
   "total": {
-    "problem": 49,
-    "favorite": 559,
-    "answered": 4254
+    "problem": 50,
+    "favorite": 664,
+    "answered": 4530
   },
   "count": {
     "favorite": {
-      "problem": 401,
-      "author": 126
+      "problem": 446,
+      "author": 123
     },
     "answered": {
-      "problem": 2554,
-      "author": 277,
-      "solver": 299
+      "problem": 2600,
+      "author": 264,
+      "solver": 294
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 16,
         "names": [
           {
             "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/122471"
-          },
-          {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/122483"
+            "url": "https://puzsq.logicpuzzle.app/share/122520"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 65,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/122471"
+            "name": "∀人∃ＨＥＹＡ by ph.",
+            "url": "https://puzsq.logicpuzzle.app/share/121428"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 35,
         "names": [
           {
-            "name": "CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/?author=2633"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 261,
+        "count": 315,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 279,
+        "count": 138,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "Luanita",
+            "url": "https://puzsq.logicpuzzle.app/?author=3073"
           }
         ]
       }

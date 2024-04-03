@@ -88,6 +88,7 @@
 1. Instructionless [🔗](https://puzsq.logicpuzzle.app/?kind=-2)
 1. Interior Illumination [🔗](https://puzsq.logicpuzzle.app/?kind=778)
 1. International Borders [🔗](https://puzsq.logicpuzzle.app/?kind=225)
+1. Inturnal [🔗](https://puzsq.logicpuzzle.app/?kind=848)
 1. Inverse LITSO [🔗](https://puzsq.logicpuzzle.app/?kind=669)
 1. Isowatari [🔗](https://puzsq.logicpuzzle.app/?kind=789)
 1. Ivy / 三叉路リンク (Ivy) [🔗](https://puzsq.logicpuzzle.app/?kind=585)
