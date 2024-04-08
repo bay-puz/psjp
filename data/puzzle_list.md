@@ -140,6 +140,7 @@
 1. One Good Turn Deserves Another [🔗](https://puzsq.logicpuzzle.app/?kind=799)
 1. One of its Kind [🔗](https://puzsq.logicpuzzle.app/?kind=840)
 1. One-Two Zone [🔗](https://puzsq.logicpuzzle.app/?kind=836)
+1. Ornamented Tree [🔗](https://puzsq.logicpuzzle.app/?kind=858)
 1. Oscillatory [🔗](https://puzsq.logicpuzzle.app/?kind=838)
 1. Ovotovata [🔗](https://puzsq.logicpuzzle.app/?kind=393)
 1. Parimony [🔗](https://puzsq.logicpuzzle.app/?kind=791)
