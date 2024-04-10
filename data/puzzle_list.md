@@ -199,6 +199,7 @@
 1. Strike the right chord [🔗](https://puzsq.logicpuzzle.app/?kind=756)
 1. Subomino [🔗](https://puzsq.logicpuzzle.app/?kind=846)
 1. Subwhirl [🔗](https://puzsq.logicpuzzle.app/?kind=509)
+1. Sumps [🔗](https://puzsq.logicpuzzle.app/?kind=859)
 1. Superstitious Parking [🔗](https://puzsq.logicpuzzle.app/?kind=733)
 1. Tapa (Nurikabe) [🔗](https://puzsq.logicpuzzle.app/?kind=741)
 1. Tapa [🔗](https://puzsq.logicpuzzle.app/?kind=26)

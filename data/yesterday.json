@@ -1,69 +1,69 @@
 {
-  "day": "2024年4月9日",
+  "day": "2024年4月10日",
   "total": {
-    "problem": 47,
-    "favorite": 564,
-    "answered": 4118
+    "problem": 58,
+    "favorite": 562,
+    "answered": 4073
   },
   "count": {
     "favorite": {
-      "problem": 333,
-      "author": 111
+      "problem": 312,
+      "author": 95
     },
     "answered": {
-      "problem": 2187,
-      "author": 273,
-      "solver": 286
+      "problem": 2083,
+      "author": 236,
+      "solver": 284
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 23,
         "names": [
           {
-            "name": "美術館 by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/122789"
+            "name": "スリザーリンク / Fences by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/122822"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 62,
         "names": [
           {
-            "name": "ヤジリン by kaysakado",
-            "url": "https://puzsq.logicpuzzle.app/share/121951"
+            "name": "スリザーリンク / Fences by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/122822"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 53,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 372,
+        "count": 308,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 112,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "fulmor",
+            "url": "https://puzsq.logicpuzzle.app/?author=3251"
           }
         ]
       }
