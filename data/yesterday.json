@@ -1,54 +1,54 @@
 {
-  "day": "2024年4月10日",
+  "day": "2024年4月11日",
   "total": {
-    "problem": 58,
-    "favorite": 562,
-    "answered": 4073
+    "problem": 47,
+    "favorite": 537,
+    "answered": 4159
   },
   "count": {
     "favorite": {
-      "problem": 312,
-      "author": 95
+      "problem": 338,
+      "author": 115
     },
     "answered": {
-      "problem": 2083,
-      "author": 236,
-      "solver": 284
+      "problem": 2388,
+      "author": 263,
+      "solver": 289
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 14,
         "names": [
           {
-            "name": "スリザーリンク / Fences by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/122822"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/122919"
           }
         ]
       },
       "answered": {
-        "count": 62,
+        "count": 49,
         "names": [
           {
-            "name": "スリザーリンク / Fences by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/122822"
+            "name": "Tapa by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/122905"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 52,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 308,
+        "count": 479,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 112,
+        "count": 364,
         "names": [
           {
-            "name": "fulmor",
-            "url": "https://puzsq.logicpuzzle.app/?author=3251"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
