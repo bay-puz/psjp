@@ -1,69 +1,69 @@
 {
-  "day": "2024年4月11日",
+  "day": "2024年4月12日",
   "total": {
-    "problem": 47,
-    "favorite": 537,
-    "answered": 4159
+    "problem": 70,
+    "favorite": 592,
+    "answered": 4290
   },
   "count": {
     "favorite": {
-      "problem": 338,
-      "author": 115
+      "problem": 340,
+      "author": 108
     },
     "answered": {
-      "problem": 2388,
-      "author": 263,
-      "solver": 289
+      "problem": 2477,
+      "author": 243,
+      "solver": 298
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/122919"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/122961"
           }
         ]
       },
       "answered": {
-        "count": 49,
+        "count": 68,
         "names": [
           {
-            "name": "Tapa by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/122905"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/122952"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 68,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 479,
+        "count": 475,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 364,
+        "count": 182,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "どっかのだれか",
+            "url": "https://puzsq.logicpuzzle.app/?author=2552"
           }
         ]
       }
