@@ -167,6 +167,7 @@
 1. Rectangle Recipe [🔗](https://puzsq.logicpuzzle.app/?kind=841)
 1. Rectanglines [🔗](https://puzsq.logicpuzzle.app/?kind=782)
 1. Regional Loop [🔗](https://puzsq.logicpuzzle.app/?kind=232)
+1. Relay Race [🔗](https://puzsq.logicpuzzle.app/?kind=860)
 1. Remembered Length [🔗](https://puzsq.logicpuzzle.app/?kind=628)
 1. Resolution [🔗](https://puzsq.logicpuzzle.app/?kind=754)
 1. Ripple Loop [🔗](https://puzsq.logicpuzzle.app/?kind=736)
