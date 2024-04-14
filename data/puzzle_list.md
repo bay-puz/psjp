@@ -31,6 +31,7 @@
 1. Cartons [🔗](https://puzsq.logicpuzzle.app/?kind=839)
 1. Castle Walker [🔗](https://puzsq.logicpuzzle.app/?kind=690)
 1. Castle Wall [🔗](https://puzsq.logicpuzzle.app/?kind=121)
+1. ChocoBanana [🔗](https://puzsq.logicpuzzle.app/?kind=861)
 1. Circles and Squares [🔗](https://puzsq.logicpuzzle.app/?kind=595)
 1. Clones in the Neighborhood [🔗](https://puzsq.logicpuzzle.app/?kind=734)
 1. Close Knit [🔗](https://puzsq.logicpuzzle.app/?kind=790)
