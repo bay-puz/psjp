@@ -1,45 +1,49 @@
 {
-  "day": "2024年4月14日",
+  "day": "2024年4月15日",
   "total": {
-    "problem": 66,
-    "favorite": 583,
-    "answered": 4963
+    "problem": 50,
+    "favorite": 563,
+    "answered": 4709
   },
   "count": {
     "favorite": {
-      "problem": 351,
-      "author": 127
+      "problem": 317,
+      "author": 101
     },
     "answered": {
-      "problem": 2715,
-      "author": 279,
-      "solver": 299
+      "problem": 2624,
+      "author": 257,
+      "solver": 301
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/123110"
+            "name": "シャカシャカ by ふぃぐ",
+            "url": "https://puzsq.logicpuzzle.app/share/123138"
           }
         ]
       },
       "answered": {
-        "count": 58,
+        "count": 49,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/122655"
+            "name": "Castle Wall by ph.",
+            "url": "https://puzsq.logicpuzzle.app/share/121510"
+          },
+          {
+            "name": "美術館 by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/123182"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 52,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 517,
+        "count": 488,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 232,
+        "count": 169,
         "names": [
           {
-            "name": "ただのかなで",
-            "url": "https://puzsq.logicpuzzle.app/?author=3398"
+            "name": "冬牡丹",
+            "url": "https://puzsq.logicpuzzle.app/?author=2395"
           }
         ]
       }
