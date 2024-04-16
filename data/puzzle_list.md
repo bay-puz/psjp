@@ -60,6 +60,7 @@
 1. Euler’s Expedition [🔗](https://puzsq.logicpuzzle.app/?kind=731)
 1. Expressway [🔗](https://puzsq.logicpuzzle.app/?kind=747)
 1. Falling Letters [🔗](https://puzsq.logicpuzzle.app/?kind=148)
+1. Firewall [🔗](https://puzsq.logicpuzzle.app/?kind=862)
 1. Five and Dime [🔗](https://puzsq.logicpuzzle.app/?kind=855)
 1. Flexible Counters [🔗](https://puzsq.logicpuzzle.app/?kind=685)
 1. Floor Plan [🔗](https://puzsq.logicpuzzle.app/?kind=758)
