@@ -168,6 +168,7 @@
 1. Reachability [🔗](https://puzsq.logicpuzzle.app/?kind=781)
 1. Rectangle Recipe [🔗](https://puzsq.logicpuzzle.app/?kind=841)
 1. Rectanglines [🔗](https://puzsq.logicpuzzle.app/?kind=782)
+1. Rectyard [🔗](https://puzsq.logicpuzzle.app/?kind=863)
 1. Regional Loop [🔗](https://puzsq.logicpuzzle.app/?kind=232)
 1. Relay Race [🔗](https://puzsq.logicpuzzle.app/?kind=860)
 1. Remembered Length [🔗](https://puzsq.logicpuzzle.app/?kind=628)
