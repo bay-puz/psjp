@@ -7,7 +7,7 @@ def markdown(p_dict: dict):
     name = p_dict["name"]
     count = p_dict["count"]
     url = f"https://puzsq.logicpuzzle.app/?kind={pid}"
-    return f"1. [{name}]({url}) ({count})"
+    return f"1. {name}  ({count}) [🔗]({url})"
 
 
 def main():
@@ -27,7 +27,7 @@ def main():
         if len(name_ja) > 0:
             p_dict["name"] += name_ja
             if len(name_en) > 0 and name_en != name_ja:
-                p_dict["name"] += " (" + name_en + ")"
+                p_dict["name"] += "／" + name_en
         else:
             p_dict["name"] += name_en
         if pid in puzzle:
