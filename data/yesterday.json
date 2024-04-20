@@ -1,54 +1,58 @@
 {
-  "day": "2024年4月19日",
+  "day": "2024年4月20日",
   "total": {
-    "problem": 42,
-    "favorite": 394,
-    "answered": 3728
+    "problem": 44,
+    "favorite": 509,
+    "answered": 4165
   },
   "count": {
     "favorite": {
-      "problem": 260,
+      "problem": 337,
       "author": 97
     },
     "answered": {
-      "problem": 2422,
-      "author": 275,
-      "solver": 293
+      "problem": 2586,
+      "author": 281,
+      "solver": 279
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 10,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/123304"
+            "name": "スリザーリンク / Fences by au voleur!",
+            "url": "https://puzsq.logicpuzzle.app/share/123331"
+          },
+          {
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/123354"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 59,
         "names": [
           {
             "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/122876"
+            "url": "https://puzsq.logicpuzzle.app/share/122877"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 38,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 305,
+        "count": 372,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 118,
+        "count": 165,
         "names": [
           {
-            "name": "alm",
-            "url": "https://puzsq.logicpuzzle.app/?author=3501"
+            "name": "babudarabu",
+            "url": "https://puzsq.logicpuzzle.app/?author=3205"
           }
         ]
       }
