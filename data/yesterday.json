@@ -1,58 +1,62 @@
 {
-  "day": "2024年4月20日",
+  "day": "2024年4月21日",
   "total": {
-    "problem": 44,
-    "favorite": 509,
-    "answered": 4165
+    "problem": 48,
+    "favorite": 601,
+    "answered": 4223
   },
   "count": {
     "favorite": {
-      "problem": 337,
-      "author": 97
+      "problem": 439,
+      "author": 143
     },
     "answered": {
-      "problem": 2586,
-      "author": 281,
-      "solver": 279
+      "problem": 2638,
+      "author": 268,
+      "solver": 284
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 10,
+        "count": 11,
         "names": [
           {
-            "name": "スリザーリンク / Fences by au voleur!",
-            "url": "https://puzsq.logicpuzzle.app/share/123331"
+            "name": "ダブルチョコ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/123368"
           },
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/123354"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/123418"
           }
         ]
       },
       "answered": {
-        "count": 59,
+        "count": 53,
         "names": [
           {
             "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/122877"
+            "url": "https://puzsq.logicpuzzle.app/share/122879"
+          },
+          {
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/123405"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 48,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 372,
+        "count": 340,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 165,
+        "count": 115,
         "names": [
           {
-            "name": "babudarabu",
-            "url": "https://puzsq.logicpuzzle.app/?author=3205"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
