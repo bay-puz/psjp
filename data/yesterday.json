@@ -1,65 +1,69 @@
 {
-  "day": "2024年4月25日",
+  "day": "2024年4月26日",
   "total": {
-    "problem": 40,
-    "favorite": 718,
-    "answered": 4095
+    "problem": 45,
+    "favorite": 724,
+    "answered": 4662
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 128
+      "problem": 490,
+      "author": 135
     },
     "answered": {
-      "problem": 2500,
-      "author": 266,
-      "solver": 287
+      "problem": 2738,
+      "author": 280,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 14,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/123370"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/123623"
+          },
+          {
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/123633"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 66,
         "names": [
           {
-            "name": "へやわけ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/123370"
+            "name": "ヤジリン by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/123636"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 52,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 375,
+        "count": 472,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 174,
         "names": [
           {
             "name": "Luanita",
