@@ -1,58 +1,54 @@
 {
-  "day": "2024年4月26日",
+  "day": "2024年4月27日",
   "total": {
-    "problem": 45,
-    "favorite": 724,
-    "answered": 4662
+    "problem": 42,
+    "favorite": 762,
+    "answered": 4459
   },
   "count": {
     "favorite": {
-      "problem": 490,
-      "author": 135
+      "problem": 549,
+      "author": 148
     },
     "answered": {
-      "problem": 2738,
-      "author": 280,
-      "solver": 309
+      "problem": 2613,
+      "author": 283,
+      "solver": 292
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/123623"
-          },
-          {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/123633"
+            "name": "チョコバナナ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/123373"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 60,
         "names": [
           {
-            "name": "ヤジリン by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/123636"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/122897"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 55,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 472,
+        "count": 352,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 174,
+        "count": 292,
         "names": [
           {
             "name": "Luanita",
