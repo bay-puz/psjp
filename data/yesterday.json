@@ -1,65 +1,65 @@
 {
-  "day": "2024年4月28日",
+  "day": "2024年4月29日",
   "total": {
-    "problem": 44,
-    "favorite": 543,
-    "answered": 4490
+    "problem": 43,
+    "favorite": 541,
+    "answered": 4539
   },
   "count": {
     "favorite": {
-      "problem": 374,
-      "author": 123
+      "problem": 365,
+      "author": 131
     },
     "answered": {
-      "problem": 2818,
-      "author": 275,
-      "solver": 289
+      "problem": 2838,
+      "author": 269,
+      "solver": 299
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/123711"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/123491"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 76,
         "names": [
           {
-            "name": "ヤジリン by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/123711"
+            "name": "ぬりかべ by K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/123491"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 24,
+        "count": 27,
         "names": [
           {
-            "name": "_AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/?author=358"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 315,
+        "count": 346,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 138,
+        "count": 158,
         "names": [
           {
             "name": "EKBM",
