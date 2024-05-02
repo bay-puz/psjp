@@ -1,41 +1,29 @@
 {
-  "day": "2024年5月1日",
+  "day": "2024年5月2日",
   "total": {
-    "problem": 35,
-    "favorite": 493,
-    "answered": 4328
+    "problem": 42,
+    "favorite": 512,
+    "answered": 4425
   },
   "count": {
     "favorite": {
-      "problem": 316,
-      "author": 113
+      "problem": 288,
+      "author": 107
     },
     "answered": {
-      "problem": 2679,
-      "author": 288,
-      "solver": 286
+      "problem": 2683,
+      "author": 276,
+      "solver": 287
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 17,
         "names": [
           {
-            "name": "フィルオミノ by 三価スニウム",
-            "url": "https://puzsq.logicpuzzle.app/share/123596"
-          },
-          {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/123150"
-          },
-          {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/123495"
-          },
-          {
-            "name": "のりのり by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/123493"
+            "name": "ぬりかべ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/123892"
           }
         ]
       },
@@ -43,24 +31,24 @@
         "count": 62,
         "names": [
           {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/123150"
+            "name": "美術館 by WA1729",
+            "url": "https://puzsq.logicpuzzle.app/share/123727"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 43,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/?author=2633"
           }
         ]
       },
       "answered": {
-        "count": 334,
+        "count": 411,
         "names": [
           {
             "name": "anurag",
@@ -71,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 170,
+        "count": 150,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "cici0729",
+            "url": "https://puzsq.logicpuzzle.app/?author=837"
           }
         ]
       }
