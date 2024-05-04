@@ -1,58 +1,58 @@
 {
-  "day": "2024年5月3日",
+  "day": "2024年5月4日",
   "total": {
-    "problem": 44,
-    "favorite": 512,
-    "answered": 4973
+    "problem": 36,
+    "favorite": 443,
+    "answered": 4155
   },
   "count": {
     "favorite": {
-      "problem": 324,
-      "author": 115
+      "problem": 322,
+      "author": 101
     },
     "answered": {
-      "problem": 2951,
-      "author": 288,
-      "solver": 299
+      "problem": 2621,
+      "author": 267,
+      "solver": 276
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 15,
         "names": [
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/123783"
+            "name": "Tapa by WA1729",
+            "url": "https://puzsq.logicpuzzle.app/share/123729"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 52,
         "names": [
           {
             "name": "Tapa by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/123728"
+            "url": "https://puzsq.logicpuzzle.app/share/123729"
           },
           {
-            "name": "ぬりめいず by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/123783"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/123975"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 30,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 411,
+        "count": 383,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 195,
+        "count": 194,
         "names": [
           {
-            "name": "STORK",
-            "url": "https://puzsq.logicpuzzle.app/?author=3163"
+            "name": "EKBM",
+            "url": "https://puzsq.logicpuzzle.app/?author=211"
           }
         ]
       }
