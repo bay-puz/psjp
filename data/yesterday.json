@@ -1,49 +1,45 @@
 {
-  "day": "2024年5月4日",
+  "day": "2024年5月5日",
   "total": {
-    "problem": 36,
-    "favorite": 443,
-    "answered": 4155
+    "problem": 41,
+    "favorite": 435,
+    "answered": 4068
   },
   "count": {
     "favorite": {
-      "problem": 322,
-      "author": 101
+      "problem": 253,
+      "author": 84
     },
     "answered": {
-      "problem": 2621,
-      "author": 267,
-      "solver": 276
+      "problem": 2429,
+      "author": 277,
+      "solver": 292
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 12,
         "names": [
           {
-            "name": "Tapa by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/123729"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/123416"
           }
         ]
       },
       "answered": {
-        "count": 52,
+        "count": 58,
         "names": [
           {
-            "name": "Tapa by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/123729"
-          },
-          {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/123975"
+            "name": "ヤジリン by au voleur!",
+            "url": "https://puzsq.logicpuzzle.app/share/124003"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 45,
         "names": [
           {
             "name": "anurag",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 383,
+        "count": 361,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 194,
+        "count": 170,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "neurosie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3029"
           }
         ]
       }
