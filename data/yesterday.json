@@ -1,29 +1,29 @@
 {
-  "day": "2024年5月6日",
+  "day": "2024年5月7日",
   "total": {
-    "problem": 54,
-    "favorite": 494,
-    "answered": 4948
+    "problem": 51,
+    "favorite": 491,
+    "answered": 4484
   },
   "count": {
     "favorite": {
-      "problem": 325,
+      "problem": 289,
       "author": 101
     },
     "answered": {
-      "problem": 2934,
-      "author": 296,
-      "solver": 302
+      "problem": 2587,
+      "author": 272,
+      "solver": 304
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 15,
         "names": [
           {
-            "name": "ぬりめいず by きんたろ",
-            "url": "https://puzsq.logicpuzzle.app/share/124045"
+            "name": "へやわけ by ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/share/124103"
           }
         ]
       },
@@ -31,24 +31,24 @@
         "count": 58,
         "names": [
           {
-            "name": "ぬりめいず by きんたろ",
-            "url": "https://puzsq.logicpuzzle.app/share/124045"
+            "name": "シンプルループ by WA1729",
+            "url": "https://puzsq.logicpuzzle.app/share/124013"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 57,
         "names": [
           {
-            "name": "fkfk",
-            "url": "https://puzsq.logicpuzzle.app/?author=2291"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       },
       "answered": {
-        "count": 455,
+        "count": 371,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 299,
+        "count": 149,
         "names": [
           {
             "name": "cici0729",
