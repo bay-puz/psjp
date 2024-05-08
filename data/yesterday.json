@@ -1,25 +1,25 @@
 {
-  "day": "2024年5月7日",
+  "day": "2024年5月8日",
   "total": {
-    "problem": 51,
-    "favorite": 491,
-    "answered": 4484
+    "problem": 32,
+    "favorite": 438,
+    "answered": 4135
   },
   "count": {
     "favorite": {
-      "problem": 289,
-      "author": 101
+      "problem": 230,
+      "author": 79
     },
     "answered": {
-      "problem": 2587,
-      "author": 272,
-      "solver": 304
+      "problem": 2323,
+      "author": 254,
+      "solver": 300
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 13,
         "names": [
           {
             "name": "へやわけ by ぶすじま",
@@ -28,42 +28,42 @@
         ]
       },
       "answered": {
-        "count": 58,
+        "count": 69,
         "names": [
           {
-            "name": "シンプルループ by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/124013"
+            "name": "ヤジリン by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/124152"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 47,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 371,
+        "count": 341,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 102,
         "names": [
           {
-            "name": "cici0729",
-            "url": "https://puzsq.logicpuzzle.app/?author=837"
+            "name": "TASmasa",
+            "url": "https://puzsq.logicpuzzle.app/?author=3004"
           }
         ]
       }
