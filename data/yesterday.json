@@ -1,69 +1,69 @@
 {
-  "day": "2024年5月9日",
+  "day": "2024年5月10日",
   "total": {
-    "problem": 64,
-    "favorite": 537,
-    "answered": 4471
+    "problem": 55,
+    "favorite": 417,
+    "answered": 3775
   },
   "count": {
     "favorite": {
-      "problem": 245,
-      "author": 86
+      "problem": 216,
+      "author": 84
     },
     "answered": {
-      "problem": 2242,
-      "author": 267,
-      "solver": 306
+      "problem": 2091,
+      "author": 260,
+      "solver": 311
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 18,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/124190"
+            "name": "Polyominous by Tonta",
+            "url": "https://puzsq.logicpuzzle.app/share/124241"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 61,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/124190"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/123216"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 43,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 452,
+        "count": 325,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 164,
+        "count": 115,
         "names": [
           {
-            "name": "cici0729",
-            "url": "https://puzsq.logicpuzzle.app/?author=837"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
