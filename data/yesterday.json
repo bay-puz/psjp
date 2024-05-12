@@ -1,54 +1,58 @@
 {
-  "day": "2024年5月11日",
+  "day": "2024年5月12日",
   "total": {
-    "problem": 39,
-    "favorite": 539,
-    "answered": 5531
+    "problem": 50,
+    "favorite": 618,
+    "answered": 5070
   },
   "count": {
     "favorite": {
-      "problem": 355,
-      "author": 106
+      "problem": 446,
+      "author": 111
     },
     "answered": {
-      "problem": 3427,
-      "author": 301,
-      "solver": 306
+      "problem": 3157,
+      "author": 295,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 12,
         "names": [
           {
-            "name": "スリザーリンク / Fences by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/124308"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/123970"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 63,
         "names": [
           {
-            "name": "ぬりかべ by Subaru_Saito",
-            "url": "https://puzsq.logicpuzzle.app/share/124305"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/123970"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 40,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 523,
+        "count": 502,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 397,
+        "count": 134,
         "names": [
           {
             "name": "桃花",
