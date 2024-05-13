@@ -1,58 +1,54 @@
 {
-  "day": "2024年5月12日",
+  "day": "2024年5月13日",
   "total": {
-    "problem": 50,
-    "favorite": 618,
-    "answered": 5070
+    "problem": 46,
+    "favorite": 593,
+    "answered": 5011
   },
   "count": {
     "favorite": {
-      "problem": 446,
-      "author": 111
+      "problem": 346,
+      "author": 96
     },
     "answered": {
-      "problem": 3157,
-      "author": 295,
-      "solver": 308
+      "problem": 2858,
+      "author": 274,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 18,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/123970"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/124393"
           }
         ]
       },
       "answered": {
-        "count": 63,
+        "count": 86,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/123970"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/124393"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 51,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 502,
+        "count": 590,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 134,
+        "count": 292,
         "names": [
           {
-            "name": "桃花",
-            "url": "https://puzsq.logicpuzzle.app/?author=955"
+            "name": "Coo",
+            "url": "https://puzsq.logicpuzzle.app/?author=338"
           }
         ]
       }
