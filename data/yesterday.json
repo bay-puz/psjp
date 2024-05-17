@@ -1,65 +1,65 @@
 {
-  "day": "2024年5月16日",
+  "day": "2024年5月17日",
   "total": {
-    "problem": 41,
-    "favorite": 583,
-    "answered": 5416
+    "problem": 46,
+    "favorite": 605,
+    "answered": 5532
   },
   "count": {
     "favorite": {
-      "problem": 323,
-      "author": 111
+      "problem": 398,
+      "author": 130
     },
     "answered": {
-      "problem": 2981,
-      "author": 291,
-      "solver": 320
+      "problem": 3484,
+      "author": 317,
+      "solver": 322
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by 露村",
-            "url": "https://puzsq.logicpuzzle.app/share/124556"
+            "name": "美術館 by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/124620"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 67,
         "names": [
           {
             "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/124562"
+            "url": "https://puzsq.logicpuzzle.app/share/124597"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 36,
         "names": [
           {
-            "name": "たろさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3624"
+            "name": "Polmanpoppins",
+            "url": "https://puzsq.logicpuzzle.app/?author=3165"
           }
         ]
       },
       "answered": {
-        "count": 449,
+        "count": 353,
         "names": [
           {
-            "name": "たろさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3624"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 370,
+        "count": 583,
         "names": [
           {
             "name": "落葉子",
