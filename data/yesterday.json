@@ -1,69 +1,65 @@
 {
-  "day": "2024年5月19日",
+  "day": "2024年5月20日",
   "total": {
-    "problem": 38,
-    "favorite": 523,
-    "answered": 4780
+    "problem": 41,
+    "favorite": 634,
+    "answered": 5295
   },
   "count": {
     "favorite": {
-      "problem": 325,
-      "author": 120
+      "problem": 393,
+      "author": 127
     },
     "answered": {
-      "problem": 2834,
-      "author": 300,
-      "solver": 311
+      "problem": 3389,
+      "author": 298,
+      "solver": 320
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "ペンシルズ by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/124400"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/124713"
           }
         ]
       },
       "answered": {
-        "count": 63,
+        "count": 68,
         "names": [
           {
-            "name": "ヤジリン by 露村",
-            "url": "https://puzsq.logicpuzzle.app/share/124684"
-          },
-          {
-            "name": "ヤジリン by 露村",
-            "url": "https://puzsq.logicpuzzle.app/share/124685"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/124713"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 27,
+        "count": 60,
         "names": [
           {
-            "name": "WA1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=2850"
+            "name": "y888",
+            "url": "https://puzsq.logicpuzzle.app/?author=3102"
           }
         ]
       },
       "answered": {
-        "count": 346,
+        "count": 419,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 289,
+        "count": 852,
         "names": [
           {
             "name": "落葉子",
