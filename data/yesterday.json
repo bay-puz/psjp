@@ -1,54 +1,54 @@
 {
-  "day": "2024年5月21日",
+  "day": "2024年5月22日",
   "total": {
-    "problem": 47,
-    "favorite": 625,
-    "answered": 4436
+    "problem": 30,
+    "favorite": 680,
+    "answered": 4178
   },
   "count": {
     "favorite": {
-      "problem": 364,
-      "author": 119
+      "problem": 439,
+      "author": 141
     },
     "answered": {
-      "problem": 2526,
-      "author": 282,
-      "solver": 314
+      "problem": 2363,
+      "author": 280,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/124775"
+            "name": "LITS by locker",
+            "url": "https://puzsq.logicpuzzle.app/share/124807"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 78,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/124768"
+            "name": "LITS by locker",
+            "url": "https://puzsq.logicpuzzle.app/share/124807"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 51,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 335,
+        "count": 378,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 159,
+        "count": 98,
         "names": [
           {
-            "name": "dudethefirst",
-            "url": "https://puzsq.logicpuzzle.app/?author=3219"
+            "name": "えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/?author=102"
           }
         ]
       }
