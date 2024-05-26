@@ -1,54 +1,62 @@
 {
-  "day": "2024年5月25日",
+  "day": "2024年5月26日",
   "total": {
-    "problem": 32,
-    "favorite": 724,
-    "answered": 4563
+    "problem": 42,
+    "favorite": 657,
+    "answered": 4605
   },
   "count": {
     "favorite": {
-      "problem": 498,
-      "author": 120
+      "problem": 509,
+      "author": 135
     },
     "answered": {
-      "problem": 2796,
-      "author": 295,
-      "solver": 296
+      "problem": 2933,
+      "author": 291,
+      "solver": 298
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 13,
         "names": [
           {
-            "name": "美術館 by にょろっぴぃ",
-            "url": "https://puzsq.logicpuzzle.app/share/124913"
+            "name": "ヤジリン by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/124946"
+          },
+          {
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/124954"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 68,
         "names": [
           {
-            "name": "美術館 by にょろっぴぃ",
-            "url": "https://puzsq.logicpuzzle.app/share/124913"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/124954"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 40,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 354,
+        "count": 448,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 119,
+        "count": 218,
         "names": [
           {
-            "name": "hiro1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=3382"
+            "name": "rak",
+            "url": "https://puzsq.logicpuzzle.app/?author=2802"
           }
         ]
       }
