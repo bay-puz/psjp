@@ -1,69 +1,73 @@
 {
-  "day": "2024年6月1日",
+  "day": "2024年6月2日",
   "total": {
-    "problem": 34,
-    "favorite": 644,
-    "answered": 8651
+    "problem": 35,
+    "favorite": 690,
+    "answered": 5797
   },
   "count": {
     "favorite": {
-      "problem": 414,
+      "problem": 463,
       "author": 129
     },
     "answered": {
-      "problem": 6456,
-      "author": 325,
-      "solver": 329
+      "problem": 3639,
+      "author": 307,
+      "solver": 302
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 11,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/125204"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/125232"
+          },
+          {
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/124969"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 67,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/125204"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/124701"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 72,
+        "count": 66,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 913,
+        "count": 459,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 3550,
+        "count": 255,
         "names": [
           {
-            "name": "IHNN",
-            "url": "https://puzsq.logicpuzzle.app/?author=2003"
+            "name": "Halcyon",
+            "url": "https://puzsq.logicpuzzle.app/?author=2873"
           }
         ]
       }
