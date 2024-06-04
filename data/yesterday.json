@@ -1,58 +1,54 @@
 {
-  "day": "2024年6月3日",
+  "day": "2024年6月4日",
   "total": {
-    "problem": 50,
-    "favorite": 567,
-    "answered": 4670
+    "problem": 27,
+    "favorite": 600,
+    "answered": 4300
   },
   "count": {
     "favorite": {
-      "problem": 390,
-      "author": 125
+      "problem": 388,
+      "author": 118
     },
     "answered": {
-      "problem": 2673,
-      "author": 276,
-      "solver": 318
+      "problem": 2522,
+      "author": 279,
+      "solver": 319
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 15,
         "names": [
           {
-            "name": "ましゅ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/125298"
-          },
-          {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/125229"
+            "name": "へやわけ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/125345"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 70,
         "names": [
           {
-            "name": "ぬりかべ by みずなし",
-            "url": "https://puzsq.logicpuzzle.app/share/125297"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/125322"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 57,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 572,
+        "count": 431,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 210,
+        "count": 138,
         "names": [
           {
-            "name": "ただのかなで",
-            "url": "https://puzsq.logicpuzzle.app/?author=3398"
+            "name": "えすきゅん☆(bbpz)",
+            "url": "https://puzsq.logicpuzzle.app/?author=102"
           }
         ]
       }
