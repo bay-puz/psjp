@@ -1,54 +1,58 @@
 {
-  "day": "2024年6月4日",
+  "day": "2024年6月5日",
   "total": {
-    "problem": 27,
-    "favorite": 600,
-    "answered": 4300
+    "problem": 35,
+    "favorite": 543,
+    "answered": 5067
   },
   "count": {
     "favorite": {
-      "problem": 388,
-      "author": 118
+      "problem": 359,
+      "author": 122
     },
     "answered": {
-      "problem": 2522,
-      "author": 279,
-      "solver": 319
+      "problem": 3261,
+      "author": 310,
+      "solver": 332
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/125345"
+            "name": "へやわけ by サンゴ三号さん",
+            "url": "https://puzsq.logicpuzzle.app/share/125364"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 92,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/125322"
+            "name": "ぬりかべ by みずなし",
+            "url": "https://puzsq.logicpuzzle.app/share/125370"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 31,
         "names": [
           {
             "name": "鷹野リン",
             "url": "https://puzsq.logicpuzzle.app/?author=584"
+          },
+          {
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 431,
+        "count": 305,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 138,
+        "count": 145,
         "names": [
           {
-            "name": "えすきゅん☆(bbpz)",
-            "url": "https://puzsq.logicpuzzle.app/?author=102"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
