@@ -1,69 +1,69 @@
 {
-  "day": "2024年6月6日",
+  "day": "2024年6月7日",
   "total": {
-    "problem": 34,
-    "favorite": 583,
-    "answered": 4475
+    "problem": 41,
+    "favorite": 594,
+    "answered": 4813
   },
   "count": {
     "favorite": {
-      "problem": 355,
-      "author": 122
+      "problem": 334,
+      "author": 105
     },
     "answered": {
-      "problem": 2700,
-      "author": 290,
-      "solver": 326
+      "problem": 2706,
+      "author": 297,
+      "solver": 330
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 35,
+        "count": 22,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/125402"
+            "url": "https://puzsq.logicpuzzle.app/share/125440"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 89,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/125402"
+            "name": "美術館 by みずなし",
+            "url": "https://puzsq.logicpuzzle.app/share/125434"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 49,
         "names": [
           {
-            "name": "ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/?author=511"
+            "name": "y888",
+            "url": "https://puzsq.logicpuzzle.app/?author=3102"
           }
         ]
       },
       "answered": {
-        "count": 244,
+        "count": 470,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 201,
+        "count": 234,
         "names": [
           {
-            "name": "Halcyon",
-            "url": "https://puzsq.logicpuzzle.app/?author=2873"
+            "name": "RN2",
+            "url": "https://puzsq.logicpuzzle.app/?author=2964"
           }
         ]
       }
