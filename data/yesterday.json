@@ -1,45 +1,45 @@
 {
-  "day": "2024年6月11日",
+  "day": "2024年6月13日",
   "total": {
-    "problem": 48,
-    "favorite": 714,
-    "answered": 4559
+    "problem": 52,
+    "favorite": 515,
+    "answered": 5010
   },
   "count": {
     "favorite": {
-      "problem": 473,
-      "author": 130
+      "problem": 330,
+      "author": 125
     },
     "answered": {
-      "problem": 2609,
-      "author": 274,
-      "solver": 335
+      "problem": 2925,
+      "author": 301,
+      "solver": 345
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/125592"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/125661"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 79,
         "names": [
           {
-            "name": "美術館 by みずなし",
-            "url": "https://puzsq.logicpuzzle.app/share/125581"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/125609"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 35,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 346,
+        "count": 382,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 188,
+        "count": 199,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "RN2",
+            "url": "https://puzsq.logicpuzzle.app/?author=2964"
           }
         ]
       }
