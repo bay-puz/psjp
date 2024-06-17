@@ -1,54 +1,54 @@
 {
-  "day": "2024年6月16日",
+  "day": "2024年6月17日",
   "total": {
-    "problem": 63,
-    "favorite": 718,
-    "answered": 5378
+    "problem": 62,
+    "favorite": 822,
+    "answered": 5604
   },
   "count": {
     "favorite": {
-      "problem": 452,
-      "author": 120
+      "problem": 541,
+      "author": 139
     },
     "answered": {
-      "problem": 2866,
-      "author": 281,
-      "solver": 317
+      "problem": 2912,
+      "author": 273,
+      "solver": 354
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/125939"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/125979"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 76,
         "names": [
           {
-            "name": "へやわけ by 初月葉桜",
-            "url": "https://puzsq.logicpuzzle.app/share/125939"
+            "name": "シンプルループ by みずなし",
+            "url": "https://puzsq.logicpuzzle.app/share/125966"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 77,
         "names": [
           {
-            "name": "ゲッソー",
-            "url": "https://puzsq.logicpuzzle.app/?author=145"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 522,
+        "count": 660,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 131,
+        "count": 338,
         "names": [
           {
             "name": "落葉子",
