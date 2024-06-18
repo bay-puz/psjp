@@ -1,19 +1,19 @@
 {
-  "day": "2024年6月17日",
+  "day": "2024年6月18日",
   "total": {
-    "problem": 62,
-    "favorite": 822,
-    "answered": 5604
+    "problem": 64,
+    "favorite": 853,
+    "answered": 6300
   },
   "count": {
     "favorite": {
-      "problem": 541,
-      "author": 139
+      "problem": 532,
+      "author": 143
     },
     "answered": {
-      "problem": 2912,
-      "author": 273,
-      "solver": 354
+      "problem": 3265,
+      "author": 288,
+      "solver": 345
     }
   },
   "top": {
@@ -22,33 +22,37 @@
         "count": 17,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/125979"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/126045"
+          },
+          {
+            "name": "へやわけ by coggy",
+            "url": "https://puzsq.logicpuzzle.app/share/126049"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 78,
         "names": [
           {
-            "name": "シンプルループ by みずなし",
-            "url": "https://puzsq.logicpuzzle.app/share/125966"
+            "name": "シンプルループ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/126033"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 77,
+        "count": 75,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 660,
+        "count": 773,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 338,
+        "count": 194,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "Kei",
+            "url": "https://puzsq.logicpuzzle.app/?author=3603"
           }
         ]
       }
