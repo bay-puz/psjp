@@ -1,49 +1,45 @@
 {
-  "day": "2024年6月18日",
+  "day": "2024年6月19日",
   "total": {
-    "problem": 64,
-    "favorite": 853,
-    "answered": 6300
+    "problem": 41,
+    "favorite": 738,
+    "answered": 5482
   },
   "count": {
     "favorite": {
-      "problem": 532,
-      "author": 143
+      "problem": 396,
+      "author": 121
     },
     "answered": {
-      "problem": 3265,
-      "author": 288,
-      "solver": 345
+      "problem": 2830,
+      "author": 274,
+      "solver": 331
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 25,
         "names": [
           {
             "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/126045"
-          },
-          {
-            "name": "へやわけ by coggy",
-            "url": "https://puzsq.logicpuzzle.app/share/126049"
+            "url": "https://puzsq.logicpuzzle.app/share/126105"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 67,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/126033"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/125781"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 78,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 773,
+        "count": 538,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 194,
+        "count": 181,
         "names": [
           {
-            "name": "Kei",
-            "url": "https://puzsq.logicpuzzle.app/?author=3603"
+            "name": "RN2",
+            "url": "https://puzsq.logicpuzzle.app/?author=2964"
           }
         ]
       }
