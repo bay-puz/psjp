@@ -1,29 +1,29 @@
 {
-  "day": "2024年6月23日",
+  "day": "2024年6月24日",
   "total": {
-    "problem": 36,
-    "favorite": 775,
-    "answered": 5520
+    "problem": 32,
+    "favorite": 702,
+    "answered": 4926
   },
   "count": {
     "favorite": {
-      "problem": 529,
-      "author": 151
+      "problem": 498,
+      "author": 145
     },
     "answered": {
-      "problem": 3323,
-      "author": 294,
-      "solver": 324
+      "problem": 2825,
+      "author": 282,
+      "solver": 340
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/125889"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/126337"
           }
         ]
       },
@@ -31,24 +31,24 @@
         "count": 91,
         "names": [
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/126273"
+            "name": "シンプルループ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/126320"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 46,
         "names": [
           {
-            "name": "willow",
-            "url": "https://puzsq.logicpuzzle.app/?author=93"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 364,
+        "count": 479,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 241,
+        "count": 139,
         "names": [
           {
-            "name": "あまからとう",
-            "url": "https://puzsq.logicpuzzle.app/?author=453"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
