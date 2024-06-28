@@ -1,45 +1,49 @@
 {
-  "day": "2024年6月27日",
+  "day": "2024年6月28日",
   "total": {
-    "problem": 39,
-    "favorite": 770,
-    "answered": 5334
+    "problem": 36,
+    "favorite": 632,
+    "answered": 4747
   },
   "count": {
     "favorite": {
-      "problem": 473,
-      "author": 146
+      "problem": 430,
+      "author": 145
     },
     "answered": {
-      "problem": 3251,
-      "author": 318,
-      "solver": 346
+      "problem": 3065,
+      "author": 302,
+      "solver": 334
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 33,
+        "count": 13,
         "names": [
           {
-            "name": "ダブルチョコ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/126471"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/126490"
+          },
+          {
+            "name": "チョコバナナ by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/126513"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/126469"
+            "name": "へやわけ by みずなし",
+            "url": "https://puzsq.logicpuzzle.app/share/126497"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 45,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 413,
+        "count": 264,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 200,
+        "count": 197,
         "names": [
           {
             "name": "落葉子",
