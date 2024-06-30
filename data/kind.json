@@ -3601,7 +3601,7 @@
   },
   "832": {
     "name": "スナイピングアロー",
-    "name_e": "",
+    "name_e": "Sniping Arrow",
     "category": 4
   },
   "833": {
@@ -3901,7 +3901,7 @@
   },
   "893": {
     "name": "やじろボール",
-    "name_e": "",
+    "name_e": "Yajiro-ball",
     "category": 4
   },
   "894": {
@@ -3948,6 +3948,11 @@
     "name": "",
     "name_e": "Retoponogo",
     "category": 5
+  },
+  "903": {
+    "name": "",
+    "name_e": "Highways",
+    "category": 2
   },
   "-2": {
     "name": "Instructionless",
