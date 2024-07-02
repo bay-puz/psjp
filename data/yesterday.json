@@ -1,45 +1,49 @@
 {
-  "day": "2024年7月1日",
+  "day": "2024年7月2日",
   "total": {
-    "problem": 25,
-    "favorite": 584,
-    "answered": 4291
+    "problem": 34,
+    "favorite": 724,
+    "answered": 4809
   },
   "count": {
     "favorite": {
-      "problem": 325,
-      "author": 134
+      "problem": 432,
+      "author": 137
     },
     "answered": {
-      "problem": 2440,
-      "author": 297,
-      "solver": 344
+      "problem": 2765,
+      "author": 288,
+      "solver": 341
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 21,
         "names": [
           {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/126652"
+          },
+          {
             "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/126632"
+            "url": "https://puzsq.logicpuzzle.app/share/126654"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/126632"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/126652"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 64,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 276,
+        "count": 364,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 142,
         "names": [
           {
-            "name": "WA1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=2850"
+            "name": "RN2",
+            "url": "https://puzsq.logicpuzzle.app/?author=2964"
           }
         ]
       }
