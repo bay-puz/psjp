@@ -1,69 +1,69 @@
 {
-  "day": "2024年7月6日",
+  "day": "2024年7月7日",
   "total": {
-    "problem": 43,
-    "favorite": 759,
-    "answered": 5129
+    "problem": 36,
+    "favorite": 868,
+    "answered": 5525
   },
   "count": {
     "favorite": {
-      "problem": 483,
-      "author": 155
+      "problem": 490,
+      "author": 145
     },
     "answered": {
-      "problem": 3007,
-      "author": 290,
-      "solver": 323
+      "problem": 3162,
+      "author": 308,
+      "solver": 315
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 25,
         "names": [
           {
-            "name": "ミッドループ by Tonta",
-            "url": "https://puzsq.logicpuzzle.app/share/126764"
+            "name": "スリザーリンク / Fences by Superrabbit",
+            "url": "https://puzsq.logicpuzzle.app/share/126790"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 97,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/126772"
+            "name": "美術館 by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/126800"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 49,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 292,
+        "count": 264,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 158,
+        "count": 157,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "れ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3508"
           }
         ]
       }
