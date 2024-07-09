@@ -1,50 +1,50 @@
 {
-  "day": "2024年7月8日",
+  "day": "2024年7月9日",
   "total": {
-    "problem": 29,
-    "favorite": 578,
-    "answered": 4965
+    "problem": 35,
+    "favorite": 695,
+    "answered": 5049
   },
   "count": {
     "favorite": {
-      "problem": 370,
-      "author": 140
+      "problem": 494,
+      "author": 135
     },
     "answered": {
-      "problem": 3005,
-      "author": 316,
-      "solver": 324
+      "problem": 3087,
+      "author": 303,
+      "solver": 338
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 11,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/126726"
+            "name": "コブリン by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/126878"
+          },
+          {
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/126882"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 60,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/126726"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/126655"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 26,
+        "count": 35,
         "names": [
-          {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
-          },
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
@@ -52,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 246,
+        "count": 282,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 266,
+        "count": 143,
         "names": [
           {
-            "name": "cici0729",
-            "url": "https://puzsq.logicpuzzle.app/?author=837"
+            "name": "狐緋",
+            "url": "https://puzsq.logicpuzzle.app/?author=3305"
           }
         ]
       }
