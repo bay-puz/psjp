@@ -1,49 +1,45 @@
 {
-  "day": "2024年7月9日",
+  "day": "2024年7月10日",
   "total": {
-    "problem": 35,
-    "favorite": 695,
-    "answered": 5049
+    "problem": 31,
+    "favorite": 906,
+    "answered": 5247
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 135
+      "problem": 610,
+      "author": 154
     },
     "answered": {
-      "problem": 3087,
+      "problem": 3089,
       "author": 303,
-      "solver": 338
+      "solver": 349
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 18,
         "names": [
           {
-            "name": "コブリン by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/126878"
-          },
-          {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/126882"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/126897"
           }
         ]
       },
       "answered": {
-        "count": 60,
+        "count": 79,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/126655"
+            "name": "ましゅ by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/126897"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 73,
         "names": [
           {
             "name": "PinkHoodie",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 282,
+        "count": 358,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 170,
         "names": [
           {
-            "name": "狐緋",
-            "url": "https://puzsq.logicpuzzle.app/?author=3305"
+            "name": "Luanita",
+            "url": "https://puzsq.logicpuzzle.app/?author=3073"
           }
         ]
       }
