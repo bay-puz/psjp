@@ -1,58 +1,54 @@
 {
-  "day": "2024年7月11日",
+  "day": "2024年7月12日",
   "total": {
-    "problem": 26,
-    "favorite": 673,
-    "answered": 4660
+    "problem": 65,
+    "favorite": 641,
+    "answered": 4725
   },
   "count": {
     "favorite": {
-      "problem": 538,
-      "author": 161
+      "problem": 458,
+      "author": 134
     },
     "answered": {
-      "problem": 3046,
-      "author": 306,
-      "solver": 340
+      "problem": 3079,
+      "author": 298,
+      "solver": 334
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 13,
         "names": [
           {
-            "name": "ましゅ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/126935"
-          },
-          {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/126938"
+            "name": "LITS by まっちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/126973"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 71,
         "names": [
           {
-            "name": "ましゅ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/126935"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/126752"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 44,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "lilva",
+            "url": "https://puzsq.logicpuzzle.app/?author=389"
           }
         ]
       },
       "answered": {
-        "count": 269,
+        "count": 331,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 161,
+        "count": 287,
         "names": [
           {
-            "name": "foolish",
-            "url": "https://puzsq.logicpuzzle.app/?author=98"
+            "name": "狐緋",
+            "url": "https://puzsq.logicpuzzle.app/?author=3305"
           }
         ]
       }
