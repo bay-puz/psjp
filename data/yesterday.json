@@ -1,69 +1,69 @@
 {
-  "day": "2024年7月12日",
+  "day": "2024年7月13日",
   "total": {
-    "problem": 65,
-    "favorite": 641,
-    "answered": 4725
+    "problem": 36,
+    "favorite": 609,
+    "answered": 4643
   },
   "count": {
     "favorite": {
-      "problem": 458,
-      "author": 134
+      "problem": 338,
+      "author": 126
     },
     "answered": {
-      "problem": 3079,
-      "author": 298,
-      "solver": 334
+      "problem": 2071,
+      "author": 278,
+      "solver": 283
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 15,
         "names": [
           {
-            "name": "LITS by まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/126973"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/127055"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/126752"
+            "name": "美術館 by ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/share/126992"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 110,
         "names": [
           {
-            "name": "lilva",
-            "url": "https://puzsq.logicpuzzle.app/?author=389"
+            "name": "ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/?author=45"
           }
         ]
       },
       "answered": {
-        "count": 331,
+        "count": 1068,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "ふーなんとかさん",
+            "url": "https://puzsq.logicpuzzle.app/?author=45"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 287,
+        "count": 98,
         "names": [
           {
-            "name": "狐緋",
-            "url": "https://puzsq.logicpuzzle.app/?author=3305"
+            "name": "てんのみかさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1507"
           }
         ]
       }

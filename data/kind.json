@@ -1846,7 +1846,7 @@
   },
   "376": {
     "name": "カウントリンク",
-    "name_e": "",
+    "name_e": "Count Link",
     "category": 2
   },
   "377": {
@@ -3968,6 +3968,11 @@
     "name": "",
     "name_e": "Shrooms",
     "category": 3
+  },
+  "930": {
+    "name": "スイッチループ",
+    "name_e": "",
+    "category": 2
   },
   "-2": {
     "name": "Instructionless",
