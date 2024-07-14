@@ -1,69 +1,73 @@
 {
-  "day": "2024年7月13日",
+  "day": "2024年7月14日",
   "total": {
     "problem": 36,
-    "favorite": 609,
-    "answered": 4643
+    "favorite": 607,
+    "answered": 4891
   },
   "count": {
     "favorite": {
-      "problem": 338,
-      "author": 126
+      "problem": 413,
+      "author": 125
     },
     "answered": {
-      "problem": 2071,
-      "author": 278,
-      "solver": 283
+      "problem": 2731,
+      "author": 283,
+      "solver": 327
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 14,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/127055"
+            "name": "ヤジリン by OTL",
+            "url": "https://puzsq.logicpuzzle.app/share/127079"
+          },
+          {
+            "name": "美術館 by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127083"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 83,
         "names": [
           {
-            "name": "美術館 by ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/share/126992"
+            "name": "美術館 by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127083"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 110,
+        "count": 44,
         "names": [
           {
-            "name": "ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/?author=45"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 1068,
+        "count": 266,
         "names": [
           {
-            "name": "ふーなんとかさん",
-            "url": "https://puzsq.logicpuzzle.app/?author=45"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 98,
+        "count": 168,
         "names": [
           {
-            "name": "てんのみかさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1507"
+            "name": "ugly2333",
+            "url": "https://puzsq.logicpuzzle.app/?author=1070"
           }
         ]
       }
