@@ -1,73 +1,69 @@
 {
-  "day": "2024年7月14日",
+  "day": "2024年7月15日",
   "total": {
-    "problem": 36,
-    "favorite": 607,
-    "answered": 4891
+    "problem": 30,
+    "favorite": 723,
+    "answered": 5055
   },
   "count": {
     "favorite": {
-      "problem": 413,
-      "author": 125
+      "problem": 505,
+      "author": 155
     },
     "answered": {
-      "problem": 2731,
-      "author": 283,
-      "solver": 327
+      "problem": 3091,
+      "author": 296,
+      "solver": 320
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by OTL",
-            "url": "https://puzsq.logicpuzzle.app/share/127079"
-          },
-          {
-            "name": "美術館 by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127083"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/126846"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 77,
         "names": [
           {
-            "name": "美術館 by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127083"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/126846"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 59,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "y888",
+            "url": "https://puzsq.logicpuzzle.app/?author=3102"
           }
         ]
       },
       "answered": {
-        "count": 266,
+        "count": 299,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 168,
+        "count": 138,
         "names": [
           {
-            "name": "ugly2333",
-            "url": "https://puzsq.logicpuzzle.app/?author=1070"
+            "name": "volxa",
+            "url": "https://puzsq.logicpuzzle.app/?author=573"
           }
         ]
       }
