@@ -1,45 +1,49 @@
 {
-  "day": "2024年7月17日",
+  "day": "2024年7月18日",
   "total": {
-    "problem": 27,
-    "favorite": 579,
-    "answered": 4673
+    "problem": 37,
+    "favorite": 504,
+    "answered": 4165
   },
   "count": {
     "favorite": {
-      "problem": 323,
-      "author": 125
+      "problem": 309,
+      "author": 94
     },
     "answered": {
-      "problem": 2526,
-      "author": 296,
-      "solver": 322
+      "problem": 2289,
+      "author": 280,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 17,
         "names": [
           {
             "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127166"
+            "url": "https://puzsq.logicpuzzle.app/share/127201"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127202"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127167"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127201"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 64,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 375,
+        "count": 332,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 138,
+        "count": 146,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "<Leader>:w",
+            "url": "https://puzsq.logicpuzzle.app/?author=3834"
           }
         ]
       }
