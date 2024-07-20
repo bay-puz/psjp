@@ -1,69 +1,73 @@
 {
-  "day": "2024年7月19日",
+  "day": "2024年7月20日",
   "total": {
-    "problem": 33,
-    "favorite": 683,
-    "answered": 4898
+    "problem": 27,
+    "favorite": 693,
+    "answered": 4641
   },
   "count": {
     "favorite": {
-      "problem": 454,
-      "author": 151
+      "problem": 522,
+      "author": 150
     },
     "answered": {
-      "problem": 2853,
-      "author": 293,
-      "solver": 335
+      "problem": 2871,
+      "author": 291,
+      "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "ましゅ by wolog",
-            "url": "https://puzsq.logicpuzzle.app/share/127239"
+            "name": "ましゅ by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/127092"
+          },
+          {
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/127122"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 84,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/127121"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/126907"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 37,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 330,
+        "count": 302,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 221,
+        "count": 146,
         "names": [
           {
-            "name": "UNP",
-            "url": "https://puzsq.logicpuzzle.app/?author=1002"
+            "name": "argon",
+            "url": "https://puzsq.logicpuzzle.app/?author=3568"
           }
         ]
       }
