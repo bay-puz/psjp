@@ -1,19 +1,19 @@
 {
-  "day": "2024年7月20日",
+  "day": "2024年7月21日",
   "total": {
-    "problem": 27,
-    "favorite": 693,
-    "answered": 4641
+    "problem": 30,
+    "favorite": 677,
+    "answered": 4543
   },
   "count": {
     "favorite": {
-      "problem": 522,
-      "author": 150
+      "problem": 520,
+      "author": 141
     },
     "answered": {
-      "problem": 2871,
-      "author": 291,
-      "solver": 310
+      "problem": 3094,
+      "author": 288,
+      "solver": 304
     }
   },
   "top": {
@@ -22,28 +22,24 @@
         "count": 17,
         "names": [
           {
-            "name": "ましゅ by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/127092"
-          },
-          {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/127122"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/127302"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 61,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/126907"
+            "name": "美術館 by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/127290"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 55,
         "names": [
           {
             "name": "K.N.Y.",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 302,
+        "count": 262,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 146,
+        "count": 119,
         "names": [
           {
-            "name": "argon",
-            "url": "https://puzsq.logicpuzzle.app/?author=3568"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
