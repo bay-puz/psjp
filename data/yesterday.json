@@ -1,69 +1,69 @@
 {
-  "day": "2024年7月24日",
+  "day": "2024年7月25日",
   "total": {
-    "problem": 28,
-    "favorite": 508,
-    "answered": 4735
+    "problem": 38,
+    "favorite": 518,
+    "answered": 4081
   },
   "count": {
     "favorite": {
-      "problem": 303,
-      "author": 97
+      "problem": 288,
+      "author": 100
     },
     "answered": {
-      "problem": 2385,
-      "author": 270,
-      "solver": 330
+      "problem": 2197,
+      "author": 276,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/127418"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/127445"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/127418"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/127445"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 39,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 395,
+        "count": 277,
         "names": [
           {
-            "name": "コムサービス",
-            "url": "https://puzsq.logicpuzzle.app/?author=3743"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 111,
+        "count": 150,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "AU12321",
+            "url": "https://puzsq.logicpuzzle.app/?author=3844"
           }
         ]
       }
