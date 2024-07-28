@@ -1,54 +1,58 @@
 {
-  "day": "2024年7月27日",
+  "day": "2024年7月28日",
   "total": {
-    "problem": 26,
-    "favorite": 631,
-    "answered": 4830
+    "problem": 37,
+    "favorite": 530,
+    "answered": 4542
   },
   "count": {
     "favorite": {
-      "problem": 454,
-      "author": 144
+      "problem": 347,
+      "author": 100
     },
     "answered": {
-      "problem": 2933,
-      "author": 305,
-      "solver": 312
+      "problem": 2603,
+      "author": 296,
+      "solver": 327
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "ダブルチョコ by WA1729",
-            "url": "https://puzsq.logicpuzzle.app/share/127047"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/127556"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 64,
         "names": [
           {
-            "name": "美術館 by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/127190"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/127556"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 30,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "nattien",
+            "url": "https://puzsq.logicpuzzle.app/?author=3612"
           }
         ]
       },
       "answered": {
-        "count": 369,
+        "count": 328,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 161,
+        "count": 193,
         "names": [
           {
             "name": "volxa",
