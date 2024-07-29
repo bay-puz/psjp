@@ -1,73 +1,69 @@
 {
-  "day": "2024年7月28日",
+  "day": "2024年7月29日",
   "total": {
-    "problem": 37,
-    "favorite": 530,
-    "answered": 4542
+    "problem": 26,
+    "favorite": 540,
+    "answered": 4225
   },
   "count": {
     "favorite": {
-      "problem": 347,
-      "author": 100
+      "problem": 390,
+      "author": 117
     },
     "answered": {
-      "problem": 2603,
-      "author": 296,
-      "solver": 327
+      "problem": 2570,
+      "author": 299,
+      "solver": 300
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/127556"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127585"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 78,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/127556"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/127585"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 30,
+        "count": 56,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "nattien",
-            "url": "https://puzsq.logicpuzzle.app/?author=3612"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 328,
+        "count": 302,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 193,
+        "count": 151,
         "names": [
           {
-            "name": "volxa",
-            "url": "https://puzsq.logicpuzzle.app/?author=573"
+            "name": "しらポン酢",
+            "url": "https://puzsq.logicpuzzle.app/?author=2945"
           }
         ]
       }
