@@ -1,45 +1,45 @@
 {
-  "day": "2024年7月31日",
+  "day": "2024年8月1日",
   "total": {
-    "problem": 40,
-    "favorite": 650,
-    "answered": 4160
+    "problem": 43,
+    "favorite": 559,
+    "answered": 4107
   },
   "count": {
     "favorite": {
-      "problem": 441,
-      "author": 139
+      "problem": 336,
+      "author": 112
     },
     "answered": {
-      "problem": 2376,
-      "author": 277,
-      "solver": 327
+      "problem": 2089,
+      "author": 263,
+      "solver": 318
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 16,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127650"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/150354"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 75,
         "names": [
           {
             "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/127648"
+            "url": "https://puzsq.logicpuzzle.app/share/150354"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 61,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 333,
+        "count": 360,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 135,
+        "count": 115,
         "names": [
           {
-            "name": "Rachel",
-            "url": "https://puzsq.logicpuzzle.app/?author=2149"
+            "name": "塩ビ服",
+            "url": "https://puzsq.logicpuzzle.app/?author=3566"
           }
         ]
       }
