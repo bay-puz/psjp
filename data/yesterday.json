@@ -1,73 +1,77 @@
 {
-  "day": "2024年8月2日",
+  "day": "2024年8月3日",
   "total": {
-    "problem": 34,
-    "favorite": 586,
-    "answered": 3776
+    "problem": 40,
+    "favorite": 711,
+    "answered": 4854
   },
   "count": {
     "favorite": {
-      "problem": 375,
-      "author": 133
+      "problem": 475,
+      "author": 134
     },
     "answered": {
-      "problem": 2104,
-      "author": 297,
-      "solver": 314
+      "problem": 2894,
+      "author": 293,
+      "solver": 300
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/127542"
-          },
-          {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150393"
+            "name": "修学旅行の夜 by ｎ型半導体",
+            "url": "https://puzsq.logicpuzzle.app/share/150423"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 64,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150393"
+            "name": "修学旅行の夜 by ｎ型半導体",
+            "url": "https://puzsq.logicpuzzle.app/share/150423"
+          },
+          {
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/127588"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 32,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "USBe",
+            "url": "https://puzsq.logicpuzzle.app/?author=43"
+          },
+          {
+            "name": "nattien",
+            "url": "https://puzsq.logicpuzzle.app/?author=3612"
           }
         ]
       },
       "answered": {
-        "count": 298,
+        "count": 234,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 93,
+        "count": 177,
         "names": [
           {
-            "name": "Link173",
-            "url": "https://puzsq.logicpuzzle.app/?author=1436"
+            "name": "argon",
+            "url": "https://puzsq.logicpuzzle.app/?author=3568"
           }
         ]
       }
