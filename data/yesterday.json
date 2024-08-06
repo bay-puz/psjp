@@ -1,45 +1,45 @@
 {
-  "day": "2024年8月5日",
+  "day": "2024年8月6日",
   "total": {
     "problem": 32,
-    "favorite": 772,
-    "answered": 4845
+    "favorite": 620,
+    "answered": 4394
   },
   "count": {
     "favorite": {
-      "problem": 549,
-      "author": 157
+      "problem": 374,
+      "author": 111
     },
     "answered": {
-      "problem": 2713,
-      "author": 296,
-      "solver": 324
+      "problem": 2310,
+      "author": 275,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150495"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/150526"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 75,
         "names": [
           {
             "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150496"
+            "url": "https://puzsq.logicpuzzle.app/share/150526"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 72,
+        "count": 79,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 367,
+        "count": 374,
         "names": [
           {
             "name": "みんにょこ",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 127,
+        "count": 115,
         "names": [
           {
             "name": "AU12321",
