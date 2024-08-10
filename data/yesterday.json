@@ -1,73 +1,73 @@
 {
-  "day": "2024年8月9日",
+  "day": "2024年8月10日",
   "total": {
-    "problem": 32,
-    "favorite": 606,
-    "answered": 4191
+    "problem": 26,
+    "favorite": 720,
+    "answered": 4082
   },
   "count": {
     "favorite": {
-      "problem": 374,
-      "author": 122
+      "problem": 487,
+      "author": 143
     },
     "answered": {
-      "problem": 2121,
-      "author": 272,
-      "solver": 314
+      "problem": 2174,
+      "author": 284,
+      "solver": 315
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150630"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/150604"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 79,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150630"
-          },
-          {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/150632"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/150656"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 63,
+        "count": 42,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+          },
+          {
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 375,
+        "count": 306,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 110,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "狐緋",
+            "url": "https://puzsq.logicpuzzle.app/?author=3305"
           }
         ]
       }
