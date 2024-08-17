@@ -1,69 +1,69 @@
 {
-  "day": "2024年8月16日",
+  "day": "2024年8月17日",
   "total": {
-    "problem": 32,
-    "favorite": 499,
-    "answered": 4120
+    "problem": 25,
+    "favorite": 594,
+    "answered": 4165
   },
   "count": {
     "favorite": {
-      "problem": 327,
-      "author": 120
+      "problem": 446,
+      "author": 153
     },
     "answered": {
-      "problem": 2423,
-      "author": 295,
-      "solver": 284
+      "problem": 2753,
+      "author": 317,
+      "solver": 281
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 11,
+        "count": 14,
         "names": [
           {
-            "name": "おやこどり by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/150881"
+            "name": "ぬりめいず by argon",
+            "url": "https://puzsq.logicpuzzle.app/share/150908"
           }
         ]
       },
       "answered": {
-        "count": 57,
+        "count": 67,
         "names": [
           {
             "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/150713"
+            "url": "https://puzsq.logicpuzzle.app/share/150707"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 37,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 295,
+        "count": 315,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 147,
         "names": [
           {
-            "name": "rak",
-            "url": "https://puzsq.logicpuzzle.app/?author=2802"
+            "name": "tacky8",
+            "url": "https://puzsq.logicpuzzle.app/?author=3861"
           }
         ]
       }
