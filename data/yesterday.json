@@ -1,58 +1,58 @@
 {
-  "day": "2024年8月18日",
+  "day": "2024年8月19日",
   "total": {
-    "problem": 27,
-    "favorite": 547,
-    "answered": 4792
+    "problem": 43,
+    "favorite": 790,
+    "answered": 4828
   },
   "count": {
     "favorite": {
-      "problem": 350,
-      "author": 121
+      "problem": 504,
+      "author": 148
     },
     "answered": {
-      "problem": 2802,
-      "author": 302,
-      "solver": 301
+      "problem": 2580,
+      "author": 298,
+      "solver": 320
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/150930"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/150960"
           },
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/150931"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/150962"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 84,
         "names": [
           {
-            "name": "美術館 by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/150930"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/150969"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 70,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 509,
+        "count": 339,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 152,
+        "count": 134,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "smiry",
+            "url": "https://puzsq.logicpuzzle.app/?author=3879"
           }
         ]
       }
