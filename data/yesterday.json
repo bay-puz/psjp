@@ -1,69 +1,69 @@
 {
-  "day": "2024年8月21日",
+  "day": "2024年8月22日",
   "total": {
-    "problem": 32,
-    "favorite": 895,
-    "answered": 5586
+    "problem": 34,
+    "favorite": 1163,
+    "answered": 5805
   },
   "count": {
     "favorite": {
-      "problem": 558,
-      "author": 153
+      "problem": 761,
+      "author": 164
     },
     "answered": {
-      "problem": 2793,
-      "author": 291,
-      "solver": 315
+      "problem": 3054,
+      "author": 298,
+      "solver": 334
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 30,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/151029"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/151074"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 94,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/150716"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/151074"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 90,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 413,
+        "count": 549,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 250,
+        "count": 234,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "塩ビ服",
+            "url": "https://puzsq.logicpuzzle.app/?author=3566"
           }
         ]
       }
