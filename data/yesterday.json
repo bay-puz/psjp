@@ -1,58 +1,54 @@
 {
-  "day": "2024年8月23日",
+  "day": "2024年8月24日",
   "total": {
-    "problem": 28,
-    "favorite": 949,
-    "answered": 4832
+    "problem": 26,
+    "favorite": 567,
+    "answered": 4575
   },
   "count": {
     "favorite": {
-      "problem": 644,
-      "author": 171
+      "problem": 391,
+      "author": 134
     },
     "answered": {
-      "problem": 2596,
-      "author": 306,
-      "solver": 314
+      "problem": 2589,
+      "author": 293,
+      "solver": 297
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 23,
         "names": [
           {
-            "name": "へやわけ by サンゴ三号さん",
-            "url": "https://puzsq.logicpuzzle.app/share/151102"
-          },
-          {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/150778"
+            "name": "LITS by Notmilk",
+            "url": "https://puzsq.logicpuzzle.app/share/151131"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 75,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/150778"
+            "url": "https://puzsq.logicpuzzle.app/share/150781"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 36,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "y888",
+            "url": "https://puzsq.logicpuzzle.app/?author=3102"
           }
         ]
       },
       "answered": {
-        "count": 477,
+        "count": 412,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 133,
         "names": [
           {
-            "name": "Luanita",
-            "url": "https://puzsq.logicpuzzle.app/?author=3073"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
