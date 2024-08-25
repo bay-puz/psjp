@@ -1,45 +1,45 @@
 {
-  "day": "2024年8月24日",
+  "day": "2024年8月25日",
   "total": {
-    "problem": 26,
-    "favorite": 567,
-    "answered": 4575
+    "problem": 27,
+    "favorite": 538,
+    "answered": 4423
   },
   "count": {
     "favorite": {
-      "problem": 391,
-      "author": 134
+      "problem": 379,
+      "author": 118
     },
     "answered": {
-      "problem": 2589,
-      "author": 293,
-      "solver": 297
+      "problem": 2641,
+      "author": 288,
+      "solver": 302
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 15,
         "names": [
           {
-            "name": "LITS by Notmilk",
-            "url": "https://puzsq.logicpuzzle.app/share/151131"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/150782"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 73,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/150781"
+            "url": "https://puzsq.logicpuzzle.app/share/150782"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 41,
         "names": [
           {
             "name": "y888",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 412,
+        "count": 383,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 109,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "rak",
+            "url": "https://puzsq.logicpuzzle.app/?author=2802"
           }
         ]
       }
