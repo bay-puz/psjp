@@ -1,49 +1,53 @@
 {
-  "day": "2024年8月27日",
+  "day": "2024年8月28日",
   "total": {
-    "problem": 23,
-    "favorite": 841,
-    "answered": 5064
+    "problem": 34,
+    "favorite": 948,
+    "answered": 4929
   },
   "count": {
     "favorite": {
-      "problem": 481,
-      "author": 143
+      "problem": 633,
+      "author": 177
     },
     "answered": {
-      "problem": 2561,
-      "author": 301,
-      "solver": 349
+      "problem": 2575,
+      "author": 300,
+      "solver": 330
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151138"
+            "url": "https://puzsq.logicpuzzle.app/share/151191"
           },
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151222"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/151251"
+          },
+          {
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/151253"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151223"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/151253"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 89,
+        "count": 79,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,22 +56,22 @@
         ]
       },
       "answered": {
-        "count": 415,
+        "count": 397,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 109,
+        "count": 132,
         "names": [
           {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
