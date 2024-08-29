@@ -1,77 +1,73 @@
 {
-  "day": "2024年8月28日",
+  "day": "2024年8月29日",
   "total": {
-    "problem": 34,
-    "favorite": 948,
-    "answered": 4929
+    "problem": 26,
+    "favorite": 730,
+    "answered": 4679
   },
   "count": {
     "favorite": {
-      "problem": 633,
-      "author": 177
+      "problem": 485,
+      "author": 148
     },
     "answered": {
-      "problem": 2575,
-      "author": 300,
-      "solver": 330
+      "problem": 2803,
+      "author": 283,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 22,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151191"
-          },
-          {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151251"
-          },
-          {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151253"
+            "url": "https://puzsq.logicpuzzle.app/share/151204"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 67,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151253"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/151281"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 40,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+          },
+          {
+            "name": "y888",
+            "url": "https://puzsq.logicpuzzle.app/?author=3102"
           }
         ]
       },
       "answered": {
-        "count": 397,
+        "count": 429,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 166,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "WA1729",
+            "url": "https://puzsq.logicpuzzle.app/?author=2850"
           }
         ]
       }
