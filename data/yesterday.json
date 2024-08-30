@@ -1,58 +1,54 @@
 {
-  "day": "2024年8月29日",
+  "day": "2024年8月30日",
   "total": {
-    "problem": 26,
-    "favorite": 730,
-    "answered": 4679
+    "problem": 30,
+    "favorite": 855,
+    "answered": 4915
   },
   "count": {
     "favorite": {
-      "problem": 485,
-      "author": 148
+      "problem": 586,
+      "author": 163
     },
     "answered": {
-      "problem": 2803,
-      "author": 283,
-      "solver": 326
+      "problem": 2920,
+      "author": 317,
+      "solver": 333
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 19,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151204"
+            "url": "https://puzsq.logicpuzzle.app/share/151288"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 82,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/151281"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/151298"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 66,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
-          },
-          {
-            "name": "y888",
-            "url": "https://puzsq.logicpuzzle.app/?author=3102"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 429,
+        "count": 390,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 166,
+        "count": 171,
         "names": [
           {
-            "name": "WA1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=2850"
+            "name": "NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/?author=2641"
           }
         ]
       }
