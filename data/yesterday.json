@@ -1,45 +1,49 @@
 {
-  "day": "2024年8月30日",
+  "day": "2024年8月31日",
   "total": {
-    "problem": 30,
-    "favorite": 855,
-    "answered": 4915
+    "problem": 33,
+    "favorite": 717,
+    "answered": 4382
   },
   "count": {
     "favorite": {
-      "problem": 586,
-      "author": 163
+      "problem": 529,
+      "author": 156
     },
     "answered": {
-      "problem": 2920,
-      "author": 317,
-      "solver": 333
+      "problem": 2661,
+      "author": 295,
+      "solver": 301
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 12,
         "names": [
           {
+            "name": "シャカシャカ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/151317"
+          },
+          {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151288"
+            "url": "https://puzsq.logicpuzzle.app/share/151316"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 67,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/151298"
+            "name": "ぬりかべ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/150861"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 35,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 390,
+        "count": 308,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 171,
+        "count": 202,
         "names": [
           {
-            "name": "NoWiz",
-            "url": "https://puzsq.logicpuzzle.app/?author=2641"
+            "name": "rak",
+            "url": "https://puzsq.logicpuzzle.app/?author=2802"
           }
         ]
       }
