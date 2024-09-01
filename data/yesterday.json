@@ -1,73 +1,73 @@
 {
-  "day": "2024年8月31日",
+  "day": "2024年9月1日",
   "total": {
-    "problem": 33,
-    "favorite": 717,
-    "answered": 4382
+    "problem": 39,
+    "favorite": 662,
+    "answered": 4820
   },
   "count": {
     "favorite": {
-      "problem": 529,
-      "author": 156
+      "problem": 474,
+      "author": 152
     },
     "answered": {
-      "problem": 2661,
-      "author": 295,
-      "solver": 301
+      "problem": 2656,
+      "author": 290,
+      "solver": 306
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 16,
         "names": [
           {
-            "name": "シャカシャカ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/151317"
+            "name": "ダブルチョコ by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/151351"
           },
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151316"
+            "url": "https://puzsq.logicpuzzle.app/share/151339"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 85,
         "names": [
           {
-            "name": "ぬりかべ by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/150861"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151339"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 50,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 308,
+        "count": 588,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 202,
+        "count": 196,
         "names": [
           {
-            "name": "rak",
-            "url": "https://puzsq.logicpuzzle.app/?author=2802"
+            "name": "WA1729",
+            "url": "https://puzsq.logicpuzzle.app/?author=2850"
           }
         ]
       }
