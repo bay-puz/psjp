@@ -1,58 +1,54 @@
 {
-  "day": "2024年9月1日",
+  "day": "2024年9月2日",
   "total": {
-    "problem": 39,
-    "favorite": 662,
-    "answered": 4820
+    "problem": 30,
+    "favorite": 730,
+    "answered": 4935
   },
   "count": {
     "favorite": {
-      "problem": 474,
-      "author": 152
+      "problem": 493,
+      "author": 137
     },
     "answered": {
-      "problem": 2656,
-      "author": 290,
-      "solver": 306
+      "problem": 2551,
+      "author": 287,
+      "solver": 341
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 23,
         "names": [
           {
-            "name": "ダブルチョコ by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/151351"
-          },
-          {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151339"
+            "url": "https://puzsq.logicpuzzle.app/share/151349"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 83,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151339"
+            "url": "https://puzsq.logicpuzzle.app/share/151349"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 43,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 588,
+        "count": 432,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 196,
+        "count": 123,
         "names": [
           {
-            "name": "WA1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=2850"
+            "name": "u81496",
+            "url": "https://puzsq.logicpuzzle.app/?author=3887"
           }
         ]
       }
