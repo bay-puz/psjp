@@ -1,19 +1,19 @@
 {
-  "day": "2024年9月6日",
+  "day": "2024年9月7日",
   "total": {
-    "problem": 35,
-    "favorite": 550,
-    "answered": 4380
+    "problem": 26,
+    "favorite": 628,
+    "answered": 4517
   },
   "count": {
     "favorite": {
-      "problem": 376,
-      "author": 133
+      "problem": 433,
+      "author": 143
     },
     "answered": {
-      "problem": 2366,
-      "author": 295,
-      "solver": 324
+      "problem": 2687,
+      "author": 297,
+      "solver": 317
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 12,
         "names": [
           {
-            "name": "修学旅行の夜 by 三価スニウム",
-            "url": "https://puzsq.logicpuzzle.app/share/151544"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151562"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/151449"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151562"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 41,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 315,
+        "count": 366,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 92,
+        "count": 107,
         "names": [
           {
-            "name": "rob",
-            "url": "https://puzsq.logicpuzzle.app/?author=212"
+            "name": "zunzun",
+            "url": "https://puzsq.logicpuzzle.app/?author=3014"
           }
         ]
       }
