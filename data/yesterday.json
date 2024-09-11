@@ -1,45 +1,45 @@
 {
-  "day": "2024年9月10日",
+  "day": "2024年9月11日",
   "total": {
-    "problem": 38,
-    "favorite": 691,
-    "answered": 4983
+    "problem": 32,
+    "favorite": 732,
+    "answered": 5354
   },
   "count": {
     "favorite": {
-      "problem": 425,
-      "author": 137
+      "problem": 419,
+      "author": 132
     },
     "answered": {
-      "problem": 2585,
-      "author": 300,
-      "solver": 351
+      "problem": 2857,
+      "author": 302,
+      "solver": 374
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 26,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/151680"
+            "name": "ミッドループ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/151718"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 81,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/151680"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151617"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 56,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 675,
+        "count": 386,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 147,
+        "count": 163,
         "names": [
           {
-            "name": "まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3335"
+            "name": "NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/?author=2641"
           }
         ]
       }
