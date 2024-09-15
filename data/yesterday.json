@@ -1,45 +1,49 @@
 {
-  "day": "2024年9月14日",
+  "day": "2024年9月15日",
   "total": {
-    "problem": 27,
-    "favorite": 536,
-    "answered": 5031
+    "problem": 26,
+    "favorite": 654,
+    "answered": 5373
   },
   "count": {
     "favorite": {
-      "problem": 300,
-      "author": 103
+      "problem": 382,
+      "author": 117
     },
     "answered": {
-      "problem": 2758,
-      "author": 298,
-      "solver": 320
+      "problem": 3333,
+      "author": 311,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/151793"
+            "name": "ダブルチョコ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/151823"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 79,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/151793"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151783"
+          },
+          {
+            "name": "ヤジリン by Agent",
+            "url": "https://puzsq.logicpuzzle.app/share/151825"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 75,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 693,
+        "count": 637,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 182,
+        "count": 183,
         "names": [
           {
-            "name": "ｎ型半導体",
-            "url": "https://puzsq.logicpuzzle.app/?author=3804"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
