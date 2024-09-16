@@ -1,49 +1,45 @@
 {
-  "day": "2024年9月15日",
+  "day": "2024年9月16日",
   "total": {
-    "problem": 26,
-    "favorite": 654,
-    "answered": 5373
+    "problem": 32,
+    "favorite": 770,
+    "answered": 5595
   },
   "count": {
     "favorite": {
-      "problem": 382,
-      "author": 117
+      "problem": 530,
+      "author": 138
     },
     "answered": {
-      "problem": 3333,
-      "author": 311,
-      "solver": 314
+      "problem": 3383,
+      "author": 318,
+      "solver": 327
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "ダブルチョコ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/151823"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/151820"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 78,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151783"
-          },
-          {
-            "name": "ヤジリン by Agent",
-            "url": "https://puzsq.logicpuzzle.app/share/151825"
+            "url": "https://puzsq.logicpuzzle.app/share/151820"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 60,
         "names": [
           {
             "name": "anurag",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 637,
+        "count": 595,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 183,
+        "count": 214,
         "names": [
           {
-            "name": "桃花",
-            "url": "https://puzsq.logicpuzzle.app/?author=955"
+            "name": "LaRa",
+            "url": "https://puzsq.logicpuzzle.app/?author=3966"
           }
         ]
       }
