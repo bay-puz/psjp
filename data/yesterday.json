@@ -1,45 +1,45 @@
 {
-  "day": "2024年9月22日",
+  "day": "2024年9月23日",
   "total": {
-    "problem": 29,
-    "favorite": 543,
-    "answered": 5174
+    "problem": 37,
+    "favorite": 671,
+    "answered": 5288
   },
   "count": {
     "favorite": {
-      "problem": 304,
-      "author": 125
+      "problem": 338,
+      "author": 110
     },
     "answered": {
-      "problem": 3264,
-      "author": 335,
-      "solver": 297
+      "problem": 3137,
+      "author": 305,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 32,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151860"
+            "url": "https://puzsq.logicpuzzle.app/share/151875"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 95,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151860"
+            "url": "https://puzsq.logicpuzzle.app/share/151875"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 82,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 630,
+        "count": 656,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 178,
+        "count": 376,
         "names": [
           {
-            "name": "volxa",
-            "url": "https://puzsq.logicpuzzle.app/?author=573"
+            "name": "asdsasd",
+            "url": "https://puzsq.logicpuzzle.app/?author=2442"
           }
         ]
       }
