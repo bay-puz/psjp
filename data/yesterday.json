@@ -1,45 +1,45 @@
 {
-  "day": "2024年9月23日",
+  "day": "2024年9月24日",
   "total": {
-    "problem": 37,
-    "favorite": 671,
-    "answered": 5288
+    "problem": 21,
+    "favorite": 587,
+    "answered": 4713
   },
   "count": {
     "favorite": {
-      "problem": 338,
-      "author": 110
+      "problem": 349,
+      "author": 115
     },
     "answered": {
-      "problem": 3137,
-      "author": 305,
-      "solver": 308
+      "problem": 2695,
+      "author": 280,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 32,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151875"
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/152101"
           }
         ]
       },
       "answered": {
-        "count": 95,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/151875"
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/152101"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 82,
+        "count": 52,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 656,
+        "count": 529,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 376,
+        "count": 145,
         "names": [
           {
-            "name": "asdsasd",
-            "url": "https://puzsq.logicpuzzle.app/?author=2442"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
