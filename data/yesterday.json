@@ -1,69 +1,69 @@
 {
-  "day": "2024年9月24日",
+  "day": "2024年9月25日",
   "total": {
-    "problem": 21,
-    "favorite": 587,
-    "answered": 4713
+    "problem": 27,
+    "favorite": 560,
+    "answered": 4619
   },
   "count": {
     "favorite": {
-      "problem": 349,
-      "author": 115
+      "problem": 314,
+      "author": 116
     },
     "answered": {
-      "problem": 2695,
-      "author": 280,
-      "solver": 326
+      "problem": 2722,
+      "author": 309,
+      "solver": 331
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 18,
         "names": [
           {
-            "name": "美術館 by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/152101"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/152135"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 74,
         "names": [
           {
             "name": "美術館 by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/152101"
+            "url": "https://puzsq.logicpuzzle.app/share/152102"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 44,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 529,
+        "count": 309,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 145,
+        "count": 163,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
