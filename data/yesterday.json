@@ -1,19 +1,19 @@
 {
-  "day": "2024年10月3日",
+  "day": "2024年10月4日",
   "total": {
-    "problem": 25,
-    "favorite": 531,
-    "answered": 4344
+    "problem": 38,
+    "favorite": 594,
+    "answered": 5557
   },
   "count": {
     "favorite": {
-      "problem": 338,
-      "author": 124
+      "problem": 383,
+      "author": 113
     },
     "answered": {
-      "problem": 2563,
-      "author": 288,
-      "solver": 326
+      "problem": 3373,
+      "author": 314,
+      "solver": 337
     }
   },
   "top": {
@@ -22,41 +22,37 @@
         "count": 12,
         "names": [
           {
-            "name": "美術館 by fkfk",
-            "url": "https://puzsq.logicpuzzle.app/share/152403"
-          },
-          {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/152167"
+            "url": "https://puzsq.logicpuzzle.app/share/152173"
           },
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/152423"
+            "name": "ヤジリン by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/151051"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 73,
         "names": [
           {
-            "name": "美術館 by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/152138"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/152173"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 68,
         "names": [
           {
-            "name": "y888",
-            "url": "https://puzsq.logicpuzzle.app/?author=3102"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 366,
+        "count": 589,
         "names": [
           {
             "name": "anurag",
@@ -67,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 281,
+        "count": 395,
         "names": [
           {
             "name": "落葉子",
