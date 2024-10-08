@@ -1,54 +1,58 @@
 {
-  "day": "2024年10月7日",
+  "day": "2024年10月8日",
   "total": {
-    "problem": 35,
-    "favorite": 662,
-    "answered": 5401
+    "problem": 43,
+    "favorite": 707,
+    "answered": 5850
   },
   "count": {
     "favorite": {
-      "problem": 437,
-      "author": 136
+      "problem": 454,
+      "author": 128
     },
     "answered": {
-      "problem": 3128,
-      "author": 308,
-      "solver": 352
+      "problem": 3540,
+      "author": 321,
+      "solver": 340
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "ましゅ by benbenwilde",
-            "url": "https://puzsq.logicpuzzle.app/share/152553"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/152598"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 65,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/152549"
+            "name": "スラローム by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/152589"
+          },
+          {
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/152598"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 60,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 503,
+        "count": 608,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 223,
+        "count": 354,
         "names": [
           {
-            "name": "まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3335"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
