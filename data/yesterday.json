@@ -1,49 +1,45 @@
 {
-  "day": "2024年10月8日",
+  "day": "2024年10月9日",
   "total": {
-    "problem": 43,
-    "favorite": 707,
-    "answered": 5850
+    "problem": 39,
+    "favorite": 580,
+    "answered": 4756
   },
   "count": {
     "favorite": {
-      "problem": 454,
-      "author": 128
+      "problem": 344,
+      "author": 100
     },
     "answered": {
-      "problem": 3540,
-      "author": 321,
-      "solver": 340
+      "problem": 2664,
+      "author": 300,
+      "solver": 336
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/152598"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/152636"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 83,
         "names": [
           {
-            "name": "スラローム by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/152589"
-          },
-          {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/152598"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/152636"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 57,
         "names": [
           {
             "name": "anurag",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 608,
+        "count": 521,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 354,
+        "count": 191,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
