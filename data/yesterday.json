@@ -1,45 +1,45 @@
 {
-  "day": "2024年10月11日",
+  "day": "2024年10月12日",
   "total": {
-    "problem": 28,
-    "favorite": 668,
-    "answered": 4741
+    "problem": 29,
+    "favorite": 584,
+    "answered": 4957
   },
   "count": {
     "favorite": {
-      "problem": 440,
-      "author": 128
+      "problem": 402,
+      "author": 118
     },
     "answered": {
-      "problem": 2890,
-      "author": 295,
-      "solver": 336
+      "problem": 3115,
+      "author": 306,
+      "solver": 306
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 15,
         "names": [
           {
-            "name": "シンプルループ by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/152731"
+            "name": "へやわけ by Puzzledtea",
+            "url": "https://puzsq.logicpuzzle.app/share/152748"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 80,
         "names": [
           {
-            "name": "ましゅ by 4G@きずふぃろ",
-            "url": "https://puzsq.logicpuzzle.app/share/152722"
+            "name": "へやわけ by Puzzledtea",
+            "url": "https://puzsq.logicpuzzle.app/share/152748"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 36,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 400,
+        "count": 382,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 193,
         "names": [
           {
             "name": "LaRa",
