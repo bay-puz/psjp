@@ -1,45 +1,53 @@
 {
-  "day": "2024年10月12日",
+  "day": "2024年10月13日",
   "total": {
-    "problem": 29,
-    "favorite": 584,
-    "answered": 4957
+    "problem": 28,
+    "favorite": 595,
+    "answered": 4478
   },
   "count": {
     "favorite": {
-      "problem": 402,
-      "author": 118
+      "problem": 390,
+      "author": 121
     },
     "answered": {
-      "problem": 3115,
-      "author": 306,
-      "solver": 306
+      "problem": 2955,
+      "author": 315,
+      "solver": 293
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by Puzzledtea",
-            "url": "https://puzsq.logicpuzzle.app/share/152748"
+            "name": "ダブルチョコ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/152780"
+          },
+          {
+            "name": "ダブルチョコ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/152779"
+          },
+          {
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/152151"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 66,
         "names": [
           {
-            "name": "へやわけ by Puzzledtea",
-            "url": "https://puzsq.logicpuzzle.app/share/152748"
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/152151"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 36,
+        "count": 64,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 382,
+        "count": 457,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 193,
+        "count": 126,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "まっちゃ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3335"
           }
         ]
       }
