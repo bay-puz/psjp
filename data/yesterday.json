@@ -1,69 +1,73 @@
 {
-  "day": "2024年10月14日",
+  "day": "2024年10月15日",
   "total": {
-    "problem": 26,
-    "favorite": 560,
-    "answered": 4366
+    "problem": 32,
+    "favorite": 478,
+    "answered": 4323
   },
   "count": {
     "favorite": {
-      "problem": 326,
-      "author": 96
+      "problem": 257,
+      "author": 100
     },
     "answered": {
-      "problem": 2685,
-      "author": 302,
-      "solver": 315
+      "problem": 2663,
+      "author": 301,
+      "solver": 330
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 25,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/152712"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/152844"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/152803"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/152837"
+          },
+          {
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/152838"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 61,
         "names": [
           {
-            "name": "benbenwilde",
-            "url": "https://puzsq.logicpuzzle.app/?author=3892"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 339,
+        "count": 319,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 146,
+        "count": 135,
         "names": [
           {
-            "name": "てんのみかさ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1507"
+            "name": "まっちゃ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3335"
           }
         ]
       }
