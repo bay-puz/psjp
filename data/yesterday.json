@@ -1,69 +1,69 @@
 {
-  "day": "2024年10月17日",
+  "day": "2024年10月18日",
   "total": {
-    "problem": 32,
-    "favorite": 552,
-    "answered": 4660
+    "problem": 27,
+    "favorite": 655,
+    "answered": 5299
   },
   "count": {
     "favorite": {
-      "problem": 366,
-      "author": 122
+      "problem": 412,
+      "author": 131
     },
     "answered": {
-      "problem": 2949,
-      "author": 303,
-      "solver": 326
+      "problem": 3212,
+      "author": 318,
+      "solver": 328
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/152756"
+            "name": "フィルオミノ by かんれいと",
+            "url": "https://puzsq.logicpuzzle.app/share/152931"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 78,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/152756"
+            "url": "https://puzsq.logicpuzzle.app/share/152767"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 56,
         "names": [
           {
-            "name": "ダメ詰まり",
-            "url": "https://puzsq.logicpuzzle.app/?author=2428"
+            "name": "benbenwilde",
+            "url": "https://puzsq.logicpuzzle.app/?author=3892"
           }
         ]
       },
       "answered": {
-        "count": 453,
+        "count": 374,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "benbenwilde",
+            "url": "https://puzsq.logicpuzzle.app/?author=3892"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 175,
+        "count": 244,
         "names": [
           {
-            "name": "ダメ詰まり",
-            "url": "https://puzsq.logicpuzzle.app/?author=2428"
+            "name": "TVDK",
+            "url": "https://puzsq.logicpuzzle.app/?author=3929"
           }
         ]
       }
