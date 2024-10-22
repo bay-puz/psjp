@@ -1,65 +1,69 @@
 {
-  "day": "2024年10月21日",
+  "day": "2024年10月22日",
   "total": {
-    "problem": 36,
-    "favorite": 691,
-    "answered": 5183
+    "problem": 26,
+    "favorite": 632,
+    "answered": 5237
   },
   "count": {
     "favorite": {
-      "problem": 407,
-      "author": 136
+      "problem": 416,
+      "author": 143
     },
     "answered": {
-      "problem": 2932,
-      "author": 309,
-      "solver": 353
+      "problem": 2978,
+      "author": 316,
+      "solver": 340
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 15,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/153024"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/152829"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 75,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/153024"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/152998"
+          },
+          {
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/152665"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 66,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "benbenwilde",
+            "url": "https://puzsq.logicpuzzle.app/?author=3892"
           }
         ]
       },
       "answered": {
-        "count": 395,
+        "count": 509,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "benbenwilde",
+            "url": "https://puzsq.logicpuzzle.app/?author=3892"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 164,
+        "count": 192,
         "names": [
           {
             "name": "LaRa",
