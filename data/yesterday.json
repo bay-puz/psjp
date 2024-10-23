@@ -1,19 +1,19 @@
 {
-  "day": "2024年10月22日",
+  "day": "2024年10月23日",
   "total": {
-    "problem": 26,
-    "favorite": 632,
-    "answered": 5237
+    "problem": 32,
+    "favorite": 519,
+    "answered": 4682
   },
   "count": {
     "favorite": {
-      "problem": 416,
-      "author": 143
+      "problem": 303,
+      "author": 117
     },
     "answered": {
-      "problem": 2978,
-      "author": 316,
-      "solver": 340
+      "problem": 2882,
+      "author": 319,
+      "solver": 306
     }
   },
   "top": {
@@ -22,21 +22,17 @@
         "count": 15,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/152829"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/153093"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 80,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/152998"
-          },
-          {
             "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/152665"
+            "url": "https://puzsq.logicpuzzle.app/share/152666"
           }
         ]
       }
@@ -46,28 +42,28 @@
         "count": 66,
         "names": [
           {
-            "name": "benbenwilde",
-            "url": "https://puzsq.logicpuzzle.app/?author=3892"
+            "name": "ダメ詰まり",
+            "url": "https://puzsq.logicpuzzle.app/?author=2428"
           }
         ]
       },
       "answered": {
-        "count": 509,
+        "count": 420,
         "names": [
           {
-            "name": "benbenwilde",
-            "url": "https://puzsq.logicpuzzle.app/?author=3892"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 192,
+        "count": 160,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
