@@ -1,45 +1,45 @@
 {
-  "day": "2024年10月23日",
+  "day": "2024年10月24日",
   "total": {
-    "problem": 32,
-    "favorite": 519,
-    "answered": 4682
+    "problem": 33,
+    "favorite": 509,
+    "answered": 4269
   },
   "count": {
     "favorite": {
-      "problem": 303,
-      "author": 117
+      "problem": 314,
+      "author": 103
     },
     "answered": {
-      "problem": 2882,
-      "author": 319,
-      "solver": 306
+      "problem": 2659,
+      "author": 307,
+      "solver": 307
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 18,
         "names": [
           {
             "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/153093"
+            "url": "https://puzsq.logicpuzzle.app/share/153118"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/152666"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/153118"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 45,
         "names": [
           {
             "name": "ダメ詰まり",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 420,
+        "count": 294,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 159,
         "names": [
           {
             "name": "ひよぺんぎん",
