@@ -1,18 +1,18 @@
 {
-  "day": "2024年10月30日",
+  "day": "2024年10月31日",
   "total": {
-    "problem": 34,
-    "favorite": 979,
-    "answered": 5566
+    "problem": 47,
+    "favorite": 768,
+    "answered": 4419
   },
   "count": {
     "favorite": {
-      "problem": 695,
-      "author": 142
+      "problem": 499,
+      "author": 135
     },
     "answered": {
-      "problem": 3359,
-      "author": 303,
+      "problem": 2454,
+      "author": 286,
       "solver": 340
     }
   },
@@ -22,8 +22,12 @@
         "count": 16,
         "names": [
           {
-            "name": "ぬりかべ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/153277"
+            "name": "ダブルチョコ by ujimatcha",
+            "url": "https://puzsq.logicpuzzle.app/share/153320"
+          },
+          {
+            "name": "ダブルチョコ by ダメ詰まり",
+            "url": "https://puzsq.logicpuzzle.app/share/153340"
           }
         ]
       },
@@ -31,15 +35,15 @@
         "count": 84,
         "names": [
           {
-            "name": "ぬりかべ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/153277"
+            "name": "美術館 by きらく",
+            "url": "https://puzsq.logicpuzzle.app/share/153322"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 139,
+        "count": 94,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 379,
+        "count": 527,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 304,
+        "count": 236,
         "names": [
           {
             "name": "prasanna16391",
