@@ -1,49 +1,45 @@
 {
-  "day": "2024年11月1日",
+  "day": "2024年11月2日",
   "total": {
-    "problem": 27,
-    "favorite": 800,
-    "answered": 5084
+    "problem": 33,
+    "favorite": 784,
+    "answered": 5315
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 126
+      "problem": 481,
+      "author": 129
     },
     "answered": {
-      "problem": 3151,
-      "author": 322,
-      "solver": 338
+      "problem": 3178,
+      "author": 320,
+      "solver": 324
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/153296"
-          },
-          {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/153356"
+            "name": "へやわけ by t+te/莉依",
+            "url": "https://puzsq.logicpuzzle.app/share/153401"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 73,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/153296"
+            "name": "美術館 by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/153394"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 48,
         "names": [
           {
             "name": "PinkHoodie",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 418,
+        "count": 394,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 304,
+        "count": 228,
         "names": [
           {
             "name": "Matus",
