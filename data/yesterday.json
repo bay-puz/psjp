@@ -1,19 +1,19 @@
 {
-  "day": "2024年11月5日",
+  "day": "2024年11月6日",
   "total": {
-    "problem": 40,
-    "favorite": 654,
-    "answered": 4952
+    "problem": 39,
+    "favorite": 686,
+    "answered": 4608
   },
   "count": {
     "favorite": {
-      "problem": 388,
-      "author": 133
+      "problem": 435,
+      "author": 123
     },
     "answered": {
-      "problem": 2724,
-      "author": 290,
-      "solver": 321
+      "problem": 2648,
+      "author": 283,
+      "solver": 331
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 20,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153490"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/153509"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 83,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153490"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/153509"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 51,
         "names": [
           {
-            "name": "File_xor",
-            "url": "https://puzsq.logicpuzzle.app/?author=332"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 409,
+        "count": 342,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 282,
+        "count": 160,
         "names": [
           {
-            "name": "Matus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4030"
+            "name": "まっちゃ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3335"
           }
         ]
       }
