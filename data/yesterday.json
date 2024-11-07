@@ -1,69 +1,69 @@
 {
-  "day": "2024年11月6日",
+  "day": "2024年11月7日",
   "total": {
-    "problem": 39,
-    "favorite": 686,
-    "answered": 4608
+    "problem": 38,
+    "favorite": 620,
+    "answered": 4245
   },
   "count": {
     "favorite": {
-      "problem": 435,
-      "author": 123
+      "problem": 424,
+      "author": 129
     },
     "answered": {
-      "problem": 2648,
-      "author": 283,
-      "solver": 331
+      "problem": 2635,
+      "author": 297,
+      "solver": 320
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 13,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153509"
+            "name": "ヤジリン by Tohma",
+            "url": "https://puzsq.logicpuzzle.app/share/153561"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 70,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153509"
+            "name": "美術館 by File_xor",
+            "url": "https://puzsq.logicpuzzle.app/share/153568"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 51,
+        "count": 52,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 321,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "File_xor",
+            "url": "https://puzsq.logicpuzzle.app/?author=332"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 235,
         "names": [
           {
-            "name": "まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=3335"
+            "name": "LaRa",
+            "url": "https://puzsq.logicpuzzle.app/?author=3966"
           }
         ]
       }
