@@ -1,29 +1,29 @@
 {
-  "day": "2024年11月7日",
+  "day": "2024年11月8日",
   "total": {
-    "problem": 38,
-    "favorite": 620,
-    "answered": 4245
+    "problem": 39,
+    "favorite": 751,
+    "answered": 4825
   },
   "count": {
     "favorite": {
-      "problem": 424,
-      "author": 129
+      "problem": 426,
+      "author": 144
     },
     "answered": {
-      "problem": 2635,
-      "author": 297,
-      "solver": 320
+      "problem": 2583,
+      "author": 285,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by Tohma",
-            "url": "https://puzsq.logicpuzzle.app/share/153561"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/153573"
           }
         ]
       },
@@ -31,24 +31,24 @@
         "count": 70,
         "names": [
           {
-            "name": "美術館 by File_xor",
-            "url": "https://puzsq.logicpuzzle.app/share/153568"
+            "name": "スリザーリンク / Fences by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/153592"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 78,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "File_xor",
+            "url": "https://puzsq.logicpuzzle.app/?author=332"
           }
         ]
       },
       "answered": {
-        "count": 321,
+        "count": 465,
         "names": [
           {
             "name": "File_xor",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 235,
+        "count": 232,
         "names": [
           {
             "name": "LaRa",
