@@ -1,18 +1,18 @@
 {
-  "day": "2024年11月8日",
+  "day": "2024年11月9日",
   "total": {
-    "problem": 39,
-    "favorite": 751,
-    "answered": 4825
+    "problem": 40,
+    "favorite": 732,
+    "answered": 4630
   },
   "count": {
     "favorite": {
-      "problem": 426,
-      "author": 144
+      "problem": 460,
+      "author": 124
     },
     "answered": {
-      "problem": 2583,
-      "author": 285,
+      "problem": 2552,
+      "author": 292,
       "solver": 314
     }
   },
@@ -22,48 +22,52 @@
         "count": 16,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153573"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/153485"
+          },
+          {
+            "name": "ヤジリン by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/153299"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 80,
         "names": [
           {
-            "name": "スリザーリンク / Fences by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/153592"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/153485"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 55,
         "names": [
           {
-            "name": "File_xor",
-            "url": "https://puzsq.logicpuzzle.app/?author=332"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 465,
+        "count": 354,
         "names": [
           {
-            "name": "File_xor",
-            "url": "https://puzsq.logicpuzzle.app/?author=332"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 232,
+        "count": 222,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
