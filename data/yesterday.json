@@ -1,45 +1,53 @@
 {
-  "day": "2024年11月12日",
+  "day": "2024年11月13日",
   "total": {
-    "problem": 31,
-    "favorite": 778,
-    "answered": 4626
+    "problem": 46,
+    "favorite": 689,
+    "answered": 4448
   },
   "count": {
     "favorite": {
-      "problem": 438,
-      "author": 145
+      "problem": 347,
+      "author": 112
     },
     "answered": {
-      "problem": 2702,
-      "author": 307,
-      "solver": 326
+      "problem": 2647,
+      "author": 315,
+      "solver": 329
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 16,
         "names": [
           {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/153757"
+            "name": "スリザーリンク / Fences by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/153789"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/153780"
+          },
+          {
+            "name": "へやわけ by t+te/莉依",
+            "url": "https://puzsq.logicpuzzle.app/share/153791"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 63,
         "names": [
           {
-            "name": "美術館 by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/153751"
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/153777"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 61,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 364,
+        "count": 375,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 285,
+        "count": 176,
         "names": [
           {
-            "name": "Matus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4030"
+            "name": "ガガドス",
+            "url": "https://puzsq.logicpuzzle.app/?author=3676"
           }
         ]
       }
