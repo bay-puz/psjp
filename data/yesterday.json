@@ -1,77 +1,69 @@
 {
-  "day": "2024年11月13日",
+  "day": "2024年11月14日",
   "total": {
-    "problem": 46,
-    "favorite": 689,
-    "answered": 4448
+    "problem": 58,
+    "favorite": 1303,
+    "answered": 6237
   },
   "count": {
     "favorite": {
-      "problem": 347,
-      "author": 112
+      "problem": 768,
+      "author": 158
     },
     "answered": {
-      "problem": 2647,
-      "author": 315,
-      "solver": 329
+      "problem": 3013,
+      "author": 323,
+      "solver": 328
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 20,
         "names": [
           {
-            "name": "スリザーリンク / Fences by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/153789"
-          },
-          {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/153780"
-          },
-          {
-            "name": "へやわけ by t+te/莉依",
-            "url": "https://puzsq.logicpuzzle.app/share/153791"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/153760"
           }
         ]
       },
       "answered": {
-        "count": 63,
+        "count": 67,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/153777"
+            "name": "シンプルループ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/153275"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 217,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 375,
+        "count": 1387,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 176,
+        "count": 320,
         "names": [
           {
-            "name": "ガガドス",
-            "url": "https://puzsq.logicpuzzle.app/?author=3676"
+            "name": "prasanna16391",
+            "url": "https://puzsq.logicpuzzle.app/?author=798"
           }
         ]
       }
