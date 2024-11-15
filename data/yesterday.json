@@ -1,69 +1,77 @@
 {
-  "day": "2024年11月14日",
+  "day": "2024年11月15日",
   "total": {
-    "problem": 58,
-    "favorite": 1303,
-    "answered": 6237
+    "problem": 54,
+    "favorite": 833,
+    "answered": 5194
   },
   "count": {
     "favorite": {
-      "problem": 768,
-      "author": 158
+      "problem": 468,
+      "author": 133
     },
     "answered": {
-      "problem": 3013,
-      "author": 323,
-      "solver": 328
+      "problem": 2853,
+      "author": 297,
+      "solver": 313
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 14,
         "names": [
           {
             "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/153760"
+            "url": "https://puzsq.logicpuzzle.app/share/153763"
+          },
+          {
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/153893"
+          },
+          {
+            "name": "ヤジリン by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/153905"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 53,
         "names": [
           {
-            "name": "シンプルループ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/153275"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/153894"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 217,
+        "count": 92,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 1387,
+        "count": 435,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 320,
+        "count": 172,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "bakpao",
+            "url": "https://puzsq.logicpuzzle.app/?author=2187"
           }
         ]
       }
