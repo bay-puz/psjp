@@ -4125,14 +4125,14 @@
     "category": 4
   },
   "962": {
-    "name": "アーキペラゴ",
-    "name_e": "Archipelago",
-    "category": 3
+    "name": "Letter Weights",
+    "name_e": "Letter Weights",
+    "category": 1
   },
   "963": {
     "name": "アーキペラゴ",
     "name_e": "Archipelago",
-    "category": 1
+    "category": 3
   },
   "964": {
     "name": "",
@@ -4143,6 +4143,11 @@
     "name": "",
     "name_e": "Bar Graph",
     "category": 3
+  },
+  "967": {
+    "name": "",
+    "name_e": "Interlaced Triplets",
+    "category": 1
   },
   "-2": {
     "name": "Instructionless",
