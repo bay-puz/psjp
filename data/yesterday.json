@@ -1,58 +1,54 @@
 {
-  "day": "2024年11月23日",
+  "day": "2024年11月24日",
   "total": {
-    "problem": 32,
-    "favorite": 492,
-    "answered": 4047
+    "problem": 26,
+    "favorite": 856,
+    "answered": 5122
   },
   "count": {
     "favorite": {
-      "problem": 295,
-      "author": 97
+      "problem": 626,
+      "author": 148
     },
     "answered": {
-      "problem": 2419,
-      "author": 271,
-      "solver": 318
+      "problem": 3413,
+      "author": 313,
+      "solver": 310
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 15,
         "names": [
           {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/153587"
-          },
-          {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/154205"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/154232"
           }
         ]
       },
       "answered": {
-        "count": 57,
+        "count": 80,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/154015"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/154232"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 54,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 240,
+        "count": 271,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 230,
         "names": [
           {
-            "name": "jaku111",
-            "url": "https://puzsq.logicpuzzle.app/?author=4036"
+            "name": "prasanna16391",
+            "url": "https://puzsq.logicpuzzle.app/?author=798"
           }
         ]
       }
