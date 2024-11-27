@@ -1,54 +1,54 @@
 {
-  "day": "2024年11月26日",
+  "day": "2024年11月27日",
   "total": {
-    "problem": 30,
-    "favorite": 860,
-    "answered": 4537
+    "problem": 29,
+    "favorite": 787,
+    "answered": 4772
   },
   "count": {
     "favorite": {
-      "problem": 594,
-      "author": 165
+      "problem": 516,
+      "author": 149
     },
     "answered": {
-      "problem": 2729,
-      "author": 304,
-      "solver": 357
+      "problem": 2750,
+      "author": 296,
+      "solver": 341
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 21,
         "names": [
           {
-            "name": "スターバトル by まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/154336"
+            "name": "スターバトル by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/154359"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 72,
         "names": [
           {
-            "name": "スターバトル by まっちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/154336"
+            "name": "スターバトル by stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/share/154359"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 43,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 352,
+        "count": 314,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 192,
+        "count": 238,
         "names": [
           {
             "name": "Aminami",
