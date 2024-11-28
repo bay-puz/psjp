@@ -1,54 +1,54 @@
 {
-  "day": "2024年11月27日",
+  "day": "2024年11月28日",
   "total": {
-    "problem": 29,
-    "favorite": 787,
-    "answered": 4772
+    "problem": 44,
+    "favorite": 1173,
+    "answered": 5137
   },
   "count": {
     "favorite": {
-      "problem": 516,
-      "author": 149
+      "problem": 716,
+      "author": 161
     },
     "answered": {
-      "problem": 2750,
-      "author": 296,
-      "solver": 341
+      "problem": 2522,
+      "author": 285,
+      "solver": 356
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 25,
         "names": [
           {
-            "name": "スターバトル by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/154359"
+            "name": "へやわけ by ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/share/154403"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 94,
         "names": [
           {
-            "name": "スターバトル by stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/share/154359"
+            "name": "へやわけ by ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/share/154405"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 43,
+        "count": 80,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ゲッソー",
+            "url": "https://puzsq.logicpuzzle.app/?author=145"
           }
         ]
       },
       "answered": {
-        "count": 314,
+        "count": 381,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 238,
+        "count": 121,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "prasanna16391",
+            "url": "https://puzsq.logicpuzzle.app/?author=798"
           }
         ]
       }
