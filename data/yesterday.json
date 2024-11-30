@@ -1,54 +1,58 @@
 {
-  "day": "2024年11月29日",
+  "day": "2024年11月30日",
   "total": {
-    "problem": 37,
-    "favorite": 811,
-    "answered": 5330
+    "problem": 77,
+    "favorite": 741,
+    "answered": 4816
   },
   "count": {
     "favorite": {
-      "problem": 487,
-      "author": 130
+      "problem": 485,
+      "author": 144
     },
     "answered": {
-      "problem": 3085,
-      "author": 313,
-      "solver": 358
+      "problem": 2967,
+      "author": 309,
+      "solver": 308
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 16,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/154451"
+            "name": "へやわけ by ミレイ",
+            "url": "https://puzsq.logicpuzzle.app/share/154514"
+          },
+          {
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/154528"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 68,
         "names": [
           {
-            "name": "へやわけ by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/154457"
+            "name": "へやわけ by ミレイ",
+            "url": "https://puzsq.logicpuzzle.app/share/154514"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 43,
+        "count": 61,
         "names": [
           {
-            "name": "ダメ詰まり",
-            "url": "https://puzsq.logicpuzzle.app/?author=2428"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 321,
+        "count": 533,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 259,
+        "count": 329,
         "names": [
           {
             "name": "落葉子",
