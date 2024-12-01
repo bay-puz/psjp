@@ -1,73 +1,77 @@
 {
-  "day": "2024年11月30日",
+  "day": "2024年12月1日",
   "total": {
-    "problem": 77,
-    "favorite": 741,
-    "answered": 4816
+    "problem": 100,
+    "favorite": 1109,
+    "answered": 7191
   },
   "count": {
     "favorite": {
-      "problem": 485,
-      "author": 144
+      "problem": 566,
+      "author": 152
     },
     "answered": {
-      "problem": 2967,
-      "author": 309,
-      "solver": 308
+      "problem": 3284,
+      "author": 323,
+      "solver": 345
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by ミレイ",
-            "url": "https://puzsq.logicpuzzle.app/share/154514"
+            "name": "美術館 by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/154529"
           },
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/154528"
+            "name": "美術館 by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/154508"
+          },
+          {
+            "name": "美術館 by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/154588"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 72,
         "names": [
           {
-            "name": "へやわけ by ミレイ",
-            "url": "https://puzsq.logicpuzzle.app/share/154514"
+            "name": "美術館 by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/154596"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 102,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 533,
+        "count": 744,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 329,
+        "count": 203,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "Matus",
+            "url": "https://puzsq.logicpuzzle.app/?author=4030"
           }
         ]
       }
