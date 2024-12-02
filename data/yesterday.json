@@ -1,62 +1,54 @@
 {
-  "day": "2024年12月1日",
+  "day": "2024年12月2日",
   "total": {
-    "problem": 100,
-    "favorite": 1109,
-    "answered": 7191
+    "problem": 64,
+    "favorite": 706,
+    "answered": 5130
   },
   "count": {
     "favorite": {
-      "problem": 566,
-      "author": 152
+      "problem": 392,
+      "author": 132
     },
     "answered": {
-      "problem": 3284,
-      "author": 323,
-      "solver": 345
+      "problem": 2848,
+      "author": 298,
+      "solver": 348
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 27,
         "names": [
           {
-            "name": "美術館 by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/154529"
-          },
-          {
-            "name": "美術館 by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/154508"
-          },
-          {
-            "name": "美術館 by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/154588"
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/154627"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 86,
         "names": [
           {
-            "name": "美術館 by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/154596"
+            "name": "美術館 by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/154627"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 102,
+        "count": 51,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 744,
+        "count": 418,
         "names": [
           {
             "name": "PinkHoodie",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 203,
+        "count": 188,
         "names": [
           {
-            "name": "Matus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4030"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
