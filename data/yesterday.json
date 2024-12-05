@@ -1,69 +1,69 @@
 {
-  "day": "2024年12月4日",
+  "day": "2024年12月5日",
   "total": {
-    "problem": 68,
-    "favorite": 1084,
-    "answered": 6359
+    "problem": 72,
+    "favorite": 979,
+    "answered": 5741
   },
   "count": {
     "favorite": {
-      "problem": 590,
-      "author": 144
+      "problem": 552,
+      "author": 143
     },
     "answered": {
-      "problem": 2998,
-      "author": 329,
-      "solver": 385
+      "problem": 2808,
+      "author": 319,
+      "solver": 368
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 23,
         "names": [
           {
-            "name": "フィルオミノ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/154747"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/154796"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 88,
         "names": [
           {
-            "name": "フィルオミノ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/154747"
+            "name": "ぬりめいず by Puzzledtea",
+            "url": "https://puzsq.logicpuzzle.app/share/154697"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 56,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 380,
+        "count": 335,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 219,
+        "count": 165,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
