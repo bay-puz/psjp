@@ -1,45 +1,45 @@
 {
-  "day": "2024年12月6日",
+  "day": "2024年12月7日",
   "total": {
-    "problem": 63,
-    "favorite": 1056,
-    "answered": 5736
+    "problem": 77,
+    "favorite": 925,
+    "answered": 5386
   },
   "count": {
     "favorite": {
-      "problem": 705,
-      "author": 175
+      "problem": 613,
+      "author": 154
     },
     "answered": {
-      "problem": 3104,
-      "author": 313,
-      "solver": 379
+      "problem": 2865,
+      "author": 308,
+      "solver": 366
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "Litherslink by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/154853"
+            "name": "美術館 by EEL",
+            "url": "https://puzsq.logicpuzzle.app/share/154903"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 76,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/154866"
+            "name": "美術館 by EEL",
+            "url": "https://puzsq.logicpuzzle.app/share/154903"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 94,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 394,
+        "count": 463,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 141,
+        "count": 133,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "LLLLL",
+            "url": "https://puzsq.logicpuzzle.app/?author=3452"
           }
         ]
       }
