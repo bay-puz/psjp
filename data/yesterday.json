@@ -1,54 +1,54 @@
 {
-  "day": "2024年12月7日",
+  "day": "2024年12月8日",
   "total": {
-    "problem": 77,
+    "problem": 66,
     "favorite": 925,
-    "answered": 5386
+    "answered": 4950
   },
   "count": {
     "favorite": {
-      "problem": 613,
-      "author": 154
+      "problem": 631,
+      "author": 153
     },
     "answered": {
-      "problem": 2865,
-      "author": 308,
-      "solver": 366
+      "problem": 2967,
+      "author": 306,
+      "solver": 341
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 20,
         "names": [
           {
-            "name": "美術館 by EEL",
-            "url": "https://puzsq.logicpuzzle.app/share/154903"
+            "name": "アイスウォーク by てけてけ",
+            "url": "https://puzsq.logicpuzzle.app/share/154958"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 83,
         "names": [
           {
-            "name": "美術館 by EEL",
-            "url": "https://puzsq.logicpuzzle.app/share/154903"
+            "name": "ヤジリン by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/154948"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 94,
+        "count": 47,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 463,
+        "count": 367,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 143,
         "names": [
           {
-            "name": "LLLLL",
-            "url": "https://puzsq.logicpuzzle.app/?author=3452"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
