@@ -1,45 +1,49 @@
 {
-  "day": "2024年12月9日",
+  "day": "2024年12月10日",
   "total": {
-    "problem": 56,
-    "favorite": 815,
-    "answered": 4877
+    "problem": 63,
+    "favorite": 831,
+    "answered": 5272
   },
   "count": {
     "favorite": {
-      "problem": 496,
+      "problem": 519,
       "author": 144
     },
     "answered": {
-      "problem": 2668,
-      "author": 301,
-      "solver": 379
+      "problem": 3161,
+      "author": 319,
+      "solver": 358
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 17,
         "names": [
           {
-            "name": "修学旅行の夜 by 三価スニウム",
-            "url": "https://puzsq.logicpuzzle.app/share/155019"
+            "name": "星座になれたら by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/155062"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 69,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/154988"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/154667"
+          },
+          {
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/155076"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 78,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 326,
+        "count": 439,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 94,
+        "count": 438,
         "names": [
           {
-            "name": "marmer",
-            "url": "https://puzsq.logicpuzzle.app/?author=3173"
+            "name": "草",
+            "url": "https://puzsq.logicpuzzle.app/?author=4137"
           }
         ]
       }
