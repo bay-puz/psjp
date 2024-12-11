@@ -1,69 +1,69 @@
 {
-  "day": "2024年12月10日",
+  "day": "2024年12月11日",
   "total": {
-    "problem": 63,
-    "favorite": 831,
-    "answered": 5272
+    "problem": 56,
+    "favorite": 902,
+    "answered": 5538
   },
   "count": {
     "favorite": {
-      "problem": 519,
-      "author": 144
+      "problem": 631,
+      "author": 171
     },
     "answered": {
-      "problem": 3161,
-      "author": 319,
-      "solver": 358
+      "problem": 3394,
+      "author": 335,
+      "solver": 351
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 18,
         "names": [
           {
-            "name": "星座になれたら by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/155062"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/155108"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 75,
         "names": [
           {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/154667"
-          },
-          {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/155076"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/155129"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 54,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 439,
+        "count": 403,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 438,
+        "count": 253,
         "names": [
           {
             "name": "草",
