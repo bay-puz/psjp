@@ -1,69 +1,69 @@
 {
-  "day": "2024年12月12日",
+  "day": "2024年12月13日",
   "total": {
-    "problem": 69,
-    "favorite": 991,
-    "answered": 5205
+    "problem": 67,
+    "favorite": 908,
+    "answered": 6094
   },
   "count": {
     "favorite": {
-      "problem": 723,
-      "author": 161
+      "problem": 687,
+      "author": 182
     },
     "answered": {
-      "problem": 3178,
-      "author": 319,
-      "solver": 349
+      "problem": 4377,
+      "author": 348,
+      "solver": 336
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "ファイブセルズ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/155160"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/154731"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 72,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/155167"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/154990"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 65,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 548,
+        "count": 665,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 160,
+        "count": 1571,
         "names": [
           {
-            "name": "草",
-            "url": "https://puzsq.logicpuzzle.app/?author=4137"
+            "name": "bakpao",
+            "url": "https://puzsq.logicpuzzle.app/?author=2187"
           }
         ]
       }
