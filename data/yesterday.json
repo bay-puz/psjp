@@ -1,69 +1,69 @@
 {
-  "day": "2024年12月13日",
+  "day": "2024年12月14日",
   "total": {
-    "problem": 67,
-    "favorite": 908,
-    "answered": 6094
+    "problem": 57,
+    "favorite": 911,
+    "answered": 4956
   },
   "count": {
     "favorite": {
-      "problem": 687,
-      "author": 182
+      "problem": 665,
+      "author": 160
     },
     "answered": {
-      "problem": 4377,
-      "author": 348,
-      "solver": 336
+      "problem": 2991,
+      "author": 318,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/154731"
+            "name": "シンプルループ by argon(アルゴン)",
+            "url": "https://puzsq.logicpuzzle.app/share/155262"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 74,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/154990"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/154732"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 64,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 665,
+        "count": 310,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 1571,
+        "count": 169,
         "names": [
           {
-            "name": "bakpao",
-            "url": "https://puzsq.logicpuzzle.app/?author=2187"
+            "name": "塩ビ服",
+            "url": "https://puzsq.logicpuzzle.app/?author=3566"
           }
         ]
       }
