@@ -1,65 +1,65 @@
 {
-  "day": "2024年12月14日",
+  "day": "2024年12月15日",
   "total": {
-    "problem": 57,
-    "favorite": 911,
-    "answered": 4956
+    "problem": 76,
+    "favorite": 1061,
+    "answered": 5639
   },
   "count": {
     "favorite": {
-      "problem": 665,
-      "author": 160
+      "problem": 804,
+      "author": 191
     },
     "answered": {
-      "problem": 2991,
-      "author": 318,
-      "solver": 326
+      "problem": 3294,
+      "author": 316,
+      "solver": 334
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 17,
         "names": [
           {
-            "name": "シンプルループ by argon(アルゴン)",
-            "url": "https://puzsq.logicpuzzle.app/share/155262"
+            "name": "チェンブロ by カルコゲン",
+            "url": "https://puzsq.logicpuzzle.app/share/155273"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/154732"
+            "name": "美術館 by ぷろぱん",
+            "url": "https://puzsq.logicpuzzle.app/share/155310"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 69,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 411,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Mate",
+            "url": "https://puzsq.logicpuzzle.app/?author=3367"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 169,
+        "count": 190,
         "names": [
           {
             "name": "塩ビ服",
