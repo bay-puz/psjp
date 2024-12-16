@@ -1,29 +1,29 @@
 {
-  "day": "2024年12月15日",
+  "day": "2024年12月16日",
   "total": {
-    "problem": 76,
-    "favorite": 1061,
-    "answered": 5639
+    "problem": 60,
+    "favorite": 856,
+    "answered": 5285
   },
   "count": {
     "favorite": {
-      "problem": 804,
-      "author": 191
+      "problem": 589,
+      "author": 165
     },
     "answered": {
-      "problem": 3294,
-      "author": 316,
-      "solver": 334
+      "problem": 3135,
+      "author": 300,
+      "solver": 327
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "チェンブロ by カルコゲン",
-            "url": "https://puzsq.logicpuzzle.app/share/155273"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/155369"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 77,
         "names": [
           {
-            "name": "美術館 by ぷろぱん",
-            "url": "https://puzsq.logicpuzzle.app/share/155310"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/155369"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 78,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 411,
+        "count": 479,
         "names": [
           {
-            "name": "Mate",
-            "url": "https://puzsq.logicpuzzle.app/?author=3367"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 190,
+        "count": 172,
         "names": [
           {
-            "name": "塩ビ服",
-            "url": "https://puzsq.logicpuzzle.app/?author=3566"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
