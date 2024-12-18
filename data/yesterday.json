@@ -1,45 +1,45 @@
 {
-  "day": "2024年12月17日",
+  "day": "2024年12月18日",
   "total": {
-    "problem": 60,
-    "favorite": 930,
-    "answered": 5036
+    "problem": 54,
+    "favorite": 896,
+    "answered": 5626
   },
   "count": {
     "favorite": {
-      "problem": 739,
-      "author": 175
+      "problem": 668,
+      "author": 172
     },
     "answered": {
-      "problem": 3285,
-      "author": 329,
-      "solver": 341
+      "problem": 3481,
+      "author": 335,
+      "solver": 351
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 15,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/155398"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/155473"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 70,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/155344"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/155473"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 43,
+        "count": 66,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 265,
+        "count": 328,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 140,
+        "count": 277,
         "names": [
           {
-            "name": "桃花",
-            "url": "https://puzsq.logicpuzzle.app/?author=955"
+            "name": "チィノ",
+            "url": "https://puzsq.logicpuzzle.app/?author=821"
           }
         ]
       }
