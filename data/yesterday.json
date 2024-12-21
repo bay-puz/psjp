@@ -1,33 +1,29 @@
 {
-  "day": "2024年12月20日",
+  "day": "2024年12月21日",
   "total": {
-    "problem": 62,
-    "favorite": 883,
-    "answered": 4717
+    "problem": 81,
+    "favorite": 988,
+    "answered": 5809
   },
   "count": {
     "favorite": {
-      "problem": 591,
-      "author": 142
+      "problem": 729,
+      "author": 158
     },
     "answered": {
-      "problem": 2727,
-      "author": 293,
-      "solver": 335
+      "problem": 3490,
+      "author": 307,
+      "solver": 330
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 15,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/155570"
-          },
-          {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/155574"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/155346"
           }
         ]
       },
@@ -35,39 +31,39 @@
         "count": 72,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/155568"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/155346"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 103,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/?author=2409"
           }
         ]
       },
       "answered": {
-        "count": 382,
+        "count": 723,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "GESAKU",
+            "url": "https://puzsq.logicpuzzle.app/?author=2409"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 156,
+        "count": 314,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
