@@ -1,65 +1,69 @@
 {
-  "day": "2024年12月21日",
+  "day": "2024年12月22日",
   "total": {
-    "problem": 81,
-    "favorite": 988,
-    "answered": 5809
+    "problem": 53,
+    "favorite": 710,
+    "answered": 4857
   },
   "count": {
     "favorite": {
-      "problem": 729,
-      "author": 158
+      "problem": 522,
+      "author": 140
     },
     "answered": {
-      "problem": 3490,
-      "author": 307,
-      "solver": 330
+      "problem": 3251,
+      "author": 297,
+      "solver": 321
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 12,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/155346"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/155639"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 56,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/155346"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/155639"
+          },
+          {
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/155534"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 103,
+        "count": 37,
         "names": [
           {
-            "name": "GESAKU",
-            "url": "https://puzsq.logicpuzzle.app/?author=2409"
+            "name": "willow",
+            "url": "https://puzsq.logicpuzzle.app/?author=93"
           }
         ]
       },
       "answered": {
-        "count": 723,
+        "count": 287,
         "names": [
           {
-            "name": "GESAKU",
-            "url": "https://puzsq.logicpuzzle.app/?author=2409"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 314,
+        "count": 249,
         "names": [
           {
             "name": "ゴマアブラ",
