@@ -1,58 +1,54 @@
 {
-  "day": "2024年12月22日",
+  "day": "2024年12月23日",
   "total": {
-    "problem": 53,
-    "favorite": 710,
-    "answered": 4857
+    "problem": 77,
+    "favorite": 713,
+    "answered": 4669
   },
   "count": {
     "favorite": {
-      "problem": 522,
-      "author": 140
+      "problem": 541,
+      "author": 153
     },
     "answered": {
-      "problem": 3251,
-      "author": 297,
-      "solver": 321
+      "problem": 3018,
+      "author": 294,
+      "solver": 323
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 12,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/155639"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/155672"
           }
         ]
       },
       "answered": {
-        "count": 56,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by repy",
-            "url": "https://puzsq.logicpuzzle.app/share/155639"
-          },
-          {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/155534"
+            "name": "ぬりかべ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/155685"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 37,
+        "count": 49,
         "names": [
           {
-            "name": "willow",
-            "url": "https://puzsq.logicpuzzle.app/?author=93"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 287,
+        "count": 323,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 249,
+        "count": 206,
         "names": [
           {
             "name": "ゴマアブラ",
