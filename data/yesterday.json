@@ -1,65 +1,65 @@
 {
-  "day": "2024年12月24日",
+  "day": "2024年12月25日",
   "total": {
-    "problem": 89,
-    "favorite": 807,
-    "answered": 4569
+    "problem": 77,
+    "favorite": 714,
+    "answered": 4447
   },
   "count": {
     "favorite": {
-      "problem": 570,
-      "author": 151
+      "problem": 422,
+      "author": 126
     },
     "answered": {
-      "problem": 2573,
-      "author": 278,
-      "solver": 331
+      "problem": 2449,
+      "author": 279,
+      "solver": 318
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/155752"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/155780"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 67,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/155749"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/155771"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 53,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 298,
+        "count": 339,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 270,
+        "count": 184,
         "names": [
           {
             "name": "ゴマアブラ",
