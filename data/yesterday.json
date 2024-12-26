@@ -1,54 +1,54 @@
 {
-  "day": "2024年12月25日",
+  "day": "2024年12月26日",
   "total": {
-    "problem": 77,
-    "favorite": 714,
-    "answered": 4447
+    "problem": 19,
+    "favorite": 894,
+    "answered": 4753
   },
   "count": {
     "favorite": {
-      "problem": 422,
-      "author": 126
+      "problem": 632,
+      "author": 153
     },
     "answered": {
-      "problem": 2449,
-      "author": 279,
-      "solver": 318
+      "problem": 2870,
+      "author": 300,
+      "solver": 329
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 28,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/155780"
+            "name": "チョコバナナ by もや / moyami",
+            "url": "https://puzsq.logicpuzzle.app/share/155841"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 73,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/155771"
+            "name": "∀人∃ＨＥＹＡ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/155840"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 69,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 339,
+        "count": 385,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 184,
+        "count": 297,
         "names": [
           {
             "name": "ゴマアブラ",
