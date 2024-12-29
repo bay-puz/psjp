@@ -1,54 +1,62 @@
 {
-  "day": "2024年12月28日",
+  "day": "2024年12月29日",
   "total": {
-    "problem": 27,
-    "favorite": 809,
-    "answered": 4155
+    "problem": 28,
+    "favorite": 778,
+    "answered": 4574
   },
   "count": {
     "favorite": {
-      "problem": 592,
-      "author": 153
+      "problem": 578,
+      "author": 155
     },
     "answered": {
-      "problem": 2549,
-      "author": 303,
-      "solver": 298
+      "problem": 3036,
+      "author": 316,
+      "solver": 305
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 12,
         "names": [
           {
-            "name": "へやわけ by Teal",
-            "url": "https://puzsq.logicpuzzle.app/share/155894"
+            "name": "シャカシャカ by argon(アルゴン)",
+            "url": "https://puzsq.logicpuzzle.app/share/155909"
+          },
+          {
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/155858"
+          },
+          {
+            "name": "Tapa by File_xor",
+            "url": "https://puzsq.logicpuzzle.app/share/155913"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 60,
         "names": [
           {
-            "name": "へやわけ by Teal",
-            "url": "https://puzsq.logicpuzzle.app/share/155894"
+            "name": "ましゅ by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/155665"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
+        "count": 52,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 221,
+        "count": 344,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +67,7 @@
     },
     "solver": {
       "answered": {
-        "count": 241,
+        "count": 225,
         "names": [
           {
             "name": "ゴマアブラ",
