@@ -1,54 +1,58 @@
 {
-  "day": "2024年12月30日",
+  "day": "2024年12月31日",
   "total": {
-    "problem": 26,
-    "favorite": 676,
-    "answered": 4094
+    "problem": 70,
+    "favorite": 702,
+    "answered": 4564
   },
   "count": {
     "favorite": {
-      "problem": 487,
-      "author": 138
+      "problem": 414,
+      "author": 136
     },
     "answered": {
-      "problem": 2728,
-      "author": 299,
-      "solver": 288
+      "problem": 2702,
+      "author": 296,
+      "solver": 309
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 17,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/155862"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/155943"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 61,
         "names": [
           {
-            "name": "美術館 by exclue",
-            "url": "https://puzsq.logicpuzzle.app/share/155939"
+            "name": "Tapa by x0_000",
+            "url": "https://puzsq.logicpuzzle.app/share/155966"
+          },
+          {
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/155943"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 70,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "x0_000",
+            "url": "https://puzsq.logicpuzzle.app/?author=747"
           }
         ]
       },
       "answered": {
-        "count": 359,
+        "count": 415,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 237,
+        "count": 183,
         "names": [
           {
-            "name": "ゴマアブラ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2601"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
