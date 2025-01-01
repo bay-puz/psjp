@@ -1,58 +1,54 @@
 {
-  "day": "2024年12月31日",
+  "day": "2025年1月1日",
   "total": {
-    "problem": 70,
-    "favorite": 702,
-    "answered": 4564
+    "problem": 74,
+    "favorite": 892,
+    "answered": 5557
   },
   "count": {
     "favorite": {
-      "problem": 414,
-      "author": 136
+      "problem": 469,
+      "author": 141
     },
     "answered": {
-      "problem": 2702,
-      "author": 296,
-      "solver": 309
+      "problem": 2868,
+      "author": 326,
+      "solver": 337
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/155943"
+            "name": "ヤジリン by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/156037"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 71,
         "names": [
           {
-            "name": "Tapa by x0_000",
-            "url": "https://puzsq.logicpuzzle.app/share/155966"
-          },
-          {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/155943"
+            "name": "美術館 by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/156030"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 63,
         "names": [
           {
-            "name": "x0_000",
-            "url": "https://puzsq.logicpuzzle.app/?author=747"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 415,
+        "count": 344,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 183,
+        "count": 227,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "チィノ",
+            "url": "https://puzsq.logicpuzzle.app/?author=821"
           }
         ]
       }
