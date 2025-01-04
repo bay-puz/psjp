@@ -1,65 +1,69 @@
 {
-  "day": "2025年1月3日",
+  "day": "2025年1月4日",
   "total": {
-    "problem": 27,
-    "favorite": 886,
-    "answered": 5473
+    "problem": 23,
+    "favorite": 710,
+    "answered": 4910
   },
   "count": {
     "favorite": {
-      "problem": 694,
-      "author": 180
+      "problem": 493,
+      "author": 157
     },
     "answered": {
-      "problem": 3591,
-      "author": 335,
-      "solver": 342
+      "problem": 3210,
+      "author": 334,
+      "solver": 317
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 25,
         "names": [
           {
-            "name": "ましゅ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/156123"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/156137"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 88,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/156109"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/156135"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 47,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "たろさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3624"
           }
         ]
       },
       "answered": {
-        "count": 313,
+        "count": 199,
         "names": [
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
+          },
+          {
+            "name": "たろさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3624"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 194,
+        "count": 161,
         "names": [
           {
             "name": "STORK",
