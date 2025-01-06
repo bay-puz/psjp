@@ -1,54 +1,58 @@
 {
-  "day": "2025年1月5日",
+  "day": "2025年1月6日",
   "total": {
-    "problem": 24,
-    "favorite": 978,
-    "answered": 4940
+    "problem": 18,
+    "favorite": 793,
+    "answered": 4549
   },
   "count": {
     "favorite": {
-      "problem": 754,
-      "author": 166
+      "problem": 571,
+      "author": 170
     },
     "answered": {
-      "problem": 3277,
-      "author": 331,
-      "solver": 317
+      "problem": 2981,
+      "author": 306,
+      "solver": 339
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 23,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/156165"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/156176"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 86,
         "names": [
           {
-            "name": "ヤジリン by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/156164"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/156183"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 32,
         "names": [
           {
-            "name": "bay",
-            "url": "https://puzsq.logicpuzzle.app/?author=95"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
+          },
+          {
+            "name": "nattien",
+            "url": "https://puzsq.logicpuzzle.app/?author=3612"
           }
         ]
       },
       "answered": {
-        "count": 261,
+        "count": 214,
         "names": [
           {
             "name": "PinkHoodie",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 305,
+        "count": 215,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "満ﾁｬｿ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4190"
           }
         ]
       }
