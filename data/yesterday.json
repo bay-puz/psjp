@@ -1,58 +1,54 @@
 {
-  "day": "2025年1月6日",
+  "day": "2025年1月7日",
   "total": {
     "problem": 18,
-    "favorite": 793,
-    "answered": 4549
+    "favorite": 850,
+    "answered": 4859
   },
   "count": {
     "favorite": {
-      "problem": 571,
-      "author": 170
+      "problem": 627,
+      "author": 166
     },
     "answered": {
-      "problem": 2981,
-      "author": 306,
-      "solver": 339
+      "problem": 3195,
+      "author": 314,
+      "solver": 348
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/156176"
+            "name": "ヤジリン by Subaru_Saito(新)",
+            "url": "https://puzsq.logicpuzzle.app/share/156207"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 93,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/156183"
+            "name": "ヤジリン by Subaru_Saito(新)",
+            "url": "https://puzsq.logicpuzzle.app/share/156207"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 32,
+        "count": 79,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
-          },
-          {
-            "name": "nattien",
-            "url": "https://puzsq.logicpuzzle.app/?author=3612"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 214,
+        "count": 277,
         "names": [
           {
             "name": "PinkHoodie",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 215,
+        "count": 301,
         "names": [
           {
-            "name": "満ﾁｬｿ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4190"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
