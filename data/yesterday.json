@@ -1,45 +1,45 @@
 {
-  "day": "2025年1月24日",
+  "day": "2025年1月25日",
   "total": {
-    "problem": 28,
-    "favorite": 1088,
-    "answered": 5348
+    "problem": 38,
+    "favorite": 790,
+    "answered": 5509
   },
   "count": {
     "favorite": {
-      "problem": 751,
-      "author": 177
+      "problem": 567,
+      "author": 171
     },
     "answered": {
-      "problem": 3069,
-      "author": 316,
-      "solver": 370
+      "problem": 3516,
+      "author": 332,
+      "solver": 351
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 12,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by ぷろぱん",
-            "url": "https://puzsq.logicpuzzle.app/share/156746"
+            "name": "橋をかけろ by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/156771"
           }
         ]
       },
       "answered": {
-        "count": 105,
+        "count": 77,
         "names": [
           {
             "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/156735"
+            "url": "https://puzsq.logicpuzzle.app/share/156756"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 125,
+        "count": 73,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 704,
+        "count": 621,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 176,
+        "count": 254,
         "names": [
           {
             "name": "満ﾁｬｿ",
