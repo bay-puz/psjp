@@ -1,45 +1,49 @@
 {
-  "day": "2025年1月27日",
+  "day": "2025年1月28日",
   "total": {
-    "problem": 34,
-    "favorite": 1000,
-    "answered": 5493
+    "problem": 27,
+    "favorite": 969,
+    "answered": 5174
   },
   "count": {
     "favorite": {
-      "problem": 702,
-      "author": 175
+      "problem": 752,
+      "author": 158
     },
     "answered": {
-      "problem": 3340,
-      "author": 317,
-      "solver": 342
+      "problem": 3228,
+      "author": 306,
+      "solver": 358
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 18,
         "names": [
           {
-            "name": "ましゅ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/156836"
+            "name": "ましゅ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/156861"
+          },
+          {
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/156815"
           }
         ]
       },
       "answered": {
-        "count": 95,
+        "count": 94,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/156701"
+            "name": "ヤジリン by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/156815"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 92,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 518,
+        "count": 613,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 213,
+        "count": 193,
         "names": [
           {
-            "name": "チィノ",
-            "url": "https://puzsq.logicpuzzle.app/?author=821"
+            "name": "満ﾁｬｿ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4190"
           }
         ]
       }
