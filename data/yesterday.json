@@ -1,54 +1,58 @@
 {
-  "day": "2025年2月9日",
+  "day": "2025年2月10日",
   "total": {
-    "problem": 23,
-    "favorite": 676,
-    "answered": 4118
+    "problem": 17,
+    "favorite": 917,
+    "answered": 4607
   },
   "count": {
     "favorite": {
-      "problem": 415,
-      "author": 124
+      "problem": 604,
+      "author": 153
     },
     "answered": {
-      "problem": 2530,
-      "author": 294,
-      "solver": 326
+      "problem": 2919,
+      "author": 327,
+      "solver": 337
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 29,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/157021"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/157173"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 105,
         "names": [
           {
-            "name": "ましゅ by かんれいと",
-            "url": "https://puzsq.logicpuzzle.app/share/157162"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/157168"
+          },
+          {
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/157173"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 50,
+        "count": 60,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 475,
+        "count": 292,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 212,
         "names": [
           {
-            "name": "チィノ",
-            "url": "https://puzsq.logicpuzzle.app/?author=821"
+            "name": "Slice",
+            "url": "https://puzsq.logicpuzzle.app/?author=3350"
           }
         ]
       }
