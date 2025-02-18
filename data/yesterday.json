@@ -1,69 +1,73 @@
 {
-  "day": "2025年2月17日",
+  "day": "2025年2月18日",
   "total": {
-    "problem": 22,
-    "favorite": 726,
-    "answered": 4830
+    "problem": 34,
+    "favorite": 935,
+    "answered": 4638
   },
   "count": {
     "favorite": {
-      "problem": 391,
-      "author": 115
+      "problem": 624,
+      "author": 178
     },
     "answered": {
-      "problem": 2745,
-      "author": 298,
-      "solver": 355
+      "problem": 2712,
+      "author": 310,
+      "solver": 354
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 28,
+        "count": 18,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/157366"
+            "name": "ミッドループ by Rook",
+            "url": "https://puzsq.logicpuzzle.app/share/157381"
+          },
+          {
+            "name": "ヤジリン by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/157386"
           }
         ]
       },
       "answered": {
-        "count": 102,
+        "count": 84,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/157360"
+            "name": "ヤジリン by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/157377"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 47,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 354,
+        "count": 268,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 204,
+        "count": 133,
         "names": [
           {
-            "name": "連打",
-            "url": "https://puzsq.logicpuzzle.app/?author=2091"
+            "name": "Rook",
+            "url": "https://puzsq.logicpuzzle.app/?author=3259"
           }
         ]
       }
