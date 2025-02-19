@@ -1,49 +1,45 @@
 {
-  "day": "2025年2月18日",
+  "day": "2025年2月19日",
   "total": {
-    "problem": 34,
-    "favorite": 935,
-    "answered": 4638
+    "problem": 33,
+    "favorite": 1005,
+    "answered": 5037
   },
   "count": {
     "favorite": {
-      "problem": 624,
-      "author": 178
+      "problem": 638,
+      "author": 166
     },
     "answered": {
-      "problem": 2712,
-      "author": 310,
-      "solver": 354
+      "problem": 2671,
+      "author": 314,
+      "solver": 344
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 26,
         "names": [
           {
-            "name": "ミッドループ by Rook",
-            "url": "https://puzsq.logicpuzzle.app/share/157381"
-          },
-          {
-            "name": "ヤジリン by ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/share/157386"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/157415"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 109,
         "names": [
           {
-            "name": "ヤジリン by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/157377"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/157404"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 68,
         "names": [
           {
             "name": "Zormac",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 268,
+        "count": 438,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 260,
         "names": [
           {
-            "name": "Rook",
-            "url": "https://puzsq.logicpuzzle.app/?author=3259"
+            "name": "おとはし",
+            "url": "https://puzsq.logicpuzzle.app/?author=685"
           }
         ]
       }
