@@ -1,69 +1,69 @@
 {
-  "day": "2025年2月19日",
+  "day": "2025年2月20日",
   "total": {
-    "problem": 33,
-    "favorite": 1005,
-    "answered": 5037
+    "problem": 40,
+    "favorite": 1071,
+    "answered": 5530
   },
   "count": {
     "favorite": {
-      "problem": 638,
-      "author": 166
+      "problem": 733,
+      "author": 187
     },
     "answered": {
-      "problem": 2671,
-      "author": 314,
-      "solver": 344
+      "problem": 3194,
+      "author": 325,
+      "solver": 355
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/157415"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/157438"
           }
         ]
       },
       "answered": {
-        "count": 109,
+        "count": 91,
         "names": [
           {
             "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/157404"
+            "url": "https://puzsq.logicpuzzle.app/share/157438"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 84,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 438,
+        "count": 541,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 260,
+        "count": 157,
         "names": [
           {
-            "name": "おとはし",
-            "url": "https://puzsq.logicpuzzle.app/?author=685"
+            "name": "disc",
+            "url": "https://puzsq.logicpuzzle.app/?author=2998"
           }
         ]
       }
