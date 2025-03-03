@@ -1,19 +1,19 @@
 {
-  "day": "2025年3月2日",
+  "day": "2025年3月3日",
   "total": {
-    "problem": 46,
-    "favorite": 696,
-    "answered": 4794
+    "problem": 43,
+    "favorite": 795,
+    "answered": 5653
   },
   "count": {
     "favorite": {
-      "problem": 389,
-      "author": 119
+      "problem": 518,
+      "author": 155
     },
     "answered": {
-      "problem": 2520,
-      "author": 295,
-      "solver": 344
+      "problem": 3039,
+      "author": 322,
+      "solver": 382
     }
   },
   "top": {
@@ -22,28 +22,28 @@
         "count": 15,
         "names": [
           {
-            "name": "ヤジリン by ハピパ",
-            "url": "https://puzsq.logicpuzzle.app/share/157827"
+            "name": "シンプルループ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/157557"
+          },
+          {
+            "name": "Aqre by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/157194"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/157830"
-          },
-          {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/157831"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/157868"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 86,
         "names": [
           {
             "name": "anurag",
@@ -52,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 576,
+        "count": 645,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 163,
+        "count": 160,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "WA1729",
+            "url": "https://puzsq.logicpuzzle.app/?author=2850"
           }
         ]
       }
