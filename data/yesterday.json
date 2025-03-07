@@ -1,54 +1,58 @@
 {
-  "day": "2025年3月6日",
+  "day": "2025年3月7日",
   "total": {
-    "problem": 39,
-    "favorite": 683,
-    "answered": 5322
+    "problem": 45,
+    "favorite": 775,
+    "answered": 5446
   },
   "count": {
     "favorite": {
-      "problem": 402,
-      "author": 134
+      "problem": 423,
+      "author": 136
     },
     "answered": {
-      "problem": 2958,
-      "author": 312,
-      "solver": 385
+      "problem": 3000,
+      "author": 325,
+      "solver": 361
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 17,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/157994"
+            "name": "ぬりめいず by mirin31",
+            "url": "https://puzsq.logicpuzzle.app/share/157931"
+          },
+          {
+            "name": "へやわけ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/158079"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 73,
         "names": [
           {
             "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/157992"
+            "url": "https://puzsq.logicpuzzle.app/share/158030"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 62,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 368,
+        "count": 301,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 185,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
