@@ -1,29 +1,37 @@
 {
-  "day": "2025年3月11日",
+  "day": "2025年3月12日",
   "total": {
-    "problem": 35,
-    "favorite": 948,
-    "answered": 5705
+    "problem": 45,
+    "favorite": 1055,
+    "answered": 5659
   },
   "count": {
     "favorite": {
-      "problem": 550,
-      "author": 152
+      "problem": 614,
+      "author": 171
     },
     "answered": {
-      "problem": 3200,
-      "author": 332,
-      "solver": 371
+      "problem": 3069,
+      "author": 326,
+      "solver": 374
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158201"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/158237"
+          },
+          {
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/157982"
+          },
+          {
+            "name": "チョコバナナ by もや / moyami",
+            "url": "https://puzsq.logicpuzzle.app/share/158240"
           }
         ]
       },
@@ -31,24 +39,24 @@
         "count": 86,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/158190"
+            "name": "シンプルループ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/158228"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 135,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 444,
+        "count": 715,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +67,7 @@
     },
     "solver": {
       "answered": {
-        "count": 228,
+        "count": 253,
         "names": [
           {
             "name": "bakpao",
