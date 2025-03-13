@@ -1,62 +1,54 @@
 {
-  "day": "2025年3月12日",
+  "day": "2025年3月13日",
   "total": {
-    "problem": 45,
-    "favorite": 1055,
-    "answered": 5659
+    "problem": 44,
+    "favorite": 919,
+    "answered": 5680
   },
   "count": {
     "favorite": {
-      "problem": 614,
-      "author": 171
+      "problem": 555,
+      "author": 156
     },
     "answered": {
-      "problem": 3069,
-      "author": 326,
-      "solver": 374
+      "problem": 3184,
+      "author": 324,
+      "solver": 378
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 25,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/158237"
-          },
-          {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/157982"
-          },
-          {
-            "name": "チョコバナナ by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/158240"
+            "name": "ダブルチョコ by Agent",
+            "url": "https://puzsq.logicpuzzle.app/share/158290"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 83,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/158228"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158250"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 135,
+        "count": 65,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 715,
+        "count": 595,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 253,
+        "count": 198,
         "names": [
           {
-            "name": "bakpao",
-            "url": "https://puzsq.logicpuzzle.app/?author=2187"
+            "name": "満ﾁｬｿ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4190"
           }
         ]
       }
