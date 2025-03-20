@@ -1,54 +1,54 @@
 {
-  "day": "2025年3月19日",
+  "day": "2025年3月20日",
   "total": {
-    "problem": 38,
-    "favorite": 869,
-    "answered": 4736
+    "problem": 28,
+    "favorite": 742,
+    "answered": 4566
   },
   "count": {
     "favorite": {
-      "problem": 512,
-      "author": 158
+      "problem": 470,
+      "author": 148
     },
     "answered": {
-      "problem": 2678,
-      "author": 298,
-      "solver": 359
+      "problem": 2513,
+      "author": 310,
+      "solver": 346
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 24,
         "names": [
           {
-            "name": "美術館 by uranium_0718",
-            "url": "https://puzsq.logicpuzzle.app/share/158491"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158551"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 83,
         "names": [
           {
-            "name": "美術館 by uranium_0718",
-            "url": "https://puzsq.logicpuzzle.app/share/158491"
+            "name": "へやわけ by mirin31",
+            "url": "https://puzsq.logicpuzzle.app/share/158461"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 75,
+        "count": 63,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 389,
+        "count": 367,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 127,
+        "count": 162,
         "names": [
           {
-            "name": "stranger_86952",
-            "url": "https://puzsq.logicpuzzle.app/?author=2280"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
