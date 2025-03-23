@@ -1,54 +1,58 @@
 {
-  "day": "2025年3月22日",
+  "day": "2025年3月23日",
   "total": {
-    "problem": 27,
-    "favorite": 836,
-    "answered": 4653
+    "problem": 40,
+    "favorite": 704,
+    "answered": 4142
   },
   "count": {
     "favorite": {
-      "problem": 539,
-      "author": 145
+      "problem": 427,
+      "author": 127
     },
     "answered": {
-      "problem": 2715,
-      "author": 311,
-      "solver": 331
+      "problem": 2377,
+      "author": 291,
+      "solver": 322
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 23,
         "names": [
           {
-            "name": "Aqre by FLEB",
-            "url": "https://puzsq.logicpuzzle.app/share/158598"
+            "name": "ましゅ by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/158422"
+          },
+          {
+            "name": "ヤジリン by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158644"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 78,
         "names": [
           {
-            "name": "美術館 by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/158533"
+            "name": "ヤジリン by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158645"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 69,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "disc",
+            "url": "https://puzsq.logicpuzzle.app/?author=2998"
           }
         ]
       },
       "answered": {
-        "count": 349,
+        "count": 320,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 135,
+        "count": 133,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "bakpao",
+            "url": "https://puzsq.logicpuzzle.app/?author=2187"
           }
         ]
       }
