@@ -1,54 +1,58 @@
 {
-  "day": "2025年3月24日",
+  "day": "2025年3月25日",
   "total": {
-    "problem": 27,
-    "favorite": 767,
-    "answered": 4332
+    "problem": 29,
+    "favorite": 892,
+    "answered": 4646
   },
   "count": {
     "favorite": {
-      "problem": 452,
-      "author": 149
+      "problem": 677,
+      "author": 170
     },
     "answered": {
-      "problem": 2284,
-      "author": 297,
-      "solver": 341
+      "problem": 2952,
+      "author": 314,
+      "solver": 331
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158661"
+            "name": "プッテリア by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/158700"
+          },
+          {
+            "name": "ヤジリン by 葵",
+            "url": "https://puzsq.logicpuzzle.app/share/158637"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 68,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158661"
+            "name": "ヤジリン by 葵",
+            "url": "https://puzsq.logicpuzzle.app/share/158637"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 67,
         "names": [
           {
-            "name": "disc",
-            "url": "https://puzsq.logicpuzzle.app/?author=2998"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 490,
+        "count": 415,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 167,
         "names": [
           {
-            "name": "ten986",
-            "url": "https://puzsq.logicpuzzle.app/?author=164"
+            "name": "Aminami",
+            "url": "https://puzsq.logicpuzzle.app/?author=2509"
           }
         ]
       }
