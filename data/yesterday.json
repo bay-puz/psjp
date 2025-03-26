@@ -1,58 +1,58 @@
 {
-  "day": "2025年3月25日",
+  "day": "2025年3月26日",
   "total": {
-    "problem": 29,
-    "favorite": 892,
-    "answered": 4646
+    "problem": 40,
+    "favorite": 845,
+    "answered": 4816
   },
   "count": {
     "favorite": {
-      "problem": 677,
-      "author": 170
+      "problem": 630,
+      "author": 162
     },
     "answered": {
-      "problem": 2952,
-      "author": 314,
-      "solver": 331
+      "problem": 2881,
+      "author": 313,
+      "solver": 346
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 19,
         "names": [
           {
-            "name": "プッテリア by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/158700"
-          },
-          {
-            "name": "ヤジリン by 葵",
-            "url": "https://puzsq.logicpuzzle.app/share/158637"
+            "name": "ヤジリン by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158748"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by 葵",
-            "url": "https://puzsq.logicpuzzle.app/share/158637"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158746"
+          },
+          {
+            "name": "ヤジリン by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158748"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 54,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 415,
+        "count": 441,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 167,
+        "count": 199,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "MF",
+            "url": "https://puzsq.logicpuzzle.app/?author=91"
           }
         ]
       }
