@@ -1,19 +1,19 @@
 {
-  "day": "2025年3月26日",
+  "day": "2025年3月27日",
   "total": {
-    "problem": 40,
-    "favorite": 845,
-    "answered": 4816
+    "problem": 35,
+    "favorite": 749,
+    "answered": 4635
   },
   "count": {
     "favorite": {
-      "problem": 630,
-      "author": 162
+      "problem": 522,
+      "author": 149
     },
     "answered": {
-      "problem": 2881,
+      "problem": 3054,
       "author": 313,
-      "solver": 346
+      "solver": 355
     }
   },
   "top": {
@@ -22,37 +22,33 @@
         "count": 19,
         "names": [
           {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158748"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/158777"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 76,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158746"
-          },
-          {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158748"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/158764"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 53,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 441,
+        "count": 361,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 199,
+        "count": 239,
         "names": [
           {
             "name": "MF",
