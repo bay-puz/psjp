@@ -1,54 +1,66 @@
 {
-  "day": "2025年3月29日",
+  "day": "2025年3月30日",
   "total": {
-    "problem": 53,
-    "favorite": 888,
-    "answered": 5115
+    "problem": 42,
+    "favorite": 698,
+    "answered": 3844
   },
   "count": {
     "favorite": {
-      "problem": 532,
-      "author": 164
+      "problem": 457,
+      "author": 139
     },
     "answered": {
-      "problem": 2891,
-      "author": 332,
-      "solver": 351
+      "problem": 2197,
+      "author": 270,
+      "solver": 317
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 13,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/158834"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/158898"
+          },
+          {
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/158901"
+          },
+          {
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/158918"
+          },
+          {
+            "name": "フィルオミノ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/158924"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 69,
         "names": [
           {
-            "name": "フィルオミノ by ぐ",
-            "url": "https://puzsq.logicpuzzle.app/share/158879"
+            "name": "へやわけ by willow",
+            "url": "https://puzsq.logicpuzzle.app/share/158901"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 43,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "ss3",
+            "url": "https://puzsq.logicpuzzle.app/?author=4203"
           }
         ]
       },
       "answered": {
-        "count": 325,
+        "count": 401,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +71,11 @@
     },
     "solver": {
       "answered": {
-        "count": 137,
+        "count": 124,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }

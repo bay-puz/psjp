@@ -1271,7 +1271,7 @@
   },
   "261": {
     "name": "猪突猛進",
-    "name_e": "",
+    "name_e": "猪突猛進",
     "category": 2
   },
   "262": {
@@ -4363,6 +4363,11 @@
     "name": "",
     "name_e": "Megane",
     "category": 2
+  },
+  "1012": {
+    "name": "ジャパニーズサム",
+    "name_e": "Japanese Sums",
+    "category": 1
   },
   "-2": {
     "name": "Instructionless",
