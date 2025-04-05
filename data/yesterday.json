@@ -1,19 +1,19 @@
 {
-  "day": "2025年4月4日",
+  "day": "2025年4月5日",
   "total": {
-    "problem": 46,
-    "favorite": 650,
-    "answered": 4582
+    "problem": 26,
+    "favorite": 1408,
+    "answered": 4947
   },
   "count": {
     "favorite": {
-      "problem": 422,
-      "author": 137
+      "problem": 1200,
+      "author": 250
     },
     "answered": {
-      "problem": 2596,
-      "author": 312,
-      "solver": 344
+      "problem": 3078,
+      "author": 324,
+      "solver": 319
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 15,
         "names": [
           {
-            "name": "スリザーリンク / Fences by watari",
-            "url": "https://puzsq.logicpuzzle.app/share/159113"
+            "name": "波及効果 by mirin31",
+            "url": "https://puzsq.logicpuzzle.app/share/157807"
           }
         ]
       },
       "answered": {
-        "count": 66,
+        "count": 61,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/159122"
+            "name": "へやわけ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/159172"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 52,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 402,
+        "count": 304,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 161,
+        "count": 330,
         "names": [
           {
-            "name": "saki",
-            "url": "https://puzsq.logicpuzzle.app/?author=399"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
