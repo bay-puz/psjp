@@ -1,33 +1,33 @@
 {
-  "day": "2025年4月7日",
+  "day": "2025年4月8日",
   "total": {
-    "problem": 37,
-    "favorite": 945,
-    "answered": 5163
+    "problem": 36,
+    "favorite": 845,
+    "answered": 4846
   },
   "count": {
     "favorite": {
-      "problem": 539,
-      "author": 139
+      "problem": 599,
+      "author": 144
     },
     "answered": {
-      "problem": 2871,
-      "author": 320,
-      "solver": 348
+      "problem": 2955,
+      "author": 314,
+      "solver": 347
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by うりよしきば",
-            "url": "https://puzsq.logicpuzzle.app/share/159239"
+            "name": "チョコバナナ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/159261"
           },
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/159244"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/159271"
           }
         ]
       },
@@ -35,24 +35,24 @@
         "count": 77,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/159229"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/159271"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 81,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 413,
+        "count": 388,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 169,
+        "count": 214,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "aro",
+            "url": "https://puzsq.logicpuzzle.app/?author=4303"
           }
         ]
       }
