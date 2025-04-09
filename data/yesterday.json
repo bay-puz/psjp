@@ -1,58 +1,54 @@
 {
-  "day": "2025年4月8日",
+  "day": "2025年4月9日",
   "total": {
-    "problem": 36,
-    "favorite": 845,
-    "answered": 4846
+    "problem": 33,
+    "favorite": 809,
+    "answered": 5304
   },
   "count": {
     "favorite": {
-      "problem": 599,
-      "author": 144
+      "problem": 494,
+      "author": 162
     },
     "answered": {
-      "problem": 2955,
-      "author": 314,
-      "solver": 347
+      "problem": 3231,
+      "author": 329,
+      "solver": 350
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 20,
         "names": [
           {
-            "name": "チョコバナナ by Menderbug ",
-            "url": "https://puzsq.logicpuzzle.app/share/159261"
-          },
-          {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/159271"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/159307"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 79,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/159271"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/159298"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 90,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 388,
+        "count": 585,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 214,
+        "count": 213,
         "names": [
           {
-            "name": "aro",
-            "url": "https://puzsq.logicpuzzle.app/?author=4303"
+            "name": "あおざかな",
+            "url": "https://puzsq.logicpuzzle.app/?author=4010"
           }
         ]
       }
