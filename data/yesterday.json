@@ -1,54 +1,54 @@
 {
-  "day": "2025年4月12日",
+  "day": "2025年4月13日",
   "total": {
     "problem": 32,
-    "favorite": 822,
-    "answered": 4970
+    "favorite": 834,
+    "answered": 4947
   },
   "count": {
     "favorite": {
-      "problem": 549,
+      "problem": 540,
       "author": 168
     },
     "answered": {
-      "problem": 3050,
-      "author": 328,
-      "solver": 340
+      "problem": 3141,
+      "author": 341,
+      "solver": 312
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 25,
         "names": [
           {
-            "name": "LITS by Lex3333",
-            "url": "https://puzsq.logicpuzzle.app/share/159404"
+            "name": "美術館 by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/159438"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 75,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/159389"
+            "name": "美術館 by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/159438"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 51,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "willow",
+            "url": "https://puzsq.logicpuzzle.app/?author=93"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 372,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 159,
+        "count": 195,
         "names": [
           {
-            "name": "maya",
-            "url": "https://puzsq.logicpuzzle.app/?author=4392"
+            "name": "LaRa",
+            "url": "https://puzsq.logicpuzzle.app/?author=3966"
           }
         ]
       }
