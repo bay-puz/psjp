@@ -1,69 +1,69 @@
 {
-  "day": "2025年4月13日",
+  "day": "2025年4月14日",
   "total": {
     "problem": 32,
-    "favorite": 834,
-    "answered": 4947
+    "favorite": 1086,
+    "answered": 5929
   },
   "count": {
     "favorite": {
-      "problem": 540,
-      "author": 168
+      "problem": 717,
+      "author": 210
     },
     "answered": {
-      "problem": 3141,
-      "author": 341,
-      "solver": 312
+      "problem": 3567,
+      "author": 346,
+      "solver": 382
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 27,
         "names": [
           {
-            "name": "美術館 by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/159438"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/159466"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 89,
         "names": [
           {
-            "name": "美術館 by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/159438"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/159461"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 51,
+        "count": 84,
         "names": [
           {
-            "name": "willow",
-            "url": "https://puzsq.logicpuzzle.app/?author=93"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 372,
+        "count": 360,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 195,
+        "count": 190,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/?author=3398"
           }
         ]
       }
