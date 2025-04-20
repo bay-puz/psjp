@@ -1,54 +1,58 @@
 {
-  "day": "2025年4月19日",
+  "day": "2025年4月20日",
   "total": {
-    "problem": 30,
-    "favorite": 675,
-    "answered": 5271
+    "problem": 28,
+    "favorite": 735,
+    "answered": 5109
   },
   "count": {
     "favorite": {
-      "problem": 381,
-      "author": 144
+      "problem": 467,
+      "author": 124
     },
     "answered": {
-      "problem": 3234,
-      "author": 335,
-      "solver": 330
+      "problem": 3292,
+      "author": 327,
+      "solver": 315
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "美術館 by FLEB",
-            "url": "https://puzsq.logicpuzzle.app/share/159642"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/159352"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 72,
         "names": [
           {
-            "name": "美術館 by FLEB",
-            "url": "https://puzsq.logicpuzzle.app/share/159642"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/159352"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 55,
         "names": [
           {
-            "name": "白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/?author=3739"
+            "name": "Apppp!!",
+            "url": "https://puzsq.logicpuzzle.app/?author=58"
+          },
+          {
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 319,
+        "count": 342,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 146,
+        "count": 251,
         "names": [
           {
-            "name": "VEBHPlR",
-            "url": "https://puzsq.logicpuzzle.app/?author=2622"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
