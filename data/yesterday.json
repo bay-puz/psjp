@@ -1,69 +1,69 @@
 {
-  "day": "2025年4月27日",
+  "day": "2025年4月28日",
   "total": {
-    "problem": 36,
-    "favorite": 764,
-    "answered": 4484
+    "problem": 53,
+    "favorite": 858,
+    "answered": 5044
   },
   "count": {
     "favorite": {
-      "problem": 456,
-      "author": 144
+      "problem": 545,
+      "author": 161
     },
     "answered": {
-      "problem": 2729,
-      "author": 315,
-      "solver": 304
+      "problem": 2897,
+      "author": 331,
+      "solver": 361
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/159897"
+            "name": "ぬりかべ by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/159955"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 72,
         "names": [
           {
-            "name": "へやわけ by willow",
-            "url": "https://puzsq.logicpuzzle.app/share/159890"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/159923"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 91,
+        "count": 129,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "djmathman",
+            "url": "https://puzsq.logicpuzzle.app/?author=3247"
           }
         ]
       },
       "answered": {
-        "count": 501,
+        "count": 515,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "djmathman",
+            "url": "https://puzsq.logicpuzzle.app/?author=3247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 279,
+        "count": 128,
         "names": [
           {
-            "name": "asdsasd",
-            "url": "https://puzsq.logicpuzzle.app/?author=2442"
+            "name": "moss42",
+            "url": "https://puzsq.logicpuzzle.app/?author=3197"
           }
         ]
       }
