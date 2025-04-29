@@ -4454,20 +4454,20 @@
     "name_e": "Second Corner",
     "category": 2
   },
-  "1031": {
-    "name": "",
-    "name_e": "Arrow Flow",
-    "category": 4
-  },
   "1032": {
-    "name": "",
-    "name_e": "Arofuro (Arrow Flow)",
+    "name": "アローフロー",
+    "name_e": "Arrow Flow",
     "category": 4
   },
   "1033": {
     "name": "",
     "name_e": "Triomino Divide",
     "category": 5
+  },
+  "1034": {
+    "name": "",
+    "name_e": "High-low Loop (ハイロウループ)",
+    "category": 2
   },
   "-2": {
     "name": "Instructionless",

@@ -1,45 +1,45 @@
 {
-  "day": "2025年4月28日",
+  "day": "2025年4月29日",
   "total": {
-    "problem": 53,
-    "favorite": 858,
-    "answered": 5044
+    "problem": 24,
+    "favorite": 752,
+    "answered": 5146
   },
   "count": {
     "favorite": {
-      "problem": 545,
-      "author": 161
+      "problem": 446,
+      "author": 130
     },
     "answered": {
-      "problem": 2897,
-      "author": 331,
-      "solver": 361
+      "problem": 3288,
+      "author": 353,
+      "solver": 332
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 24,
         "names": [
           {
-            "name": "ぬりかべ by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/159955"
+            "name": "ヤジリン by 葵",
+            "url": "https://puzsq.logicpuzzle.app/share/159989"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 94,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/159923"
+            "name": "ぬりかべ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/159973"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 129,
+        "count": 49,
         "names": [
           {
             "name": "djmathman",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 515,
+        "count": 258,
         "names": [
           {
-            "name": "djmathman",
-            "url": "https://puzsq.logicpuzzle.app/?author=3247"
+            "name": "たろさ",
+            "url": "https://puzsq.logicpuzzle.app/?author=3624"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 128,
+        "count": 150,
         "names": [
           {
-            "name": "moss42",
-            "url": "https://puzsq.logicpuzzle.app/?author=3197"
+            "name": "mirin31",
+            "url": "https://puzsq.logicpuzzle.app/?author=4144"
           }
         ]
       }
