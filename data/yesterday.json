@@ -1,45 +1,45 @@
 {
-  "day": "2025年5月2日",
+  "day": "2025年5月3日",
   "total": {
-    "problem": 45,
-    "favorite": 894,
-    "answered": 5481
+    "problem": 47,
+    "favorite": 671,
+    "answered": 4507
   },
   "count": {
     "favorite": {
-      "problem": 534,
-      "author": 157
+      "problem": 429,
+      "author": 137
     },
     "answered": {
-      "problem": 2824,
-      "author": 322,
-      "solver": 364
+      "problem": 2569,
+      "author": 303,
+      "solver": 333
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 14,
         "names": [
           {
-            "name": "修学旅行の夜 by 葵",
-            "url": "https://puzsq.logicpuzzle.app/share/160103"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/160133"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 71,
         "names": [
           {
-            "name": "美術館 by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/160096"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/160100"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 83,
+        "count": 45,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 661,
+        "count": 331,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 202,
+        "count": 181,
         "names": [
           {
-            "name": "prasanna16391",
-            "url": "https://puzsq.logicpuzzle.app/?author=798"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
