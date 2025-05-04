@@ -1,69 +1,69 @@
 {
-  "day": "2025年5月3日",
+  "day": "2025年5月4日",
   "total": {
-    "problem": 47,
-    "favorite": 671,
-    "answered": 4507
+    "problem": 42,
+    "favorite": 899,
+    "answered": 5148
   },
   "count": {
     "favorite": {
-      "problem": 429,
-      "author": 137
+      "problem": 608,
+      "author": 171
     },
     "answered": {
-      "problem": 2569,
-      "author": 303,
-      "solver": 333
+      "problem": 2999,
+      "author": 315,
+      "solver": 328
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/160133"
+            "name": "へやわけ by サンゴ三号さん",
+            "url": "https://puzsq.logicpuzzle.app/share/160176"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 78,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/160100"
+            "name": "へやわけ by サンゴ三号さん",
+            "url": "https://puzsq.logicpuzzle.app/share/160176"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 86,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "File_xor",
+            "url": "https://puzsq.logicpuzzle.app/?author=332"
           }
         ]
       },
       "answered": {
-        "count": 331,
+        "count": 545,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "File_xor",
+            "url": "https://puzsq.logicpuzzle.app/?author=332"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 181,
+        "count": 194,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "EKBM",
+            "url": "https://puzsq.logicpuzzle.app/?author=211"
           }
         ]
       }
