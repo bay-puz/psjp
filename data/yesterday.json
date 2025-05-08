@@ -1,73 +1,69 @@
 {
-  "day": "2025年5月7日",
+  "day": "2025年5月8日",
   "total": {
-    "problem": 40,
-    "favorite": 830,
-    "answered": 4692
+    "problem": 31,
+    "favorite": 973,
+    "answered": 5315
   },
   "count": {
     "favorite": {
-      "problem": 516,
-      "author": 150
+      "problem": 619,
+      "author": 185
     },
     "answered": {
-      "problem": 2695,
-      "author": 326,
-      "solver": 352
+      "problem": 3169,
+      "author": 357,
+      "solver": 375
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 18,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/160282"
+            "name": " by Seren✩",
+            "url": "https://puzsq.logicpuzzle.app/share/160326"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 79,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/160282"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/160321"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 100,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          },
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 408,
+        "count": 587,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 188,
         "names": [
           {
-            "name": "塩ビ服",
-            "url": "https://puzsq.logicpuzzle.app/?author=3566"
+            "name": "WA1729",
+            "url": "https://puzsq.logicpuzzle.app/?author=2850"
           }
         ]
       }
