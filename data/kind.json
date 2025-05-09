@@ -4485,7 +4485,7 @@
     "category": 3
   },
   "1038": {
-    "name": "",
+    "name": "Rule of Three",
     "name_e": "Rule of Three",
     "category": 4
   },
@@ -4498,6 +4498,11 @@
     "name": "",
     "name_e": "Domination (ドミネーション)",
     "category": 4
+  },
+  "1041": {
+    "name": "",
+    "name_e": "Tetro Chance",
+    "category": 5
   },
   "-2": {
     "name": "Instructionless",
