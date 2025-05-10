@@ -1,19 +1,19 @@
 {
-  "day": "2025年5月9日",
+  "day": "2025年5月10日",
   "total": {
-    "problem": 39,
-    "favorite": 940,
-    "answered": 5324
+    "problem": 40,
+    "favorite": 950,
+    "answered": 5259
   },
   "count": {
     "favorite": {
-      "problem": 568,
-      "author": 171
+      "problem": 633,
+      "author": 172
     },
     "answered": {
-      "problem": 2908,
-      "author": 327,
-      "solver": 361
+      "problem": 3016,
+      "author": 332,
+      "solver": 340
     }
   },
   "top": {
@@ -22,24 +22,24 @@
         "count": 21,
         "names": [
           {
-            "name": "ヤジリン by chihi311",
-            "url": "https://puzsq.logicpuzzle.app/share/160350"
+            "name": "へやわけ by mirin31",
+            "url": "https://puzsq.logicpuzzle.app/share/160343"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 84,
         "names": [
           {
-            "name": "ヤジリン by chihi311",
-            "url": "https://puzsq.logicpuzzle.app/share/160351"
+            "name": "へやわけ by mirin31",
+            "url": "https://puzsq.logicpuzzle.app/share/160343"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 68,
         "names": [
           {
             "name": "Yu-ri",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 255,
+        "count": 451,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 206,
+        "count": 221,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
