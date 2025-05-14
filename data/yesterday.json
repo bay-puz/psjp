@@ -1,54 +1,54 @@
 {
-  "day": "2025年5月13日",
+  "day": "2025年5月14日",
   "total": {
-    "problem": 32,
-    "favorite": 825,
-    "answered": 5104
+    "problem": 42,
+    "favorite": 862,
+    "answered": 5281
   },
   "count": {
     "favorite": {
-      "problem": 531,
-      "author": 163
+      "problem": 535,
+      "author": 172
     },
     "answered": {
-      "problem": 3068,
-      "author": 334,
-      "solver": 372
+      "problem": 3163,
+      "author": 350,
+      "solver": 390
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 31,
         "names": [
           {
-            "name": "ぬりめいず by incubus_312",
-            "url": "https://puzsq.logicpuzzle.app/share/160489"
+            "name": "ぬりかべ by pelerin13_tn",
+            "url": "https://puzsq.logicpuzzle.app/share/160516"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 89,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/160487"
+            "name": "ぬりかべ by pelerin13_tn",
+            "url": "https://puzsq.logicpuzzle.app/share/160516"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 48,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/?author=3739"
           }
         ]
       },
       "answered": {
-        "count": 399,
+        "count": 349,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 125,
+        "count": 144,
         "names": [
           {
-            "name": "fkfk",
-            "url": "https://puzsq.logicpuzzle.app/?author=2291"
+            "name": "WA1729",
+            "url": "https://puzsq.logicpuzzle.app/?author=2850"
           }
         ]
       }
