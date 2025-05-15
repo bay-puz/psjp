@@ -1,54 +1,54 @@
 {
-  "day": "2025年5月14日",
+  "day": "2025年5月15日",
   "total": {
-    "problem": 42,
-    "favorite": 862,
-    "answered": 5281
+    "problem": 33,
+    "favorite": 1028,
+    "answered": 5569
   },
   "count": {
     "favorite": {
-      "problem": 535,
-      "author": 172
+      "problem": 601,
+      "author": 198
     },
     "answered": {
-      "problem": 3163,
-      "author": 350,
-      "solver": 390
+      "problem": 3083,
+      "author": 346,
+      "solver": 398
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 31,
+        "count": 18,
         "names": [
           {
-            "name": "ぬりかべ by pelerin13_tn",
-            "url": "https://puzsq.logicpuzzle.app/share/160516"
+            "name": "フォレストウォーク by mopp",
+            "url": "https://puzsq.logicpuzzle.app/share/160574"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 76,
         "names": [
           {
-            "name": "ぬりかべ by pelerin13_tn",
-            "url": "https://puzsq.logicpuzzle.app/share/160516"
+            "name": "ナンバーリンク by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/160519"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 60,
         "names": [
           {
-            "name": "白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/?author=3739"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 349,
+        "count": 318,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 144,
+        "count": 232,
         "names": [
           {
-            "name": "WA1729",
-            "url": "https://puzsq.logicpuzzle.app/?author=2850"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
