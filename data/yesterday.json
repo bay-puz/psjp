@@ -1,65 +1,65 @@
 {
-  "day": "2025年5月15日",
+  "day": "2025年5月16日",
   "total": {
-    "problem": 33,
-    "favorite": 1028,
-    "answered": 5569
+    "problem": 42,
+    "favorite": 847,
+    "answered": 5627
   },
   "count": {
     "favorite": {
-      "problem": 601,
-      "author": 198
+      "problem": 477,
+      "author": 146
     },
     "answered": {
-      "problem": 3083,
-      "author": 346,
-      "solver": 398
+      "problem": 2944,
+      "author": 304,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 22,
         "names": [
           {
-            "name": "フォレストウォーク by mopp",
-            "url": "https://puzsq.logicpuzzle.app/share/160574"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/160598"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 96,
         "names": [
           {
-            "name": "ナンバーリンク by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/160519"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/160598"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 136,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 318,
+        "count": 649,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 232,
+        "count": 207,
         "names": [
           {
             "name": "ひよぺんぎん",
