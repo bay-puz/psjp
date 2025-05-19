@@ -1,58 +1,54 @@
 {
-  "day": "2025年5月18日",
+  "day": "2025年5月19日",
   "total": {
-    "problem": 33,
-    "favorite": 924,
-    "answered": 4872
+    "problem": 25,
+    "favorite": 896,
+    "answered": 4961
   },
   "count": {
     "favorite": {
-      "problem": 563,
-      "author": 169
+      "problem": 579,
+      "author": 165
     },
     "answered": {
-      "problem": 2434,
-      "author": 312,
-      "solver": 355
+      "problem": 2840,
+      "author": 341,
+      "solver": 366
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 20,
         "names": [
           {
-            "name": "ファイアウォーク by xetto",
-            "url": "https://puzsq.logicpuzzle.app/share/160672"
-          },
-          {
-            "name": "へやわけ by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/160692"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/160711"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 80,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/160677"
+            "name": "美術館 by Faraway Flute",
+            "url": "https://puzsq.logicpuzzle.app/share/160715"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 43,
         "names": [
           {
-            "name": "xetto",
-            "url": "https://puzsq.logicpuzzle.app/?author=4185"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 416,
+        "count": 388,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 153,
         "names": [
           {
-            "name": "おとはし",
-            "url": "https://puzsq.logicpuzzle.app/?author=685"
+            "name": "haru",
+            "url": "https://puzsq.logicpuzzle.app/?author=3589"
           }
         ]
       }
