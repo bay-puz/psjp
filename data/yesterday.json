@@ -1,54 +1,54 @@
 {
-  "day": "2025年5月19日",
+  "day": "2025年5月20日",
   "total": {
-    "problem": 25,
-    "favorite": 896,
-    "answered": 4961
+    "problem": 34,
+    "favorite": 853,
+    "answered": 4851
   },
   "count": {
     "favorite": {
-      "problem": 579,
-      "author": 165
+      "problem": 487,
+      "author": 160
     },
     "answered": {
-      "problem": 2840,
-      "author": 341,
-      "solver": 366
+      "problem": 2714,
+      "author": 330,
+      "solver": 368
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 31,
         "names": [
           {
             "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/160711"
+            "url": "https://puzsq.logicpuzzle.app/share/160732"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 98,
         "names": [
           {
-            "name": "美術館 by Faraway Flute",
-            "url": "https://puzsq.logicpuzzle.app/share/160715"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/160732"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 43,
+        "count": 58,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 388,
+        "count": 361,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 153,
+        "count": 264,
         "names": [
           {
             "name": "haru",
