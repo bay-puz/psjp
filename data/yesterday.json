@@ -1,54 +1,58 @@
 {
-  "day": "2025年5月20日",
+  "day": "2025年5月21日",
   "total": {
-    "problem": 34,
-    "favorite": 853,
-    "answered": 4851
+    "problem": 38,
+    "favorite": 744,
+    "answered": 4794
   },
   "count": {
     "favorite": {
-      "problem": 487,
-      "author": 160
+      "problem": 471,
+      "author": 159
     },
     "answered": {
-      "problem": 2714,
-      "author": 330,
-      "solver": 368
+      "problem": 2799,
+      "author": 328,
+      "solver": 371
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 31,
+        "count": 14,
         "names": [
           {
             "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/160732"
+            "url": "https://puzsq.logicpuzzle.app/share/160784"
+          },
+          {
+            "name": "美術館 by halc_puzzle",
+            "url": "https://puzsq.logicpuzzle.app/share/160793"
           }
         ]
       },
       "answered": {
-        "count": 98,
+        "count": 97,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/160732"
+            "name": "美術館 by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/160387"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 108,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 361,
+        "count": 608,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 264,
+        "count": 138,
         "names": [
           {
-            "name": "haru",
-            "url": "https://puzsq.logicpuzzle.app/?author=3589"
+            "name": "SchwarzeKatze9",
+            "url": "https://puzsq.logicpuzzle.app/?author=4352"
           }
         ]
       }
