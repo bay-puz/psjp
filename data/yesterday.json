@@ -1,54 +1,58 @@
 {
-  "day": "2025年5月24日",
+  "day": "2025年5月25日",
   "total": {
-    "problem": 32,
-    "favorite": 809,
-    "answered": 4279
+    "problem": 38,
+    "favorite": 1118,
+    "answered": 5523
   },
   "count": {
     "favorite": {
-      "problem": 472,
-      "author": 142
+      "problem": 775,
+      "author": 204
     },
     "answered": {
-      "problem": 2409,
-      "author": 324,
-      "solver": 368
+      "problem": 3200,
+      "author": 356,
+      "solver": 344
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by ぶすじま",
-            "url": "https://puzsq.logicpuzzle.app/share/160910"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/160898"
+          },
+          {
+            "name": "スターバトル by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/160955"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 87,
         "names": [
           {
-            "name": "フィルオミノ by mirin31",
-            "url": "https://puzsq.logicpuzzle.app/share/160768"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/160898"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 110,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 205,
+        "count": 596,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 123,
+        "count": 204,
         "names": [
           {
-            "name": "ビンチ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2011"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
