@@ -1,49 +1,45 @@
 {
-  "day": "2025年5月25日",
+  "day": "2025年5月26日",
   "total": {
-    "problem": 38,
-    "favorite": 1118,
-    "answered": 5523
+    "problem": 42,
+    "favorite": 1285,
+    "answered": 5928
   },
   "count": {
     "favorite": {
-      "problem": 775,
-      "author": 204
+      "problem": 799,
+      "author": 193
     },
     "answered": {
-      "problem": 3200,
-      "author": 356,
-      "solver": 344
+      "problem": 3108,
+      "author": 338,
+      "solver": 395
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/160898"
-          },
-          {
-            "name": "スターバトル by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/160955"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/160995"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 97,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/160898"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/160994"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 110,
+        "count": 103,
         "names": [
           {
             "name": "anurag",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 596,
+        "count": 646,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 204,
+        "count": 198,
         "names": [
           {
             "name": "ゴマアブラ",
