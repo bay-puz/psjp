@@ -1,45 +1,45 @@
 {
-  "day": "2025年5月28日",
+  "day": "2025年5月29日",
   "total": {
-    "problem": 34,
-    "favorite": 924,
-    "answered": 5582
+    "problem": 28,
+    "favorite": 1188,
+    "answered": 6258
   },
   "count": {
     "favorite": {
-      "problem": 535,
-      "author": 162
+      "problem": 822,
+      "author": 203
     },
     "answered": {
-      "problem": 3185,
-      "author": 346,
-      "solver": 401
+      "problem": 3683,
+      "author": 366,
+      "solver": 412
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/161087"
+            "name": "ヤジリン by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/161113"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 100,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/161078"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161095"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 68,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 544,
+        "count": 542,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 242,
+        "count": 179,
         "names": [
           {
             "name": "Zomulgustar",
