@@ -1,45 +1,53 @@
 {
-  "day": "2025年5月29日",
+  "day": "2025年5月30日",
   "total": {
-    "problem": 28,
-    "favorite": 1188,
-    "answered": 6258
+    "problem": 21,
+    "favorite": 842,
+    "answered": 4562
   },
   "count": {
     "favorite": {
-      "problem": 822,
-      "author": 203
+      "problem": 604,
+      "author": 176
     },
     "answered": {
-      "problem": 3683,
-      "author": 366,
-      "solver": 412
+      "problem": 2710,
+      "author": 320,
+      "solver": 397
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 20,
         "names": [
           {
-            "name": "ヤジリン by y888",
-            "url": "https://puzsq.logicpuzzle.app/share/161113"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/161129"
+          },
+          {
+            "name": "ヤジリン by chip",
+            "url": "https://puzsq.logicpuzzle.app/share/161126"
           }
         ]
       },
       "answered": {
-        "count": 100,
+        "count": 88,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161095"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/161129"
+          },
+          {
+            "name": "ヤジリン by 祭日",
+            "url": "https://puzsq.logicpuzzle.app/share/161136"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 53,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 542,
+        "count": 310,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +67,7 @@
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 142,
         "names": [
           {
             "name": "Zomulgustar",
