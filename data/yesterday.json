@@ -1,77 +1,69 @@
 {
-  "day": "2025年5月30日",
+  "day": "2025年5月31日",
   "total": {
-    "problem": 21,
-    "favorite": 842,
-    "answered": 4562
+    "problem": 30,
+    "favorite": 758,
+    "answered": 3681
   },
   "count": {
     "favorite": {
-      "problem": 604,
-      "author": 176
+      "problem": 525,
+      "author": 150
     },
     "answered": {
-      "problem": 2710,
-      "author": 320,
-      "solver": 397
+      "problem": 2259,
+      "author": 297,
+      "solver": 348
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 19,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/161129"
-          },
-          {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/161126"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161157"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 69,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/161129"
-          },
-          {
-            "name": "ヤジリン by 祭日",
-            "url": "https://puzsq.logicpuzzle.app/share/161136"
+            "name": "へやわけ by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/161178"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 87,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 216,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 136,
         "names": [
           {
-            "name": "Zomulgustar",
-            "url": "https://puzsq.logicpuzzle.app/?author=4497"
+            "name": "STORK",
+            "url": "https://puzsq.logicpuzzle.app/?author=3163"
           }
         ]
       }
