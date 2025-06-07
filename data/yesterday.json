@@ -1,45 +1,45 @@
 {
-  "day": "2025年6月6日",
+  "day": "2025年6月7日",
   "total": {
-    "problem": 34,
-    "favorite": 748,
-    "answered": 4239
+    "problem": 40,
+    "favorite": 776,
+    "answered": 4485
   },
   "count": {
     "favorite": {
-      "problem": 505,
-      "author": 165
+      "problem": 470,
+      "author": 153
     },
     "answered": {
-      "problem": 2467,
-      "author": 316,
-      "solver": 370
+      "problem": 2459,
+      "author": 313,
+      "solver": 329
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161352"
+            "name": "黒どこ by kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/share/161399"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 58,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161352"
+            "name": "ひとりにしてくれ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161392"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 70,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 399,
+        "count": 458,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 64,
+        "count": 100,
         "names": [
           {
-            "name": "ｎ型半導体",
-            "url": "https://puzsq.logicpuzzle.app/?author=3804"
+            "name": "sc",
+            "url": "https://puzsq.logicpuzzle.app/?author=3991"
           }
         ]
       }
