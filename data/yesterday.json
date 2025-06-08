@@ -1,54 +1,58 @@
 {
-  "day": "2025年6月7日",
+  "day": "2025年6月8日",
   "total": {
-    "problem": 40,
-    "favorite": 776,
-    "answered": 4485
+    "problem": 35,
+    "favorite": 710,
+    "answered": 4522
   },
   "count": {
     "favorite": {
-      "problem": 470,
-      "author": 153
+      "problem": 448,
+      "author": 141
     },
     "answered": {
-      "problem": 2459,
-      "author": 313,
-      "solver": 329
+      "problem": 2647,
+      "author": 308,
+      "solver": 314
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 18,
         "names": [
           {
-            "name": "黒どこ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/161399"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/161423"
           }
         ]
       },
       "answered": {
-        "count": 58,
+        "count": 65,
         "names": [
           {
-            "name": "ひとりにしてくれ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161392"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161419"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 38,
         "names": [
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 458,
+        "count": 356,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 100,
+        "count": 107,
         "names": [
           {
-            "name": "sc",
-            "url": "https://puzsq.logicpuzzle.app/?author=3991"
+            "name": "mirin31",
+            "url": "https://puzsq.logicpuzzle.app/?author=4144"
           }
         ]
       }
