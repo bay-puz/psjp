@@ -1,73 +1,69 @@
 {
-  "day": "2025年6月8日",
+  "day": "2025年6月9日",
   "total": {
-    "problem": 35,
-    "favorite": 710,
-    "answered": 4522
+    "problem": 31,
+    "favorite": 980,
+    "answered": 5390
   },
   "count": {
     "favorite": {
-      "problem": 448,
-      "author": 141
+      "problem": 601,
+      "author": 165
     },
     "answered": {
-      "problem": 2647,
-      "author": 308,
-      "solver": 314
+      "problem": 3045,
+      "author": 333,
+      "solver": 368
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 21,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/161423"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/161470"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 83,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161419"
+            "name": "ぬりかべ by pelerin13_tn",
+            "url": "https://puzsq.logicpuzzle.app/share/161462"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 38,
+        "count": 84,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "onarafunk",
+            "url": "https://puzsq.logicpuzzle.app/?author=4540"
           }
         ]
       },
       "answered": {
-        "count": 356,
+        "count": 439,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "onarafunk",
+            "url": "https://puzsq.logicpuzzle.app/?author=4540"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 107,
+        "count": 208,
         "names": [
           {
-            "name": "mirin31",
-            "url": "https://puzsq.logicpuzzle.app/?author=4144"
+            "name": "Seren✩",
+            "url": "https://puzsq.logicpuzzle.app/?author=3086"
           }
         ]
       }
