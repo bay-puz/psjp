@@ -1,69 +1,69 @@
 {
-  "day": "2025年6月10日",
+  "day": "2025年6月11日",
   "total": {
-    "problem": 32,
-    "favorite": 915,
-    "answered": 5194
+    "problem": 28,
+    "favorite": 775,
+    "answered": 4779
   },
   "count": {
     "favorite": {
-      "problem": 595,
-      "author": 161
+      "problem": 506,
+      "author": 159
     },
     "answered": {
-      "problem": 2870,
-      "author": 314,
-      "solver": 395
+      "problem": 2909,
+      "author": 332,
+      "solver": 364
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/161502"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/161185"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 66,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/161502"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/161532"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 55,
+        "count": 65,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "onarafunk",
+            "url": "https://puzsq.logicpuzzle.app/?author=4540"
           }
         ]
       },
       "answered": {
-        "count": 413,
+        "count": 293,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "onarafunk",
+            "url": "https://puzsq.logicpuzzle.app/?author=4540"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 163,
+        "count": 117,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "dudethefirst",
+            "url": "https://puzsq.logicpuzzle.app/?author=3219"
           }
         ]
       }
