@@ -1,54 +1,54 @@
 {
-  "day": "2025年6月15日",
+  "day": "2025年6月16日",
   "total": {
-    "problem": 29,
-    "favorite": 842,
-    "answered": 4942
+    "problem": 39,
+    "favorite": 960,
+    "answered": 5256
   },
   "count": {
     "favorite": {
-      "problem": 608,
-      "author": 174
+      "problem": 707,
+      "author": 170
     },
     "answered": {
-      "problem": 3131,
-      "author": 344,
-      "solver": 349
+      "problem": 2971,
+      "author": 335,
+      "solver": 362
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/161633"
+            "name": "ヤジリン by chihi311",
+            "url": "https://puzsq.logicpuzzle.app/share/161661"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 74,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/161635"
+            "name": "ヤジリン by chihi311",
+            "url": "https://puzsq.logicpuzzle.app/share/161661"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
+        "count": 61,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "chihi311",
+            "url": "https://puzsq.logicpuzzle.app/?author=4387"
           }
         ]
       },
       "answered": {
-        "count": 273,
+        "count": 387,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 130,
+        "count": 151,
         "names": [
           {
-            "name": "Seren✩",
-            "url": "https://puzsq.logicpuzzle.app/?author=3086"
+            "name": "Puzzle Cake",
+            "url": "https://puzsq.logicpuzzle.app/?author=697"
           }
         ]
       }
