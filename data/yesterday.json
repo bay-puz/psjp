@@ -1,54 +1,58 @@
 {
-  "day": "2025年6月16日",
+  "day": "2025年6月17日",
   "total": {
-    "problem": 39,
-    "favorite": 960,
-    "answered": 5256
+    "problem": 37,
+    "favorite": 925,
+    "answered": 5035
   },
   "count": {
     "favorite": {
-      "problem": 707,
-      "author": 170
+      "problem": 737,
+      "author": 186
     },
     "answered": {
-      "problem": 2971,
-      "author": 335,
-      "solver": 362
+      "problem": 2992,
+      "author": 336,
+      "solver": 367
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 12,
         "names": [
           {
-            "name": "ヤジリン by chihi311",
-            "url": "https://puzsq.logicpuzzle.app/share/161661"
+            "name": "スリザーリンク / Fences by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/161692"
+          },
+          {
+            "name": "ましゅ by 名無し",
+            "url": "https://puzsq.logicpuzzle.app/share/161682"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 53,
         "names": [
           {
-            "name": "ヤジリン by chihi311",
-            "url": "https://puzsq.logicpuzzle.app/share/161661"
+            "name": "ダブルチョコ by 夏の帳",
+            "url": "https://puzsq.logicpuzzle.app/share/161664"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 54,
         "names": [
           {
-            "name": "chihi311",
-            "url": "https://puzsq.logicpuzzle.app/?author=4387"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 387,
+        "count": 440,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 151,
+        "count": 95,
         "names": [
           {
-            "name": "Puzzle Cake",
-            "url": "https://puzsq.logicpuzzle.app/?author=697"
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
