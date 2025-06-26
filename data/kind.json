@@ -4190,8 +4190,8 @@
     "category": 2
   },
   "976": {
-    "name": "風船箱",
-    "name_e": "Balloon Box",
+    "name": "風船箱(初期版)",
+    "name_e": "Balloon Box (Original)",
     "category": 5
   },
   "977": {
@@ -4635,8 +4635,8 @@
     "category": 2
   },
   "1068": {
-    "name": "風船箱（ルール改訂版）",
-    "name_e": "",
+    "name": "風船箱(改訂版)",
+    "name_e": "Ballon Box (Revised)",
     "category": 5
   },
   "1069": {
@@ -4648,6 +4648,11 @@
     "name": "",
     "name_e": "Theme Park",
     "category": 2
+  },
+  "1071": {
+    "name": "隅角チェーン",
+    "name_e": "Corner Chain",
+    "category": 3
   },
   "-2": {
     "name": "Instructionless",

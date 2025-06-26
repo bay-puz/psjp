@@ -1,45 +1,45 @@
 {
-  "day": "2025年6月25日",
+  "day": "2025年6月26日",
   "total": {
-    "problem": 32,
-    "favorite": 934,
-    "answered": 5149
+    "problem": 24,
+    "favorite": 738,
+    "answered": 5053
   },
   "count": {
     "favorite": {
-      "problem": 680,
-      "author": 173
+      "problem": 563,
+      "author": 163
     },
     "answered": {
-      "problem": 3204,
-      "author": 360,
-      "solver": 376
+      "problem": 3223,
+      "author": 351,
+      "solver": 362
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/161961"
+            "name": "スターバトル by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161920"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 86,
         "names": [
           {
-            "name": "ぬりかべ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/161963"
+            "name": "スターバトル by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/161920"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 112,
+        "count": 90,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 733,
+        "count": 705,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 219,
+        "count": 209,
         "names": [
           {
-            "name": "Seren✩",
-            "url": "https://puzsq.logicpuzzle.app/?author=3086"
+            "name": "盥",
+            "url": "https://puzsq.logicpuzzle.app/?author=108"
           }
         ]
       }
