@@ -1,58 +1,54 @@
 {
-  "day": "2025年6月30日",
+  "day": "2025年7月1日",
   "total": {
-    "problem": 23,
-    "favorite": 725,
-    "answered": 5083
+    "problem": 51,
+    "favorite": 910,
+    "answered": 5618
   },
   "count": {
     "favorite": {
-      "problem": 520,
-      "author": 147
+      "problem": 532,
+      "author": 156
     },
     "answered": {
-      "problem": 3385,
-      "author": 349,
-      "solver": 371
+      "problem": 3080,
+      "author": 337,
+      "solver": 394
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "シャカシャカ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/161946"
-          },
-          {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/162105"
+            "name": "チョコバナナ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/162162"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 82,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/162105"
+            "name": "シンプルループ by 落葉子",
+            "url": "https://puzsq.logicpuzzle.app/share/162146"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 33,
+        "count": 47,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 250,
+        "count": 283,
         "names": [
           {
             "name": "anurag",
@@ -63,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 233,
+        "count": 349,
         "names": [
           {
             "name": "Seren✩",
