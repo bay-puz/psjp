@@ -1,49 +1,53 @@
 {
-  "day": "2025年7月10日",
+  "day": "2025年7月11日",
   "total": {
-    "problem": 36,
-    "favorite": 1104,
-    "answered": 6126
+    "problem": 32,
+    "favorite": 711,
+    "answered": 4612
   },
   "count": {
     "favorite": {
-      "problem": 781,
-      "author": 189
+      "problem": 471,
+      "author": 147
     },
     "answered": {
-      "problem": 3710,
-      "author": 369,
-      "solver": 391
+      "problem": 2732,
+      "author": 341,
+      "solver": 388
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 14,
         "names": [
           {
-            "name": "ぬりかべ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/162117"
+            "name": "ましゅ by かにみそ",
+            "url": "https://puzsq.logicpuzzle.app/share/162547"
           },
           {
-            "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/162509"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/162544"
+          },
+          {
+            "name": "∀人∃ＨＥＹＡ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/162558"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 63,
         "names": [
           {
-            "name": "ぬりかべ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/162117"
+            "name": "ましゅ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/162542"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 149,
+        "count": 145,
         "names": [
           {
             "name": "anurag",
@@ -52,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 902,
+        "count": 938,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 201,
+        "count": 123,
         "names": [
           {
-            "name": "GoodCity",
-            "url": "https://puzsq.logicpuzzle.app/?author=4566"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
