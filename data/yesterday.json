@@ -1,45 +1,45 @@
 {
-  "day": "2025年7月15日",
+  "day": "2025年7月16日",
   "total": {
-    "problem": 56,
-    "favorite": 663,
-    "answered": 5039
+    "problem": 43,
+    "favorite": 728,
+    "answered": 4866
   },
   "count": {
     "favorite": {
-      "problem": 360,
-      "author": 112
+      "problem": 478,
+      "author": 144
     },
     "answered": {
-      "problem": 2762,
-      "author": 322,
-      "solver": 390
+      "problem": 2975,
+      "author": 334,
+      "solver": 368
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 21,
         "names": [
           {
-            "name": "ダブルチョコ by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/162661"
+            "name": "ましゅ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/162721"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 79,
         "names": [
           {
-            "name": "シンプルループ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/162448"
+            "name": "へやわけ by inu",
+            "url": "https://puzsq.logicpuzzle.app/share/162726"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 147,
+        "count": 139,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 903,
+        "count": 819,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 187,
+        "count": 307,
         "names": [
           {
-            "name": "Tonta",
-            "url": "https://puzsq.logicpuzzle.app/?author=205"
+            "name": "GoodCity",
+            "url": "https://puzsq.logicpuzzle.app/?author=4566"
           }
         ]
       }
