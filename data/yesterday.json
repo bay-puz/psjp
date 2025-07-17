@@ -1,45 +1,45 @@
 {
-  "day": "2025年7月16日",
+  "day": "2025年7月17日",
   "total": {
-    "problem": 43,
-    "favorite": 728,
-    "answered": 4866
+    "problem": 40,
+    "favorite": 921,
+    "answered": 5251
   },
   "count": {
     "favorite": {
-      "problem": 478,
-      "author": 144
+      "problem": 634,
+      "author": 178
     },
     "answered": {
-      "problem": 2975,
-      "author": 334,
-      "solver": 368
+      "problem": 3212,
+      "author": 347,
+      "solver": 376
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 22,
         "names": [
           {
-            "name": "ましゅ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/162721"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/162754"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 83,
         "names": [
           {
-            "name": "へやわけ by inu",
-            "url": "https://puzsq.logicpuzzle.app/share/162726"
+            "name": "へやわけ by disc",
+            "url": "https://puzsq.logicpuzzle.app/share/162754"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 139,
+        "count": 130,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 819,
+        "count": 833,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 307,
+        "count": 280,
         "names": [
           {
             "name": "GoodCity",
