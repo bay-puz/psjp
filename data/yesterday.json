@@ -1,45 +1,45 @@
 {
-  "day": "2025年7月17日",
+  "day": "2025年7月18日",
   "total": {
-    "problem": 40,
-    "favorite": 921,
-    "answered": 5251
+    "problem": 22,
+    "favorite": 683,
+    "answered": 4547
   },
   "count": {
     "favorite": {
-      "problem": 634,
-      "author": 178
+      "problem": 498,
+      "author": 158
     },
     "answered": {
-      "problem": 3212,
-      "author": 347,
-      "solver": 376
+      "problem": 2942,
+      "author": 339,
+      "solver": 361
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 15,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/162754"
+            "name": "ヤジリン by izkdic",
+            "url": "https://puzsq.logicpuzzle.app/share/162777"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 64,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/162754"
+            "name": "ヘテロミノ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/162815"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 130,
+        "count": 86,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 833,
+        "count": 743,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 280,
+        "count": 233,
         "names": [
           {
             "name": "GoodCity",
