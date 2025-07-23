@@ -1,45 +1,49 @@
 {
-  "day": "2025年7月22日",
+  "day": "2025年7月23日",
   "total": {
-    "problem": 26,
-    "favorite": 858,
-    "answered": 5274
+    "problem": 20,
+    "favorite": 890,
+    "answered": 5145
   },
   "count": {
     "favorite": {
-      "problem": 599,
-      "author": 164
+      "problem": 598,
+      "author": 163
     },
     "answered": {
-      "problem": 3127,
-      "author": 332,
-      "solver": 385
+      "problem": 3250,
+      "author": 349,
+      "solver": 364
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 30,
         "names": [
           {
-            "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/162944"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/162963"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 97,
         "names": [
           {
-            "name": "美術館 by 名無し",
-            "url": "https://puzsq.logicpuzzle.app/share/162921"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/162860"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/162965"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 115,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 586,
+        "count": 606,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 197,
+        "count": 153,
         "names": [
           {
-            "name": "あおざかな",
-            "url": "https://puzsq.logicpuzzle.app/?author=4010"
+            "name": "Seren✩",
+            "url": "https://puzsq.logicpuzzle.app/?author=3086"
           }
         ]
       }
