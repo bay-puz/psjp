@@ -1,45 +1,45 @@
 {
-  "day": "2025年7月31日",
+  "day": "2025年8月1日",
   "total": {
-    "problem": 24,
-    "favorite": 794,
-    "answered": 4528
+    "problem": 40,
+    "favorite": 829,
+    "answered": 4321
   },
   "count": {
     "favorite": {
-      "problem": 535,
-      "author": 160
+      "problem": 519,
+      "author": 150
     },
     "answered": {
-      "problem": 2818,
-      "author": 351,
-      "solver": 385
+      "problem": 2629,
+      "author": 326,
+      "solver": 365
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/163165"
+            "name": "チョコバナナ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/163190"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 74,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/163165"
+            "name": "美術館 by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/163202"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 83,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 299,
+        "count": 503,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 99,
         "names": [
           {
-            "name": "チィノ",
-            "url": "https://puzsq.logicpuzzle.app/?author=821"
+            "name": "stranger_86952",
+            "url": "https://puzsq.logicpuzzle.app/?author=2280"
           }
         ]
       }
