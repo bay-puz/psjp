@@ -1,45 +1,45 @@
 {
-  "day": "2025年8月4日",
+  "day": "2025年8月5日",
   "total": {
-    "problem": 22,
-    "favorite": 933,
-    "answered": 4597
+    "problem": 21,
+    "favorite": 702,
+    "answered": 4907
   },
   "count": {
     "favorite": {
-      "problem": 676,
-      "author": 179
+      "problem": 491,
+      "author": 151
     },
     "answered": {
-      "problem": 3024,
-      "author": 351,
-      "solver": 357
+      "problem": 3249,
+      "author": 360,
+      "solver": 360
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 26,
         "names": [
           {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/163282"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163148"
           }
         ]
       },
       "answered": {
-        "count": 81,
+        "count": 109,
         "names": [
           {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/163282"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163148"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 56,
         "names": [
           {
             "name": "PinkHoodie",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 265,
+        "count": 345,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 189,
+        "count": 139,
         "names": [
           {
-            "name": "塩ビ服",
-            "url": "https://puzsq.logicpuzzle.app/?author=3566"
+            "name": "Zomulgustar",
+            "url": "https://puzsq.logicpuzzle.app/?author=4497"
           }
         ]
       }
