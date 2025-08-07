@@ -1,65 +1,65 @@
 {
-  "day": "2025年8月6日",
+  "day": "2025年8月7日",
   "total": {
-    "problem": 17,
-    "favorite": 894,
-    "answered": 4896
+    "problem": 29,
+    "favorite": 802,
+    "answered": 4263
   },
   "count": {
     "favorite": {
-      "problem": 658,
+      "problem": 609,
       "author": 174
     },
     "answered": {
-      "problem": 3377,
-      "author": 362,
-      "solver": 354
+      "problem": 2858,
+      "author": 334,
+      "solver": 381
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 14,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/163313"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163149"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 73,
         "names": [
           {
-            "name": "シンプルループ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163233"
+            "name": "ヤジリン by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/163326"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 55,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 311,
+        "count": 364,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 214,
+        "count": 170,
         "names": [
           {
             "name": "Zomulgustar",
