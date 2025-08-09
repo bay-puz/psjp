@@ -1,54 +1,58 @@
 {
-  "day": "2025年8月8日",
+  "day": "2025年8月9日",
   "total": {
-    "problem": 31,
-    "favorite": 840,
-    "answered": 4566
+    "problem": 35,
+    "favorite": 645,
+    "answered": 4424
   },
   "count": {
     "favorite": {
-      "problem": 646,
-      "author": 167
+      "problem": 472,
+      "author": 161
     },
     "answered": {
-      "problem": 2949,
-      "author": 328,
-      "solver": 370
+      "problem": 2989,
+      "author": 346,
+      "solver": 326
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/163359"
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/163391"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 67,
         "names": [
           {
-            "name": "ヤジリン by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/163264"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/163383"
+          },
+          {
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/163391"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 82,
+        "count": 45,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 386,
+        "count": 415,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 158,
+        "count": 166,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "七夜",
+            "url": "https://puzsq.logicpuzzle.app/?author=4652"
           }
         ]
       }
