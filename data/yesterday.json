@@ -1,73 +1,69 @@
 {
-  "day": "2025年8月9日",
+  "day": "2025年8月10日",
   "total": {
-    "problem": 35,
-    "favorite": 645,
-    "answered": 4424
+    "problem": 28,
+    "favorite": 735,
+    "answered": 5751
   },
   "count": {
     "favorite": {
-      "problem": 472,
-      "author": 161
+      "problem": 418,
+      "author": 139
     },
     "answered": {
-      "problem": 2989,
-      "author": 346,
-      "solver": 326
+      "problem": 3377,
+      "author": 354,
+      "solver": 368
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by /AZURE",
-            "url": "https://puzsq.logicpuzzle.app/share/163391"
+            "name": "ヤジリン by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/163429"
           }
         ]
       },
       "answered": {
-        "count": 67,
+        "count": 95,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/163383"
-          },
-          {
-            "name": "へやわけ by /AZURE",
-            "url": "https://puzsq.logicpuzzle.app/share/163391"
+            "name": "美術館 by バックミンスターフラーレン",
+            "url": "https://puzsq.logicpuzzle.app/share/163430"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 200,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 415,
+        "count": 1002,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 166,
+        "count": 161,
         "names": [
           {
-            "name": "七夜",
-            "url": "https://puzsq.logicpuzzle.app/?author=4652"
+            "name": "Tonta",
+            "url": "https://puzsq.logicpuzzle.app/?author=205"
           }
         ]
       }
