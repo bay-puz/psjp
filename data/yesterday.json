@@ -1,53 +1,45 @@
 {
-  "day": "2025年8月11日",
+  "day": "2025年8月12日",
   "total": {
-    "problem": 30,
-    "favorite": 879,
-    "answered": 5393
+    "problem": 38,
+    "favorite": 908,
+    "answered": 5371
   },
   "count": {
     "favorite": {
-      "problem": 657,
-      "author": 153
+      "problem": 643,
+      "author": 176
     },
     "answered": {
-      "problem": 3526,
-      "author": 342,
-      "solver": 375
+      "problem": 3376,
+      "author": 353,
+      "solver": 386
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 15,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by exclue",
-            "url": "https://puzsq.logicpuzzle.app/share/163451"
-          },
-          {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/163456"
+            "name": "ヤジリン by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/163480"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 89,
         "names": [
           {
-            "name": "ヤジリン by exclue",
-            "url": "https://puzsq.logicpuzzle.app/share/163451"
-          },
-          {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/163456"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163443"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 100,
+        "count": 92,
         "names": [
           {
             "name": "anurag",
@@ -56,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 679,
+        "count": 684,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 132,
+        "count": 126,
         "names": [
           {
-            "name": "うまや天国",
-            "url": "https://puzsq.logicpuzzle.app/?author=57"
+            "name": "MercyBeaucou",
+            "url": "https://puzsq.logicpuzzle.app/?author=4603"
           }
         ]
       }
