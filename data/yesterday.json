@@ -1,54 +1,58 @@
 {
-  "day": "2025年8月19日",
+  "day": "2025年8月20日",
   "total": {
-    "problem": 23,
-    "favorite": 762,
-    "answered": 5329
+    "problem": 24,
+    "favorite": 781,
+    "answered": 5877
   },
   "count": {
     "favorite": {
-      "problem": 465,
-      "author": 145
+      "problem": 460,
+      "author": 152
     },
     "answered": {
-      "problem": 3281,
-      "author": 346,
-      "solver": 370
+      "problem": 3394,
+      "author": 355,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 26,
         "names": [
           {
             "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/163707"
+            "url": "https://puzsq.logicpuzzle.app/share/163728"
+          },
+          {
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/163727"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 108,
         "names": [
           {
-            "name": "ぬりかべ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163699"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163540"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 99,
+        "count": 114,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 636,
+        "count": 533,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 206,
+        "count": 197,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "MF",
+            "url": "https://puzsq.logicpuzzle.app/?author=91"
           }
         ]
       }
