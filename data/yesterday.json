@@ -1,45 +1,45 @@
 {
-  "day": "2025年8月22日",
+  "day": "2025年8月23日",
   "total": {
-    "problem": 34,
-    "favorite": 734,
-    "answered": 5365
+    "problem": 21,
+    "favorite": 586,
+    "answered": 4769
   },
   "count": {
     "favorite": {
-      "problem": 502,
-      "author": 159
+      "problem": 376,
+      "author": 135
     },
     "answered": {
-      "problem": 3484,
-      "author": 356,
-      "solver": 402
+      "problem": 3091,
+      "author": 331,
+      "solver": 353
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 19,
         "names": [
           {
-            "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/163787"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/163570"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 86,
         "names": [
           {
-            "name": "美術館 by げいちょう",
-            "url": "https://puzsq.logicpuzzle.app/share/163789"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/163570"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 77,
+        "count": 51,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 395,
+        "count": 494,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 166,
+        "count": 148,
         "names": [
           {
-            "name": "GoodCity",
-            "url": "https://puzsq.logicpuzzle.app/?author=4566"
+            "name": "bakpao",
+            "url": "https://puzsq.logicpuzzle.app/?author=2187"
           }
         ]
       }
