@@ -1,69 +1,69 @@
 {
-  "day": "2025年8月24日",
+  "day": "2025年8月25日",
   "total": {
-    "problem": 16,
-    "favorite": 782,
-    "answered": 4896
+    "problem": 23,
+    "favorite": 893,
+    "answered": 4883
   },
   "count": {
     "favorite": {
-      "problem": 530,
-      "author": 158
+      "problem": 638,
+      "author": 181
     },
     "answered": {
-      "problem": 3112,
-      "author": 321,
-      "solver": 357
+      "problem": 3045,
+      "author": 346,
+      "solver": 376
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 23,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163816"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/163857"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 96,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163816"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/163857"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 76,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 379,
+        "count": 391,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 135,
+        "count": 112,
         "names": [
           {
-            "name": "volxa",
-            "url": "https://puzsq.logicpuzzle.app/?author=573"
+            "name": "Stp. Fox",
+            "url": "https://puzsq.logicpuzzle.app/?author=2424"
           }
         ]
       }
