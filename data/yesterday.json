@@ -1,19 +1,19 @@
 {
-  "day": "2025年8月26日",
+  "day": "2025年8月27日",
   "total": {
-    "problem": 23,
-    "favorite": 848,
-    "answered": 5011
+    "problem": 20,
+    "favorite": 834,
+    "answered": 4754
   },
   "count": {
     "favorite": {
-      "problem": 602,
-      "author": 169
+      "problem": 587,
+      "author": 159
     },
     "answered": {
-      "problem": 3145,
-      "author": 348,
-      "solver": 388
+      "problem": 2895,
+      "author": 337,
+      "solver": 382
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/163869"
+            "name": "ぬりかべ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/163618"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 97,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/163872"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163819"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 92,
+        "count": 76,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 484,
+        "count": 507,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 165,
+        "count": 114,
         "names": [
           {
             "name": "Puzzle Cake",
