@@ -1,58 +1,54 @@
 {
-  "day": "2025年8月28日",
+  "day": "2025年8月29日",
   "total": {
-    "problem": 15,
-    "favorite": 1006,
-    "answered": 4736
+    "problem": 27,
+    "favorite": 898,
+    "answered": 4357
   },
   "count": {
     "favorite": {
-      "problem": 775,
-      "author": 188
+      "problem": 641,
+      "author": 167
     },
     "answered": {
-      "problem": 3043,
-      "author": 336,
-      "solver": 360
+      "problem": 2548,
+      "author": 320,
+      "solver": 369
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 30,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163821"
-          },
-          {
-            "name": "ヘヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/163634"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/163928"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 98,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/163821"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/163928"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 72,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 384,
+        "count": 407,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 165,
+        "count": 137,
         "names": [
           {
-            "name": "bakpao",
-            "url": "https://puzsq.logicpuzzle.app/?author=2187"
+            "name": "Tchai",
+            "url": "https://puzsq.logicpuzzle.app/?author=4635"
           }
         ]
       }
