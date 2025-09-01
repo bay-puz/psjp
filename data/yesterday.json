@@ -1,45 +1,49 @@
 {
-  "day": "2025年8月31日",
+  "day": "2025年9月1日",
   "total": {
-    "problem": 29,
-    "favorite": 694,
-    "answered": 4330
+    "problem": 27,
+    "favorite": 855,
+    "answered": 4158
   },
   "count": {
     "favorite": {
-      "problem": 497,
-      "author": 144
+      "problem": 630,
+      "author": 163
     },
     "answered": {
-      "problem": 2581,
-      "author": 338,
-      "solver": 346
+      "problem": 2667,
+      "author": 317,
+      "solver": 349
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 17,
         "names": [
           {
-            "name": "美術館 by ろし2ょる",
-            "url": "https://puzsq.logicpuzzle.app/share/163978"
+            "name": "スリザーリンク / Fences by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/163909"
+          },
+          {
+            "name": "へやわけ by 深海/sekka",
+            "url": "https://puzsq.logicpuzzle.app/share/164009"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 82,
         "names": [
           {
-            "name": "美術館 by 露村",
-            "url": "https://puzsq.logicpuzzle.app/share/163980"
+            "name": "へやわけ by 深海/sekka",
+            "url": "https://puzsq.logicpuzzle.app/share/164009"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 65,
+        "count": 90,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 667,
+        "count": 521,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 197,
+        "count": 162,
         "names": [
           {
             "name": "bakpao",
