@@ -1,45 +1,45 @@
 {
-  "day": "2025年9月4日",
+  "day": "2025年9月5日",
   "total": {
-    "problem": 20,
-    "favorite": 835,
-    "answered": 4530
+    "problem": 36,
+    "favorite": 872,
+    "answered": 4416
   },
   "count": {
     "favorite": {
-      "problem": 557,
-      "author": 164
+      "problem": 648,
+      "author": 170
     },
     "answered": {
-      "problem": 2891,
-      "author": 343,
-      "solver": 382
+      "problem": 2769,
+      "author": 339,
+      "solver": 354
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/164100"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/163885"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 77,
         "names": [
           {
-            "name": "へやわけ by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/164100"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/163885"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 47,
+        "count": 88,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 312,
+        "count": 632,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 163,
+        "count": 151,
         "names": [
           {
-            "name": "drosera",
-            "url": "https://puzsq.logicpuzzle.app/?author=4682"
+            "name": "Jinanbou",
+            "url": "https://puzsq.logicpuzzle.app/?author=3767"
           }
         ]
       }
