@@ -1,29 +1,29 @@
 {
-  "day": "2025年9月10日",
+  "day": "2025年9月11日",
   "total": {
-    "problem": 23,
-    "favorite": 969,
-    "answered": 4721
+    "problem": 15,
+    "favorite": 971,
+    "answered": 6626
   },
   "count": {
     "favorite": {
-      "problem": 694,
-      "author": 185
+      "problem": 744,
+      "author": 200
     },
     "answered": {
-      "problem": 3122,
-      "author": 360,
+      "problem": 4688,
+      "author": 397,
       "solver": 375
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 23,
         "names": [
           {
-            "name": "ぬりかべ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/163929"
+            "name": "へやわけ by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/164259"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 93,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/164246"
+            "name": "ヤジリン by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/164263"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 55,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 362,
+        "count": 348,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 147,
+        "count": 1775,
         "names": [
           {
-            "name": "MF",
-            "url": "https://puzsq.logicpuzzle.app/?author=91"
+            "name": "へーくま(耐久)",
+            "url": "https://puzsq.logicpuzzle.app/?author=4716"
           }
         ]
       }
