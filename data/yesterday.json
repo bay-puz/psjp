@@ -1,54 +1,58 @@
 {
-  "day": "2025年9月12日",
+  "day": "2025年9月13日",
   "total": {
-    "problem": 27,
-    "favorite": 1027,
-    "answered": 4841
+    "problem": 29,
+    "favorite": 837,
+    "answered": 4538
   },
   "count": {
     "favorite": {
-      "problem": 722,
-      "author": 189
+      "problem": 584,
+      "author": 173
     },
     "answered": {
-      "problem": 3045,
-      "author": 342,
-      "solver": 361
+      "problem": 2734,
+      "author": 335,
+      "solver": 358
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 17,
         "names": [
           {
-            "name": "チョコバナナ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/164290"
+            "name": "美術館 by もや / moyami",
+            "url": "https://puzsq.logicpuzzle.app/share/164275"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 77,
         "names": [
           {
-            "name": "美術館 by げいちょう",
-            "url": "https://puzsq.logicpuzzle.app/share/164262"
+            "name": "美術館 by もや / moyami",
+            "url": "https://puzsq.logicpuzzle.app/share/164275"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 113,
+        "count": 34,
         "names": [
           {
             "name": "みんにょこ",
             "url": "https://puzsq.logicpuzzle.app/?author=1247"
+          },
+          {
+            "name": "mirin31",
+            "url": "https://puzsq.logicpuzzle.app/?author=4144"
           }
         ]
       },
       "answered": {
-        "count": 412,
+        "count": 393,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 187,
+        "count": 150,
         "names": [
           {
-            "name": "Zomulgustar",
-            "url": "https://puzsq.logicpuzzle.app/?author=4497"
+            "name": "drosera",
+            "url": "https://puzsq.logicpuzzle.app/?author=4682"
           }
         ]
       }
