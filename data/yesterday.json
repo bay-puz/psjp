@@ -1,58 +1,54 @@
 {
-  "day": "2025年9月13日",
+  "day": "2025年9月14日",
   "total": {
-    "problem": 29,
-    "favorite": 837,
-    "answered": 4538
+    "problem": 33,
+    "favorite": 1010,
+    "answered": 5072
   },
   "count": {
     "favorite": {
-      "problem": 584,
-      "author": 173
+      "problem": 744,
+      "author": 213
     },
     "answered": {
-      "problem": 2734,
-      "author": 335,
-      "solver": 358
+      "problem": 3122,
+      "author": 371,
+      "solver": 359
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 19,
         "names": [
           {
-            "name": "美術館 by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/164275"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/164047"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 71,
         "names": [
           {
-            "name": "美術館 by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/164275"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/164047"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 34,
+        "count": 41,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          },
-          {
-            "name": "mirin31",
-            "url": "https://puzsq.logicpuzzle.app/?author=4144"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 393,
+        "count": 309,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 150,
+        "count": 203,
         "names": [
           {
-            "name": "drosera",
-            "url": "https://puzsq.logicpuzzle.app/?author=4682"
+            "name": "GoodCity",
+            "url": "https://puzsq.logicpuzzle.app/?author=4566"
           }
         ]
       }
