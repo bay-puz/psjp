@@ -1,58 +1,58 @@
 {
-  "day": "2025年9月19日",
+  "day": "2025年9月20日",
   "total": {
-    "problem": 32,
-    "favorite": 1082,
-    "answered": 4764
+    "problem": 28,
+    "favorite": 916,
+    "answered": 4506
   },
   "count": {
     "favorite": {
-      "problem": 754,
+      "problem": 671,
       "author": 198
     },
     "answered": {
-      "problem": 2868,
-      "author": 346,
-      "solver": 396
+      "problem": 2770,
+      "author": 357,
+      "solver": 373
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 18,
         "names": [
           {
-            "name": "シンプルループ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/164450"
+            "name": "へやわけ by サンゴ三号さん",
+            "url": "https://puzsq.logicpuzzle.app/share/164509"
           },
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/164496"
+            "name": "シンプルループ by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/164527"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 82,
         "names": [
           {
-            "name": "シンプルループ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/164450"
+            "name": "シンプルループ by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/164527"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 84,
+        "count": 64,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 486,
+        "count": 497,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 153,
+        "count": 214,
         "names": [
           {
-            "name": "こたつがめ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4701"
+            "name": "rin204",
+            "url": "https://puzsq.logicpuzzle.app/?author=2442"
           }
         ]
       }
