@@ -1,58 +1,54 @@
 {
-  "day": "2025年9月20日",
+  "day": "2025年9月21日",
   "total": {
-    "problem": 28,
-    "favorite": 916,
-    "answered": 4506
+    "problem": 30,
+    "favorite": 732,
+    "answered": 4444
   },
   "count": {
     "favorite": {
-      "problem": 671,
-      "author": 198
+      "problem": 529,
+      "author": 159
     },
     "answered": {
-      "problem": 2770,
-      "author": 357,
-      "solver": 373
+      "problem": 2800,
+      "author": 336,
+      "solver": 360
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by サンゴ三号さん",
-            "url": "https://puzsq.logicpuzzle.app/share/164509"
-          },
-          {
-            "name": "シンプルループ by NoWiz",
-            "url": "https://puzsq.logicpuzzle.app/share/164527"
+            "name": "ぬりかべ by もや / moyami",
+            "url": "https://puzsq.logicpuzzle.app/share/164558"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 62,
         "names": [
           {
-            "name": "シンプルループ by NoWiz",
-            "url": "https://puzsq.logicpuzzle.app/share/164527"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/164548"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 69,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 497,
+        "count": 558,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,15 @@
     },
     "solver": {
       "answered": {
-        "count": 214,
+        "count": 110,
         "names": [
           {
-            "name": "rin204",
-            "url": "https://puzsq.logicpuzzle.app/?author=2442"
+            "name": "ろし2ょる",
+            "url": "https://puzsq.logicpuzzle.app/?author=4788"
+          },
+          {
+            "name": "Zomulgustar",
+            "url": "https://puzsq.logicpuzzle.app/?author=4497"
           }
         ]
       }
