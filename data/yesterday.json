@@ -1,58 +1,54 @@
 {
-  "day": "2025年10月8日",
+  "day": "2025年10月9日",
   "total": {
-    "problem": 34,
-    "favorite": 1000,
-    "answered": 5949
+    "problem": 32,
+    "favorite": 1224,
+    "answered": 5686
   },
   "count": {
     "favorite": {
-      "problem": 651,
-      "author": 190
+      "problem": 866,
+      "author": 227
     },
     "answered": {
-      "problem": 3484,
+      "problem": 3572,
       "author": 384,
-      "solver": 418
+      "solver": 415
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/164899"
-          },
-          {
-            "name": "へやわけ by toofu",
-            "url": "https://puzsq.logicpuzzle.app/share/165124"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165170"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 87,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/164899"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165170"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 148,
+        "count": 138,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 887,
+        "count": 617,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 202,
+        "count": 170,
         "names": [
           {
-            "name": "Salmon",
-            "url": "https://puzsq.logicpuzzle.app/?author=3481"
+            "name": "zunzun",
+            "url": "https://puzsq.logicpuzzle.app/?author=4576"
           }
         ]
       }
