@@ -1,54 +1,58 @@
 {
-  "day": "2025年10月9日",
+  "day": "2025年10月10日",
   "total": {
-    "problem": 32,
-    "favorite": 1224,
-    "answered": 5686
+    "problem": 31,
+    "favorite": 959,
+    "answered": 5275
   },
   "count": {
     "favorite": {
-      "problem": 866,
-      "author": 227
+      "problem": 672,
+      "author": 185
     },
     "answered": {
-      "problem": 3572,
-      "author": 384,
-      "solver": 415
+      "problem": 3158,
+      "author": 358,
+      "solver": 424
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/165170"
+            "name": "ダブルチョコ by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/165192"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/165170"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/165028"
+          },
+          {
+            "name": "美術館 by あっくん",
+            "url": "https://puzsq.logicpuzzle.app/share/165200"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 138,
+        "count": 119,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 617,
+        "count": 781,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 170,
+        "count": 277,
         "names": [
           {
             "name": "zunzun",
