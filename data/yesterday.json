@@ -1,45 +1,45 @@
 {
-  "day": "2025年10月11日",
+  "day": "2025年10月12日",
   "total": {
-    "problem": 28,
-    "favorite": 720,
-    "answered": 4832
+    "problem": 31,
+    "favorite": 1074,
+    "answered": 5714
   },
   "count": {
     "favorite": {
-      "problem": 515,
-      "author": 164
+      "problem": 789,
+      "author": 193
     },
     "answered": {
-      "problem": 3184,
-      "author": 344,
-      "solver": 398
+      "problem": 3586,
+      "author": 378,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 26,
         "names": [
           {
-            "name": "フィルオミノ by 我ヒトにあらず",
-            "url": "https://puzsq.logicpuzzle.app/share/165226"
+            "name": "へやわけ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/165257"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 93,
         "names": [
           {
-            "name": "へやわけ by エビ帽子",
-            "url": "https://puzsq.logicpuzzle.app/share/165222"
+            "name": "シンプルループ by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/165247"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 176,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 627,
+        "count": 952,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 158,
+        "count": 132,
         "names": [
           {
             "name": "みなも",
