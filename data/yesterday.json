@@ -1,45 +1,45 @@
 {
-  "day": "2025年10月17日",
+  "day": "2025年10月18日",
   "total": {
-    "problem": 33,
-    "favorite": 1099,
-    "answered": 5445
+    "problem": 27,
+    "favorite": 772,
+    "answered": 4762
   },
   "count": {
     "favorite": {
-      "problem": 752,
-      "author": 186
+      "problem": 490,
+      "author": 152
     },
     "answered": {
-      "problem": 3329,
-      "author": 362,
-      "solver": 397
+      "problem": 3081,
+      "author": 365,
+      "solver": 371
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 36,
         "names": [
           {
-            "name": "へやわけ by toofu",
-            "url": "https://puzsq.logicpuzzle.app/share/165411"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/165445"
           }
         ]
       },
       "answered": {
-        "count": 82,
+        "count": 86,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/165382"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/165445"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 72,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 469,
+        "count": 539,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 173,
+        "count": 180,
         "names": [
           {
-            "name": "acryloshobonile",
-            "url": "https://puzsq.logicpuzzle.app/?author=4576"
+            "name": "rak",
+            "url": "https://puzsq.logicpuzzle.app/?author=2802"
           }
         ]
       }
