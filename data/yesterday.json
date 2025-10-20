@@ -1,45 +1,45 @@
 {
-  "day": "2025年10月19日",
+  "day": "2025年10月20日",
   "total": {
-    "problem": 34,
-    "favorite": 1181,
-    "answered": 5908
+    "problem": 42,
+    "favorite": 1433,
+    "answered": 6413
   },
   "count": {
     "favorite": {
-      "problem": 906,
-      "author": 196
+      "problem": 1007,
+      "author": 236
     },
     "answered": {
-      "problem": 3754,
-      "author": 387,
-      "solver": 377
+      "problem": 3796,
+      "author": 382,
+      "solver": 403
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 27,
         "names": [
           {
-            "name": "ヤジリン by 筑駒パズル部【公式】",
-            "url": "https://puzsq.logicpuzzle.app/share/165437"
+            "name": "フィルオミノ by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/165512"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 71,
         "names": [
           {
-            "name": "ヤジリン by 筑駒パズル部【公式】",
-            "url": "https://puzsq.logicpuzzle.app/share/165437"
+            "name": "フィルオミノ by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/165512"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 136,
+        "count": 107,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 632,
+        "count": 619,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 461,
+        "count": 581,
         "names": [
           {
             "name": "AlfoFish",
