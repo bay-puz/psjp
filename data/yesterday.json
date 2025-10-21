@@ -1,54 +1,54 @@
 {
-  "day": "2025年10月20日",
+  "day": "2025年10月21日",
   "total": {
-    "problem": 42,
-    "favorite": 1433,
-    "answered": 6413
+    "problem": 29,
+    "favorite": 1038,
+    "answered": 5978
   },
   "count": {
     "favorite": {
-      "problem": 1007,
-      "author": 236
+      "problem": 634,
+      "author": 179
     },
     "answered": {
-      "problem": 3796,
-      "author": 382,
-      "solver": 403
+      "problem": 3596,
+      "author": 385,
+      "solver": 426
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 29,
         "names": [
           {
-            "name": "フィルオミノ by NoWiz",
-            "url": "https://puzsq.logicpuzzle.app/share/165512"
+            "name": "チョコバナナ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165554"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 98,
         "names": [
           {
-            "name": "フィルオミノ by NoWiz",
-            "url": "https://puzsq.logicpuzzle.app/share/165512"
+            "name": "美術館 by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165553"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 107,
+        "count": 108,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 619,
+        "count": 570,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 581,
+        "count": 319,
         "names": [
           {
             "name": "AlfoFish",
