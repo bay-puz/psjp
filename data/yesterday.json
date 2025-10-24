@@ -1,45 +1,45 @@
 {
-  "day": "2025年10月23日",
+  "day": "2025年10月24日",
   "total": {
     "problem": 27,
-    "favorite": 1241,
-    "answered": 6138
+    "favorite": 1105,
+    "answered": 5451
   },
   "count": {
     "favorite": {
-      "problem": 860,
-      "author": 203
+      "problem": 809,
+      "author": 217
     },
     "answered": {
-      "problem": 3657,
+      "problem": 3508,
       "author": 373,
-      "solver": 416
+      "solver": 414
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 24,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/165587"
+            "name": "ダブルチョコ by ujimatcha",
+            "url": "https://puzsq.logicpuzzle.app/share/165630"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 85,
         "names": [
           {
-            "name": "美術館 by 筑駒パズル部【公式】",
-            "url": "https://puzsq.logicpuzzle.app/share/165444"
+            "name": "ぬりめいず by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/165624"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 157,
+        "count": 67,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 944,
+        "count": 443,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 293,
+        "count": 159,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "ゴマアブラ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2601"
           }
         ]
       }
