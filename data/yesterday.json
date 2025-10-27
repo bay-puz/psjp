@@ -1,62 +1,66 @@
 {
-  "day": "2025年10月26日",
+  "day": "2025年10月27日",
   "total": {
-    "problem": 24,
-    "favorite": 962,
-    "answered": 6512
+    "problem": 49,
+    "favorite": 1477,
+    "answered": 6930
   },
   "count": {
     "favorite": {
-      "problem": 741,
-      "author": 189
+      "problem": 1111,
+      "author": 226
     },
     "answered": {
-      "problem": 4371,
+      "problem": 4595,
       "author": 397,
-      "solver": 386
+      "solver": 411
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 16,
         "names": [
           {
-            "name": "シャカシャカ by ss3",
-            "url": "https://puzsq.logicpuzzle.app/share/165672"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165710"
           },
           {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/165674"
+            "name": "∀人∃ＨＥＹＡ by y888",
+            "url": "https://puzsq.logicpuzzle.app/share/165709"
           },
           {
-            "name": "ヤジリン by endagorion",
-            "url": "https://puzsq.logicpuzzle.app/share/165676"
+            "name": "へやわけ by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/165713"
+          },
+          {
+            "name": "∀人∃ＨＥＹＡ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/165723"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/165674"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/165710"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 137,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "izkdic",
+            "url": "https://puzsq.logicpuzzle.app/?author=1427"
           }
         ]
       },
       "answered": {
-        "count": 563,
+        "count": 485,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +71,11 @@
     },
     "solver": {
       "answered": {
-        "count": 389,
+        "count": 377,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
