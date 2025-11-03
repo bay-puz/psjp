@@ -1,54 +1,54 @@
 {
-  "day": "2025年11月2日",
+  "day": "2025年11月3日",
   "total": {
-    "problem": 37,
-    "favorite": 1096,
-    "answered": 5975
+    "problem": 25,
+    "favorite": 1020,
+    "answered": 5674
   },
   "count": {
     "favorite": {
-      "problem": 757,
-      "author": 189
+      "problem": 636,
+      "author": 178
     },
     "answered": {
-      "problem": 3761,
-      "author": 373,
-      "solver": 374
+      "problem": 3491,
+      "author": 369,
+      "solver": 404
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 28,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/165926"
+            "name": "へやわけ by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/165965"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 99,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/165926"
+            "name": "へやわけ by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/165965"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 100,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 583,
+        "count": 694,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 213,
+        "count": 151,
         "names": [
           {
             "name": "AlfoFish",
