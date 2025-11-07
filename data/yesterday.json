@@ -1,49 +1,45 @@
 {
-  "day": "2025年11月6日",
+  "day": "2025年11月7日",
   "total": {
-    "problem": 40,
-    "favorite": 1014,
-    "answered": 5734
+    "problem": 25,
+    "favorite": 1220,
+    "answered": 5623
   },
   "count": {
     "favorite": {
-      "problem": 691,
-      "author": 187
+      "problem": 896,
+      "author": 232
     },
     "answered": {
-      "problem": 3699,
-      "author": 396,
-      "solver": 392
+      "problem": 3582,
+      "author": 383,
+      "solver": 415
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/166029"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166083"
           }
         ]
       },
       "answered": {
-        "count": 59,
+        "count": 99,
         "names": [
           {
-            "name": "美術館 by wasab1",
-            "url": "https://puzsq.logicpuzzle.app/share/166033"
-          },
-          {
-            "name": "ごきげんななめ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/166041"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166083"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 88,
+        "count": 98,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 402,
+        "count": 385,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 222,
+        "count": 171,
         "names": [
           {
-            "name": "wvwv",
-            "url": "https://puzsq.logicpuzzle.app/?author=3952"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
