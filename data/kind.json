@@ -3481,7 +3481,7 @@
   },
   "808": {
     "name": "サンサロード",
-    "name_e": "",
+    "name_e": "Sansa Road",
     "category": 3
   },
   "809": {
@@ -4898,6 +4898,21 @@
     "name": "",
     "name_e": "Continents",
     "category": 1
+  },
+  "1102": {
+    "name": "Exercise",
+    "name_e": "Exercise",
+    "category": 2
+  },
+  "1103": {
+    "name": "ナンバーシティー",
+    "name_e": "Number City",
+    "category": 1
+  },
+  "1104": {
+    "name": "Pyramid Climbers",
+    "name_e": "Pyramid Climbers",
+    "category": 2
   },
   "-2": {
     "name": "Instructionless",
