@@ -1,45 +1,45 @@
 {
-  "day": "2025年11月15日",
+  "day": "2025年11月16日",
   "total": {
-    "problem": 43,
-    "favorite": 977,
-    "answered": 5020
+    "problem": 37,
+    "favorite": 1054,
+    "answered": 5577
   },
   "count": {
     "favorite": {
-      "problem": 663,
-      "author": 180
+      "problem": 756,
+      "author": 205
     },
     "answered": {
-      "problem": 3163,
-      "author": 357,
-      "solver": 377
+      "problem": 3565,
+      "author": 375,
+      "solver": 370
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 31,
         "names": [
           {
-            "name": "フィルオミノ by K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/166291"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/166308"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 84,
         "names": [
           {
-            "name": "ヤジリン by disc",
-            "url": "https://puzsq.logicpuzzle.app/share/166263"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/166308"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 107,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 518,
+        "count": 738,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 166,
+        "count": 114,
         "names": [
           {
             "name": "ねこ珈琲",
