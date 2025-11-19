@@ -1,54 +1,54 @@
 {
-  "day": "2025年11月18日",
+  "day": "2025年11月19日",
   "total": {
-    "problem": 36,
-    "favorite": 1011,
-    "answered": 5519
+    "problem": 37,
+    "favorite": 1056,
+    "answered": 5540
   },
   "count": {
     "favorite": {
-      "problem": 693,
-      "author": 193
+      "problem": 752,
+      "author": 194
     },
     "answered": {
-      "problem": 3448,
-      "author": 361,
-      "solver": 418
+      "problem": 3685,
+      "author": 382,
+      "solver": 428
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by endagorion",
-            "url": "https://puzsq.logicpuzzle.app/share/166392"
+            "name": "スリザーリンク / Fences by djmathman",
+            "url": "https://puzsq.logicpuzzle.app/share/166425"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 73,
         "names": [
           {
-            "name": "フィルオミノ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/166382"
+            "name": "ましゅ by chihi311",
+            "url": "https://puzsq.logicpuzzle.app/share/166434"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 66,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 586,
+        "count": 461,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 219,
+        "count": 186,
         "names": [
           {
-            "name": "ねこ珈琲",
-            "url": "https://puzsq.logicpuzzle.app/?author=4838"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
