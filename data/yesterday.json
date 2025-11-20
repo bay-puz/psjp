@@ -1,54 +1,54 @@
 {
-  "day": "2025年11月19日",
+  "day": "2025年11月20日",
   "total": {
-    "problem": 37,
-    "favorite": 1056,
-    "answered": 5540
+    "problem": 27,
+    "favorite": 1151,
+    "answered": 5095
   },
   "count": {
     "favorite": {
-      "problem": 752,
-      "author": 194
+      "problem": 834,
+      "author": 208
     },
     "answered": {
-      "problem": 3685,
-      "author": 382,
-      "solver": 428
+      "problem": 3322,
+      "author": 365,
+      "solver": 424
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 30,
         "names": [
           {
-            "name": "スリザーリンク / Fences by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/166425"
+            "name": "Tapa by Rook",
+            "url": "https://puzsq.logicpuzzle.app/share/166462"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 80,
         "names": [
           {
-            "name": "ましゅ by chihi311",
-            "url": "https://puzsq.logicpuzzle.app/share/166434"
+            "name": "Tapa by Rook",
+            "url": "https://puzsq.logicpuzzle.app/share/166462"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 48,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 461,
+        "count": 339,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 186,
+        "count": 133,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "saborina",
+            "url": "https://puzsq.logicpuzzle.app/?author=4990"
           }
         ]
       }
