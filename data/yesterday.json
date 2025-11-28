@@ -1,45 +1,45 @@
 {
-  "day": "2025年11月27日",
+  "day": "2025年11月28日",
   "total": {
-    "problem": 24,
-    "favorite": 1003,
-    "answered": 5217
+    "problem": 30,
+    "favorite": 1171,
+    "answered": 5090
   },
   "count": {
     "favorite": {
-      "problem": 623,
-      "author": 178
+      "problem": 781,
+      "author": 205
     },
     "answered": {
-      "problem": 3246,
-      "author": 367,
-      "solver": 426
+      "problem": 3126,
+      "author": 370,
+      "solver": 418
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 36,
+        "count": 28,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/166664"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/166691"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 84,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/166664"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166689"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 105,
+        "count": 108,
         "names": [
           {
             "name": "みんにょこ",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 414,
+        "count": 473,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 101,
+        "count": 108,
         "names": [
           {
-            "name": "Jolson",
-            "url": "https://puzsq.logicpuzzle.app/?author=3983"
+            "name": "6",
+            "url": "https://puzsq.logicpuzzle.app/?author=1013"
           }
         ]
       }
