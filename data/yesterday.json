@@ -1,69 +1,69 @@
 {
-  "day": "2025年11月28日",
+  "day": "2025年11月29日",
   "total": {
-    "problem": 30,
-    "favorite": 1171,
-    "answered": 5090
+    "problem": 34,
+    "favorite": 1175,
+    "answered": 5549
   },
   "count": {
     "favorite": {
-      "problem": 781,
-      "author": 205
+      "problem": 873,
+      "author": 208
     },
     "answered": {
-      "problem": 3126,
-      "author": 370,
-      "solver": 418
+      "problem": 3603,
+      "author": 379,
+      "solver": 382
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 28,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/166691"
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/166740"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/166689"
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/166740"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 108,
+        "count": 100,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 473,
+        "count": 539,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 108,
+        "count": 177,
         "names": [
           {
-            "name": "6",
-            "url": "https://puzsq.logicpuzzle.app/?author=1013"
+            "name": "ci",
+            "url": "https://puzsq.logicpuzzle.app/?author=2077"
           }
         ]
       }
