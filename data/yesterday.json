@@ -1,45 +1,45 @@
 {
-  "day": "2025年11月30日",
+  "day": "2025年12月1日",
   "total": {
-    "problem": 45,
-    "favorite": 1219,
-    "answered": 5829
+    "problem": 56,
+    "favorite": 1470,
+    "answered": 6683
   },
   "count": {
     "favorite": {
-      "problem": 904,
-      "author": 197
+      "problem": 984,
+      "author": 217
     },
     "answered": {
-      "problem": 3702,
-      "author": 367,
-      "solver": 404
+      "problem": 4201,
+      "author": 395,
+      "solver": 420
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 36,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by trip",
-            "url": "https://puzsq.logicpuzzle.app/share/166785"
+            "name": "Morning walk by Polmanpoppins",
+            "url": "https://puzsq.logicpuzzle.app/share/166855"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 85,
         "names": [
           {
-            "name": "へやわけ by trip",
-            "url": "https://puzsq.logicpuzzle.app/share/166785"
+            "name": "∀人∃ＨＥＹＡ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166862"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 122,
+        "count": 230,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 703,
+        "count": 914,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 155,
+        "count": 339,
         "names": [
           {
             "name": "AlfoFish",
