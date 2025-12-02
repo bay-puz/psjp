@@ -1,54 +1,54 @@
 {
-  "day": "2025年12月1日",
+  "day": "2025年12月2日",
   "total": {
-    "problem": 56,
-    "favorite": 1470,
-    "answered": 6683
+    "problem": 54,
+    "favorite": 1025,
+    "answered": 6284
   },
   "count": {
     "favorite": {
-      "problem": 984,
-      "author": 217
+      "problem": 763,
+      "author": 196
     },
     "answered": {
-      "problem": 4201,
-      "author": 395,
-      "solver": 420
+      "problem": 3984,
+      "author": 374,
+      "solver": 447
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 21,
         "names": [
           {
-            "name": "Morning walk by Polmanpoppins",
-            "url": "https://puzsq.logicpuzzle.app/share/166855"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166921"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 74,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/166862"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/166921"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 230,
+        "count": 111,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 914,
+        "count": 561,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 339,
+        "count": 265,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
