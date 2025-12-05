@@ -1,69 +1,73 @@
 {
-  "day": "2025年12月4日",
+  "day": "2025年12月5日",
   "total": {
-    "problem": 42,
-    "favorite": 851,
-    "answered": 5175
+    "problem": 32,
+    "favorite": 970,
+    "answered": 5105
   },
   "count": {
     "favorite": {
-      "problem": 604,
-      "author": 163
+      "problem": 670,
+      "author": 183
     },
     "answered": {
-      "problem": 3328,
-      "author": 362,
-      "solver": 413
+      "problem": 3333,
+      "author": 384,
+      "solver": 424
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 23,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/167024"
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/167058"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 65,
         "names": [
           {
             "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/167024"
+            "url": "https://puzsq.logicpuzzle.app/share/167052"
+          },
+          {
+            "name": "へやわけ by /AZURE",
+            "url": "https://puzsq.logicpuzzle.app/share/167058"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 84,
+        "count": 71,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 559,
+        "count": 369,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 156,
+        "count": 142,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
