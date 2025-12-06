@@ -1,49 +1,45 @@
 {
-  "day": "2025年12月5日",
+  "day": "2025年12月6日",
   "total": {
-    "problem": 32,
-    "favorite": 970,
-    "answered": 5105
+    "problem": 28,
+    "favorite": 868,
+    "answered": 4960
   },
   "count": {
     "favorite": {
-      "problem": 670,
-      "author": 183
+      "problem": 649,
+      "author": 180
     },
     "answered": {
-      "problem": 3333,
-      "author": 384,
-      "solver": 424
+      "problem": 3385,
+      "author": 361,
+      "solver": 376
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by /AZURE",
-            "url": "https://puzsq.logicpuzzle.app/share/167058"
+            "name": "アクアプレース by supernewton",
+            "url": "https://puzsq.logicpuzzle.app/share/167078"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 61,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/167052"
-          },
-          {
-            "name": "へやわけ by /AZURE",
-            "url": "https://puzsq.logicpuzzle.app/share/167058"
+            "name": "アクアプレース by supernewton",
+            "url": "https://puzsq.logicpuzzle.app/share/167078"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 71,
+        "count": 43,
         "names": [
           {
             "name": "みんにょこ",
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 369,
+        "count": 344,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 233,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
