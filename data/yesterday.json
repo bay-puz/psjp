@@ -1,29 +1,29 @@
 {
-  "day": "2025年12月10日",
+  "day": "2025年12月11日",
   "total": {
     "problem": 49,
-    "favorite": 789,
-    "answered": 5537
+    "favorite": 929,
+    "answered": 4970
   },
   "count": {
     "favorite": {
-      "problem": 508,
-      "author": 147
+      "problem": 649,
+      "author": 186
     },
     "answered": {
-      "problem": 3471,
-      "author": 349,
-      "solver": 407
+      "problem": 3196,
+      "author": 343,
+      "solver": 413
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 18,
         "names": [
           {
-            "name": "ダブルチョコ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/167228"
+            "name": "ヤジリン by エビ帽子",
+            "url": "https://puzsq.logicpuzzle.app/share/167250"
           }
         ]
       },
@@ -31,24 +31,28 @@
         "count": 69,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/167227"
+            "name": "橋をかけろ by 24ayn5",
+            "url": "https://puzsq.logicpuzzle.app/share/167246"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 86,
+        "count": 58,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+          },
+          {
+            "name": "はいびじー",
+            "url": "https://puzsq.logicpuzzle.app/?author=3751"
           }
         ]
       },
       "answered": {
-        "count": 622,
+        "count": 393,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 146,
+        "count": 186,
         "names": [
           {
             "name": "キノコ",
