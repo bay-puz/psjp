@@ -1,58 +1,54 @@
 {
-  "day": "2025年12月11日",
+  "day": "2025年12月12日",
   "total": {
-    "problem": 49,
-    "favorite": 929,
-    "answered": 4970
+    "problem": 58,
+    "favorite": 1064,
+    "answered": 5387
   },
   "count": {
     "favorite": {
-      "problem": 649,
-      "author": 186
+      "problem": 691,
+      "author": 194
     },
     "answered": {
-      "problem": 3196,
-      "author": 343,
-      "solver": 413
+      "problem": 3139,
+      "author": 372,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 20,
         "names": [
           {
-            "name": "ヤジリン by エビ帽子",
-            "url": "https://puzsq.logicpuzzle.app/share/167250"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/167254"
           }
         ]
       },
       "answered": {
-        "count": 69,
+        "count": 84,
         "names": [
           {
-            "name": "橋をかけろ by 24ayn5",
-            "url": "https://puzsq.logicpuzzle.app/share/167246"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/167254"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 90,
         "names": [
           {
             "name": "みんにょこ",
             "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          },
-          {
-            "name": "はいびじー",
-            "url": "https://puzsq.logicpuzzle.app/?author=3751"
           }
         ]
       },
       "answered": {
-        "count": 393,
+        "count": 481,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 186,
+        "count": 229,
         "names": [
           {
-            "name": "キノコ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4588"
+            "name": "仮の人",
+            "url": "https://puzsq.logicpuzzle.app/?author=2765"
           }
         ]
       }
