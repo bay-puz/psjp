@@ -1,50 +1,46 @@
 {
-  "day": "2025年12月13日",
+  "day": "2025年12月14日",
   "total": {
-    "problem": 61,
-    "favorite": 742,
-    "answered": 5102
+    "problem": 59,
+    "favorite": 999,
+    "answered": 5783
   },
   "count": {
     "favorite": {
-      "problem": 431,
-      "author": 136
+      "problem": 624,
+      "author": 177
     },
     "answered": {
-      "problem": 2875,
-      "author": 337,
-      "solver": 381
+      "problem": 3266,
+      "author": 375,
+      "solver": 375
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 13,
+        "count": 22,
         "names": [
           {
-            "name": "へやわけ by toofu",
-            "url": "https://puzsq.logicpuzzle.app/share/167352"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/167408"
           }
         ]
       },
       "answered": {
-        "count": 60,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by pqpewowwex",
-            "url": "https://puzsq.logicpuzzle.app/share/167331"
+            "name": "ヤジリン by こいる",
+            "url": "https://puzsq.logicpuzzle.app/share/167390"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 51,
+        "count": 137,
         "names": [
-          {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
-          },
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 530,
+        "count": 755,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 205,
+        "count": 196,
         "names": [
           {
-            "name": "仮の人",
-            "url": "https://puzsq.logicpuzzle.app/?author=2765"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
