@@ -1,45 +1,49 @@
 {
-  "day": "2025年12月26日",
+  "day": "2025年12月27日",
   "total": {
-    "problem": 28,
-    "favorite": 1169,
-    "answered": 5640
+    "problem": 27,
+    "favorite": 786,
+    "answered": 5163
   },
   "count": {
     "favorite": {
-      "problem": 905,
-      "author": 217
+      "problem": 569,
+      "author": 184
     },
     "answered": {
-      "problem": 3825,
-      "author": 382,
-      "solver": 398
+      "problem": 3401,
+      "author": 387,
+      "solver": 366
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by argon(アルゴン)",
-            "url": "https://puzsq.logicpuzzle.app/share/167884"
+            "name": "ヤジリン by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/167912"
+          },
+          {
+            "name": "へやわけ by trip",
+            "url": "https://puzsq.logicpuzzle.app/share/167918"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 82,
         "names": [
           {
-            "name": "ヤジリン by argon(アルゴン)",
-            "url": "https://puzsq.logicpuzzle.app/share/167884"
+            "name": "へやわけ by trip",
+            "url": "https://puzsq.logicpuzzle.app/share/167918"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 80,
+        "count": 83,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 451,
+        "count": 529,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 437,
+        "count": 266,
         "names": [
           {
             "name": "AlfoFish",
