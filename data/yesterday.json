@@ -1,19 +1,19 @@
 {
-  "day": "2026年1月3日",
+  "day": "2026年1月4日",
   "total": {
-    "problem": 25,
-    "favorite": 736,
-    "answered": 5029
+    "problem": 18,
+    "favorite": 966,
+    "answered": 5673
   },
   "count": {
     "favorite": {
-      "problem": 522,
-      "author": 192
+      "problem": 709,
+      "author": 200
     },
     "answered": {
-      "problem": 3422,
-      "author": 384,
-      "solver": 376
+      "problem": 3754,
+      "author": 386,
+      "solver": 372
     }
   },
   "top": {
@@ -22,24 +22,28 @@
         "count": 21,
         "names": [
           {
-            "name": "へやわけ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/168175"
+            "name": "シンプルループ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/168202"
+          },
+          {
+            "name": "ヤジリン by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/168203"
           }
         ]
       },
       "answered": {
-        "count": 99,
+        "count": 90,
         "names": [
           {
-            "name": "へやわけ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/168175"
+            "name": "シンプルループ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/168202"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 84,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 487,
+        "count": 524,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 278,
+        "count": 178,
         "names": [
           {
-            "name": "marek stefanik",
-            "url": "https://puzsq.logicpuzzle.app/?author=5000"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
