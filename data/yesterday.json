@@ -1,58 +1,54 @@
 {
-  "day": "2026年1月4日",
+  "day": "2026年1月5日",
   "total": {
-    "problem": 18,
-    "favorite": 966,
-    "answered": 5673
+    "problem": 23,
+    "favorite": 962,
+    "answered": 5476
   },
   "count": {
     "favorite": {
-      "problem": 709,
-      "author": 200
+      "problem": 684,
+      "author": 190
     },
     "answered": {
-      "problem": 3754,
-      "author": 386,
-      "solver": 372
+      "problem": 3671,
+      "author": 383,
+      "solver": 407
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 27,
         "names": [
           {
-            "name": "シンプルループ by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/168202"
-          },
-          {
-            "name": "ヤジリン by シャトー",
-            "url": "https://puzsq.logicpuzzle.app/share/168203"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/168215"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 91,
         "names": [
           {
-            "name": "シンプルループ by PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/share/168202"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/168215"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 84,
+        "count": 96,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 524,
+        "count": 415,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 178,
+        "count": 231,
         "names": [
           {
-            "name": "キノコ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4588"
+            "name": "はなだけん",
+            "url": "https://puzsq.logicpuzzle.app/?author=5111"
           }
         ]
       }
