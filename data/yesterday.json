@@ -1,54 +1,54 @@
 {
-  "day": "2026年1月16日",
+  "day": "2026年1月17日",
   "total": {
-    "problem": 34,
-    "favorite": 1578,
-    "answered": 7596
+    "problem": 43,
+    "favorite": 1643,
+    "answered": 6813
   },
   "count": {
     "favorite": {
-      "problem": 1076,
-      "author": 249
+      "problem": 1218,
+      "author": 260
     },
     "answered": {
-      "problem": 4814,
-      "author": 423,
-      "solver": 470
+      "problem": 4608,
+      "author": 396,
+      "solver": 429
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 45,
+        "count": 27,
         "names": [
           {
-            "name": "ぬりかべ by mopp",
-            "url": "https://puzsq.logicpuzzle.app/share/168536"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/168545"
           }
         ]
       },
       "answered": {
-        "count": 107,
+        "count": 84,
         "names": [
           {
-            "name": "ぬりかべ by mopp",
-            "url": "https://puzsq.logicpuzzle.app/share/168536"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/168545"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 108,
+        "count": 77,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 518,
+        "count": 565,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 1028,
+        "count": 891,
         "names": [
           {
             "name": "sevenkplus",
