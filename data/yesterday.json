@@ -1,45 +1,45 @@
 {
-  "day": "2026年1月24日",
+  "day": "2026年1月25日",
   "total": {
-    "problem": 34,
-    "favorite": 1171,
-    "answered": 6044
+    "problem": 31,
+    "favorite": 1246,
+    "answered": 6307
   },
   "count": {
     "favorite": {
-      "problem": 791,
-      "author": 195
+      "problem": 906,
+      "author": 228
     },
     "answered": {
-      "problem": 3794,
-      "author": 390,
-      "solver": 414
+      "problem": 4179,
+      "author": 403,
+      "solver": 402
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 39,
+        "count": 26,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/168799"
+            "name": "ましゅ by argon(アルゴン)",
+            "url": "https://puzsq.logicpuzzle.app/share/168840"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 87,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/168810"
+            "name": "ましゅ by argon(アルゴン)",
+            "url": "https://puzsq.logicpuzzle.app/share/168840"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 116,
+        "count": 74,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 715,
+        "count": 580,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 142,
+        "count": 220,
         "names": [
           {
-            "name": "aji",
-            "url": "https://puzsq.logicpuzzle.app/?author=5138"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
