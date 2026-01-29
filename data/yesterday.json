@@ -1,38 +1,42 @@
 {
-  "day": "2026年1月28日",
+  "day": "2026年1月29日",
   "total": {
-    "problem": 32,
-    "favorite": 985,
-    "answered": 5956
+    "problem": 39,
+    "favorite": 1092,
+    "answered": 5878
   },
   "count": {
     "favorite": {
-      "problem": 601,
-      "author": 192
+      "problem": 707,
+      "author": 204
     },
     "answered": {
-      "problem": 3743,
-      "author": 394,
-      "solver": 441
+      "problem": 3713,
+      "author": 399,
+      "solver": 415
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 31,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/168955"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/168978"
           }
         ]
       },
       "answered": {
-        "count": 87,
+        "count": 78,
         "names": [
           {
-            "name": "ナンバーリンク by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/168822"
+            "name": "ヤジリン by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/168979"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/168978"
           }
         ]
       }
@@ -42,13 +46,13 @@
         "count": 73,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 561,
+        "count": 406,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 185,
+        "count": 148,
         "names": [
           {
-            "name": "MF",
-            "url": "https://puzsq.logicpuzzle.app/?author=91"
+            "name": "MercyBeaucou",
+            "url": "https://puzsq.logicpuzzle.app/?author=4603"
           }
         ]
       }
