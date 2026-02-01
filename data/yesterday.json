@@ -1,45 +1,49 @@
 {
-  "day": "2026年1月31日",
+  "day": "2026年2月1日",
   "total": {
-    "problem": 30,
-    "favorite": 1146,
-    "answered": 5694
+    "problem": 29,
+    "favorite": 1131,
+    "answered": 5187
   },
   "count": {
     "favorite": {
-      "problem": 836,
-      "author": 220
+      "problem": 776,
+      "author": 177
     },
     "answered": {
-      "problem": 3843,
-      "author": 371,
-      "solver": 401
+      "problem": 3105,
+      "author": 356,
+      "solver": 393
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 18,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/168961"
+            "name": "ぬりめいず by CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/share/169108"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 64,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/168961"
+            "name": "ナンバーリンク by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/169004"
+          },
+          {
+            "name": "ぬりめいず by CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/share/169108"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 83,
         "names": [
           {
             "name": "ぶすじま",
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 402,
+        "count": 394,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 249,
+        "count": 171,
         "names": [
           {
-            "name": "marek stefanik",
-            "url": "https://puzsq.logicpuzzle.app/?author=5000"
+            "name": "ロべ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4522"
           }
         ]
       }
