@@ -1,54 +1,62 @@
 {
-  "day": "2026年2月2日",
+  "day": "2026年2月3日",
   "total": {
-    "problem": 51,
-    "favorite": 1345,
-    "answered": 6143
+    "problem": 37,
+    "favorite": 887,
+    "answered": 5070
   },
   "count": {
     "favorite": {
-      "problem": 933,
-      "author": 225
+      "problem": 554,
+      "author": 142
     },
     "answered": {
-      "problem": 3496,
-      "author": 366,
-      "solver": 423
+      "problem": 2910,
+      "author": 345,
+      "solver": 421
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 23,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/169148"
+            "name": "ヤジリン by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/169185"
+          },
+          {
+            "name": "美術館 by 筑駒パズル部【公式】",
+            "url": "https://puzsq.logicpuzzle.app/share/169180"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/169177"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 98,
         "names": [
           {
-            "name": "シンプルループ by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/169139"
+            "name": "ヤジリン by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/169185"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 106,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 600,
+        "count": 617,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 238,
+        "count": 90,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "Stp. Fox",
+            "url": "https://puzsq.logicpuzzle.app/?author=2424"
           }
         ]
       }
