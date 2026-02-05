@@ -1,54 +1,58 @@
 {
-  "day": "2026年2月4日",
+  "day": "2026年2月5日",
   "total": {
-    "problem": 36,
-    "favorite": 1019,
-    "answered": 5466
+    "problem": 21,
+    "favorite": 1065,
+    "answered": 5358
   },
   "count": {
     "favorite": {
-      "problem": 614,
-      "author": 169
+      "problem": 687,
+      "author": 192
     },
     "answered": {
-      "problem": 3212,
-      "author": 354,
-      "solver": 422
+      "problem": 3341,
+      "author": 364,
+      "solver": 435
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 33,
+        "count": 28,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/169235"
+            "name": "チョコバナナ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/169249"
+          },
+          {
+            "name": "Aqre by inu",
+            "url": "https://puzsq.logicpuzzle.app/share/169127"
           }
         ]
       },
       "answered": {
-        "count": 102,
+        "count": 107,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/169235"
+            "name": "美術館 by endagorion",
+            "url": "https://puzsq.logicpuzzle.app/share/169253"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 107,
+        "count": 76,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 580,
+        "count": 390,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 120,
+        "count": 126,
         "names": [
           {
-            "name": "Aminami",
-            "url": "https://puzsq.logicpuzzle.app/?author=2509"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
