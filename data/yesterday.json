@@ -1,58 +1,54 @@
 {
-  "day": "2026年2月15日",
+  "day": "2026年2月16日",
   "total": {
     "problem": 27,
-    "favorite": 912,
-    "answered": 5324
+    "favorite": 819,
+    "answered": 5172
   },
   "count": {
     "favorite": {
-      "problem": 689,
-      "author": 186
+      "problem": 549,
+      "author": 182
     },
     "answered": {
-      "problem": 3477,
-      "author": 369,
-      "solver": 402
+      "problem": 3228,
+      "author": 367,
+      "solver": 414
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 25,
         "names": [
           {
-            "name": "ヤジリン by シャトー",
-            "url": "https://puzsq.logicpuzzle.app/share/169538"
+            "name": "シンプルループ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/169563"
           }
         ]
       },
       "answered": {
-        "count": 60,
+        "count": 94,
         "names": [
           {
-            "name": "ヤジリン by シャトー",
-            "url": "https://puzsq.logicpuzzle.app/share/169538"
-          },
-          {
-            "name": "美術館 by げいちょう",
-            "url": "https://puzsq.logicpuzzle.app/share/169514"
+            "name": "シンプルループ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/169563"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 52,
         "names": [
           {
-            "name": "作りたいやつ自由に作る垢",
-            "url": "https://puzsq.logicpuzzle.app/?author=4761"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 376,
+        "count": 324,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 133,
+        "count": 139,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "エビ帽子",
+            "url": "https://puzsq.logicpuzzle.app/?author=4292"
           }
         ]
       }
