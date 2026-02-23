@@ -1,54 +1,54 @@
 {
-  "day": "2026年2月22日",
+  "day": "2026年2月23日",
   "total": {
-    "problem": 28,
-    "favorite": 879,
-    "answered": 5170
+    "problem": 36,
+    "favorite": 1207,
+    "answered": 5731
   },
   "count": {
     "favorite": {
-      "problem": 677,
-      "author": 179
+      "problem": 982,
+      "author": 216
     },
     "answered": {
-      "problem": 3551,
-      "author": 386,
-      "solver": 398
+      "problem": 3945,
+      "author": 387,
+      "solver": 390
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 23,
         "names": [
           {
-            "name": "ペンシルズ by Calesch",
-            "url": "https://puzsq.logicpuzzle.app/share/169722"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/169325"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 88,
         "names": [
           {
-            "name": "美術館 by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/169719"
+            "name": "ヤジリン by すずめ",
+            "url": "https://puzsq.logicpuzzle.app/share/169325"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 87,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 348,
+        "count": 282,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 148,
+        "count": 149,
         "names": [
           {
-            "name": "rin204",
-            "url": "https://puzsq.logicpuzzle.app/?author=2442"
+            "name": "ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/?author=3398"
           }
         ]
       }
