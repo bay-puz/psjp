@@ -1,54 +1,58 @@
 {
-  "day": "2026年3月2日",
+  "day": "2026年3月3日",
   "total": {
-    "problem": 45,
-    "favorite": 1294,
-    "answered": 5338
+    "problem": 32,
+    "favorite": 923,
+    "answered": 5150
   },
   "count": {
     "favorite": {
-      "problem": 890,
-      "author": 195
+      "problem": 664,
+      "author": 203
     },
     "answered": {
-      "problem": 2902,
-      "author": 348,
-      "solver": 404
+      "problem": 3448,
+      "author": 393,
+      "solver": 399
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 28,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/169941"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/169978"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 66,
         "names": [
           {
-            "name": "ヤジリン by すずめ",
-            "url": "https://puzsq.logicpuzzle.app/share/169528"
+            "name": "ヤジリン by jatloe",
+            "url": "https://puzsq.logicpuzzle.app/share/169980"
+          },
+          {
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/169978"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 129,
+        "count": 44,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "chip",
+            "url": "https://puzsq.logicpuzzle.app/?author=1366"
           }
         ]
       },
       "answered": {
-        "count": 338,
+        "count": 269,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 175,
+        "count": 140,
         "names": [
           {
-            "name": "ただのかなで",
-            "url": "https://puzsq.logicpuzzle.app/?author=3398"
+            "name": "marmer",
+            "url": "https://puzsq.logicpuzzle.app/?author=3173"
           }
         ]
       }
