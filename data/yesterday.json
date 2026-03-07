@@ -1,58 +1,54 @@
 {
-  "day": "2026年3月6日",
+  "day": "2026年3月7日",
   "total": {
     "problem": 36,
-    "favorite": 1065,
-    "answered": 5189
+    "favorite": 1051,
+    "answered": 4564
   },
   "count": {
     "favorite": {
-      "problem": 733,
-      "author": 187
+      "problem": 738,
+      "author": 202
     },
     "answered": {
-      "problem": 3403,
-      "author": 373,
-      "solver": 414
+      "problem": 2868,
+      "author": 372,
+      "solver": 396
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 24,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/170070"
-          },
-          {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/170092"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/170108"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 72,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/170070"
+            "name": "へやわけ by arsenic",
+            "url": "https://puzsq.logicpuzzle.app/share/170108"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 58,
         "names": [
           {
-            "name": "izkdic",
-            "url": "https://puzsq.logicpuzzle.app/?author=1427"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 273,
+        "count": 231,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 114,
+        "count": 136,
         "names": [
           {
-            "name": "あきお",
-            "url": "https://puzsq.logicpuzzle.app/?author=3681"
+            "name": "ぽいんせちあ",
+            "url": "https://puzsq.logicpuzzle.app/?author=668"
           }
         ]
       }
