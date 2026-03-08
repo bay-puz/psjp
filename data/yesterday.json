@@ -1,69 +1,69 @@
 {
-  "day": "2026年3月7日",
+  "day": "2026年3月8日",
   "total": {
-    "problem": 36,
-    "favorite": 1051,
-    "answered": 4564
+    "problem": 27,
+    "favorite": 968,
+    "answered": 5075
   },
   "count": {
     "favorite": {
-      "problem": 738,
-      "author": 202
+      "problem": 723,
+      "author": 181
     },
     "answered": {
-      "problem": 2868,
-      "author": 372,
-      "solver": 396
+      "problem": 3268,
+      "author": 397,
+      "solver": 398
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 23,
         "names": [
           {
             "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/170108"
+            "url": "https://puzsq.logicpuzzle.app/share/170140"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 78,
         "names": [
           {
             "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/170108"
+            "url": "https://puzsq.logicpuzzle.app/share/170140"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 46,
+        "names": [
+          {
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+          }
+        ]
+      },
+      "answered": {
+        "count": 279,
         "names": [
           {
             "name": "鷹野リン",
             "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
-      },
-      "answered": {
-        "count": 231,
-        "names": [
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          }
-        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 136,
+        "count": 113,
         "names": [
           {
-            "name": "ぽいんせちあ",
-            "url": "https://puzsq.logicpuzzle.app/?author=668"
+            "name": "げいちょう",
+            "url": "https://puzsq.logicpuzzle.app/?author=4665"
           }
         ]
       }
