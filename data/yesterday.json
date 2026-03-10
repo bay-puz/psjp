@@ -1,69 +1,73 @@
 {
-  "day": "2026年3月9日",
+  "day": "2026年3月10日",
   "total": {
-    "problem": 28,
-    "favorite": 982,
-    "answered": 5076
+    "problem": 44,
+    "favorite": 980,
+    "answered": 5387
   },
   "count": {
     "favorite": {
-      "problem": 723,
-      "author": 180
+      "problem": 638,
+      "author": 173
     },
     "answered": {
-      "problem": 3436,
-      "author": 387,
-      "solver": 393
+      "problem": 3336,
+      "author": 383,
+      "solver": 409
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170171"
+            "name": "ヤジリン by _AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/share/170136"
+          },
+          {
+            "name": "修学旅行の夜 by Ph8Ma",
+            "url": "https://puzsq.logicpuzzle.app/share/170187"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 84,
         "names": [
           {
-            "name": "へやわけ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170171"
+            "name": "シンプルループ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/170166"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 59,
+        "count": 69,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "ロべ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4522"
           }
         ]
       },
       "answered": {
-        "count": 254,
+        "count": 317,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "ロべ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4522"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 116,
+        "count": 153,
         "names": [
           {
-            "name": "Stp. Fox",
-            "url": "https://puzsq.logicpuzzle.app/?author=2424"
+            "name": "marmer",
+            "url": "https://puzsq.logicpuzzle.app/?author=3173"
           }
         ]
       }
