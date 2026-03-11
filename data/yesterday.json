@@ -1,19 +1,19 @@
 {
-  "day": "2026年3月10日",
+  "day": "2026年3月11日",
   "total": {
-    "problem": 44,
-    "favorite": 980,
-    "answered": 5387
+    "problem": 38,
+    "favorite": 1165,
+    "answered": 6251
   },
   "count": {
     "favorite": {
-      "problem": 638,
-      "author": 173
+      "problem": 683,
+      "author": 178
     },
     "answered": {
-      "problem": 3336,
-      "author": 383,
-      "solver": 409
+      "problem": 3554,
+      "author": 375,
+      "solver": 410
     }
   },
   "top": {
@@ -22,28 +22,36 @@
         "count": 24,
         "names": [
           {
-            "name": "ヤジリン by _AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/share/170136"
-          },
-          {
-            "name": "修学旅行の夜 by Ph8Ma",
-            "url": "https://puzsq.logicpuzzle.app/share/170187"
+            "name": "ぬりかべ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/170200"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 80,
         "names": [
           {
-            "name": "シンプルループ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/170166"
+            "name": "ぬりかべ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/170200"
+          },
+          {
+            "name": "へやわけ by ロべ",
+            "url": "https://puzsq.logicpuzzle.app/share/170232"
+          },
+          {
+            "name": "へやわけ by ロべ",
+            "url": "https://puzsq.logicpuzzle.app/share/170239"
+          },
+          {
+            "name": "美術館 by 700kPC",
+            "url": "https://puzsq.logicpuzzle.app/share/170241"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 139,
         "names": [
           {
             "name": "ロべ",
@@ -52,7 +60,7 @@
         ]
       },
       "answered": {
-        "count": 317,
+        "count": 670,
         "names": [
           {
             "name": "ロべ",
@@ -63,11 +71,11 @@
     },
     "solver": {
       "answered": {
-        "count": 153,
+        "count": 200,
         "names": [
           {
-            "name": "marmer",
-            "url": "https://puzsq.logicpuzzle.app/?author=3173"
+            "name": "watari",
+            "url": "https://puzsq.logicpuzzle.app/?author=2140"
           }
         ]
       }
