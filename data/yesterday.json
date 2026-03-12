@@ -1,81 +1,73 @@
 {
-  "day": "2026年3月11日",
+  "day": "2026年3月12日",
   "total": {
-    "problem": 38,
-    "favorite": 1165,
-    "answered": 6251
+    "problem": 28,
+    "favorite": 989,
+    "answered": 39309
   },
   "count": {
     "favorite": {
-      "problem": 683,
-      "author": 178
+      "problem": 635,
+      "author": 172
     },
     "answered": {
-      "problem": 3554,
-      "author": 375,
-      "solver": 410
+      "problem": 35141,
+      "author": 624,
+      "solver": 413
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 22,
         "names": [
           {
-            "name": "ぬりかべ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/170200"
+            "name": "ぬりめいず by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/170271"
+          },
+          {
+            "name": "美術館 by Tonta",
+            "url": "https://puzsq.logicpuzzle.app/share/170274"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 83,
         "names": [
           {
-            "name": "ぬりかべ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/170200"
-          },
-          {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/170232"
-          },
-          {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/170239"
-          },
-          {
-            "name": "美術館 by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170241"
+            "name": "ぬりめいず by NoWiz",
+            "url": "https://puzsq.logicpuzzle.app/share/170271"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 139,
+        "count": 66,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 670,
+        "count": 2918,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 200,
+        "count": 33839,
         "names": [
           {
-            "name": "watari",
-            "url": "https://puzsq.logicpuzzle.app/?author=2140"
+            "name": "solver",
+            "url": "https://puzsq.logicpuzzle.app/?author=5358"
           }
         ]
       }
