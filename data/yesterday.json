@@ -1,45 +1,45 @@
 {
-  "day": "2026年3月13日",
+  "day": "2026年3月14日",
   "total": {
-    "problem": 27,
-    "favorite": 963,
-    "answered": 19136
+    "problem": 36,
+    "favorite": 1192,
+    "answered": 5800
   },
   "count": {
     "favorite": {
-      "problem": 529,
-      "author": 174
+      "problem": 836,
+      "author": 227
     },
     "answered": {
-      "problem": 15895,
-      "author": 505,
-      "solver": 447
+      "problem": 3593,
+      "author": 403,
+      "solver": 429
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 28,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/170294"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/170316"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 70,
         "names": [
           {
-            "name": "美術館 by mrsdot",
-            "url": "https://puzsq.logicpuzzle.app/share/170299"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/170316"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 70,
+        "count": 91,
         "names": [
           {
             "name": "鷹野リン",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 1022,
+        "count": 360,
         "names": [
           {
-            "name": "_AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/?author=358"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 13232,
+        "count": 174,
         "names": [
           {
-            "name": "solver",
-            "url": "https://puzsq.logicpuzzle.app/?author=5358"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       }
