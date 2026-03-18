@@ -1,45 +1,49 @@
 {
-  "day": "2026年3月17日",
+  "day": "2026年3月18日",
   "total": {
-    "problem": 26,
-    "favorite": 974,
-    "answered": 5050
+    "problem": 36,
+    "favorite": 813,
+    "answered": 5042
   },
   "count": {
     "favorite": {
-      "problem": 643,
-      "author": 177
+      "problem": 539,
+      "author": 161
     },
     "answered": {
-      "problem": 3002,
-      "author": 371,
-      "solver": 423
+      "problem": 2884,
+      "author": 354,
+      "solver": 394
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 17,
         "names": [
           {
-            "name": "ヤジリン by キプラ",
-            "url": "https://puzsq.logicpuzzle.app/share/170074"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/170448"
+          },
+          {
+            "name": "Light and Shadow by mudo",
+            "url": "https://puzsq.logicpuzzle.app/share/170404"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by キプラ",
-            "url": "https://puzsq.logicpuzzle.app/share/170074"
+            "name": "美術館 by anurag",
+            "url": "https://puzsq.logicpuzzle.app/share/170447"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 44,
         "names": [
           {
             "name": "鷹野リン",
@@ -48,22 +52,22 @@
         ]
       },
       "answered": {
-        "count": 298,
+        "count": 309,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 102,
+        "count": 118,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "キノコ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4588"
           }
         ]
       }
