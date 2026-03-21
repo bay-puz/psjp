@@ -1,54 +1,54 @@
 {
-  "day": "2026年3月20日",
+  "day": "2026年3月21日",
   "total": {
-    "problem": 39,
-    "favorite": 992,
-    "answered": 5566
+    "problem": 41,
+    "favorite": 1109,
+    "answered": 5723
   },
   "count": {
     "favorite": {
-      "problem": 699,
-      "author": 180
+      "problem": 773,
+      "author": 204
     },
     "answered": {
-      "problem": 3508,
-      "author": 369,
-      "solver": 406
+      "problem": 3635,
+      "author": 395,
+      "solver": 386
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 23,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/170506"
+            "name": "スリザーリンク / Fences by watari",
+            "url": "https://puzsq.logicpuzzle.app/share/170560"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 68,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/170506"
+            "name": "ヤジリン by キプラ",
+            "url": "https://puzsq.logicpuzzle.app/share/170567"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 81,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "ぶすじま",
+            "url": "https://puzsq.logicpuzzle.app/?author=511"
           }
         ]
       },
       "answered": {
-        "count": 420,
+        "count": 369,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 293,
+        "count": 316,
         "names": [
           {
             "name": "solver",
