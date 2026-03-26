@@ -1,46 +1,50 @@
 {
-  "day": "2026年3月25日",
+  "day": "2026年3月26日",
   "total": {
-    "problem": 30,
-    "favorite": 931,
-    "answered": 4959
+    "problem": 39,
+    "favorite": 1223,
+    "answered": 5499
   },
   "count": {
     "favorite": {
-      "problem": 576,
-      "author": 179
+      "problem": 869,
+      "author": 222
     },
     "answered": {
-      "problem": 2927,
-      "author": 360,
-      "solver": 412
+      "problem": 3317,
+      "author": 399,
+      "solver": 407
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 26,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170696"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/170753"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 79,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170696"
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/170694"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 54,
         "names": [
+          {
+            "name": "nattien",
+            "url": "https://puzsq.logicpuzzle.app/?author=3612"
+          },
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
@@ -48,7 +52,7 @@
         ]
       },
       "answered": {
-        "count": 438,
+        "count": 386,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 171,
+        "count": 320,
         "names": [
           {
-            "name": "そらいろ",
-            "url": "https://puzsq.logicpuzzle.app/?author=5402"
+            "name": "maglar",
+            "url": "https://puzsq.logicpuzzle.app/?author=5056"
           }
         ]
       }
