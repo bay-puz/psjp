@@ -1,25 +1,25 @@
 {
-  "day": "2026年3月26日",
+  "day": "2026年3月27日",
   "total": {
-    "problem": 39,
-    "favorite": 1223,
-    "answered": 5499
+    "problem": 36,
+    "favorite": 912,
+    "answered": 4819
   },
   "count": {
     "favorite": {
-      "problem": 869,
-      "author": 222
+      "problem": 604,
+      "author": 186
     },
     "answered": {
-      "problem": 3317,
-      "author": 399,
-      "solver": 407
+      "problem": 2995,
+      "author": 383,
+      "solver": 406
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 26,
+        "count": 20,
         "names": [
           {
             "name": "へやわけ by nattien",
@@ -28,31 +28,31 @@
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 75,
         "names": [
           {
-            "name": "美術館 by youtoon",
-            "url": "https://puzsq.logicpuzzle.app/share/170694"
+            "name": "ヤジリン by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/170771"
+          },
+          {
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/170770"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 68,
         "names": [
           {
-            "name": "nattien",
-            "url": "https://puzsq.logicpuzzle.app/?author=3612"
-          },
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 386,
+        "count": 433,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 320,
+        "count": 185,
         "names": [
           {
-            "name": "maglar",
-            "url": "https://puzsq.logicpuzzle.app/?author=5056"
+            "name": "solver",
+            "url": "https://puzsq.logicpuzzle.app/?author=5358"
           }
         ]
       }
