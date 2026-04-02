@@ -1,69 +1,69 @@
 {
-  "day": "2026年4月1日",
+  "day": "2026年4月2日",
   "total": {
-    "problem": 50,
-    "favorite": 1130,
-    "answered": 4762
+    "problem": 22,
+    "favorite": 801,
+    "answered": 4841
   },
   "count": {
     "favorite": {
-      "problem": 789,
-      "author": 209
+      "problem": 494,
+      "author": 175
     },
     "answered": {
-      "problem": 2708,
+      "problem": 2794,
       "author": 365,
-      "solver": 389
+      "solver": 402
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 27,
         "names": [
           {
-            "name": "ましゅ by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/170930"
+            "name": "美術館 by nemmu",
+            "url": "https://puzsq.logicpuzzle.app/share/170890"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 89,
         "names": [
           {
-            "name": "美術館 by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/170941"
+            "name": "LITS by CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/share/170919"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 78,
+        "count": 89,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/?author=2633"
           }
         ]
       },
       "answered": {
-        "count": 296,
+        "count": 397,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "CW-MV",
+            "url": "https://puzsq.logicpuzzle.app/?author=2633"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 274,
+        "count": 110,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "シャトー",
+            "url": "https://puzsq.logicpuzzle.app/?author=4629"
           }
         ]
       }
