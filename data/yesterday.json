@@ -1,69 +1,69 @@
 {
-  "day": "2026年4月2日",
+  "day": "2026年4月3日",
   "total": {
-    "problem": 22,
-    "favorite": 801,
-    "answered": 4841
+    "problem": 33,
+    "favorite": 832,
+    "answered": 5149
   },
   "count": {
     "favorite": {
-      "problem": 494,
-      "author": 175
+      "problem": 570,
+      "author": 172
     },
     "answered": {
-      "problem": 2794,
-      "author": 365,
-      "solver": 402
+      "problem": 3347,
+      "author": 374,
+      "solver": 397
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by nemmu",
-            "url": "https://puzsq.logicpuzzle.app/share/170890"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/170994"
           }
         ]
       },
       "answered": {
-        "count": 89,
+        "count": 84,
         "names": [
           {
-            "name": "LITS by CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/share/170919"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/170997"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 89,
+        "count": 39,
         "names": [
           {
-            "name": "CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/?author=2633"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 397,
+        "count": 259,
         "names": [
           {
-            "name": "CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/?author=2633"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 110,
+        "count": 205,
         "names": [
           {
-            "name": "シャトー",
-            "url": "https://puzsq.logicpuzzle.app/?author=4629"
+            "name": "こたつがめ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4701"
           }
         ]
       }
