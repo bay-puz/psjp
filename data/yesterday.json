@@ -1,54 +1,54 @@
 {
-  "day": "2026年4月4日",
+  "day": "2026年4月5日",
   "total": {
-    "problem": 29,
-    "favorite": 921,
-    "answered": 5105
+    "problem": 46,
+    "favorite": 926,
+    "answered": 5273
   },
   "count": {
     "favorite": {
-      "problem": 677,
-      "author": 177
+      "problem": 539,
+      "author": 167
     },
     "answered": {
-      "problem": 3251,
-      "author": 374,
-      "solver": 371
+      "problem": 2917,
+      "author": 363,
+      "solver": 397
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 14,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ（変種） by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/171033"
+            "name": "チョコバナナ by lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/share/171061"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 70,
         "names": [
           {
-            "name": "美術館 by youtoon",
-            "url": "https://puzsq.logicpuzzle.app/share/171031"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/171057"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 54,
         "names": [
           {
-            "name": "y888",
-            "url": "https://puzsq.logicpuzzle.app/?author=3102"
+            "name": "lemononmars",
+            "url": "https://puzsq.logicpuzzle.app/?author=2756"
           }
         ]
       },
       "answered": {
-        "count": 327,
+        "count": 246,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 188,
+        "count": 139,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "こたつがめ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4701"
           }
         ]
       }
