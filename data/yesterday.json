@@ -1,45 +1,45 @@
 {
-  "day": "2026年4月6日",
+  "day": "2026年4月7日",
   "total": {
-    "problem": 30,
-    "favorite": 763,
-    "answered": 4861
+    "problem": 29,
+    "favorite": 1050,
+    "answered": 5244
   },
   "count": {
     "favorite": {
-      "problem": 418,
-      "author": 146
+      "problem": 670,
+      "author": 191
     },
     "answered": {
-      "problem": 2796,
-      "author": 364,
-      "solver": 395
+      "problem": 2810,
+      "author": 361,
+      "solver": 402
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 21,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/171099"
+            "name": "ヤジリン by off",
+            "url": "https://puzsq.logicpuzzle.app/share/171130"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 100,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/171099"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/171100"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 49,
+        "count": 55,
         "names": [
           {
             "name": "鷹野リン",
@@ -48,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 241,
+        "count": 265,
         "names": [
           {
             "name": "鷹野リン",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 141,
+        "count": 140,
         "names": [
           {
-            "name": "nh!y",
-            "url": "https://puzsq.logicpuzzle.app/?author=4645"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       }
