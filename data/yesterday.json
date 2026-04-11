@@ -1,54 +1,54 @@
 {
-  "day": "2026年4月10日",
+  "day": "2026年4月11日",
   "total": {
-    "problem": 31,
-    "favorite": 1064,
-    "answered": 5121
+    "problem": 36,
+    "favorite": 958,
+    "answered": 5162
   },
   "count": {
     "favorite": {
-      "problem": 715,
-      "author": 200
+      "problem": 551,
+      "author": 161
     },
     "answered": {
-      "problem": 3081,
-      "author": 372,
-      "solver": 416
+      "problem": 2891,
+      "author": 349,
+      "solver": 405
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 30,
         "names": [
           {
-            "name": "へやわけ by endagorion",
-            "url": "https://puzsq.logicpuzzle.app/share/171223"
+            "name": "フィルオミノ by vanillaice",
+            "url": "https://puzsq.logicpuzzle.app/share/171246"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 76,
         "names": [
           {
-            "name": "へやわけ by endagorion",
-            "url": "https://puzsq.logicpuzzle.app/share/171223"
+            "name": "フィルオミノ by vanillaice",
+            "url": "https://puzsq.logicpuzzle.app/share/171246"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 42,
+        "count": 47,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "vanillaice",
+            "url": "https://puzsq.logicpuzzle.app/?author=397"
           }
         ]
       },
       "answered": {
-        "count": 230,
+        "count": 307,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 196,
+        "count": 185,
         "names": [
           {
-            "name": "そらいろ",
-            "url": "https://puzsq.logicpuzzle.app/?author=5402"
+            "name": "まえだ",
+            "url": "https://puzsq.logicpuzzle.app/?author=107"
           }
         ]
       }
