@@ -1,69 +1,69 @@
 {
-  "day": "2026年4月12日",
+  "day": "2026年4月13日",
   "total": {
-    "problem": 43,
-    "favorite": 917,
-    "answered": 5162
+    "problem": 30,
+    "favorite": 1090,
+    "answered": 5507
   },
   "count": {
     "favorite": {
-      "problem": 600,
-      "author": 161
+      "problem": 748,
+      "author": 214
     },
     "answered": {
-      "problem": 3055,
-      "author": 374,
-      "solver": 402
+      "problem": 3226,
+      "author": 401,
+      "solver": 426
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 22,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by Series_205",
-            "url": "https://puzsq.logicpuzzle.app/share/171314"
+            "name": "へやわけ by DesolateDomain",
+            "url": "https://puzsq.logicpuzzle.app/share/171332"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 69,
         "names": [
           {
-            "name": "美術館 by trimscash",
-            "url": "https://puzsq.logicpuzzle.app/share/171310"
+            "name": "美術館 by maglar",
+            "url": "https://puzsq.logicpuzzle.app/share/171338"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 59,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 241,
+        "count": 256,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 216,
+        "count": 202,
         "names": [
           {
-            "name": "さり",
-            "url": "https://puzsq.logicpuzzle.app/?author=4458"
+            "name": "koume",
+            "url": "https://puzsq.logicpuzzle.app/?author=1524"
           }
         ]
       }
