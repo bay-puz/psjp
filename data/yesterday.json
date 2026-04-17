@@ -1,19 +1,19 @@
 {
-  "day": "2026年4月16日",
+  "day": "2026年4月17日",
   "total": {
-    "problem": 45,
-    "favorite": 1003,
-    "answered": 5377
+    "problem": 38,
+    "favorite": 1007,
+    "answered": 5389
   },
   "count": {
     "favorite": {
-      "problem": 644,
-      "author": 188
+      "problem": 614,
+      "author": 192
     },
     "answered": {
-      "problem": 3063,
-      "author": 378,
-      "solver": 440
+      "problem": 3053,
+      "author": 396,
+      "solver": 441
     }
   },
   "top": {
@@ -22,48 +22,56 @@
         "count": 22,
         "names": [
           {
-            "name": "へやわけ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/171461"
+            "name": "へやわけ by しんたん",
+            "url": "https://puzsq.logicpuzzle.app/share/171485"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 92,
         "names": [
           {
-            "name": "へやわけ by 700kPC",
-            "url": "https://puzsq.logicpuzzle.app/share/171461"
+            "name": "ヤジリン by off",
+            "url": "https://puzsq.logicpuzzle.app/share/171488"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 40,
         "names": [
           {
-            "name": "700kPC",
-            "url": "https://puzsq.logicpuzzle.app/?author=5009"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 255,
+        "count": 269,
         "names": [
           {
-            "name": "700kPC",
-            "url": "https://puzsq.logicpuzzle.app/?author=5009"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 122,
+        "count": 79,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "HoyHoyCharhang",
+            "url": "https://puzsq.logicpuzzle.app/?author=5387"
+          },
+          {
+            "name": "blau_3",
+            "url": "https://puzsq.logicpuzzle.app/?author=4379"
+          },
+          {
+            "name": "くつした",
+            "url": "https://puzsq.logicpuzzle.app/?author=1372"
           }
         ]
       }
