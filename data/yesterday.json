@@ -1,54 +1,54 @@
 {
-  "day": "2026年4月17日",
+  "day": "2026年4月18日",
   "total": {
-    "problem": 38,
-    "favorite": 1007,
-    "answered": 5389
+    "problem": 36,
+    "favorite": 962,
+    "answered": 4677
   },
   "count": {
     "favorite": {
-      "problem": 614,
-      "author": 192
+      "problem": 569,
+      "author": 176
     },
     "answered": {
-      "problem": 3053,
-      "author": 396,
-      "solver": 441
+      "problem": 2643,
+      "author": 382,
+      "solver": 396
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 27,
         "names": [
           {
-            "name": "へやわけ by しんたん",
-            "url": "https://puzsq.logicpuzzle.app/share/171485"
+            "name": "チョコバナナ by Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/share/171522"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by off",
-            "url": "https://puzsq.logicpuzzle.app/share/171488"
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/171523"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 40,
+        "count": 46,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "Menderbug ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2371"
           }
         ]
       },
       "answered": {
-        "count": 269,
+        "count": 190,
         "names": [
           {
             "name": "anurag",
@@ -59,19 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 79,
+        "count": 113,
         "names": [
           {
-            "name": "HoyHoyCharhang",
-            "url": "https://puzsq.logicpuzzle.app/?author=5387"
-          },
-          {
-            "name": "blau_3",
-            "url": "https://puzsq.logicpuzzle.app/?author=4379"
-          },
-          {
-            "name": "くつした",
-            "url": "https://puzsq.logicpuzzle.app/?author=1372"
+            "name": "シャトー",
+            "url": "https://puzsq.logicpuzzle.app/?author=4629"
           }
         ]
       }
