@@ -1,69 +1,69 @@
 {
-  "day": "2026年4月21日",
+  "day": "2026年4月22日",
   "total": {
-    "problem": 39,
-    "favorite": 1127,
-    "answered": 5863
+    "problem": 32,
+    "favorite": 1089,
+    "answered": 5370
   },
   "count": {
     "favorite": {
-      "problem": 823,
-      "author": 227
+      "problem": 785,
+      "author": 208
     },
     "answered": {
-      "problem": 3493,
-      "author": 390,
-      "solver": 446
+      "problem": 3445,
+      "author": 379,
+      "solver": 421
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/171630"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/171679"
           }
         ]
       },
       "answered": {
-        "count": 96,
+        "count": 69,
         "names": [
           {
-            "name": "へやわけ by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/171630"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/171597"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 93,
+        "count": 60,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 287,
+        "count": 285,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 242,
+        "count": 253,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "シャトー",
+            "url": "https://puzsq.logicpuzzle.app/?author=4629"
           }
         ]
       }
