@@ -1,65 +1,65 @@
 {
-  "day": "2026年4月28日",
+  "day": "2026年4月29日",
   "total": {
-    "problem": 37,
-    "favorite": 1061,
-    "answered": 6536
+    "problem": 52,
+    "favorite": 1247,
+    "answered": 6923
   },
   "count": {
     "favorite": {
-      "problem": 711,
-      "author": 188
+      "problem": 909,
+      "author": 229
     },
     "answered": {
-      "problem": 4286,
-      "author": 422,
-      "solver": 429
+      "problem": 4407,
+      "author": 435,
+      "solver": 431
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 18,
         "names": [
           {
-            "name": "フィルオミノ by djmathman",
-            "url": "https://puzsq.logicpuzzle.app/share/171870"
+            "name": "ましゅ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/171913"
           }
         ]
       },
       "answered": {
-        "count": 102,
+        "count": 65,
         "names": [
           {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/171866"
+            "name": "ましゅ by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/171913"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 58,
         "names": [
           {
-            "name": "臭い",
-            "url": "https://puzsq.logicpuzzle.app/?author=5434"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 306,
+        "count": 326,
         "names": [
           {
-            "name": "臭い",
-            "url": "https://puzsq.logicpuzzle.app/?author=5434"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 623,
+        "count": 353,
         "names": [
           {
             "name": "solver",
