@@ -1,69 +1,69 @@
 {
-  "day": "2026年5月1日",
+  "day": "2026年5月2日",
   "total": {
-    "problem": 39,
-    "favorite": 851,
-    "answered": 5220
+    "problem": 50,
+    "favorite": 1080,
+    "answered": 6552
   },
   "count": {
     "favorite": {
-      "problem": 567,
-      "author": 178
+      "problem": 668,
+      "author": 180
     },
     "answered": {
-      "problem": 3106,
-      "author": 389,
+      "problem": 3737,
+      "author": 399,
       "solver": 398
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 29,
         "names": [
           {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/172017"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/172072"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 95,
         "names": [
           {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/172017"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/172078"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 44,
+        "count": 52,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 240,
+        "count": 325,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 149,
+        "count": 146,
         "names": [
           {
-            "name": "Pioooooo",
-            "url": "https://puzsq.logicpuzzle.app/?author=3157"
+            "name": "ひよぺんぎん",
+            "url": "https://puzsq.logicpuzzle.app/?author=2826"
           }
         ]
       }
