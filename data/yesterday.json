@@ -1,69 +1,69 @@
 {
-  "day": "2026年5月2日",
+  "day": "2026年5月3日",
   "total": {
-    "problem": 50,
-    "favorite": 1080,
-    "answered": 6552
+    "problem": 32,
+    "favorite": 846,
+    "answered": 5612
   },
   "count": {
     "favorite": {
-      "problem": 668,
-      "author": 180
+      "problem": 557,
+      "author": 172
     },
     "answered": {
-      "problem": 3737,
-      "author": 399,
-      "solver": 398
+      "problem": 3627,
+      "author": 410,
+      "solver": 362
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 17,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/172072"
+            "name": "ヤジリン by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/172134"
           }
         ]
       },
       "answered": {
-        "count": 95,
+        "count": 72,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/172078"
+            "name": "ぬりかべ by Ph8Ma",
+            "url": "https://puzsq.logicpuzzle.app/share/172109"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 54,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 325,
+        "count": 263,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 146,
+        "count": 192,
         "names": [
           {
-            "name": "ひよぺんぎん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2826"
+            "name": "阿諏訪祀",
+            "url": "https://puzsq.logicpuzzle.app/?author=5438"
           }
         ]
       }
