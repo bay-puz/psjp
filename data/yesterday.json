@@ -1,49 +1,49 @@
 {
-  "day": "2026年5月3日",
+  "day": "2026年5月4日",
   "total": {
-    "problem": 32,
-    "favorite": 846,
-    "answered": 5612
+    "problem": 36,
+    "favorite": 1050,
+    "answered": 5712
   },
   "count": {
     "favorite": {
-      "problem": 557,
-      "author": 172
+      "problem": 816,
+      "author": 186
     },
     "answered": {
-      "problem": 3627,
-      "author": 410,
-      "solver": 362
+      "problem": 3976,
+      "author": 431,
+      "solver": 379
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/172134"
+            "name": "美術館 by Akane",
+            "url": "https://puzsq.logicpuzzle.app/share/172146"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 78,
         "names": [
           {
-            "name": "ぬりかべ by Ph8Ma",
-            "url": "https://puzsq.logicpuzzle.app/share/172109"
+            "name": "美術館 by Akane",
+            "url": "https://puzsq.logicpuzzle.app/share/172146"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 97,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
@@ -51,19 +51,19 @@
         "count": 263,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 192,
+        "count": 185,
         "names": [
           {
-            "name": "阿諏訪祀",
-            "url": "https://puzsq.logicpuzzle.app/?author=5438"
+            "name": "Puzzle Cake",
+            "url": "https://puzsq.logicpuzzle.app/?author=697"
           }
         ]
       }
