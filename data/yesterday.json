@@ -1,29 +1,29 @@
 {
-  "day": "2026年5月4日",
+  "day": "2026年5月5日",
   "total": {
-    "problem": 36,
-    "favorite": 1050,
-    "answered": 5712
+    "problem": 46,
+    "favorite": 998,
+    "answered": 5433
   },
   "count": {
     "favorite": {
-      "problem": 816,
-      "author": 186
+      "problem": 678,
+      "author": 198
     },
     "answered": {
-      "problem": 3976,
-      "author": 431,
-      "solver": 379
+      "problem": 3360,
+      "author": 378,
+      "solver": 391
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 21,
         "names": [
           {
-            "name": "美術館 by Akane",
-            "url": "https://puzsq.logicpuzzle.app/share/172146"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/172189"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 78,
         "names": [
           {
-            "name": "美術館 by Akane",
-            "url": "https://puzsq.logicpuzzle.app/share/172146"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/172087"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 97,
+        "count": 74,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "kaito1099511627776",
+            "url": "https://puzsq.logicpuzzle.app/?author=2479"
           }
         ]
       },
       "answered": {
-        "count": 263,
+        "count": 234,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 185,
+        "count": 357,
         "names": [
           {
-            "name": "Puzzle Cake",
-            "url": "https://puzsq.logicpuzzle.app/?author=697"
+            "name": "geq0",
+            "url": "https://puzsq.logicpuzzle.app/?author=1501"
           }
         ]
       }
