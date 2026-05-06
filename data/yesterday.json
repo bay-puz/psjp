@@ -1,19 +1,19 @@
 {
-  "day": "2026年5月5日",
+  "day": "2026年5月6日",
   "total": {
-    "problem": 46,
-    "favorite": 998,
-    "answered": 5433
+    "problem": 45,
+    "favorite": 1364,
+    "answered": 6108
   },
   "count": {
     "favorite": {
-      "problem": 678,
-      "author": 198
+      "problem": 949,
+      "author": 239
     },
     "answered": {
-      "problem": 3360,
-      "author": 378,
-      "solver": 391
+      "problem": 3556,
+      "author": 397,
+      "solver": 395
     }
   },
   "top": {
@@ -22,48 +22,52 @@
         "count": 21,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/172189"
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/172224"
           }
         ]
       },
       "answered": {
-        "count": 78,
+        "count": 88,
         "names": [
           {
-            "name": "ヤジリン by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/172087"
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/172232"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 74,
+        "count": 48,
         "names": [
           {
-            "name": "kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/?author=2479"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          },
+          {
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       },
       "answered": {
-        "count": 234,
+        "count": 239,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 357,
+        "count": 184,
         "names": [
           {
-            "name": "geq0",
-            "url": "https://puzsq.logicpuzzle.app/?author=1501"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       }
