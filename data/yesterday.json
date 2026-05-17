@@ -1,54 +1,54 @@
 {
-  "day": "2026年5月16日",
+  "day": "2026年5月17日",
   "total": {
-    "problem": 62,
-    "favorite": 1170,
-    "answered": 5695
+    "problem": 37,
+    "favorite": 1053,
+    "answered": 5426
   },
   "count": {
     "favorite": {
-      "problem": 796,
-      "author": 215
+      "problem": 773,
+      "author": 198
     },
     "answered": {
-      "problem": 3361,
-      "author": 380,
-      "solver": 417
+      "problem": 3573,
+      "author": 409,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by chip",
-            "url": "https://puzsq.logicpuzzle.app/share/172593"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/172590"
           }
         ]
       },
       "answered": {
-        "count": 61,
+        "count": 84,
         "names": [
           {
-            "name": "美術館 by hola",
-            "url": "https://puzsq.logicpuzzle.app/share/172638"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/172590"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 94,
+        "count": 60,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 471,
+        "count": 437,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 162,
+        "count": 261,
         "names": [
           {
             "name": "Monica.",
