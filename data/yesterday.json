@@ -1,69 +1,65 @@
 {
-  "day": "2026年6月3日",
+  "day": "2026年6月4日",
   "total": {
-    "problem": 62,
-    "favorite": 1277,
-    "answered": 6673
+    "problem": 41,
+    "favorite": 1421,
+    "answered": 6432
   },
   "count": {
     "favorite": {
-      "problem": 773,
-      "author": 190
+      "problem": 902,
+      "author": 208
     },
     "answered": {
-      "problem": 3726,
-      "author": 401,
-      "solver": 424
+      "problem": 3798,
+      "author": 396,
+      "solver": 439
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 21,
         "names": [
           {
-            "name": "ヤジリン by lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/share/173325"
-          },
-          {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/173232"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/173207"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 88,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/173232"
+            "name": "美術館 by た",
+            "url": "https://puzsq.logicpuzzle.app/share/173383"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 205,
+        "count": 62,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 804,
+        "count": 338,
         "names": [
           {
-            "name": "lemononmars",
-            "url": "https://puzsq.logicpuzzle.app/?author=2756"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 330,
+        "count": 407,
         "names": [
           {
             "name": "AlfoFish",
