@@ -1,54 +1,58 @@
 {
-  "day": "2026年6月9日",
+  "day": "2026年6月12日",
   "total": {
-    "problem": 27,
-    "favorite": 1056,
-    "answered": 6091
+    "problem": 42,
+    "favorite": 1515,
+    "answered": 6660
   },
   "count": {
     "favorite": {
-      "problem": 713,
-      "author": 206
+      "problem": 1140,
+      "author": 242
     },
     "answered": {
-      "problem": 3853,
-      "author": 418,
-      "solver": 435
+      "problem": 4183,
+      "author": 416,
+      "solver": 442
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 20,
         "names": [
           {
-            "name": "チョコバナナ by Ph8Ma",
-            "url": "https://puzsq.logicpuzzle.app/share/173507"
+            "name": "へやわけ by 畠入",
+            "url": "https://puzsq.logicpuzzle.app/share/173648"
+          },
+          {
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/173676"
           }
         ]
       },
       "answered": {
-        "count": 101,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by youtoon",
-            "url": "https://puzsq.logicpuzzle.app/share/173552"
+            "name": "美術館 by 畠入",
+            "url": "https://puzsq.logicpuzzle.app/share/173649"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 73,
+        "count": 85,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 396,
+        "count": 436,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 220,
+        "count": 267,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "marek stefanik",
+            "url": "https://puzsq.logicpuzzle.app/?author=5000"
           }
         ]
       }
