@@ -1,73 +1,69 @@
 {
-  "day": "2026年6月17日",
+  "day": "2026年6月18日",
   "total": {
-    "problem": 71,
-    "favorite": 1089,
-    "answered": 5996
+    "problem": 41,
+    "favorite": 1295,
+    "answered": 6151
   },
   "count": {
     "favorite": {
-      "problem": 700,
-      "author": 204
+      "problem": 820,
+      "author": 229
     },
     "answered": {
-      "problem": 3708,
-      "author": 423,
-      "solver": 444
+      "problem": 3488,
+      "author": 419,
+      "solver": 456
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 17,
+        "count": 47,
         "names": [
           {
-            "name": "美術館 by た",
-            "url": "https://puzsq.logicpuzzle.app/share/173908"
-          },
-          {
-            "name": "ヤジリン by Parfait",
-            "url": "https://puzsq.logicpuzzle.app/share/173916"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/173983"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 108,
         "names": [
           {
-            "name": "ヤジリン by Parfait",
-            "url": "https://puzsq.logicpuzzle.app/share/173916"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/173983"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 56,
+        "count": 98,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       },
       "answered": {
-        "count": 250,
+        "count": 523,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 414,
+        "count": 153,
         "names": [
           {
-            "name": "teraplus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4930"
+            "name": "nh!y",
+            "url": "https://puzsq.logicpuzzle.app/?author=4645"
           }
         ]
       }
