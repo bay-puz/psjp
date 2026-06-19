@@ -1,65 +1,69 @@
 {
-  "day": "2026年6月18日",
+  "day": "2026年6月19日",
   "total": {
-    "problem": 41,
-    "favorite": 1295,
-    "answered": 6151
+    "problem": 30,
+    "favorite": 1096,
+    "answered": 5577
   },
   "count": {
     "favorite": {
-      "problem": 820,
-      "author": 229
+      "problem": 770,
+      "author": 202
     },
     "answered": {
-      "problem": 3488,
-      "author": 419,
-      "solver": 456
+      "problem": 3421,
+      "author": 403,
+      "solver": 452
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 47,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/173983"
+            "name": "美術館 by た",
+            "url": "https://puzsq.logicpuzzle.app/share/174017"
+          },
+          {
+            "name": "へやわけ by DesolateDomain",
+            "url": "https://puzsq.logicpuzzle.app/share/174018"
           }
         ]
       },
       "answered": {
-        "count": 108,
+        "count": 81,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/173983"
+            "name": "へやわけ by DesolateDomain",
+            "url": "https://puzsq.logicpuzzle.app/share/174018"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 98,
+        "count": 70,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       },
       "answered": {
-        "count": 523,
+        "count": 275,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 153,
+        "count": 223,
         "names": [
           {
             "name": "nh!y",
