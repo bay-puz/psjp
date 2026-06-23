@@ -1,58 +1,54 @@
 {
-  "day": "2026年6月22日",
+  "day": "2026年6月23日",
   "total": {
-    "problem": 52,
-    "favorite": 1079,
-    "answered": 5874
+    "problem": 46,
+    "favorite": 1108,
+    "answered": 5154
   },
   "count": {
     "favorite": {
-      "problem": 713,
-      "author": 186
+      "problem": 806,
+      "author": 189
     },
     "answered": {
-      "problem": 3539,
-      "author": 380,
+      "problem": 3106,
+      "author": 371,
       "solver": 428
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/174080"
+            "name": "∀人∃ＨＥＹＡ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/174196"
           }
         ]
       },
       "answered": {
-        "count": 97,
+        "count": 71,
         "names": [
           {
-            "name": "美術館 by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/174080"
+            "name": "∀人∃ＨＥＹＡ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/174196"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 62,
+        "count": 151,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
-          },
-          {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 289,
+        "count": 454,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 209,
+        "count": 164,
         "names": [
           {
-            "name": "teraplus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4930"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       }
