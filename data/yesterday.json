@@ -1,54 +1,54 @@
 {
-  "day": "2026年7月4日",
+  "day": "2026年7月5日",
   "total": {
-    "problem": 46,
-    "favorite": 942,
-    "answered": 4994
+    "problem": 51,
+    "favorite": 1099,
+    "answered": 5728
   },
   "count": {
     "favorite": {
-      "problem": 647,
-      "author": 194
+      "problem": 703,
+      "author": 193
     },
     "answered": {
-      "problem": 2941,
-      "author": 378,
-      "solver": 400
+      "problem": 3425,
+      "author": 395,
+      "solver": 389
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 28,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/174432"
+            "name": "へやわけ by mrsdot",
+            "url": "https://puzsq.logicpuzzle.app/share/174836"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 58,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/174432"
+            "name": "ヤジリン by 白砂",
+            "url": "https://puzsq.logicpuzzle.app/share/174839"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 67,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 342,
+        "count": 413,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 157,
         "names": [
           {
-            "name": "EKBM",
-            "url": "https://puzsq.logicpuzzle.app/?author=211"
+            "name": "bou",
+            "url": "https://puzsq.logicpuzzle.app/?author=5689"
           }
         ]
       }
