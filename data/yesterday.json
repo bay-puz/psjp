@@ -1,69 +1,73 @@
 {
-  "day": "2026年7月8日",
+  "day": "2026年7月9日",
   "total": {
-    "problem": 44,
-    "favorite": 972,
-    "answered": 5537
+    "problem": 32,
+    "favorite": 1091,
+    "answered": 5189
   },
   "count": {
     "favorite": {
-      "problem": 635,
-      "author": 169
+      "problem": 703,
+      "author": 190
     },
     "answered": {
-      "problem": 3623,
-      "author": 412,
-      "solver": 410
+      "problem": 3199,
+      "author": 376,
+      "solver": 404
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 22,
+        "count": 27,
         "names": [
           {
-            "name": "ヤジリン by off",
-            "url": "https://puzsq.logicpuzzle.app/share/174955"
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/174802"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by off",
-            "url": "https://puzsq.logicpuzzle.app/share/174955"
+            "name": "ヤジリン by HATTA2.0",
+            "url": "https://puzsq.logicpuzzle.app/share/174985"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 41,
+        "count": 72,
         "names": [
           {
-            "name": "白砂",
-            "url": "https://puzsq.logicpuzzle.app/?author=5683"
+            "name": "USBe",
+            "url": "https://puzsq.logicpuzzle.app/?author=43"
           }
         ]
       },
       "answered": {
-        "count": 252,
+        "count": 206,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "HATTA2.0",
+            "url": "https://puzsq.logicpuzzle.app/?author=5572"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 223,
+        "count": 109,
         "names": [
           {
-            "name": "bou",
-            "url": "https://puzsq.logicpuzzle.app/?author=5689"
+            "name": "チィノ",
+            "url": "https://puzsq.logicpuzzle.app/?author=821"
+          },
+          {
+            "name": "はる",
+            "url": "https://puzsq.logicpuzzle.app/?author=699"
           }
         ]
       }
