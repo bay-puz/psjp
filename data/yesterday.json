@@ -1,29 +1,29 @@
 {
-  "day": "2026年7月9日",
+  "day": "2026年7月10日",
   "total": {
-    "problem": 32,
-    "favorite": 1091,
-    "answered": 5189
+    "problem": 33,
+    "favorite": 978,
+    "answered": 5254
   },
   "count": {
     "favorite": {
-      "problem": 703,
-      "author": 190
+      "problem": 669,
+      "author": 186
     },
     "answered": {
-      "problem": 3199,
-      "author": 376,
-      "solver": 404
+      "problem": 3304,
+      "author": 389,
+      "solver": 419
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 18,
         "names": [
           {
-            "name": "ましゅ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/174802"
+            "name": "ノースリー by ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/share/175000"
           }
         ]
       },
@@ -31,43 +31,43 @@
         "count": 85,
         "names": [
           {
-            "name": "ヤジリン by HATTA2.0",
-            "url": "https://puzsq.logicpuzzle.app/share/174985"
+            "name": "美術館 by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/174809"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 72,
+        "count": 45,
         "names": [
           {
-            "name": "USBe",
-            "url": "https://puzsq.logicpuzzle.app/?author=43"
+            "name": "ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+          },
+          {
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       },
       "answered": {
-        "count": 206,
+        "count": 236,
         "names": [
           {
-            "name": "HATTA2.0",
-            "url": "https://puzsq.logicpuzzle.app/?author=5572"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 109,
+        "count": 156,
         "names": [
           {
-            "name": "チィノ",
-            "url": "https://puzsq.logicpuzzle.app/?author=821"
-          },
-          {
-            "name": "はる",
-            "url": "https://puzsq.logicpuzzle.app/?author=699"
+            "name": "bou",
+            "url": "https://puzsq.logicpuzzle.app/?author=5689"
           }
         ]
       }
