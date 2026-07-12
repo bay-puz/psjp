@@ -1,49 +1,45 @@
 {
-  "day": "2026年7月11日",
+  "day": "2026年7月12日",
   "total": {
-    "problem": 43,
-    "favorite": 802,
-    "answered": 5315
+    "problem": 41,
+    "favorite": 935,
+    "answered": 5172
   },
   "count": {
     "favorite": {
-      "problem": 516,
-      "author": 166
+      "problem": 627,
+      "author": 185
     },
     "answered": {
-      "problem": 3276,
-      "author": 411,
-      "solver": 373
+      "problem": 3167,
+      "author": 382,
+      "solver": 400
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 16,
         "names": [
           {
-            "name": "へやわけ by arsenic",
-            "url": "https://puzsq.logicpuzzle.app/share/175057"
+            "name": "ヤジリン by 祭日",
+            "url": "https://puzsq.logicpuzzle.app/share/175092"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 66,
         "names": [
           {
-            "name": "美術館 by youtoon",
-            "url": "https://puzsq.logicpuzzle.app/share/175031"
-          },
-          {
-            "name": "ヤジリン by KalevTait",
-            "url": "https://puzsq.logicpuzzle.app/share/175039"
+            "name": "美術館 by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/174810"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 85,
         "names": [
           {
             "name": "KalevTait",
@@ -52,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 426,
+        "count": 501,
         "names": [
           {
             "name": "KalevTait",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 246,
+        "count": 120,
         "names": [
           {
-            "name": "ミカン小僧",
-            "url": "https://puzsq.logicpuzzle.app/?author=5021"
+            "name": "磁石",
+            "url": "https://puzsq.logicpuzzle.app/?author=5543"
           }
         ]
       }
