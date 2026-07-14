@@ -1,38 +1,38 @@
 {
-  "day": "2026年7月13日",
+  "day": "2026年7月14日",
   "total": {
-    "problem": 37,
-    "favorite": 976,
-    "answered": 5505
+    "problem": 48,
+    "favorite": 1141,
+    "answered": 5900
   },
   "count": {
     "favorite": {
-      "problem": 681,
-      "author": 206
+      "problem": 682,
+      "author": 198
     },
     "answered": {
-      "problem": 3189,
-      "author": 409,
-      "solver": 423
+      "problem": 3344,
+      "author": 407,
+      "solver": 432
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 31,
         "names": [
           {
-            "name": "美術館 by た",
-            "url": "https://puzsq.logicpuzzle.app/share/175128"
+            "name": "へやわけ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/175154"
           }
         ]
       },
       "answered": {
-        "count": 75,
+        "count": 105,
         "names": [
           {
-            "name": "美術館 by た",
-            "url": "https://puzsq.logicpuzzle.app/share/175128"
+            "name": "へやわけ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/175154"
           }
         ]
       }
@@ -42,28 +42,28 @@
         "count": 62,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 291,
+        "count": 360,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 116,
+        "count": 142,
         "names": [
           {
-            "name": "はなだけん",
-            "url": "https://puzsq.logicpuzzle.app/?author=5111"
+            "name": "ミカン小僧",
+            "url": "https://puzsq.logicpuzzle.app/?author=5021"
           }
         ]
       }
