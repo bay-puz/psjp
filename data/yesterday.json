@@ -1,69 +1,69 @@
 {
-  "day": "2026年7月15日",
+  "day": "2026年7月16日",
   "total": {
-    "problem": 45,
-    "favorite": 919,
-    "answered": 5898
+    "problem": 47,
+    "favorite": 929,
+    "answered": 5542
   },
   "count": {
     "favorite": {
-      "problem": 601,
-      "author": 189
+      "problem": 594,
+      "author": 183
     },
     "answered": {
-      "problem": 3650,
-      "author": 413,
-      "solver": 435
+      "problem": 3408,
+      "author": 402,
+      "solver": 434
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 21,
         "names": [
           {
-            "name": "チョコバナナ by Menderbug ",
-            "url": "https://puzsq.logicpuzzle.app/share/175200"
+            "name": "LITS by だくら",
+            "url": "https://puzsq.logicpuzzle.app/share/175251"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 89,
         "names": [
           {
-            "name": "チョコバナナ by Menderbug ",
-            "url": "https://puzsq.logicpuzzle.app/share/175200"
+            "name": "ヤジリン by まんぼぉぉぉ",
+            "url": "https://puzsq.logicpuzzle.app/share/175248"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 53,
+        "count": 60,
+        "names": [
+          {
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
+          }
+        ]
+      },
+      "answered": {
+        "count": 259,
         "names": [
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
-      },
-      "answered": {
-        "count": 318,
-        "names": [
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          }
-        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 105,
         "names": [
           {
-            "name": "bou",
-            "url": "https://puzsq.logicpuzzle.app/?author=5689"
+            "name": "marmer",
+            "url": "https://puzsq.logicpuzzle.app/?author=3173"
           }
         ]
       }
