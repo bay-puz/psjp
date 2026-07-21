@@ -1,19 +1,19 @@
 {
-  "day": "2026年7月20日",
+  "day": "2026年7月21日",
   "total": {
-    "problem": 39,
-    "favorite": 1332,
-    "answered": 6283
+    "problem": 31,
+    "favorite": 1167,
+    "answered": 5616
   },
   "count": {
     "favorite": {
-      "problem": 972,
-      "author": 225
+      "problem": 833,
+      "author": 214
     },
     "answered": {
-      "problem": 3947,
-      "author": 418,
-      "solver": 421
+      "problem": 3386,
+      "author": 396,
+      "solver": 440
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 29,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/175426"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/175479"
           }
         ]
       },
       "answered": {
-        "count": 90,
+        "count": 104,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/175426"
+            "name": "へやわけ by Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/share/175479"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 64,
+        "count": 87,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 324,
+        "count": 323,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Yu-ri",
+            "url": "https://puzsq.logicpuzzle.app/?author=2638"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 344,
+        "count": 404,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "真",
+            "url": "https://puzsq.logicpuzzle.app/?author=1025"
           }
         ]
       }
