@@ -1,45 +1,45 @@
 {
-  "day": "2026年7月21日",
+  "day": "2026年7月22日",
   "total": {
-    "problem": 31,
-    "favorite": 1167,
-    "answered": 5616
+    "problem": 35,
+    "favorite": 1048,
+    "answered": 5190
   },
   "count": {
     "favorite": {
-      "problem": 833,
-      "author": 214
+      "problem": 785,
+      "author": 188
     },
     "answered": {
-      "problem": 3386,
-      "author": 396,
-      "solver": 440
+      "problem": 3504,
+      "author": 403,
+      "solver": 407
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 29,
+        "count": 19,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/175479"
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/175534"
           }
         ]
       },
       "answered": {
-        "count": 104,
+        "count": 84,
         "names": [
           {
-            "name": "へやわけ by Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/share/175479"
+            "name": "美術館 by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/175528"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 87,
+        "count": 103,
         "names": [
           {
             "name": "K.N.Y.",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 323,
+        "count": 211,
         "names": [
           {
-            "name": "Yu-ri",
-            "url": "https://puzsq.logicpuzzle.app/?author=2638"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 404,
+        "count": 174,
         "names": [
           {
-            "name": "真",
-            "url": "https://puzsq.logicpuzzle.app/?author=1025"
+            "name": "marmer",
+            "url": "https://puzsq.logicpuzzle.app/?author=3173"
           }
         ]
       }
