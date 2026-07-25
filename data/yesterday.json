@@ -1,69 +1,69 @@
 {
-  "day": "2026年7月24日",
+  "day": "2026年7月25日",
   "total": {
-    "problem": 32,
-    "favorite": 1135,
-    "answered": 4824
+    "problem": 39,
+    "favorite": 883,
+    "answered": 4693
   },
   "count": {
     "favorite": {
-      "problem": 770,
-      "author": 214
+      "problem": 586,
+      "author": 151
     },
     "answered": {
-      "problem": 2948,
-      "author": 401,
-      "solver": 409
+      "problem": 2921,
+      "author": 372,
+      "solver": 366
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 22,
         "names": [
           {
-            "name": "ヤジリン by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/175572"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/175620"
           }
         ]
       },
       "answered": {
-        "count": 108,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by もや / moyami",
-            "url": "https://puzsq.logicpuzzle.app/share/175572"
+            "name": "ヤジリン by repy",
+            "url": "https://puzsq.logicpuzzle.app/share/175620"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 81,
+        "count": 68,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 309,
+        "count": 303,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 282,
+        "count": 179,
         "names": [
           {
-            "name": "mahyadchan",
-            "url": "https://puzsq.logicpuzzle.app/?author=5551"
+            "name": "ロべ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4522"
           }
         ]
       }
