@@ -1,54 +1,58 @@
 {
-  "day": "2026年7月30日",
+  "day": "2026年7月31日",
   "total": {
-    "problem": 49,
-    "favorite": 1001,
-    "answered": 5641
+    "problem": 58,
+    "favorite": 981,
+    "answered": 5471
   },
   "count": {
     "favorite": {
-      "problem": 658,
-      "author": 196
+      "problem": 661,
+      "author": 200
     },
     "answered": {
-      "problem": 3494,
-      "author": 400,
-      "solver": 412
+      "problem": 3466,
+      "author": 405,
+      "solver": 409
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 21,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/175733"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/175763"
+          },
+          {
+            "name": "へやわけ by nattien",
+            "url": "https://puzsq.logicpuzzle.app/share/175874"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 77,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/175810"
+            "name": "美術館 by mrsdot",
+            "url": "https://puzsq.logicpuzzle.app/share/175862"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 79,
+        "count": 58,
         "names": [
           {
-            "name": "/AZURE",
-            "url": "https://puzsq.logicpuzzle.app/?author=4116"
+            "name": "落葉子",
+            "url": "https://puzsq.logicpuzzle.app/?author=1536"
           }
         ]
       },
       "answered": {
-        "count": 299,
+        "count": 329,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 177,
+        "count": 184,
         "names": [
           {
-            "name": "真",
-            "url": "https://puzsq.logicpuzzle.app/?author=1025"
+            "name": "chihi311",
+            "url": "https://puzsq.logicpuzzle.app/?author=4387"
           }
         ]
       }
