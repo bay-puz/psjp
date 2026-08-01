@@ -1,58 +1,54 @@
 {
-  "day": "2026年7月31日",
+  "day": "2026年8月1日",
   "total": {
-    "problem": 58,
-    "favorite": 981,
-    "answered": 5471
+    "problem": 44,
+    "favorite": 903,
+    "answered": 5303
   },
   "count": {
     "favorite": {
-      "problem": 661,
-      "author": 200
+      "problem": 601,
+      "author": 178
     },
     "answered": {
-      "problem": 3466,
-      "author": 405,
-      "solver": 409
+      "problem": 3230,
+      "author": 376,
+      "solver": 390
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 17,
         "names": [
           {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/175763"
-          },
-          {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/175874"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/175877"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 74,
         "names": [
           {
-            "name": "美術館 by mrsdot",
-            "url": "https://puzsq.logicpuzzle.app/share/175862"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/175877"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 61,
         "names": [
           {
-            "name": "落葉子",
-            "url": "https://puzsq.logicpuzzle.app/?author=1536"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 329,
+        "count": 323,
         "names": [
           {
             "name": "anurag",
@@ -63,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 184,
+        "count": 136,
         "names": [
           {
-            "name": "chihi311",
-            "url": "https://puzsq.logicpuzzle.app/?author=4387"
+            "name": "もり",
+            "url": "https://puzsq.logicpuzzle.app/?author=663"
           }
         ]
       }
