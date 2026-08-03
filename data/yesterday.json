@@ -1,19 +1,19 @@
 {
-  "day": "2026年8月2日",
+  "day": "2026年8月3日",
   "total": {
-    "problem": 44,
-    "favorite": 1433,
-    "answered": 6071
+    "problem": 35,
+    "favorite": 972,
+    "answered": 5280
   },
   "count": {
     "favorite": {
-      "problem": 1078,
-      "author": 216
+      "problem": 600,
+      "author": 185
     },
     "answered": {
-      "problem": 3829,
-      "author": 400,
-      "solver": 392
+      "problem": 3163,
+      "author": 392,
+      "solver": 378
     }
   },
   "top": {
@@ -22,33 +22,33 @@
         "count": 18,
         "names": [
           {
-            "name": "へやわけ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/175937"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/175983"
           }
         ]
       },
       "answered": {
-        "count": 74,
+        "count": 71,
         "names": [
           {
-            "name": "美術館 by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/175962"
+            "name": "ぬりかべ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/175777"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 67,
+        "count": 45,
         "names": [
           {
-            "name": "CW-MV",
-            "url": "https://puzsq.logicpuzzle.app/?author=2633"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 349,
+        "count": 291,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +59,7 @@
     },
     "solver": {
       "answered": {
-        "count": 186,
+        "count": 187,
         "names": [
           {
             "name": "teraplus",
