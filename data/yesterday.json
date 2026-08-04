@@ -1,45 +1,45 @@
 {
-  "day": "2026年8月3日",
+  "day": "2026年8月4日",
   "total": {
-    "problem": 35,
-    "favorite": 972,
-    "answered": 5280
+    "problem": 44,
+    "favorite": 1065,
+    "answered": 5474
   },
   "count": {
     "favorite": {
-      "problem": 600,
-      "author": 185
+      "problem": 727,
+      "author": 204
     },
     "answered": {
-      "problem": 3163,
-      "author": 392,
-      "solver": 378
+      "problem": 3402,
+      "author": 409,
+      "solver": 400
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 18,
+        "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/175983"
+            "name": "ヤジリン by 祭日",
+            "url": "https://puzsq.logicpuzzle.app/share/176018"
           }
         ]
       },
       "answered": {
-        "count": 71,
+        "count": 77,
         "names": [
           {
-            "name": "ぬりかべ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/175777"
+            "name": "ヤジリン by 祭日",
+            "url": "https://puzsq.logicpuzzle.app/share/176018"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 45,
+        "count": 52,
         "names": [
           {
             "name": "鷹野リン",
@@ -59,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 187,
+        "count": 317,
         "names": [
           {
-            "name": "teraplus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4930"
+            "name": "tetoto",
+            "url": "https://puzsq.logicpuzzle.app/?author=5175"
           }
         ]
       }
