@@ -1,19 +1,19 @@
 {
-  "day": "2026年8月4日",
+  "day": "2026年8月5日",
   "total": {
-    "problem": 44,
-    "favorite": 1065,
-    "answered": 5474
+    "problem": 34,
+    "favorite": 1057,
+    "answered": 4989
   },
   "count": {
     "favorite": {
-      "problem": 727,
-      "author": 204
+      "problem": 763,
+      "author": 193
     },
     "answered": {
-      "problem": 3402,
-      "author": 409,
-      "solver": 400
+      "problem": 3102,
+      "author": 392,
+      "solver": 405
     }
   },
   "top": {
@@ -22,48 +22,48 @@
         "count": 20,
         "names": [
           {
-            "name": "ヤジリン by 祭日",
-            "url": "https://puzsq.logicpuzzle.app/share/176018"
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/176078"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 80,
         "names": [
           {
-            "name": "ヤジリン by 祭日",
-            "url": "https://puzsq.logicpuzzle.app/share/176018"
+            "name": "美術館 by た",
+            "url": "https://puzsq.logicpuzzle.app/share/176063"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 52,
+        "count": 68,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       },
       "answered": {
-        "count": 291,
+        "count": 288,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/?author=1247"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 317,
+        "count": 196,
         "names": [
           {
-            "name": "tetoto",
-            "url": "https://puzsq.logicpuzzle.app/?author=5175"
+            "name": "単一",
+            "url": "https://puzsq.logicpuzzle.app/?author=3432"
           }
         ]
       }
