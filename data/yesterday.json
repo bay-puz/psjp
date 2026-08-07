@@ -1,65 +1,65 @@
 {
-  "day": "2026年8月5日",
+  "day": "2026年8月7日",
   "total": {
-    "problem": 34,
+    "problem": 42,
     "favorite": 1057,
-    "answered": 4989
+    "answered": 5583
   },
   "count": {
     "favorite": {
-      "problem": 763,
-      "author": 193
+      "problem": 736,
+      "author": 217
     },
     "answered": {
-      "problem": 3102,
-      "author": 392,
-      "solver": 405
+      "problem": 3771,
+      "author": 405,
+      "solver": 390
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/176078"
+            "name": "ダブルチョコ by Euex",
+            "url": "https://puzsq.logicpuzzle.app/share/176150"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 68,
         "names": [
           {
-            "name": "美術館 by た",
-            "url": "https://puzsq.logicpuzzle.app/share/176063"
+            "name": "美術館 by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/175967"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 63,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 288,
+        "count": 319,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 196,
+        "count": 432,
         "names": [
           {
             "name": "単一",

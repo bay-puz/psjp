@@ -592,7 +592,7 @@
   "123": {
     "name": "Statue Park",
     "name_e": "Statue Park",
-    "category": 3
+    "category": 4
   },
   "124": {
     "name": "バーンズ",
@@ -1017,7 +1017,7 @@
   "209": {
     "name": "Pentopia",
     "name_e": "Pentopia",
-    "category": 3
+    "category": 4
   },
   "210": {
     "name": "カッケー",
@@ -2942,7 +2942,7 @@
   "699": {
     "name": "Penta Touch",
     "name_e": "Penta Touch",
-    "category": 3
+    "category": 4
   },
   "700": {
     "name": "数字箱・改",
@@ -3092,7 +3092,7 @@
   "729": {
     "name": "Kissing Polyominoes",
     "name_e": "Kissing Polyominoes",
-    "category": 3
+    "category": 4
   },
   "730": {
     "name": "",
@@ -4792,7 +4792,7 @@
   "1080": {
     "name": "",
     "name_e": "Distopia",
-    "category": 3
+    "category": 4
   },
   "1081": {
     "name": "",
@@ -5238,6 +5238,11 @@
     "name": "えるりんぐ",
     "name_e": "L-Ring",
     "category": 2
+  },
+  "1172": {
+    "name": "",
+    "name_e": "Row-perations",
+    "category": 1
   },
   "-2": {
     "name": "Instructionless",
