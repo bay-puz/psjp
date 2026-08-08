@@ -1,69 +1,69 @@
 {
-  "day": "2026年8月7日",
+  "day": "2026年8月8日",
   "total": {
-    "problem": 42,
-    "favorite": 1057,
-    "answered": 5583
+    "problem": 27,
+    "favorite": 701,
+    "answered": 4817
   },
   "count": {
     "favorite": {
-      "problem": 736,
-      "author": 217
+      "problem": 435,
+      "author": 158
     },
     "answered": {
-      "problem": 3771,
-      "author": 405,
-      "solver": 390
+      "problem": 2988,
+      "author": 384,
+      "solver": 391
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 25,
         "names": [
           {
-            "name": "ダブルチョコ by Euex",
-            "url": "https://puzsq.logicpuzzle.app/share/176150"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/176171"
           }
         ]
       },
       "answered": {
-        "count": 68,
+        "count": 85,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/175967"
+            "name": "へやわけ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/176091"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 63,
+        "count": 54,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 319,
+        "count": 221,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 432,
+        "count": 188,
         "names": [
           {
-            "name": "単一",
-            "url": "https://puzsq.logicpuzzle.app/?author=3432"
+            "name": "teraplus",
+            "url": "https://puzsq.logicpuzzle.app/?author=4930"
           }
         ]
       }
