@@ -1,69 +1,77 @@
 {
-  "day": "2026年8月8日",
+  "day": "2026年8月9日",
   "total": {
-    "problem": 27,
-    "favorite": 701,
-    "answered": 4817
+    "problem": 46,
+    "favorite": 926,
+    "answered": 5718
   },
   "count": {
     "favorite": {
-      "problem": 435,
-      "author": 158
+      "problem": 554,
+      "author": 173
     },
     "answered": {
-      "problem": 2988,
-      "author": 384,
-      "solver": 391
+      "problem": 3661,
+      "author": 410,
+      "solver": 383
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 21,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/176171"
+            "name": "美術館 by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/175968"
+          },
+          {
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/176191"
+          },
+          {
+            "name": "へやわけ by ミール",
+            "url": "https://puzsq.logicpuzzle.app/share/176207"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 82,
         "names": [
           {
-            "name": "へやわけ by たろさ",
-            "url": "https://puzsq.logicpuzzle.app/share/176091"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/176191"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 54,
+        "count": 53,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 221,
+        "count": 350,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 188,
+        "count": 342,
         "names": [
           {
-            "name": "teraplus",
-            "url": "https://puzsq.logicpuzzle.app/?author=4930"
+            "name": "桃花",
+            "url": "https://puzsq.logicpuzzle.app/?author=955"
           }
         ]
       }
