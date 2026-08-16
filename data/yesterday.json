@@ -1,45 +1,45 @@
 {
-  "day": "2026年8月15日",
+  "day": "2026年8月16日",
   "total": {
-    "problem": 37,
-    "favorite": 1096,
-    "answered": 5687
+    "problem": 39,
+    "favorite": 1042,
+    "answered": 5651
   },
   "count": {
     "favorite": {
-      "problem": 729,
-      "author": 207
+      "problem": 704,
+      "author": 202
     },
     "answered": {
-      "problem": 3407,
-      "author": 394,
-      "solver": 385
+      "problem": 3536,
+      "author": 404,
+      "solver": 412
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 32,
+        "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/176482"
+            "name": "美術館 by ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/share/176549"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 78,
         "names": [
           {
-            "name": "ヤジリン by Y-Y",
-            "url": "https://puzsq.logicpuzzle.app/share/176499"
+            "name": "美術館 by ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/share/176549"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 63,
+        "count": 70,
         "names": [
           {
             "name": "鷹野リン",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 252,
+        "count": 239,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 243,
+        "count": 163,
         "names": [
           {
-            "name": "haruri0325",
-            "url": "https://puzsq.logicpuzzle.app/?author=5806"
+            "name": "rongminshan",
+            "url": "https://puzsq.logicpuzzle.app/?author=5133"
           }
         ]
       }
