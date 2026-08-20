@@ -1,29 +1,29 @@
 {
-  "day": "2026年8月18日",
+  "day": "2026年8月20日",
   "total": {
-    "problem": 34,
-    "favorite": 1089,
-    "answered": 5593
+    "problem": 51,
+    "favorite": 1130,
+    "answered": 6065
   },
   "count": {
     "favorite": {
-      "problem": 762,
-      "author": 207
+      "problem": 673,
+      "author": 195
     },
     "answered": {
-      "problem": 3243,
-      "author": 394,
-      "solver": 449
+      "problem": 3365,
+      "author": 432,
+      "solver": 445
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 22,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/176598"
+            "name": "LITS by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/176336"
           }
         ]
       },
@@ -31,39 +31,39 @@
         "count": 82,
         "names": [
           {
-            "name": "∀人∃ＨＥＹＡ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/176598"
+            "name": "LITS by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/176336"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 92,
+        "count": 52,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "ぴくちゃ",
+            "url": "https://puzsq.logicpuzzle.app/?author=2900"
           }
         ]
       },
       "answered": {
-        "count": 319,
+        "count": 279,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 109,
+        "count": 217,
         "names": [
           {
-            "name": "bou",
-            "url": "https://puzsq.logicpuzzle.app/?author=5689"
+            "name": "msh",
+            "url": "https://puzsq.logicpuzzle.app/?author=3486"
           }
         ]
       }
