@@ -1,29 +1,37 @@
 {
-  "day": "2026年8月27日",
+  "day": "2026年8月28日",
   "total": {
-    "problem": 46,
-    "favorite": 1243,
-    "answered": 5466
+    "problem": 35,
+    "favorite": 1339,
+    "answered": 6041
   },
   "count": {
     "favorite": {
-      "problem": 800,
-      "author": 226
+      "problem": 872,
+      "author": 236
     },
     "answered": {
-      "problem": 3113,
-      "author": 399,
-      "solver": 427
+      "problem": 3401,
+      "author": 414,
+      "solver": 440
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 24,
+        "count": 23,
         "names": [
           {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/176965"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/177005"
+          },
+          {
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/177010"
+          },
+          {
+            "name": "へやわけ by みんにょこ",
+            "url": "https://puzsq.logicpuzzle.app/share/177023"
           }
         ]
       },
@@ -31,24 +39,24 @@
         "count": 86,
         "names": [
           {
-            "name": "へやわけ by ロべ",
-            "url": "https://puzsq.logicpuzzle.app/share/176965"
+            "name": "美術館 by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/176991"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 60,
+        "count": 82,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 320,
+        "count": 332,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 143,
+        "count": 137,
         "names": [
           {
-            "name": "ミカン小僧",
-            "url": "https://puzsq.logicpuzzle.app/?author=5021"
+            "name": "puratoku",
+            "url": "https://puzsq.logicpuzzle.app/?author=1383"
           }
         ]
       }
