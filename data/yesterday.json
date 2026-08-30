@@ -1,73 +1,69 @@
 {
-  "day": "2026年8月29日",
+  "day": "2026年8月30日",
   "total": {
-    "problem": 25,
-    "favorite": 1113,
-    "answered": 5683
+    "problem": 32,
+    "favorite": 946,
+    "answered": 4923
   },
   "count": {
     "favorite": {
-      "problem": 798,
-      "author": 236
+      "problem": 593,
+      "author": 178
     },
     "answered": {
-      "problem": 3414,
-      "author": 397,
-      "solver": 411
+      "problem": 2908,
+      "author": 380,
+      "solver": 414
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 28,
+        "count": 25,
         "names": [
           {
-            "name": "へやわけ by はにぃ",
-            "url": "https://puzsq.logicpuzzle.app/share/177041"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/177075"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 80,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/177044"
-          },
-          {
-            "name": "へやわけ by はにぃ",
-            "url": "https://puzsq.logicpuzzle.app/share/177041"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/177075"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 72,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 271,
+        "count": 231,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 163,
+        "count": 222,
         "names": [
           {
-            "name": "apiad",
-            "url": "https://puzsq.logicpuzzle.app/?author=498"
+            "name": "ミカン小僧",
+            "url": "https://puzsq.logicpuzzle.app/?author=5021"
           }
         ]
       }
