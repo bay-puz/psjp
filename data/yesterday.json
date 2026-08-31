@@ -1,69 +1,69 @@
 {
-  "day": "2026年8月30日",
+  "day": "2026年8月31日",
   "total": {
-    "problem": 32,
-    "favorite": 946,
-    "answered": 4923
+    "problem": 43,
+    "favorite": 1173,
+    "answered": 5794
   },
   "count": {
     "favorite": {
-      "problem": 593,
-      "author": 178
+      "problem": 751,
+      "author": 196
     },
     "answered": {
-      "problem": 2908,
-      "author": 380,
-      "solver": 414
+      "problem": 3468,
+      "author": 399,
+      "solver": 451
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 27,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/177075"
+            "name": "へやわけ by Forti Fyve",
+            "url": "https://puzsq.logicpuzzle.app/share/177116"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 71,
         "names": [
           {
-            "name": "へやわけ by Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/share/177075"
+            "name": "ましゅ by キプラ",
+            "url": "https://puzsq.logicpuzzle.app/share/177099"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 72,
+        "count": 55,
         "names": [
           {
-            "name": "Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=41"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 231,
+        "count": 247,
         "names": [
           {
-            "name": "Y.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=41"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 222,
+        "count": 170,
         "names": [
           {
-            "name": "ミカン小僧",
-            "url": "https://puzsq.logicpuzzle.app/?author=5021"
+            "name": "ベンジャミン",
+            "url": "https://puzsq.logicpuzzle.app/?author=3120"
           }
         ]
       }
