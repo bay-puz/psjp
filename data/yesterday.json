@@ -1,69 +1,73 @@
 {
-  "day": "2026年9月1日",
+  "day": "2026年9月2日",
   "total": {
-    "problem": 47,
-    "favorite": 1259,
-    "answered": 5942
+    "problem": 37,
+    "favorite": 1327,
+    "answered": 5980
   },
   "count": {
     "favorite": {
-      "problem": 758,
-      "author": 218
+      "problem": 976,
+      "author": 234
     },
     "answered": {
-      "problem": 3140,
-      "author": 406,
-      "solver": 468
+      "problem": 3533,
+      "author": 423,
+      "solver": 479
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 28,
         "names": [
           {
-            "name": "へやわけ by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/176966"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/177198"
           }
         ]
       },
       "answered": {
-        "count": 93,
+        "count": 78,
         "names": [
           {
-            "name": "へやわけ by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/176966"
+            "name": "へやわけ by Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/share/177198"
+          },
+          {
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/177104"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 77,
+        "count": 73,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       },
       "answered": {
-        "count": 401,
+        "count": 313,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Y.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=41"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 151,
+        "count": 170,
         "names": [
           {
-            "name": "キノコ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4588"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
