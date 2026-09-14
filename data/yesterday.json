@@ -1,45 +1,45 @@
 {
-  "day": "2026年9月13日",
+  "day": "2026年9月14日",
   "total": {
-    "problem": 65,
-    "favorite": 1164,
-    "answered": 6309
+    "problem": 45,
+    "favorite": 1230,
+    "answered": 6282
   },
   "count": {
     "favorite": {
-      "problem": 849,
-      "author": 214
+      "problem": 726,
+      "author": 216
     },
     "answered": {
-      "problem": 3889,
-      "author": 395,
-      "solver": 427
+      "problem": 3482,
+      "author": 412,
+      "solver": 450
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 19,
+        "count": 20,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/177742"
+            "name": "ヤジリン by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/177741"
           }
         ]
       },
       "answered": {
-        "count": 65,
+        "count": 85,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/177742"
+            "name": "ヤジリン by off",
+            "url": "https://puzsq.logicpuzzle.app/share/177881"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 61,
+        "count": 66,
         "names": [
           {
             "name": "Go",
@@ -48,8 +48,12 @@
         ]
       },
       "answered": {
-        "count": 334,
+        "count": 288,
         "names": [
+          {
+            "name": "Go",
+            "url": "https://puzsq.logicpuzzle.app/?author=5792"
+          },
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 335,
+        "count": 186,
         "names": [
           {
-            "name": "nattien",
-            "url": "https://puzsq.logicpuzzle.app/?author=3612"
+            "name": "selene693",
+            "url": "https://puzsq.logicpuzzle.app/?author=5800"
           }
         ]
       }
