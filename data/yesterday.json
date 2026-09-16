@@ -1,69 +1,65 @@
 {
-  "day": "2026年9月15日",
+  "day": "2026年9月16日",
   "total": {
-    "problem": 56,
-    "favorite": 1184,
-    "answered": 6273
+    "problem": 44,
+    "favorite": 1285,
+    "answered": 6414
   },
   "count": {
     "favorite": {
-      "problem": 728,
-      "author": 203
+      "problem": 831,
+      "author": 233
     },
     "answered": {
-      "problem": 3557,
-      "author": 418,
-      "solver": 447
+      "problem": 3608,
+      "author": 405,
+      "solver": 453
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 24,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/177934"
-          },
-          {
-            "name": "ヤジリン by シャトー",
-            "url": "https://puzsq.logicpuzzle.app/share/177901"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/177975"
           }
         ]
       },
       "answered": {
-        "count": 80,
+        "count": 90,
         "names": [
           {
-            "name": "へやわけ by みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/share/177934"
+            "name": "ヤジリン by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/177908"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
+        "count": 67,
         "names": [
           {
-            "name": "みんにょこ",
-            "url": "https://puzsq.logicpuzzle.app/?author=1247"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 323,
+        "count": 327,
         "names": [
           {
-            "name": "off",
-            "url": "https://puzsq.logicpuzzle.app/?author=5420"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 179,
+        "count": 159,
         "names": [
           {
             "name": "puratoku",
