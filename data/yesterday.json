@@ -1,54 +1,58 @@
 {
-  "day": "2026年9月19日",
+  "day": "2026年9月20日",
   "total": {
-    "problem": 48,
-    "favorite": 1020,
-    "answered": 5107
+    "problem": 43,
+    "favorite": 1187,
+    "answered": 5807
   },
   "count": {
     "favorite": {
-      "problem": 710,
-      "author": 195
+      "problem": 860,
+      "author": 233
     },
     "answered": {
-      "problem": 2996,
-      "author": 373,
-      "solver": 421
+      "problem": 3609,
+      "author": 402,
+      "solver": 418
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by ぬあ",
-            "url": "https://puzsq.logicpuzzle.app/share/178099"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/178138"
           }
         ]
       },
       "answered": {
-        "count": 79,
+        "count": 64,
         "names": [
           {
-            "name": "へやわけ by ぬあ",
-            "url": "https://puzsq.logicpuzzle.app/share/178099"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/178138"
+          },
+          {
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/177971"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 35,
+        "count": 77,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       },
       "answered": {
-        "count": 239,
+        "count": 332,
         "names": [
           {
             "name": "anurag",
@@ -59,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 181,
+        "count": 129,
         "names": [
           {
             "name": "Manitary",
