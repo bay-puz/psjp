@@ -1,73 +1,69 @@
 {
-  "day": "2026年9月20日",
+  "day": "2026年9月21日",
   "total": {
-    "problem": 43,
-    "favorite": 1187,
-    "answered": 5807
+    "problem": 42,
+    "favorite": 1174,
+    "answered": 5459
   },
   "count": {
     "favorite": {
-      "problem": 860,
-      "author": 233
+      "problem": 813,
+      "author": 216
     },
     "answered": {
-      "problem": 3609,
-      "author": 402,
-      "solver": 418
+      "problem": 3244,
+      "author": 410,
+      "solver": 420
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 20,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/178138"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/178163"
           }
         ]
       },
       "answered": {
-        "count": 64,
+        "count": 72,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/178138"
-          },
-          {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/177971"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/178163"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 77,
+        "count": 69,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 332,
+        "count": 237,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 129,
+        "count": 228,
         "names": [
           {
-            "name": "Manitary",
-            "url": "https://puzsq.logicpuzzle.app/?author=5687"
+            "name": "ロべ",
+            "url": "https://puzsq.logicpuzzle.app/?author=4522"
           }
         ]
       }
