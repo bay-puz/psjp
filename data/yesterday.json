@@ -1,69 +1,69 @@
 {
-  "day": "2026年9月21日",
+  "day": "2026年9月22日",
   "total": {
-    "problem": 42,
-    "favorite": 1174,
-    "answered": 5459
+    "problem": 36,
+    "favorite": 1050,
+    "answered": 5479
   },
   "count": {
     "favorite": {
-      "problem": 813,
-      "author": 216
+      "problem": 642,
+      "author": 185
     },
     "answered": {
-      "problem": 3244,
-      "author": 410,
-      "solver": 420
+      "problem": 3193,
+      "author": 408,
+      "solver": 410
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/178163"
+            "name": "へやわけ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/178053"
           }
         ]
       },
       "answered": {
-        "count": 72,
+        "count": 89,
         "names": [
           {
-            "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/178163"
+            "name": "ヤジリン by youtoon",
+            "url": "https://puzsq.logicpuzzle.app/share/178219"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 69,
+        "count": 79,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "youtoon",
+            "url": "https://puzsq.logicpuzzle.app/?author=5355"
           }
         ]
       },
       "answered": {
-        "count": 237,
+        "count": 356,
         "names": [
           {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
+            "name": "youtoon",
+            "url": "https://puzsq.logicpuzzle.app/?author=5355"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 228,
+        "count": 146,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "foolish3",
+            "url": "https://puzsq.logicpuzzle.app/?author=98"
           }
         ]
       }
