@@ -1,65 +1,69 @@
 {
-  "day": "2026年10月11日",
+  "day": "2026年10月12日",
   "total": {
-    "problem": 49,
-    "favorite": 1515,
-    "answered": 6099
+    "problem": 43,
+    "favorite": 1645,
+    "answered": 6601
   },
   "count": {
     "favorite": {
-      "problem": 1158,
-      "author": 249
+      "problem": 1167,
+      "author": 248
     },
     "answered": {
-      "problem": 4056,
-      "author": 414,
-      "solver": 395
+      "problem": 4073,
+      "author": 433,
+      "solver": 401
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 25,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/178891"
+            "name": "へやわけ by ミール",
+            "url": "https://puzsq.logicpuzzle.app/share/178942"
+          },
+          {
+            "name": "ましゅ by hola",
+            "url": "https://puzsq.logicpuzzle.app/share/178951"
           }
         ]
       },
       "answered": {
-        "count": 77,
+        "count": 95,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/178891"
+            "name": "ヤジリン by ほみつき",
+            "url": "https://puzsq.logicpuzzle.app/share/178915"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 80,
+        "count": 199,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "ほみつき",
+            "url": "https://puzsq.logicpuzzle.app/?author=5467"
           }
         ]
       },
       "answered": {
-        "count": 276,
+        "count": 855,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "ほみつき",
+            "url": "https://puzsq.logicpuzzle.app/?author=5467"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 503,
+        "count": 222,
         "names": [
           {
             "name": "AlfoFish",
