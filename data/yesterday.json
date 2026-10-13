@@ -1,19 +1,19 @@
 {
-  "day": "2026年10月12日",
+  "day": "2026年10月13日",
   "total": {
-    "problem": 43,
-    "favorite": 1645,
-    "answered": 6601
+    "problem": 27,
+    "favorite": 1548,
+    "answered": 5643
   },
   "count": {
     "favorite": {
-      "problem": 1167,
-      "author": 248
+      "problem": 1148,
+      "author": 251
     },
     "answered": {
-      "problem": 4073,
-      "author": 433,
-      "solver": 401
+      "problem": 3509,
+      "author": 414,
+      "solver": 417
     }
   },
   "top": {
@@ -22,37 +22,37 @@
         "count": 25,
         "names": [
           {
-            "name": "へやわけ by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/178942"
+            "name": "チョコバナナ by Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/share/178971"
           },
           {
-            "name": "ましゅ by hola",
-            "url": "https://puzsq.logicpuzzle.app/share/178951"
+            "name": "へやわけ by ミール",
+            "url": "https://puzsq.logicpuzzle.app/share/178726"
           }
         ]
       },
       "answered": {
-        "count": 95,
+        "count": 88,
         "names": [
           {
-            "name": "ヤジリン by ほみつき",
-            "url": "https://puzsq.logicpuzzle.app/share/178915"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/178758"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 199,
+        "count": 68,
         "names": [
           {
-            "name": "ほみつき",
-            "url": "https://puzsq.logicpuzzle.app/?author=5467"
+            "name": "_AtomicNeoN_",
+            "url": "https://puzsq.logicpuzzle.app/?author=358"
           }
         ]
       },
       "answered": {
-        "count": 855,
+        "count": 317,
         "names": [
           {
             "name": "ほみつき",
@@ -63,7 +63,7 @@
     },
     "solver": {
       "answered": {
-        "count": 222,
+        "count": 322,
         "names": [
           {
             "name": "AlfoFish",
