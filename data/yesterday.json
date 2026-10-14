@@ -1,73 +1,69 @@
 {
-  "day": "2026年10月13日",
+  "day": "2026年10月14日",
   "total": {
-    "problem": 27,
-    "favorite": 1548,
-    "answered": 5643
+    "problem": 37,
+    "favorite": 1381,
+    "answered": 5679
   },
   "count": {
     "favorite": {
-      "problem": 1148,
-      "author": 251
+      "problem": 1011,
+      "author": 253
     },
     "answered": {
-      "problem": 3509,
-      "author": 414,
-      "solver": 417
+      "problem": 3624,
+      "author": 413,
+      "solver": 420
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 25,
+        "count": 23,
         "names": [
           {
-            "name": "チョコバナナ by Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/share/178971"
-          },
-          {
-            "name": "へやわけ by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/178726"
+            "name": "シャカシャカ by 蓮乃",
+            "url": "https://puzsq.logicpuzzle.app/share/178994"
           }
         ]
       },
       "answered": {
-        "count": 88,
+        "count": 76,
         "names": [
           {
-            "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/178758"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/178933"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 68,
-        "names": [
-          {
-            "name": "_AtomicNeoN_",
-            "url": "https://puzsq.logicpuzzle.app/?author=358"
-          }
-        ]
-      },
-      "answered": {
-        "count": 317,
+        "count": 64,
         "names": [
           {
             "name": "ほみつき",
             "url": "https://puzsq.logicpuzzle.app/?author=5467"
           }
         ]
+      },
+      "answered": {
+        "count": 299,
+        "names": [
+          {
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          }
+        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 322,
+        "count": 168,
         "names": [
           {
-            "name": "AlfoFish",
-            "url": "https://puzsq.logicpuzzle.app/?author=4859"
+            "name": "さり",
+            "url": "https://puzsq.logicpuzzle.app/?author=4458"
           }
         ]
       }
