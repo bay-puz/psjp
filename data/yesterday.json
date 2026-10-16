@@ -1,62 +1,54 @@
 {
-  "day": "2026年10月15日",
+  "day": "2026年10月16日",
   "total": {
-    "problem": 44,
-    "favorite": 1102,
-    "answered": 5686
+    "problem": 31,
+    "favorite": 1583,
+    "answered": 5649
   },
   "count": {
     "favorite": {
-      "problem": 718,
-      "author": 213
+      "problem": 1186,
+      "author": 253
     },
     "answered": {
-      "problem": 3397,
-      "author": 405,
-      "solver": 428
+      "problem": 3640,
+      "author": 398,
+      "solver": 420
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 26,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/179045"
-          },
-          {
-            "name": "LITS by Ph8Ma",
-            "url": "https://puzsq.logicpuzzle.app/share/179040"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/178946"
           }
         ]
       },
       "answered": {
-        "count": 83,
+        "count": 73,
         "names": [
           {
-            "name": "ヤジリン by off",
-            "url": "https://puzsq.logicpuzzle.app/share/179046"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/178946"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 66,
+        "count": 94,
         "names": [
           {
             "name": "anurag",
             "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          },
-          {
-            "name": "PinkHoodie",
-            "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
       },
       "answered": {
-        "count": 321,
+        "count": 292,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 182,
+        "count": 305,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
