@@ -1,69 +1,69 @@
 {
-  "day": "2026年10月19日",
+  "day": "2026年10月20日",
   "total": {
-    "problem": 35,
-    "favorite": 1179,
-    "answered": 5577
+    "problem": 52,
+    "favorite": 1208,
+    "answered": 6041
   },
   "count": {
     "favorite": {
-      "problem": 797,
-      "author": 194
+      "problem": 796,
+      "author": 216
     },
     "answered": {
-      "problem": 3465,
-      "author": 400,
-      "solver": 408
+      "problem": 3774,
+      "author": 409,
+      "solver": 431
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 21,
         "names": [
           {
-            "name": "シンプルループ by ほみつき",
-            "url": "https://puzsq.logicpuzzle.app/share/179235"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/179193"
           }
         ]
       },
       "answered": {
-        "count": 73,
+        "count": 76,
         "names": [
           {
-            "name": "美術館 by ほみつき",
-            "url": "https://puzsq.logicpuzzle.app/share/179237"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/179193"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 136,
+        "count": 91,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "youtoon",
+            "url": "https://puzsq.logicpuzzle.app/?author=5355"
           }
         ]
       },
       "answered": {
-        "count": 326,
+        "count": 330,
         "names": [
           {
-            "name": "ぴくちゃ",
-            "url": "https://puzsq.logicpuzzle.app/?author=2900"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 254,
+        "count": 155,
         "names": [
           {
-            "name": "LaRa",
-            "url": "https://puzsq.logicpuzzle.app/?author=3966"
+            "name": "ノリアス",
+            "url": "https://puzsq.logicpuzzle.app/?author=5977"
           }
         ]
       }
