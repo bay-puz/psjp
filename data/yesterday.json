@@ -1,69 +1,73 @@
 {
-  "day": "2026年10月20日",
+  "day": "2026年10月21日",
   "total": {
-    "problem": 52,
-    "favorite": 1208,
-    "answered": 6041
+    "problem": 45,
+    "favorite": 1157,
+    "answered": 5974
   },
   "count": {
     "favorite": {
-      "problem": 796,
-      "author": 216
+      "problem": 693,
+      "author": 204
     },
     "answered": {
-      "problem": 3774,
-      "author": 409,
-      "solver": 431
+      "problem": 3484,
+      "author": 405,
+      "solver": 441
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 21,
+        "count": 23,
         "names": [
           {
+            "name": "美術館 by 筑駒パズル部【公式】",
+            "url": "https://puzsq.logicpuzzle.app/share/179227"
+          },
+          {
             "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/179193"
+            "url": "https://puzsq.logicpuzzle.app/share/179266"
           }
         ]
       },
       "answered": {
-        "count": 76,
+        "count": 98,
         "names": [
           {
-            "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/179193"
+            "name": "美術館 by 筑駒パズル部【公式】",
+            "url": "https://puzsq.logicpuzzle.app/share/179227"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 91,
+        "count": 57,
+        "names": [
+          {
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+          }
+        ]
+      },
+      "answered": {
+        "count": 310,
         "names": [
           {
             "name": "youtoon",
             "url": "https://puzsq.logicpuzzle.app/?author=5355"
           }
         ]
-      },
-      "answered": {
-        "count": 330,
-        "names": [
-          {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
-          }
-        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 155,
+        "count": 164,
         "names": [
           {
-            "name": "ノリアス",
-            "url": "https://puzsq.logicpuzzle.app/?author=5977"
+            "name": "はなだけん",
+            "url": "https://puzsq.logicpuzzle.app/?author=5111"
           }
         ]
       }
