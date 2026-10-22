@@ -1,73 +1,69 @@
 {
-  "day": "2026年10月21日",
+  "day": "2026年10月22日",
   "total": {
-    "problem": 45,
-    "favorite": 1157,
-    "answered": 5974
+    "problem": 35,
+    "favorite": 1022,
+    "answered": 5710
   },
   "count": {
     "favorite": {
-      "problem": 693,
-      "author": 204
+      "problem": 651,
+      "author": 190
     },
     "answered": {
-      "problem": 3484,
-      "author": 405,
-      "solver": 441
+      "problem": 3604,
+      "author": 402,
+      "solver": 432
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 26,
         "names": [
           {
-            "name": "美術館 by 筑駒パズル部【公式】",
-            "url": "https://puzsq.logicpuzzle.app/share/179227"
-          },
-          {
-            "name": "美術館 by Monica.",
-            "url": "https://puzsq.logicpuzzle.app/share/179266"
+            "name": "ましゅ by 24ayn5",
+            "url": "https://puzsq.logicpuzzle.app/share/179345"
           }
         ]
       },
       "answered": {
-        "count": 98,
+        "count": 91,
         "names": [
           {
-            "name": "美術館 by 筑駒パズル部【公式】",
-            "url": "https://puzsq.logicpuzzle.app/share/179227"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/179095"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 49,
         "names": [
           {
-            "name": "Nuujaka",
-            "url": "https://puzsq.logicpuzzle.app/?author=5362"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       },
       "answered": {
-        "count": 310,
+        "count": 218,
         "names": [
           {
-            "name": "youtoon",
-            "url": "https://puzsq.logicpuzzle.app/?author=5355"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 164,
+        "count": 198,
         "names": [
           {
-            "name": "はなだけん",
-            "url": "https://puzsq.logicpuzzle.app/?author=5111"
+            "name": "Manitary",
+            "url": "https://puzsq.logicpuzzle.app/?author=5687"
           }
         ]
       }
