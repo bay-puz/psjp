@@ -1,45 +1,45 @@
 {
-  "day": "2026年10月24日",
+  "day": "2026年10月25日",
   "total": {
-    "problem": 50,
-    "favorite": 1135,
-    "answered": 5407
+    "problem": 37,
+    "favorite": 1451,
+    "answered": 6379
   },
   "count": {
     "favorite": {
-      "problem": 778,
-      "author": 211
+      "problem": 1056,
+      "author": 237
     },
     "answered": {
-      "problem": 3116,
-      "author": 384,
-      "solver": 418
+      "problem": 3884,
+      "author": 416,
+      "solver": 419
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 27,
         "names": [
           {
-            "name": "LITS by 鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/share/179359"
+            "name": "へやわけ by toofu",
+            "url": "https://puzsq.logicpuzzle.app/share/179446"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 95,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/179127"
+            "name": "美術館 by うりよしきば",
+            "url": "https://puzsq.logicpuzzle.app/share/179451"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 58,
+        "count": 89,
         "names": [
           {
             "name": "鷹野リン",
@@ -48,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 265,
+        "count": 266,
         "names": [
           {
-            "name": "ほみつき",
-            "url": "https://puzsq.logicpuzzle.app/?author=5467"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 126,
+        "count": 263,
         "names": [
           {
-            "name": "塩ビ服",
-            "url": "https://puzsq.logicpuzzle.app/?author=3566"
+            "name": "AlfoFish",
+            "url": "https://puzsq.logicpuzzle.app/?author=4859"
           }
         ]
       }
