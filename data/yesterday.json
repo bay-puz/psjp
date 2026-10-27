@@ -1,69 +1,69 @@
 {
-  "day": "2026年10月26日",
+  "day": "2026年10月27日",
   "total": {
-    "problem": 34,
-    "favorite": 1234,
-    "answered": 6391
+    "problem": 37,
+    "favorite": 1075,
+    "answered": 6179
   },
   "count": {
     "favorite": {
-      "problem": 814,
-      "author": 204
+      "problem": 704,
+      "author": 208
     },
     "answered": {
-      "problem": 3698,
-      "author": 414,
-      "solver": 446
+      "problem": 3782,
+      "author": 419,
+      "solver": 437
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 23,
         "names": [
           {
-            "name": "スリザーリンク by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/179488"
+            "name": "美術館 by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/179501"
           }
         ]
       },
       "answered": {
-        "count": 106,
+        "count": 90,
         "names": [
           {
-            "name": "ヤジリン by 祭日",
-            "url": "https://puzsq.logicpuzzle.app/share/179487"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/179445"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 90,
-        "names": [
-          {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
-          }
-        ]
-      },
-      "answered": {
-        "count": 256,
+        "count": 49,
         "names": [
           {
             "name": "PinkHoodie",
             "url": "https://puzsq.logicpuzzle.app/?author=3187"
           }
         ]
+      },
+      "answered": {
+        "count": 275,
+        "names": [
+          {
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+          }
+        ]
       }
     },
     "solver": {
       "answered": {
-        "count": 257,
+        "count": 378,
         "names": [
           {
-            "name": "Manitary",
-            "url": "https://puzsq.logicpuzzle.app/?author=5687"
+            "name": "Pioooooo",
+            "url": "https://puzsq.logicpuzzle.app/?author=3157"
           }
         ]
       }
