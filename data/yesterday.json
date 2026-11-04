@@ -1,73 +1,69 @@
 {
-  "day": "2026年11月3日",
+  "day": "2026年11月4日",
   "total": {
-    "problem": 49,
-    "favorite": 1351,
-    "answered": 7137
+    "problem": 39,
+    "favorite": 1052,
+    "answered": 6327
   },
   "count": {
     "favorite": {
-      "problem": 756,
-      "author": 201
+      "problem": 652,
+      "author": 199
     },
     "answered": {
-      "problem": 3456,
-      "author": 404,
-      "solver": 427
+      "problem": 3814,
+      "author": 422,
+      "solver": 438
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 20,
+        "count": 30,
         "names": [
           {
-            "name": "へやわけ by ミール",
-            "url": "https://puzsq.logicpuzzle.app/share/178440"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/179837"
           }
         ]
       },
       "answered": {
-        "count": 70,
+        "count": 92,
         "names": [
           {
-            "name": "美術館 by ON NAME",
-            "url": "https://puzsq.logicpuzzle.app/share/179481"
-          },
-          {
-            "name": "ましゅ by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/179574"
+            "name": "ヤジリン by 白羽りゅー",
+            "url": "https://puzsq.logicpuzzle.app/share/179837"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 154,
+        "count": 57,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       },
       "answered": {
-        "count": 682,
+        "count": 243,
         "names": [
           {
-            "name": "ロべ",
-            "url": "https://puzsq.logicpuzzle.app/?author=4522"
+            "name": "Zormac",
+            "url": "https://puzsq.logicpuzzle.app/?author=2327"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 155,
+        "count": 175,
         "names": [
           {
-            "name": "puratoku",
-            "url": "https://puzsq.logicpuzzle.app/?author=1383"
+            "name": "marmer",
+            "url": "https://puzsq.logicpuzzle.app/?author=3173"
           }
         ]
       }
