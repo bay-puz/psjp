@@ -1,45 +1,45 @@
 {
-  "day": "2026年11月4日",
+  "day": "2026年11月5日",
   "total": {
-    "problem": 39,
-    "favorite": 1052,
-    "answered": 6327
+    "problem": 40,
+    "favorite": 1073,
+    "answered": 6173
   },
   "count": {
     "favorite": {
-      "problem": 652,
-      "author": 199
+      "problem": 572,
+      "author": 181
     },
     "answered": {
-      "problem": 3814,
-      "author": 422,
-      "solver": 438
+      "problem": 3556,
+      "author": 420,
+      "solver": 465
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 30,
+        "count": 24,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/179837"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/179578"
           }
         ]
       },
       "answered": {
-        "count": 92,
+        "count": 75,
         "names": [
           {
-            "name": "ヤジリン by 白羽りゅー",
-            "url": "https://puzsq.logicpuzzle.app/share/179837"
+            "name": "美術館 by ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/share/179844"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 57,
+        "count": 62,
         "names": [
           {
             "name": "Zormac",
@@ -48,18 +48,18 @@
         ]
       },
       "answered": {
-        "count": 243,
+        "count": 304,
         "names": [
           {
-            "name": "Zormac",
-            "url": "https://puzsq.logicpuzzle.app/?author=2327"
+            "name": "anurag",
+            "url": "https://puzsq.logicpuzzle.app/?author=2571"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 175,
+        "count": 235,
         "names": [
           {
             "name": "marmer",
