@@ -1,50 +1,46 @@
 {
-  "day": "2026年11月6日",
+  "day": "2026年11月7日",
   "total": {
-    "problem": 31,
-    "favorite": 990,
-    "answered": 5768
+    "problem": 47,
+    "favorite": 1116,
+    "answered": 6571
   },
   "count": {
     "favorite": {
-      "problem": 572,
-      "author": 204
+      "problem": 582,
+      "author": 183
     },
     "answered": {
-      "problem": 3415,
-      "author": 411,
-      "solver": 458
+      "problem": 3869,
+      "author": 431,
+      "solver": 445
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 27,
+        "count": 26,
         "names": [
           {
-            "name": "ましゅ by nattien",
-            "url": "https://puzsq.logicpuzzle.app/share/179910"
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/179931"
           }
         ]
       },
       "answered": {
-        "count": 84,
+        "count": 81,
         "names": [
           {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/179677"
+            "name": "美術館 by ON NAME",
+            "url": "https://puzsq.logicpuzzle.app/share/179484"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 46,
+        "count": 71,
         "names": [
-          {
-            "name": "にんじん",
-            "url": "https://puzsq.logicpuzzle.app/?author=2696"
-          },
           {
             "name": "鷹野リン",
             "url": "https://puzsq.logicpuzzle.app/?author=584"
@@ -52,22 +48,22 @@
         ]
       },
       "answered": {
-        "count": 219,
+        "count": 356,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/?author=584"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 140,
+        "count": 202,
         "names": [
           {
-            "name": "MercyBeaucou",
-            "url": "https://puzsq.logicpuzzle.app/?author=4603"
+            "name": "soaring",
+            "url": "https://puzsq.logicpuzzle.app/?author=5972"
           }
         ]
       }
