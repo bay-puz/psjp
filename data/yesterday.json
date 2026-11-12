@@ -1,65 +1,69 @@
 {
-  "day": "2026年11月11日",
+  "day": "2026年11月12日",
   "total": {
-    "problem": 36,
-    "favorite": 1152,
-    "answered": 7278
+    "problem": 42,
+    "favorite": 1132,
+    "answered": 7056
   },
   "count": {
     "favorite": {
-      "problem": 698,
-      "author": 189
+      "problem": 659,
+      "author": 179
     },
     "answered": {
-      "problem": 4387,
-      "author": 461,
-      "solver": 472
+      "problem": 3679,
+      "author": 427,
+      "solver": 493
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 28,
+        "count": 21,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/180102"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/180130"
+          },
+          {
+            "name": "ましゅ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/180056"
           }
         ]
       },
       "answered": {
-        "count": 86,
+        "count": 101,
         "names": [
           {
-            "name": "美術館 by youtoon",
-            "url": "https://puzsq.logicpuzzle.app/share/180097"
+            "name": "美術館 by ただのかなで",
+            "url": "https://puzsq.logicpuzzle.app/share/180161"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 48,
+        "count": 88,
         "names": [
           {
-            "name": "K.N.Y.",
-            "url": "https://puzsq.logicpuzzle.app/?author=74"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       },
       "answered": {
-        "count": 376,
+        "count": 331,
         "names": [
           {
-            "name": "anurag",
-            "url": "https://puzsq.logicpuzzle.app/?author=2571"
+            "name": "Nuujaka",
+            "url": "https://puzsq.logicpuzzle.app/?author=5362"
           }
         ]
       }
     },
     "solver": {
       "answered": {
-        "count": 180,
+        "count": 179,
         "names": [
           {
             "name": "ぽ",
