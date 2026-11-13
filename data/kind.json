@@ -2730,7 +2730,7 @@
     "category": 2
   },
   "656": {
-    "name": "",
+    "name": "Gravel",
     "name_e": "Gravel",
     "category": 5
   },
@@ -4925,7 +4925,7 @@
     "category": 2
   },
   "1109": {
-    "name": "",
+    "name": "Pento Loop",
     "name_e": "Pento Loop",
     "category": 2
   },
@@ -5340,12 +5340,12 @@
     "category": 2
   },
   "1192": {
-    "name": "",
+    "name": "Urumi Spirals",
     "name_e": "Urumi Spirals",
     "category": 2
   },
   "1193": {
-    "name": "",
+    "name": "X-Sandwich",
     "name_e": "X-Sandwich",
     "category": 1
   },
@@ -5360,7 +5360,7 @@
     "category": 5
   },
   "1196": {
-    "name": "",
+    "name": "Tetro-Junction",
     "name_e": "Tetro-Junction",
     "category": 5
   },
@@ -5381,8 +5381,13 @@
   },
   "1200": {
     "name": "へやまる",
-    "name_e": "",
+    "name_e": "Heyamaru",
     "category": 4
+  },
+  "1201": {
+    "name": "ワンナップ",
+    "name_e": "One Up",
+    "category": 1
   },
   "-2": {
     "name": "Instructionless",
