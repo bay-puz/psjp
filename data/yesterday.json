@@ -1,45 +1,53 @@
 {
-  "day": "2026年11月14日",
+  "day": "2026年11月15日",
   "total": {
-    "problem": 43,
-    "favorite": 1133,
-    "answered": 6389
+    "problem": 49,
+    "favorite": 1134,
+    "answered": 6528
   },
   "count": {
     "favorite": {
-      "problem": 676,
-      "author": 207
+      "problem": 757,
+      "author": 198
     },
     "answered": {
-      "problem": 3578,
-      "author": 421,
-      "solver": 465
+      "problem": 3810,
+      "author": 424,
+      "solver": 419
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 35,
+        "count": 20,
         "names": [
           {
-            "name": "へやわけ by kaito1099511627776",
-            "url": "https://puzsq.logicpuzzle.app/share/180211"
+            "name": "へやわけ by シャトー",
+            "url": "https://puzsq.logicpuzzle.app/share/180264"
+          },
+          {
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/180138"
           }
         ]
       },
       "answered": {
-        "count": 91,
+        "count": 72,
         "names": [
           {
-            "name": "美術館 by Mate",
-            "url": "https://puzsq.logicpuzzle.app/share/180229"
+            "name": "ヤジリン by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/180181"
+          },
+          {
+            "name": "ましゅ by たろさ",
+            "url": "https://puzsq.logicpuzzle.app/share/180138"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 88,
+        "count": 75,
         "names": [
           {
             "name": "anurag",
@@ -48,7 +56,7 @@
         ]
       },
       "answered": {
-        "count": 455,
+        "count": 461,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +67,11 @@
     },
     "solver": {
       "answered": {
-        "count": 150,
+        "count": 207,
         "names": [
           {
-            "name": "Monica.",
-            "url": "https://puzsq.logicpuzzle.app/?author=5206"
+            "name": "puratoku",
+            "url": "https://puzsq.logicpuzzle.app/?author=1383"
           }
         ]
       }
