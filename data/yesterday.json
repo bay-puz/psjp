@@ -1,54 +1,58 @@
 {
-  "day": "2026年11月20日",
+  "day": "2026年11月21日",
   "total": {
-    "problem": 37,
-    "favorite": 1110,
-    "answered": 6538
+    "problem": 42,
+    "favorite": 909,
+    "answered": 5588
   },
   "count": {
     "favorite": {
-      "problem": 731,
-      "author": 197
+      "problem": 613,
+      "author": 182
     },
     "answered": {
-      "problem": 3911,
-      "author": 423,
-      "solver": 467
+      "problem": 3281,
+      "author": 409,
+      "solver": 415
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 23,
+        "count": 15,
         "names": [
           {
-            "name": "チョコバナナ by Go",
-            "url": "https://puzsq.logicpuzzle.app/share/180396"
+            "name": "LITS by 鷹野リン",
+            "url": "https://puzsq.logicpuzzle.app/share/180544"
+          },
+          {
+            "name": "ナンバーリンク by Monica.",
+            "url": "https://puzsq.logicpuzzle.app/share/180562"
           }
         ]
       },
       "answered": {
-        "count": 85,
+        "count": 64,
         "names": [
           {
-            "name": "美術館 by ただのかなで",
-            "url": "https://puzsq.logicpuzzle.app/share/180454"
+            "name": "美術館 by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/180429"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 84,
+        "count": 37,
         "names": [
           {
-            "name": "鷹野リン",
-            "url": "https://puzsq.logicpuzzle.app/?author=584"
+            "name": "K.N.Y.",
+            "url": "https://puzsq.logicpuzzle.app/?author=74"
           }
         ]
       },
       "answered": {
-        "count": 578,
+        "count": 303,
         "names": [
           {
             "name": "anurag",
@@ -59,11 +63,11 @@
     },
     "solver": {
       "answered": {
-        "count": 128,
+        "count": 143,
         "names": [
           {
-            "name": "なすか",
-            "url": "https://puzsq.logicpuzzle.app/?author=5991"
+            "name": "Monica.",
+            "url": "https://puzsq.logicpuzzle.app/?author=5206"
           }
         ]
       }
