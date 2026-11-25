@@ -1,53 +1,45 @@
 {
-  "day": "2026年11月24日",
+  "day": "2026年11月25日",
   "total": {
-    "problem": 27,
-    "favorite": 1125,
-    "answered": 5918
+    "problem": 34,
+    "favorite": 1108,
+    "answered": 6418
   },
   "count": {
     "favorite": {
-      "problem": 816,
-      "author": 213
+      "problem": 804,
+      "author": 211
     },
     "answered": {
-      "problem": 3694,
-      "author": 433,
-      "solver": 468
+      "problem": 3850,
+      "author": 426,
+      "solver": 459
     }
   },
   "top": {
     "problem": {
       "favorite": {
-        "count": 16,
+        "count": 22,
         "names": [
           {
-            "name": "美術館 by kat",
-            "url": "https://puzsq.logicpuzzle.app/share/180685"
-          },
-          {
-            "name": "ヤジリン by anurag",
-            "url": "https://puzsq.logicpuzzle.app/share/180677"
-          },
-          {
-            "name": "ヤジリン by Zormac",
-            "url": "https://puzsq.logicpuzzle.app/share/180247"
+            "name": "へやわけ by Zormac",
+            "url": "https://puzsq.logicpuzzle.app/share/180294"
           }
         ]
       },
       "answered": {
-        "count": 94,
+        "count": 97,
         "names": [
           {
-            "name": "美術館 by kat",
-            "url": "https://puzsq.logicpuzzle.app/share/180685"
+            "name": "ヤジリン by PinkHoodie",
+            "url": "https://puzsq.logicpuzzle.app/share/180719"
           }
         ]
       }
     },
     "author": {
       "favorite": {
-        "count": 82,
+        "count": 69,
         "names": [
           {
             "name": "anurag",
@@ -56,7 +48,7 @@
         ]
       },
       "answered": {
-        "count": 417,
+        "count": 398,
         "names": [
           {
             "name": "anurag",
@@ -67,11 +59,11 @@
     },
     "solver": {
       "answered": {
-        "count": 139,
+        "count": 167,
         "names": [
           {
-            "name": "hkmg",
-            "url": "https://puzsq.logicpuzzle.app/?author=4972"
+            "name": "Turbot",
+            "url": "https://puzsq.logicpuzzle.app/?author=2192"
           }
         ]
       }
